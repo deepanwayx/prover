@@ -1,0 +1,1831 @@
+Premise,Proof,Hypothesis,Correctness,Minimality,Useful Facts,"Hypothesis
+Follows"
+a young family enjoys feeling ocean waves lap at their feet,"Fact: ocean waves approach beaches.
+Composition / Monotone: a family is at a beach
+
+",a family is at the beach,0.0,1.0,0.0,0.0
+3 young man in hoods standing in the middle of a quiet street facing the camera,"Fact: black people with a lot of words
+Composition / Monotone: 3 people in hoods face the camera
+
+Fact: a camera is for taking a picture
+Composition / Monotone: three people in hoods pose for a picture
+
+Fact: a camera takes pictures
+Composition / Monotone: three people in hoods pose for a picture
+
+",three hood wearing people pose for a picture,2.0,0.0,1.0,2.0
+a man standing in front of a building on the phone as two men to the side pain on the side,"Fact: if we are men we a are guys
+Composition / Monotone: two other guys are next to the guy standing in front of the building
+
+",a guy near a building stands by two other men,1.0,1.0,1.0,2.0
+a man in a black shirt overlooking bike maintenance,"Fact: maintenance is a repair
+Composition / Monotone: a man is watching bike repairs
+
+Fact: repair is a form of maintenance
+Composition / Monotone: a man watches bike repair
+
+",a man watches bike repairs,2.0,1.0,1.0,2.0
+a dog jumping for a frisbee in the snow,"Fact: a frisbee is a toy.
+Composition / Monotone: a dog is playing with a toy in the snow
+
+Fact: a frisbee is made of plastic.
+Composition / Monotone: an animal plays with a plastic ball in the snow
+
+Fact: snow comes down in cold weather 
+Composition / Monotone: a animal plays with a plastic ball in the cold weather
+
+Fact: a dog is a kind of animal
+Composition / Monotone: an animal playing with plastic ball in the cold weather
+
+",an animal is outside in the cold weather playing with a plastic toy,1.0,3.0,4.0,2.0
+three boys in white shirts are walking behind an older model ford car,"Fact: cars are located in street corners.
+Composition / Monotone: there are several boys on the street
+
+",the boys are on the street,1.0,1.0,1.0,2.0
+a professional swimmer spits water out after surfacing while grabbing the hand of someone helping him back to land,"Fact: a hand is part of the arm
+Composition / Monotone: a person is swimming
+
+",a person is swimming,1.0,1.0,0.0,1.0
+five girls and two guys are crossing a overpass,"Fact: guys meet girls.
+Composition / Monotone: there are people outdoors
+
+Fact: girls see guys.
+Composition / Monotone: there are people outside
+
+",there are people outside,2.0,1.0,1.0,2.0
+a man of the cloth puts a black substance on a mans forehead,"Fact: a forehead is part of a head.
+Composition / Monotone: a man puts something on another mans head
+
+Fact: a forehead is part of a head
+Composition / Monotone: a man puts something on the other mans head
+
+",the man puts something on the other mans head,2.0,1.0,1.0,2.0
+a group of adults stands in the bathroom looking down a small child in the bath,"Fact: people can join  a group
+Composition / Monotone: people are inside the house
+
+",people are in the house,1.0,1.0,0.0,1.0
+a man woman and child get their picture taken in front of the mountains,"Fact: a family can plan a vacation
+Composition / Monotone: a family gets their picture taken on vacation
+
+Fact: the family can plan to go on vacation
+Composition / Monotone: a family has a picture taken on vacation
+
+",a family on vacation is posing,2.0,1.0,1.0,2.0
+a dog standing near snow looking at water,"Fact: dog is a type of animal.
+Composition / Monotone: the animal is outdoors
+
+Fact: a dog is a kind of animal
+Composition / Monotone: the animal is outdoors
+
+",animal is outdoors,2.0,1.0,1.0,2.0
+the american footballer in yellow catches the ball whilst under pressure from the payer in white,"Fact: a duress is a force
+Composition / Monotone: the football player is under duress
+
+",the football player is under duress,0.0,1.0,0.0,1.0
+a biker races,"Fact: a riding is a sport
+Composition / Monotone: a person is riding a bike
+
+",a person is riding a bike,1.0,1.0,0.0,2.0
+island native fishermen reeling in their nets after a long days work,"Fact: today is the day it is right now
+Composition / Monotone: the native fishermen are finishing their days work
+
+",the men are finishing their day of work,1.0,1.0,0.0,0.0
+young woman is putting her clothes in the dryer portion of a double stacked washer and dryer unit,"Fact: a lady is a woman
+Composition / Monotone: a woman is drying clothes
+
+Fact: lady is a woman.
+Composition / Monotone: a person drying clothes
+
+",a person drying clothes,2.0,1.0,0.0,1.0
+everyone on the street in the city seem to be busy doing their own thing,"Fact: stores are business.
+Composition / Monotone: people are doing business in the city
+
+",people are conducting business in the city,0.0,1.0,0.0,0.0
+a man in an apron smiles as he pokes a frying donut with a little metal stick,"Fact: donut is a cake.
+Composition / Monotone: the man is cooking
+
+Fact: a donut is made of deep-fried dough and sugar.
+Composition / Monotone: the man is cooking
+
+Fact: donuts are in the shpae of a ring.
+Composition / Monotone: the man cooks food
+
+",the man is cooking food,3.0,1.0,0.0,0.0
+a guy and a girl look down a mountain range,"Fact: take the time to look around
+Composition / Monotone: people are looking at the mountains
+
+",the people look at the mountains,1.0,1.0,0.0,1.0
+a standing man talks to a seated woman while on some sort of vehicle,"Fact: a car can seat people.
+Composition / Monotone: two people are talking
+
+",two people are talking,1.0,1.0,0.0,1.0
+a woman in a black outfit lies face first on a yoga mat several paintings are hanged on the wall and the sun shines through a large window near her,"Fact: a window can be found in a house.
+Composition / Monotone: a person is indoors
+
+Fact: a wall is part of a room.
+Composition / Monotone: a person is in a room
+
+",there is a person in a room,2.0,2.0,2.0,2.0
+a woman in a brown shirt is kneeling in the street,"Fact: ground is sites.
+Composition / Monotone: a woman is on the ground
+
+Fact: a hole in the ground
+Composition / Monotone: a woman is on the ground outside
+
+",a woman is on the ground outside,2.0,1.0,0.0,1.0
+the woman in the black shirt hands papers to the children surrounding her,"Fact: children use alot of paper.
+Composition / Monotone: a woman giving paper
+
+",someone giving out paper,1.0,1.0,0.0,1.0
+a young boy in green shorts balances on a pipe above a river,"Fact: a boy is a young male human.
+Composition / Monotone: a human balancing
+
+Fact: boy is a person.
+Composition / Monotone: a human balancing
+
+Fact: a boy is a young person
+Composition / Monotone: a person balancing
+
+",a person balancing,3.0,1.0,3.0,2.0
+a bearded man jumps in the snow with the ocean in the background and an orange recumbent bike parked near a road sign,"Fact: jumping are activities.
+Composition / Monotone: a person jumping
+
+",a human jumping,1.0,1.0,0.0,1.0
+couples enjoying a meal while a bunch of dogs take a nap,"Fact: dogs are a type of animal
+Composition / Monotone: some animals are asleep
+
+",some animals are asleep,1.0,1.0,1.0,2.0
+a white duck expanding its wings in the water,"Fact: a duck is part of animal
+Composition / Monotone: there is an animal outside
+
+Fact: a wing is part of a animal
+Composition / Monotone: there is an animal in this picture
+
+",there is one animal in this picture,1.0,2.0,1.0,1.0
+a woman wearing jeans is walking down the street,"Fact: a lady is a woman
+Composition / Monotone: a person is outdoors
+
+Fact: lady is a woman.
+Composition / Monotone: a person is outside
+
+",a person is outside,2.0,1.0,0.0,0.0
+a woman in a black jacket and a black and white striped skirt is watching a woman talking to a little boy sitting on concrete steps,"Fact: a child is a person
+Composition / Monotone: a man watching someone talk to a child
+
+",a person is talking to a child while another person watches,0.0,1.0,0.0,0.0
+a group of seven individuals wearing rafting gear white water raft down a river,"Fact: a boat is for going down a river
+Composition / Monotone: people are in a boat
+
+Fact: people are individuals.
+Composition / Monotone: people are sitting in an inflatable boat
+
+Fact: a river contains water.
+Composition / Monotone: people are in an inflatable boat
+
+Fact: water is in a river
+Composition / Monotone: there are people in an inflatable boat
+
+",there are people in an inflatable boat,4.0,2.0,2.0,2.0
+a man and a child are purchasing ice cream from a man with a hand pushed ice cream cart,"Fact: ice cream is a kind of food
+Composition / Monotone: people are buying food from man
+
+Fact: ice cream is food.
+Composition / Monotone: people are buying food from someone
+
+Fact: a merchant is used for selling things to people
+Composition / Monotone: people are buying food from a vendor
+
+",people are buying food from a street vendor,3.0,2.0,2.0,2.0
+three men are carrying a red bag into a boat with another person and boat in the background,"Fact: a person knows other people
+Composition / Monotone: people in a boat
+
+",some people put something in a boat in a place with more than one boat,1.0,1.0,1.0,1.0
+a probaseball pitcher sends a curve ball to his opponent while many fans relax and enjoy the game,"Fact: a stadium is for watching others play sports
+Composition / Monotone: the pitcher is in a stadium
+
+Fact: are at a stadium
+Composition / Monotone: a baseball pitcher is at the stadium
+
+",a pitcher is playing baseball at a stadium,2.0,1.0,1.0,2.0
+a family walking with a soldier,"Fact: a family is a group of people
+Composition / Monotone: there are a group of people walking
+
+Fact: a family consists of at least two people.
+Composition / Monotone: a group of people walks
+
+",a group of people strolling,2.0,1.0,2.0,2.0
+a man wearing a shortsleeved blue shirt and carrying a blue backpack while using snow walking sticks treks through the snow with a woman wearing a longsleeved blue shirt and black pants also using snow walking sticks,"Fact: man is male and woman is female
+Composition / Monotone: a man wearing blue shirt and carrying a backpack treks through the snow
+
+Fact: sometimes people pack bags with supplies before going camping.
+Composition / Monotone: the guy in blue shirt and carrying a backpack treks through the snow
+
+Fact: a shirt is a garment worn on the upper torso
+Composition / Monotone: a guy in blue shirt is carrying a backpack through the snow
+
+Fact: a shirt is a garment
+Composition / Monotone: a guy in blue shirt is carrying a pack through the snow
+
+Fact: one must be careful to pack supplies before a walk-about.
+Composition / Monotone: a guy in blue carries a pack through the snow
+
+",a guy with a blue top carries a pack and makes his way through snow,5.0,1.0,4.0,2.0
+a female runner dressed in blue athletic wear is running in a competition while spectators line the street,"Fact: spectators can watch sport
+Composition / Monotone: there are people on the street
+
+Fact: spectators can watch a race
+Composition / Monotone: there are people on the street
+
+",there are people on the street,2.0,1.0,2.0,2.0
+a man is painting a picture outside behind a crowd,"Fact: painter can paint a picture
+Composition / Monotone: the painter is painting a picture
+
+",a painter is creating a picture,1.0,0.0,0.0,2.0
+a blond little boy in an orange sweatshirt with red sleeves is using scissors to cut something,"Fact: closed fists make it easier to get hands through sleeves.
+Composition / Monotone: the little boy is using scissors
+
+",a little male has clothes on with a pair of scissors in his hands,1.0,1.0,0.0,1.0
+elderly woman in blue apron balances a basket on her head on a sidewalk while talking to a woman dressed in black,"Fact: a sidewalk is a walk
+Composition / Monotone: an elderly woman balances a basket on her head while talking to another woman
+
+Fact: you are likely to find a sidewalk in people
+Composition / Monotone: an elderly woman balances an object on her head while speaking to another woman
+
+Fact: a sidewalk is for walking on
+Composition / Monotone: an elderly woman balances an object on her head while talking
+
+Fact: a sidewalk is like a road for people to walk on
+Composition / Monotone: an elderly woman balances an object on her head while talking
+
+",elderly woman is balancing something on her head while having a conversation,4.0,2.0,2.0,2.0
+a man cooking over high flames,"Fact: a man is a male person.
+Composition / Monotone: a person is preparing food
+
+",a person is preparing some food,1.0,1.0,1.0,2.0
+four men stand in a circle facing each other playing brass instruments which people watch them,"Fact: people make music.
+Composition / Monotone: the men are playing music
+
+",the men are playing music,1.0,1.0,1.0,2.0
+a group of footballs players is standing behind a coaching official,"Fact: people is a group.
+Composition / Monotone: there are multiple people present
+
+",there are multiple people present,1.0,1.0,1.0,2.0
+the back of a woman wearing a white jacket with blue jeans walking towards a flock of birds,"Fact: woman is a kind of human.
+Composition / Monotone: a human in front of the birds
+
+Fact: woman is a person.
+Composition / Monotone: a person in front of birds
+
+Fact: woman is a someone.
+Composition / Monotone: a person near some birds
+
+Fact: a woman is a kind of person.
+Composition / Monotone: a person is near some birds
+
+Fact: she is a woman
+Composition / Monotone: a person is near some birds
+
+",someone person was near a bunch of birds,5.0,2.0,2.0,2.0
+a group of people watch a breakdancer in a red jacket do a onehanded trick,"Fact: a crowd is a large group of people
+Composition / Monotone: a person does a trick for a crowd
+
+Fact: a large group of people is a crowd
+Composition / Monotone: a person does a trick in front of a crowd
+
+Fact: a person wants to do a little dance sometimes.
+Composition / Monotone: a person does a trick in front of crowd
+
+Fact: people is a group.
+Composition / Monotone: a person do tricks in front of crowd
+
+Fact: a person wants to breakdance
+Composition / Monotone: a person do tricks in front of crowd
+
+Fact: jacket is a type of clothing.
+Composition / Monotone: a person is doing tricks in front of a crowd
+
+",a person is doing tricks in front of crowd,6.0,1.0,3.0,2.0
+two men in neon yellow shirts busily sawing a log in half,"Fact: shirts are a form of clothing.
+Composition / Monotone: two men are using a saw
+
+",two men are using a saw,1.0,1.0,0.0,1.0
+a man is working on a earthen structure with a pickaxe,"Fact: tools can be found in a hardware shop.
+Composition / Monotone: the man is using tools
+
+",a man has tools,1.0,1.0,0.0,0.0
+a man in a black shirt and brown pants is jumping in the air performing a karate kick towards a man in a red shirt and black hat,"Fact: a man is a male
+Composition / Monotone: the males are performing martial arts exercises
+
+Fact: a man is a male human
+Composition / Monotone: two males are human performing martial arts exercises
+
+Fact: karate is a japanese martial art
+Composition / Monotone: two males are doing martial arts
+
+Fact: karate is one of the martial arts
+Composition / Monotone: the two males do martial arts
+
+",two males are involved in martial arts,4.0,2.0,3.0,2.0
+a tree worker with a hard hat is cutting down a branch,"Fact: workers play a critical role in occupational safety and health.
+Composition / Monotone: a hat is used for safety
+
+Fact: a hat is used for covering the head
+Composition / Monotone: a safety hat is being worn for safety
+
+Fact: a hat is used for covering your head
+Composition / Monotone: a man is wearing a safety helmet
+
+Fact: a hat is used for covering your head.
+Composition / Monotone: the man is wearing a safety helmet and a hat
+
+Fact: a person wants to work in a safe environment
+Composition / Monotone: a man is wearing a safety helmet and hat
+
+Fact: a safety hat is a helmet
+Composition / Monotone: a man is wearing safety gear to protect his head
+
+Fact: safety on the job is esential
+Composition / Monotone: a man is wearing safety gear on his head
+
+Fact: a hat is worn on a head.
+Composition / Monotone: a man is wearing safety gear on his head
+
+",the man is wearing safety gear on his head,8.0,5.0,6.0,2.0
+a skier skijumping while two other skiers watch his act,"Fact: a trick is a twist
+Composition / Monotone: a skier performing a trick
+
+Fact: a sleight of hand is a trick
+Composition / Monotone: a skier preparing to perform a trick
+
+",a skier preparing a trick,0.0,1.0,0.0,0.0
+a brown and black dog runs on the grass outdoors in front of a sidewalk,"Fact: a leg is for standing on
+Composition / Monotone: the dog has legs
+
+Fact: a dog is a canine.
+Composition / Monotone: the dog has legs
+
+Fact: legs can be used to walk
+Composition / Monotone: a dog uses his legs
+
+Fact: a leg can be used for holding upright
+Composition / Monotone: a dog is using his legs
+
+",a canine is using his legs,4.0,1.0,2.0,0.0
+an african american man is posing in front of an ese electronics advertisement billboard after purchasing items from the local liquor store,"Fact: a billboard is used for advertisement
+Composition / Monotone: a black man is posing in front of an ese billboard after purchasing items from the local
+
+Fact: an electronics store is for consumer spending 
+Composition / Monotone: a black man posing in front of an ese sign after purchasing items from an electronics store
+
+Fact: a billboard is for advertisment
+Composition / Monotone: a black man posing in front of an ese sign after purchasing something
+
+",black man poses in front of ese sign after making a purchase at a store,3.0,0.0,2.0,2.0
+a crowd walks about a square at night with smoke or fog drifting over them,"Fact: people can group together.
+Composition / Monotone: people are walking in the square
+
+Fact: a crowd is a large group of people
+Composition / Monotone: a group of people walk in the square
+
+Fact: a large group of people is a crowd
+Composition / Monotone: a group of people walks in the square
+
+",a group of people walks in the square,3.0,1.0,2.0,2.0
+an asian woman enjoys a nice treat,"Fact: lady is a woman.
+Composition / Monotone: a lady enjoying a treat
+
+Fact: a lady is a type of woman.
+Composition / Monotone: a lady is enjoying her treat
+
+",a lady is taking pleasure from a treat,2.0,1.0,1.0,2.0
+a woman is seen from above applying red nail polish to her toes as they rest on a leather seat,"Fact: a toenail is part of the toe.
+Composition / Monotone: a woman has red nails on her feet
+
+Fact: toes have (part) toenails.
+Composition / Monotone: a woman has red toenails
+
+Fact: fingers have fingernails and toes have toenails.
+Composition / Monotone: the woman has red toenails
+
+",the woman has red toenails,3.0,1.0,1.0,2.0
+a man in a mask in the back of a service vehicle,"Fact: a vehicle can move from one place to another.
+Composition / Monotone: someone wearing an object disguise moves in a service vehicle
+
+Fact: vehicles are capable of travel.
+Composition / Monotone: person traveling in a service vehicle is wearing an object disguise
+
+",a man with concealed features is in a mode of transportation used in service,2.0,1.0,1.0,2.0
+a skateboarder is performing a grab trick while hovering above a ramp which is located within a city,"Fact: you are likely to find a city in a state or province
+Composition / Monotone: a skateboarder is on a ramp doing tricks
+
+Fact: skateboarding need a really huge ramp for kool stunts
+Composition / Monotone: skateboarder doing tricks on ramps
+
+Fact: a sleight of hand is a trick
+Composition / Monotone: a skateboarder doing tricks on ramps
+
+Fact: grab is touch
+Composition / Monotone: a skateboarder is doing tricks on the ramps
+
+Fact: a town is in a city
+Composition / Monotone: the skateboarder is doing tricks on the ramps in a place
+
+",a skateboarder is doing tricks in an area with ramps,5.0,1.0,2.0,1.0
+two guys walking one carrying a skateboard,"Fact: if we are men we a are guys
+Composition / Monotone: two men are walking
+
+",both of the men are walking,1.0,1.0,1.0,2.0
+kid holding handles on two wheeled object,"Fact: hands have thumbs.
+Composition / Monotone: the kid has hands
+
+",the kid has hands,1.0,1.0,0.0,1.0
+man in white sweater looks from his press box onto the pitch,"Fact: you are likely to find a baseball field around in stadium
+Composition / Monotone: man watching the field
+
+Fact: a field is used to play a baseball game
+Composition / Monotone: a man is watching the field
+
+",a man watches the field,2.0,1.0,0.0,1.0
+a man holding some sort of vegetables while his wife in a red sweater stares to the side and his daughter in a red sweater looks at the camera,"Fact: a sweater is a piece of clothing.
+Composition / Monotone: a man is holding a vegetable
+
+Fact: a sweater is a garment
+Composition / Monotone: a man holding a vegetable
+
+",a man holds a vegetable,2.0,0.0,0.0,1.0
+a female bowler dressed in blue with another bowler in the background prepares to throw a ball down the lane,"Fact: you can play many games with a ball.
+Composition / Monotone: the woman is playing a game
+
+",a woman is playing a game,1.0,1.0,1.0,2.0
+a young man holds a hammer shaped object in the air with one hand and a similar shaped object in the other while making a funny expression,"Fact: a guy is a man
+Composition / Monotone: a person is holding a tool
+
+",a person is holding a tool,1.0,1.0,1.0,2.0
+a man is watching as a woman is reading a piece of paper,"Fact: woman is a person.
+Composition / Monotone: a person watching another person
+
+Fact: woman is a someone.
+Composition / Monotone: a person watching someone
+
+",a person watches someone,2.0,2.0,2.0,2.0
+a baby girl and little boy are standing next to a guitar and a drum,"Fact: a drum is a percussive instrument
+Composition / Monotone: a little girl is holding a percussive instrument
+
+",the girl is near an instrument,0.0,1.0,1.0,1.0
+a young woman in a bikini looking at something in a glass case,"Fact: a lady is a type of woman.
+Composition / Monotone: a lady with a swimsuit looks at something
+
+Fact: a bikini is a type of swimsuit.
+Composition / Monotone: a lady in a swimsuit looks at things
+
+Fact: lady is a woman.
+Composition / Monotone: a lady in a swimsuit looks at things
+
+Fact: a lady is a woman
+Composition / Monotone: a lady in a swimsuit looks at things
+
+",a lady in a swimsuit checking things out,0.0,1.0,2.0,1.0
+mom and little boy having fun  eating by the lake,"Fact: a lake is an open body of water
+Composition / Monotone: two people are outside
+
+Fact: a lake is a body of water.
+Composition / Monotone: two people are outdoors
+
+",two humans enjoying the outside,2.0,1.0,2.0,2.0
+four people standing on a hiking trail in a forest with big tree logs on the ground close to them,"Fact: the people are individuals.
+Composition / Monotone: some humans standing
+
+",some humans standing,1.0,1.0,1.0,2.0
+a man surfs on a medium sized wave while holding a paddle that seems to steer him in the direction he wants to go,"Fact: surfing requires waves and water
+Composition / Monotone: man surfing on water
+
+",a man surfing on the water,1.0,1.0,1.0,2.0
+a small asian child rides on the back of a woman who is wearing a hat,"Fact: a hat is a form of clothing
+Composition / Monotone: a woman and child are together
+
+Fact: hat is a headdress.
+Composition / Monotone: the child is with the woman
+
+",a child and woman are picture,2.0,1.0,0.0,2.0
+in a chain link enclosed skate park a skater goes over one of the obstacleswit,"Fact: a person can skate across a field of ice.
+Composition / Monotone: a person is skating
+
+",a person is skating,1.0,1.0,1.0,2.0
+boys in what appears to be a library or school room,"Fact: girls and boys are children.
+Composition / Monotone: children are indoors
+
+",children are indoors,1.0,1.0,1.0,2.0
+a barechested man fitting his head and arm into a toilet seat ring while spectators watch in a city,"Fact: chest hair is body hair.
+Composition / Monotone: man without chest hair fits head and arm into toilet seat
+
+Fact: some humans have absolutely no hair on their chests
+Composition / Monotone: a man with no chest hair fitting in to a toilet seat
+
+Fact: some men have hairy chests.  others have no hair on their chests.
+Composition / Monotone: a man with no chest hair fit into a toilet seat
+
+",a gentleman with no chest hair wrangles his way through a toilet seat,0.0,1.0,0.0,0.0
+a young boy sits outside in a grassy field with his back turned towards the viewer he is holding a wooden toy that can be spun between your hands and launched into the air,"Fact: a child can own a toy
+Composition / Monotone: a child plays outside
+
+Fact: a boy can own a toy
+Composition / Monotone: a child plays outdoors
+
+",a child plays outdoors,2.0,1.0,0.0,2.0
+bicyclist ride the course near the ocean as the day comes to an end,"Fact: cyclist can enjoying the sunset
+Composition / Monotone: the sunset is being enjoyed by a cyclist riding near the ocean
+
+Fact: a cyclist can taking a break at sunset
+Composition / Monotone: the cyclist is riding at sunset near the ocean
+
+Fact: a person can riding a bycicle at sunset
+Composition / Monotone: the cyclist is riding near the ocean at sunset
+
+",the cyclist was riding near the ocean at sunset,3.0,1.0,2.0,2.0
+kids work at computers with a teachers help,"Fact: you are likely to find a main entrance in the front
+Composition / Monotone: children are at their computers
+
+",the kids sit in front of computers,1.0,1.0,0.0,2.0
+a woman holding bags behind plantains,"Fact: plantains are a very healthy fruit to eat.
+Composition / Monotone: a woman is holding fruit
+
+Fact: bags contain stuff.
+Composition / Monotone: a lady is holding fruit
+
+Fact: a lady is a woman
+Composition / Monotone: a lady is a person holding fruit
+
+Fact: she is a woman
+Composition / Monotone: a lady is a person who holds fruit
+
+Fact: a bag can be used for storing items
+Composition / Monotone: a lady uses an object to hold fruits
+
+",a lady is holding an object to contain items while she is behind fruit,0.0,2.0,2.0,0.0
+a band playing on stage in a club,"Fact: musicians can play instruments
+Composition / Monotone: instruments are played in a place by musicians
+
+Fact: musicians often play instruments.
+Composition / Monotone: musicians are playing instruments at a venue
+
+Fact: musicians can often play instruments
+Composition / Monotone: musicians are playing instruments at a venue
+
+",musicians are playing their instruments at a venue,3.0,1.0,1.0,2.0
+a worker is doing a job on scaffolding,"Fact: worker is a somebody.
+Composition / Monotone: a human working
+
+",a human working,1.0,1.0,0.0,1.0
+a man is steering his ship out at sea,"Fact: ship is a craft.
+Composition / Monotone: a man pilots his boat at sea
+
+Fact: a boat is a mean of transport.
+Composition / Monotone: a man pilots a boat
+
+",a man pilots his boat,2.0,1.0,1.0,2.0
+one woman taking a picture of a second woman as she leans on a table,"Fact: women range in ages.
+Composition / Monotone: women taking pictures of one another
+
+Fact: women can sitting round a table
+Composition / Monotone: women taking pictures of each others
+
+",women taking pictures of each other,0.0,1.0,0.0,0.0
+a man wearing black pants rides along a concrete ledge on rollerblades,"Fact: a man's suit includes pants.
+Composition / Monotone: he is on a ledge
+
+",the ledge is made of a hard substance,1.0,1.0,0.0,0.0
+male wearing brown shorts and black tshirt in his bedroom with his feet on the desk talking on the phone,"Fact: you are likely to find a telephone in a house.
+Composition / Monotone: a man is inside his house
+
+Fact: a t-shirt is a piece of clothing
+Composition / Monotone: a man is inside his house
+
+Fact: a desk can be found in a house.
+Composition / Monotone: a man is in his house
+
+",a man is in his house,3.0,1.0,2.0,2.0
+a male windsurfer surfing on some blue waves with his yellow surfboard and red and white sail it looks as though he is about to fall into the water because he is suspended in the air sideways,"Fact: water can be found in the ocean
+Composition / Monotone: a man is windsurfing on the ocean
+
+Fact: water can be found in the ocean.
+Composition / Monotone: the man is windsurfing in the ocean
+
+",the man is windsurfing on the ocean,2.0,1.0,1.0,2.0
+a boy in shorts doing a skateboard trick,"Fact: people desire leisure time.
+Composition / Monotone: the boy is interested in leisure activity
+
+",a boy engaged in a leisure activity,1.0,1.0,1.0,2.0
+a man looks at an ipad on a subway while a beautiful women reads a book,"Fact: a book is a device.
+Composition / Monotone: two people are together
+
+Fact: women are people.
+Composition / Monotone: two people are together
+
+",two people are occupied with different content,0.0,1.0,0.0,1.0
+two workers stretch the canvas of the advertising billboard for free range chickens to be appended on a billboard,"Fact: some people feed chickens.
+Composition / Monotone: two people work outdoors
+
+Fact: some people own chickens.
+Composition / Monotone: two people work outdoors
+
+Fact: some people keep chickens for food 
+Composition / Monotone: two people work outside
+
+",two people work outside,3.0,1.0,0.0,2.0
+two workers stretch the canvas of the advertising billboard for free range chickens to be appended on a billboard,"Fact: men keep chickens.
+Composition / Monotone: there are two men working outside
+
+",two men work outdoors,1.0,1.0,0.0,2.0
+a group of people mostly in straw hats follow a man onto a beach covered with many large rocks,"Fact: sand beach is on the far shore just above the rocks.
+Composition / Monotone: people follow man
+
+",the man and his follows walk along outside,1.0,0.0,0.0,2.0
+a guy on rollerblades sliding across a rail,"Fact: a rollerblader is a skater
+Composition / Monotone: skateboarder on rail
+
+Fact: skaters are capable of skateboards.
+Composition / Monotone: the skateboarder is riding a rail
+
+",the skateboarder rides the rail,1.0,1.0,1.0,1.0
+three dogs run through the grass while wearing colored shirts,"Fact: animals rely on grass.
+Composition / Monotone: there is animals outdoors
+
+",there are animals outdoors,0.0,1.0,0.0,0.0
+a man in a pinstriped suit walks down the street and does nt notice the quirky poster on his left,"Fact: a man is a male
+Composition / Monotone: a male is walking down the street
+
+Fact: a suit is the name of an instance of clothing.
+Composition / Monotone: a male is walking down the street
+
+",a male has clothes on and is outside walking down the street,2.0,1.0,0.0,1.0
+three males and one female are posing for a photograph with snow on the ground and mountains covered with green trees and snow in the background,"Fact: males are people.
+Composition / Monotone: four people pose for a photograph outside
+
+Fact: men are males.
+Composition / Monotone: four people pose for a photo outside
+
+Fact: people are male or female
+Composition / Monotone: four people pose for a photo outside
+
+Fact: photograph is created by a photographer.
+Composition / Monotone: four people pose outdoors for a photo
+
+Fact: a backdrop is used for photography
+Composition / Monotone: four people pose outdoors for a photo
+
+",four people pose for an outdoor photo,5.0,1.0,2.0,2.0
+a demolition crane tearing down what is left of a building with a man standing on a platform spraying water,"Fact: crane is use to hold steel beam supports while attached to walls of administrative area.
+Composition / Monotone: a demolition crane is in use
+
+Fact: a construction crane has a boom for moving material from one place to another
+Composition / Monotone: demolition equipment is being used
+
+Fact: platforms are vehicle designations, such as minivan, light truck, and passenger car.
+Composition / Monotone: there is a demolition equipment
+
+",the demolition vehicle is being operated,3.0,2.0,1.0,2.0
+a group of people building gingerbread houses,"Fact: people is more than one person.
+Composition / Monotone: there are several people in this photo and each is building something
+
+Fact: a people is a group
+Composition / Monotone: several people are involved in building
+
+",more than one person is working on edible buildings,0.0,2.0,0.0,0.0
+a tennis player in blue shorts and a white shirt making an aggressive backhand swing towards the tennis ball,"Fact: a tennis ball is for recreation
+Composition / Monotone: a person has a tennis racket
+
+Fact: a player is a contestant
+Composition / Monotone: a person is holding a tennis racket
+
+Fact: one of the things you do when you play tennis is swing the tennis racket
+Composition / Monotone: a person is holding a tennis racket
+
+",a person is holding a tennis racket,3.0,2.0,1.0,1.0
+three women are dressed in ninja costumes,"Fact: women are persons.
+Composition / Monotone: there are several people
+
+Fact: women are people.
+Composition / Monotone: there are multiple people present
+
+Fact: females are people.
+Composition / Monotone: there are multiple people present
+
+",there are multiple people present,2.0,1.0,1.0,2.0
+female beach volleyball players on either side of a net with one looking to spike the ball as her teammate watches with the blue sky in the background,"Fact: women are a sport.
+Composition / Monotone: women are playing a sport
+
+Fact: some woman like to play hockey.
+Composition / Monotone: some women are playing a sport
+
+",some women are playing a sport,2.0,1.0,0.0,1.0
+many people have decided to take a rest on the steps,"Fact: activities have steps.
+Composition / Monotone: people are taking a break from activities
+
+",people are taking a break from their activities,0.0,1.0,0.0,0.0
+a group of firemen and officials prepare to turn a car right side after a crash,"Fact: people are firemans.
+Composition / Monotone: a group of people are turning a car around
+
+Fact: firemen are a kind of people.
+Composition / Monotone: people are turning a car over
+
+",a group of people are turning over a car,2.0,1.0,1.0,2.0
+six males four with shirts and two without have taken a break from their construction work on a building,"Fact: people work with people.
+Composition / Monotone: some construction workers are taking a break
+
+Fact: employees work at a job.
+Composition / Monotone: a group of construction workers is taking a break
+
+",a group of construction workers is taking a break,2.0,1.0,0.0,2.0
+pretty spring trees are shown with a man standing with his hands on his hips and a large tree trunk in the front of the picture,"Fact: man is a person.
+Composition / Monotone: a person stands by trees in spring
+
+",a person surrounded by spring trees,1.0,1.0,0.0,2.0
+four entertainers dressed in roman style garb are performing at an outdoor theater,"Fact: entertainers are people.
+Composition / Monotone: people are outside
+
+",people are outdoors,1.0,1.0,1.0,1.0
+a speaking woman at a podium has the phrase armenian genocide written on it flanked by priests and men in suits,"Fact: war causes genocide.
+Composition / Monotone: the woman is using a voice
+
+Fact: mouths are used for speaking.
+Composition / Monotone: the woman is uttering something with her mouth
+
+",the woman has sounds emanting from her mouth,2.0,2.0,1.0,2.0
+the man in the black shirt is skateboarding on the front steps of the building,"Fact: a human being is a person
+Composition / Monotone: someone in the picture is outside
+
+Fact: a tee shirt is a shirt
+Composition / Monotone: someone is wearing a top
+
+Fact: a shirt is a kind of clothing.
+Composition / Monotone: a person is wearing a top
+
+",a person with a dark top is outside doing something active,2.0,2.0,2.0,2.0
+a female guitarist is playing on stage,"Fact: a guitare is an instrument.
+Composition / Monotone: a woman is playing an instrument
+
+",a woman is playing her instrument,1.0,1.0,1.0,2.0
+a woman getting her face painted for a parade,"Fact: an activity a woman can do is wear makeup
+Composition / Monotone: the woman is wearing makeup 
+
+Fact: makeup is paint for your face
+Composition / Monotone: the woman has makeup on
+
+Fact: a human face is a body part
+Composition / Monotone: the woman has makeup on her body
+
+Fact: makeup is a form of decorating the body in many cultures.
+Composition / Monotone: the woman has makeup on her body
+
+",the woman has makeup on her body,4.0,1.0,4.0,2.0
+two middleaged police officers watch over a parking lot at night,"Fact: an eye is used to see with
+Composition / Monotone: some cops look at the parking lot
+
+",a couple cops keep an eye on the parking lot,1.0,1.0,1.0,2.0
+2 women and 2 girls crossing the road,"Fact: women are female humans
+Composition / Monotone: there are 4 females walking
+
+",there are 4 female humans who are moving,1.0,1.0,1.0,2.0
+four men and a young boy are at a table set up for wood crafts,"Fact: furniture is created or restored by a craft called woodworking
+Composition / Monotone: five people are at a tables
+
+",five total people are near a table with objects on it,1.0,1.0,0.0,2.0
+a biker with a blue jacket black pants and white helmet driving on dirt while people watch,"Fact: driving  turns.
+Composition / Monotone: people watching someone drive
+
+Fact: driving is for control of a vehicle.
+Composition / Monotone: someone driving a vehicle is being watched by people watching
+
+Fact: driving  steers.
+Composition / Monotone: a person driving is being watched by others
+
+Fact: mud is a dirt.
+Composition / Monotone: a person driving is being watched by other people
+
+Fact: driving  braking.
+Composition / Monotone: a person is driving in front of others
+
+",a person is driving in front of other people,5.0,2.0,1.0,2.0
+a child is surrounded by a field of sunflowers,"Fact: some flowers are part of sunflowers.
+Composition / Monotone: a child has flowers as a background
+
+Fact: sunflowers are flowers.
+Composition / Monotone: a child has flowers
+
+Fact: sunflowers are a kind of flower.
+Composition / Monotone: a kid has flowers
+
+Fact: sunflowers bear flowers.
+Composition / Monotone: a kid has flowers
+
+",a kid and some flowers,0.0,1.0,0.0,0.0
+a girl in a green coat walks down a rural road playing a flute,"Fact: a flute is used for playing music
+Composition / Monotone: a person in green walks down a road
+
+Fact: flutes range from to the length of the blade.
+Composition / Monotone: a person in green walks down a road
+
+",the country road has a walker wearing green,2.0,1.0,0.0,0.0
+a nurse is listening to another womens heartbeat with a stethoscope,"Fact: women see doctors.
+Composition / Monotone: there is a woman at a doctors office
+
+Fact: some women are doctors.
+Composition / Monotone: there is a woman in a doctors office
+
+",a woman in the doctors office,2.0,1.0,2.0,2.0
+picture of two men playing in a band one playing the drums and one playing a xylophone type of instrument in a dark room with two unrecognizable people watching in the background,"Fact: a xylophone is used for playing music.
+Composition / Monotone: people are playing music
+
+Fact: a xylophone is a type of percussion instrument
+Composition / Monotone: people are making music
+
+Fact: a xylophone is a musical instrument
+Composition / Monotone: people are making music
+
+",people are making music together,3.0,1.0,3.0,2.0
+man in casual dark shirt and pants and hat dances with curlyhaired blond woman in short red dress and red high heels,"Fact: a hall is for dancing
+Composition / Monotone: people dance in a room
+
+Fact: a dance club is for dancing
+Composition / Monotone: there is dancing in a room
+
+Fact: a dance club is for dancing.
+Composition / Monotone: there is dancing being done in a room
+
+Fact: a rehearsing room is for dancing
+Composition / Monotone: dancing is in a room
+
+",dancing is going on a room,0.0,1.0,0.0,0.0
+using a soccer ball for support a young boy in blue sits atop a park bench,"Fact: a boy is a young human.
+Composition / Monotone: a child is in the park
+
+Fact: a boy is a child.
+Composition / Monotone: a child is playing in the park
+
+",a child is playing in the park,1.0,2.0,1.0,1.0
+the player in the white dribbles the ball while the player in the orange tries to stop him,"Fact: games are played be people.
+Composition / Monotone: two people are playing with a ball
+
+Fact: a player is a person who takes part in a game
+Composition / Monotone: two people play ball
+
+",two people are playing ball,2.0,1.0,2.0,2.0
+women enjoying a game of table tennis,"Fact: another name for ping-pong is table tennis.
+Composition / Monotone: women are playing ping pong
+
+Fact: ping pong is a game
+Composition / Monotone: women are playing ping pong
+
+",women are playing ping pong,2.0,1.0,2.0,2.0
+railroad workers working on the tracks at nighttime,"Fact: workers are people.
+Composition / Monotone: a group of people are outside at night
+
+Fact: workers include people.
+Composition / Monotone: there are people outside at night
+
+",there are people outside at night,2.0,1.0,1.0,2.0
+an elderly woman wearing a skirt is picking out vegetables at a local market,"Fact: food consists of vegetables.
+Composition / Monotone: the woman is shopping
+
+",this woman is on a shopping trip,1.0,1.0,0.0,2.0
+a man with glasses wearing a tuxedo and corsage stands near a man in a suit at a formal event,"Fact: men is taken to mean both all people and non-female people.
+Composition / Monotone: two men are dressed up
+
+Fact: guys are men.
+Composition / Monotone: two men are dressed up
+
+Fact: men are people.
+Composition / Monotone: two men are dressed up and people are standing around
+
+",two men standing together are dressed up,2.0,1.0,0.0,2.0
+two men spar in martial arts gear,"Fact: men are male persons
+Composition / Monotone: the people are wearing equipment
+
+Fact: males are people.
+Composition / Monotone: some people are wearing clothing
+
+",there are multiple people present,2.0,2.0,1.0,1.0
+a man and woman setup a camera,"Fact: woman is a someone.
+Composition / Monotone: some humans setting up a device
+
+",two people setup a device,1.0,1.0,1.0,2.0
+a small quaint town all lit up during the holiday season,"Fact: has a lot of flourescent lights
+Composition / Monotone: there are lights in the town
+
+",there are lights in the town,1.0,1.0,1.0,2.0
+a student in a green shirt is writing in a notebook,"Fact: a notebook is a book
+Composition / Monotone: a person has a book
+
+Fact: a notebook is a book.
+Composition / Monotone: there is a person with a book
+
+Fact: a notebook is a book with blank pages to write in
+Composition / Monotone: a human with a book
+
+Fact: a notebook is a small book with blank pages for writing notes in
+Composition / Monotone: a person with a book
+
+",a person with a book,4.0,1.0,1.0,2.0
+a person in a large pink triangleshaped costume waves as a man and a woman dressed in matching brightlycolored striped and polkadotted outfits smile back,"Fact: a person can shake your hand
+Composition / Monotone: there is one person in this picture
+
+",the person is moving her hand,0.0,1.0,0.0,0.0
+a big black poodle running on the grass with a toy in its mouth,"Fact: a toy dog is a dog
+Composition / Monotone: a dog is playing outside
+
+Fact: a poodle is a dog
+Composition / Monotone: a dog is playing outside
+
+",a dog is playing outside,2.0,1.0,1.0,2.0
+a man rides a black motorcycle while wearing a helmet and a van rides beside him in the distance,"Fact: the distance that a bike is ridden is often measured in miles.
+Composition / Monotone: a motorcycle and van are near eachother
+
+Fact: miles are a distance people may travel
+Composition / Monotone: a motorcycle and van are near each other
+
+",a motorcycle and a van ride next to each other,2.0,1.0,0.0,0.0
+female in a military uniform with her hair tied back,"Fact: ponytail is a hair.
+Composition / Monotone: the female is wearing a ponytail
+
+",the female is wearing a ponytail,0.0,1.0,1.0,0.0
+three young men wearing backpacks shorts tshirts sandals and hats are standing together on a sandy surface with palm trees in the distance,"Fact: beaches are covered with sand
+Composition / Monotone: a group of young men in beach clothes is standing together on the beach with palm trees
+
+",a small group of men clad in summery clothing are standing on sandy palm tree lined beach,2.0,2.0,1.0,2.0
+a team of men three in red shirts and two others in baseball jerseys resurface a baseball diamond with specialized tools,"Fact: baseball team members wear uniforms
+Composition / Monotone: they are cleaning up the field
+
+",a grounds crew maintain a park,2.0,2.0,0.0,2.0
+five people standing on a stage getting ready to perform who are unrecognizable due to the lack of lighting,"Fact: some actors act in movies
+Composition / Monotone: five actors are getting ready to act but they are not clearly visible due to lack of lighting
+
+Fact: people can watch actors
+Composition / Monotone: the actors are getting ready to act but they are not easily visible due to lack of lighting
+
+Fact: a stage is for acting on
+Composition / Monotone: actors are getting ready to act by the lack of lighting
+
+",in a dim room several actors who can barely see each other are getting ready to act,4.0,3.0,3.0,2.0
+a man wearing white turns to hit a yellow tennis ball,"Fact: when you swing you go back and forth
+Composition / Monotone: he swings at the ball
+
+Fact: a tennis player is a player
+Composition / Monotone: a person takes a swing at a ball
+
+Fact: a swing is an activity
+Composition / Monotone: someone takes a swing at a ball
+
+",someone takes a swing at a ball,4.0,2.0,2.0,2.0
+two men stand in the road it almost appears to be some sort of movie set on a sunny day in california,"Fact: some humans are men.
+Composition / Monotone: some humans standing
+
+Fact: people see men.
+Composition / Monotone: some people standing
+
+",some people standing,3.0,1.0,1.0,2.0
+an adventurous man navigates through the jungle with a long stick,"Fact: a guy is a man
+Composition / Monotone: there is a person outside
+
+",there is a person outside,2.0,1.0,1.0,2.0
+a dog is running in the waves at the beach,"Fact: dog is a beast.
+Composition / Monotone: a dog is running outside
+
+",an animal is running outside,2.0,2.0,0.0,2.0
+a bicyclist wearing white sunglasses and a white and black helmet,"Fact: sunglasses are spectacles.
+Composition / Monotone: a human wearing glasses
+
+Fact: sunglasses are worn to cover ones eyes
+Composition / Monotone: a human wearing glasses
+
+",a human wearing glasses,3.0,1.0,2.0,2.0
+a group of women playing volleyball indoors,"Fact: women are people.
+Composition / Monotone: people are inside
+
+",people are inside,2.0,1.0,1.0,2.0
+a man in a tiedyed shirt and jeans is sitting on a bench with a dog and a guitar on his lap as well as a harmonica near his mouth,"Fact: a mouth is part of a human
+Composition / Monotone: a guy with a dog and musical instruments
+
+Fact: mouth is a body part.
+Composition / Monotone: a guy is holding a dog and various musical instruments
+
+Fact: a mouth is for talking
+Composition / Monotone: a guy is holding a dog and holding various musical instruments
+
+Fact: a harmonica is a musical instrument
+Composition / Monotone: a guy is holding a dog and holding musical instruments
+
+",a guy is next to a dog while holding some musical instruments,4.0,3.0,3.0,2.0
+a man wearing a stocking hat and has a beard is looking at the camera with two women sitting on the couch next to him,"Fact: camera is used for taking pictures.
+Composition / Monotone: a man is taking pictures
+
+Fact: a camera can takes pictures
+Composition / Monotone: a man is taking pictures
+
+",a man is taking pictures,3.0,1.0,1.0,2.0
+fireworks light up the night as a man stands on stage,"Fact: a summit is a stage
+Composition / Monotone: fireworks lit up the sky
+
+",the fireworks were shot into the sky,2.0,2.0,0.0,2.0
+a gray rally car is being driven by two adult males while a large white container is tied down on top of the roof,"Fact: men are a diverse group of individuals.
+Composition / Monotone: two men are in a car
+
+",two men are in a car,2.0,1.0,1.0,2.0
+a group of people are looking at photographs on a wall and speaking to each other,"Fact: conversations are speaking.
+Composition / Monotone: several people are talking to each other
+
+Fact: a group of people sometimes talk to each other to decide things.
+Composition / Monotone: many people are talking
+
+",many people are having a conversation,3.0,1.0,1.0,2.0
+a father and his daughter are riding a lawn mover down a street while dressed in american colors,"Fact: a lawn mower cuts grass
+Composition / Monotone: two people are riding a lawn mower outside
+
+Fact: a lawn mower can cuts grass
+Composition / Monotone: two people riding a lawn mower outside
+
+Fact: a lawn mower is a tool
+Composition / Monotone: two people riding a lawn mower outside
+
+Fact: people can come in all sorts of different colors
+Composition / Monotone: two people riding a lawn mower outside
+
+",two people ride a lawn mower outside,5.0,1.0,3.0,2.0
+shirtless man with long pole navigates covered boat down a palm tree lined river past a hut,"Fact: a river is flowing water.
+Composition / Monotone: a shirtless man is on the water
+
+Fact: water is in a river
+Composition / Monotone: a man with no shirt is out on the water
+
+",a man without a shirt is on the water,3.0,1.0,1.0,2.0
+two young ladies walking down the street together,"Fact: ladies are women.
+Composition / Monotone: there are two women in this picture both are outside
+
+",there are two woman in this picture and they are both outside,2.0,1.0,1.0,2.0
+a man holds a rope for a boy whos about to climb a wall,"Fact: boy is a person.
+Composition / Monotone: the man is holding the roping
+
+Fact: a boy is a male
+Composition / Monotone: man holds rop
+
+Fact: a boy is male.
+Composition / Monotone: a man holds a rop
+
+Fact: a ball boy is a boy
+Composition / Monotone: the man holds a rop
+
+",there is a man holding a rop,5.0,1.0,2.0,2.0
+two guys on a couch one is looking up the other is looking away with a cup in his hand,"Fact: a right hand is a hand
+Composition / Monotone: one is looking up the other is looking away
+
+",they are not looking in the same direction,2.0,2.0,0.0,2.0
+nurses in a medical setting conversing over a plastic cup,"Fact: nurses look after patients in hospitals.
+Composition / Monotone: there are people in medical settings
+
+",the people work in the medical field,1.0,2.0,1.0,2.0
+a man smiles while he shaves the head of another man,"Fact: guy is a man.
+Composition / Monotone: a man is cutting another mans hair
+
+Fact: a guy is a man
+Composition / Monotone: a guy is cutting another mans hair
+
+Fact: gentleman is a man.
+Composition / Monotone: a guy is cutting another mens hair
+
+Fact: hair is part of a head
+Composition / Monotone: a guy is cutting another mens hair
+
+Fact: hair is part of a head.
+Composition / Monotone: a guy is cutting another mens hair
+
+",a guy is cutting another mans hair,6.0,1.0,3.0,2.0
+a man is holding a book standing in front of a chalkboard,"Fact: blackboard is a tool to supplement classroom instruction and to enhance communication.
+Composition / Monotone: a person in a classroom
+
+",a person is in a classroom teaching,1.0,2.0,1.0,2.0
+while one man in the white cap is golfing three other men are in the middle of a conversation,"Fact: a shot is the result of activating a gun
+Composition / Monotone: shots are made by three men during a conversation
+
+Fact: shot is the past tense of shoot
+Composition / Monotone: three men take shots during a conversation
+
+",three men talk while their fourth takes a shot,0.0,1.0,1.0,2.0
+women sit on a beach as they watch men bring in a fishing net filled with fish in front of them,"Fact: a net can catch a fish
+Composition / Monotone: a group of people are near water
+
+Fact: women are men.
+Composition / Monotone: people gathered near water
+
+Fact: fishing net is net.
+Composition / Monotone: people gathered near the water
+
+Fact: fishing net is net
+Composition / Monotone: there are people gathered by the water
+
+",people are gathered by the water,5.0,2.0,2.0,2.0
+a motorist gets some air over a rough hill,"Fact: bikes are used for riding.
+Composition / Monotone: a motorist is riding his bike
+
+Fact: bicycles are used for riding.
+Composition / Monotone: a motorist is riding his bike
+
+",a motorist is riding his bike,3.0,1.0,1.0,2.0
+a man wearing a denim jacket and jeans welds on a bridge above water while wearing his safety mask,"Fact: person is a entity.
+Composition / Monotone: a person wearing a denim jacket and jeans works on a bridge above water
+
+",a clad in denim person works is working on a bridge outdoors,2.0,2.0,1.0,2.0
+a man in tan pants is eating while sitting next to a plate and a pair of shoes,"Fact: a plate is a dish.
+Composition / Monotone: the man is near food
+
+",the man is near food,2.0,1.0,1.0,2.0
+a young man wearing goggles is putting some liquid in a beaker while a young girl wearing blue gloves looks down while holding a pen,"Fact: people live in areas.
+Composition / Monotone: two people are in the same area
+
+",two people are in the same area,2.0,1.0,1.0,2.0
+two teens trying to win a prize at a carnival,"Fact: teenagers are located in high schools.
+Composition / Monotone: there are two people in this picture
+
+Fact: adults and children are types of humans
+Composition / Monotone: there are two humans
+
+",two humans are outdoors,0.0,3.0,1.0,1.0
+a man wearing dark jeans an orange shirt and an orange apron is next to a bunch of plants and flowers and a woman with a blue top,"Fact: woman is a somebody.
+Composition / Monotone: two people are next to each other
+
+Fact: woman is a someone.
+Composition / Monotone: two people are next to each other
+
+",two people are next to each other,3.0,1.0,1.0,2.0
+a child in a maroon shirt playing next to a fountain,"Fact: fountain is a structure.
+Composition / Monotone: there is a child playing
+
+",the child is at play,2.0,1.0,0.0,2.0
+a man is playing with his skateboard on a street,"Fact: legs are located in bodies.
+Composition / Monotone: there is a man with legs
+
+Fact: a type of street
+Composition / Monotone: a man is using his legs
+
+",a man is able to use his legs,0.0,2.0,2.0,1.0
+3 cyclists are racing ahead of a red bmw with the leader wearing solid white helmet and black cycling pants,"Fact: leader is a person.
+Composition / Monotone: there are people riding bicycles
+
+",people re riding bicycles,2.0,1.0,0.0,2.0
+a young man holding a microphone and singing,"Fact: singing is performing songs
+Composition / Monotone: a man is performing a song
+
+",a man is performing a song,2.0,1.0,1.0,2.0
+a worker is on a cherry picker in a palm tree,"Fact: a worker is a person
+Composition / Monotone: someone is working on a tree
+
+",a person is messing with a tree,1.0,2.0,1.0,1.0
+am man riding a very tall bicycle down the street past a large brick building,"Fact: a bicycle is for riding
+Composition / Monotone: a man rides a bike outside
+
+",a man rides a bike outside,2.0,1.0,1.0,2.0
+a boy in a red jacket and balck hat sliding on his knees down a snowy hill,"Fact: a boy is a child
+Composition / Monotone: a child is playing outside
+
+Fact: a boy is a male child 
+Composition / Monotone: a child is playing outside
+
+",a child is playing outside,3.0,1.0,1.0,2.0
+a musician playing his violin,"Fact: a violin is an instrument.
+Composition / Monotone: a person playing an instrument
+
+",a person is playing an instrument,2.0,1.0,1.0,2.0
+two hussars sit perched on horses dressed in extravagant ceremonial wear each holding a sabre in their right hand reigns to the horse in their left,"Fact: people often like to ride horses.
+Composition / Monotone: people riding animals
+
+Fact: people keep horses.
+Composition / Monotone: there are people on animals
+
+Fact: some people own horses.
+Composition / Monotone: there are people on animals
+
+",two people are on some animals,3.0,1.0,1.0,1.0
+a man puts his hands up while telling an amusing story to his friend with a beard,"Fact: having a conversation is for telling what happened
+Composition / Monotone: the people are having a conversation
+
+Fact: one of the things you do when you chat with friends is seek meaningful conversation.
+Composition / Monotone: humans in conversation
+
+Fact: having a conversation is for making friends
+Composition / Monotone: people have a conversation with one another
+
+",people share a conversation,4.0,4.0,2.0,2.0
+a man standing on a street with a suitcase in front of him while another man bends down to look at what is displayed on top of it,"Fact: a street is for driving
+Composition / Monotone: there are people on the street
+
+Fact: a local road is a street
+Composition / Monotone: people are on a road
+
+",there are some people on a road,3.0,2.0,2.0,2.0
+some people are standing in a room around a circular reception desk,"Fact: a desk is a piece of furniture
+Composition / Monotone: people are around a piece of furniture indoors
+
+Fact: desks are a kind of furniture.
+Composition / Monotone: people are indoors near furniture
+
+",multiple people are indoors near a piece of furniture,3.0,2.0,1.0,2.0
+a man in a black shirt working on a guitar,"Fact: a guitar is a stringed musical instrument
+Composition / Monotone: a man is working on an instrument
+
+Fact: a guitar is a stringed instrument
+Composition / Monotone: a guy works on an instrument
+
+Fact: a guy is a man
+Composition / Monotone: a guy works on an instrument
+
+Fact: guitars are string instruments.
+Composition / Monotone: a guy works on an instrument
+
+",a guy working on his instrument,5.0,1.0,2.0,2.0
+a man in the bucket of a cherypicker cuts down branches using a chainsaw at the end of a long pole,"Fact: tree branches break.
+Composition / Monotone: the man is trimming trees
+
+Fact: tree branches move.
+Composition / Monotone: there is a man trimming trees
+
+",a man is trimming trees,3.0,1.0,1.0,2.0
+a young boy vocalizes in to a microphone held by a blond woman in black,"Fact: a singer can singing into a microphone
+Composition / Monotone: the boy is singing
+
+Fact: a person can singing into a microphone
+Composition / Monotone: a boy singing
+
+",a boy singing,3.0,1.0,2.0,2.0
+a man dressed as an angel balances a woman dressed as an angel on his thighs while she hands out papers to people passing on the sidewalk,"Fact: leaflets have the ability to move.
+Composition / Monotone: a man and a woman dressed as angels are on the sidewalk passing out leaflets to passerbys
+
+Fact: some leaflets have edges.
+Composition / Monotone: man and woman dressed like angels are passing out leaflets on the sidewalk
+
+Fact: costumes are attire.
+Composition / Monotone: two people in angel costumes are passing out leaflets on the sidewalk
+
+Fact: thighs have (part) radicles.
+Composition / Monotone: a couple dressed in angel costumes is passing out leaflets on the sidewalk
+
+Fact: a couple is two.
+Composition / Monotone: a couple dressed in angel costumes is passing out leaflets on the sidewalk
+
+Fact: a couple can dressed for marriage
+Composition / Monotone: a couple dressed in angel costumes are passing out leaflets on a sidewalk
+
+Fact: people wear costumes on halloween.
+Composition / Monotone: a couple wearing angel costumes are handing out leaflets on a sidewalk
+
+",a couple dressed in angel costumes are handing out leaflets on the sidewalk,0.0,1.0,2.0,1.0
+one man wearing a pink and blue striped shirt work gloves and holding a yellow hard hat,"Fact: a worker is a kind of person.
+Composition / Monotone: a person in a shirt
+
+",a person in a shirt,2.0,1.0,0.0,2.0
+an old black man sitting on a couple of grocery crates playing the string guitar during the day,"Fact: a year is a very long time to a young child.  it goes by quite quickly for an older adult.
+Composition / Monotone: a young child seems like an older adult
+
+Fact: people count how long they have been married in years
+Composition / Monotone: someone looks older than a child
+
+Fact: couples often date from one to three years before getting engaged.
+Composition / Monotone: someone appears to be older than a child
+
+",someone who is visible is more than fifteen years old,0.0,2.0,0.0,0.0
+a worker dressed in hazard orange facedown in an open street work,"Fact: a street has a name.
+Composition / Monotone: a person is wearing orange
+
+",a person is wearing orange,2.0,1.0,0.0,2.0
+a little girl on a piece of playground equipment,"Fact: girl is a child.
+Composition / Monotone: there is a child in this picture
+
+Fact: a thing is one individual item.
+Composition / Monotone: the kid is in the picture
+
+Fact: a piece is a part
+Composition / Monotone: a kid is in the picture
+
+",a kid is doing a thing,0.0,1.0,3.0,1.0
+blond women working wearing gloves,"Fact: gloves can protect the hands.
+Composition / Monotone: a woman is working with her hands being protected
+
+",a woman working with her hands protected from harm,2.0,2.0,1.0,2.0
+a group of people in red clothing with scooters ride down the hill on rollerblades,"Fact: red is a color.
+Composition / Monotone: several people are wearing red clothing
+
+Fact: red is a kind of color
+Composition / Monotone: there are several people wearing red
+
+",there are several people wearng red,3.0,1.0,0.0,2.0
+a person is squatting down near buckets holding something in one hand,"Fact: a bucket is a container.
+Composition / Monotone: there are buckets
+
+",there is more than one bucket,2.0,2.0,0.0,2.0
+a brown dog and a black and white dog are running over grassy hills,"Fact: dogs are pets.
+Composition / Monotone: two dogs are running
+
+",two dogs run,2.0,1.0,0.0,2.0
+two dogs are running next to each other on a grassy hill,"Fact: dogs are pets.
+Composition / Monotone: there are animals outside
+
+",there are animals outside,2.0,1.0,0.0,2.0
+a young man holding a young woman in his arms as they get splashed by water shooting up from a fountain,"Fact: the right arm is on the right side of the body.
+Composition / Monotone: two people are near a fountain
+
+Fact: people drink water.
+Composition / Monotone: the two people are in front of the fountain
+
+Fact: an arm is for holding a hand
+Composition / Monotone: there are two people in front of a fountain
+
+Fact: people have two arms
+Composition / Monotone: there are two people in front of a fountain
+
+",two people are in front of a fountain,1.0,2.0,0.0,1.0
+a bicyclist is attempting a trick on a wire in a tropical location,"Fact: a trick is a twist
+Composition / Monotone: a person on a bike is on a wire
+
+",a person on a bicycle has his bike situated on a wire,2.0,1.0,0.0,2.0
+two kids in black trunks bouncing on a wet trampoline,"Fact: children are younger than adults 
+Composition / Monotone: children play on trampolines
+
+",children play on trampolines outdoors,1.0,2.0,1.0,1.0
+numerous customers browsing for produce in a market,"Fact: shoppers are customers.
+Composition / Monotone: people are shopping
+
+Fact: customers are found in a shop
+Composition / Monotone: people are shopping
+
+",people are shopping,3.0,1.0,2.0,2.0
+a boy wearing a shirt with an american flag plays with a basketball on the blacktop,"Fact: a shirt is a type of clothes
+Composition / Monotone: a boy is wearing clothing
+
+",a young male is wearing clothes,2.0,2.0,1.0,2.0
+a brown dog persues a frisbee across the grass as the thrower watches,"Fact: playing frisbee is for playing in the park
+Composition / Monotone: a dog plays in the park
+
+",a dog plays in the park,2.0,1.0,1.0,2.0
+a man with a white beard speaks into a microphone wearing a longsleeved gray button down shirt,"Fact: an audience is a crowd of people who gather for a performance.
+Composition / Monotone: a man is speaking to a crowd
+
+",a man is speaking to a crowd,0.0,1.0,1.0,1.0
+a man in a gray coat is walking on a fallen tree trunk in a forest,"Fact: a guy is a man
+Composition / Monotone: a guy walks on a fallen tree trunk
+
+",a guy walks on a downed tree trunk,2.0,2.0,1.0,2.0
+a crowd gathered on either side of a soap box derby with a single soap box car on the road track,"Fact: people can race cars
+Composition / Monotone: the people are at a race
+
+Fact: race cars are located in race tracks.
+Composition / Monotone: people are at the race
+
+",the people are at the race,3.0,1.0,2.0,2.0
+two daschunds play with a red ball,"Fact: a dachshund is a dog
+Composition / Monotone: two dogs playing
+
+Fact: there are different breeds of dogs
+Composition / Monotone: two different dogs are playing together
+
+",two dogs playing together,1.0,3.0,1.0,2.0
+a boy wearing a yellow shirt khaki pants and blue and yellow shoes is hitting a tennis ball off a wall with a tennis racket,"Fact: some examples of clothing are shirts, jeans, shorts, socks, shoes, sneakers, skirts, dresses, suits, or pants.
+Composition / Monotone: a child is playing a sport
+
+",a child in a colorful outfit holds a piece of sporting equipment and uses it to propel an orb against a vertical surface,1.0,2.0,1.0,2.0
+a boy in an all blue uniform kicks a blue soccer ball in a grassy area,"Fact: a lawn is an area of grass
+Composition / Monotone: the boy is playing in the grass
+
+Fact: a lawn is a area of grassy ground
+Composition / Monotone: a boy is playing in the grass
+
+Fact: grass is located in lawns.
+Composition / Monotone: a boy is playing in the grass
+
+",a boy is playing in the grass,4.0,1.0,0.0,2.0
+a young boy learns how to ride a horse,"Fact: a horse is a kind of animal.
+Composition / Monotone: a child rides an animal
+
+Fact: horse is an animal.
+Composition / Monotone: a child on an animal
+
+Fact: a horse is a modern animal
+Composition / Monotone: there is a child on an animal
+
+Fact: a boy is a child
+Composition / Monotone: the child is a child on the animal
+
+Fact: a boy is a young human.
+Composition / Monotone: a child sits on an animal
+
+",a child sits on the animals back,3.0,2.0,2.0,2.0
+a man wearing shorts looks at his cellphone while a woman walks outside a small building,"Fact: woman is a someone.
+Composition / Monotone: the people are not female
+
+",there are multiple people present,0.0,2.0,0.0,2.0
+the wind propels a sailing ship on a group of cruisers,"Fact: boats are used for sailing.
+Composition / Monotone: there are many boats on the water
+
+",there are many boats out,2.0,2.0,1.0,2.0
+an older balding man with glasses wearing a pink and white shirt with a sweater vest is playing a musical instrument while looking at the sheet music,"Fact: glasses can make you cool looking.
+Composition / Monotone: the man has hair
+
+Fact: these glasses is for humor
+Composition / Monotone: the man has some hair
+
+",the man has little hair,0.0,1.0,1.0,1.0
+a silhouette stands at the top of a bowling lane as the ball is about to impact the pins while neon lights race overhead,"Fact: of the many places a lane may be, one is in a bowling alley.
+Composition / Monotone: someone is at a bowling alley
+
+",someone is in a bowling alley,2.0,1.0,1.0,2.0
+artist on street corner selling his artwork,"Fact: paintings is created by artists.
+Composition / Monotone: someone is selling paintings
+
+Fact: some artists create paintings.
+Composition / Monotone: someone is selling paintings
+
+Fact: artists know for paintings.
+Composition / Monotone: someone is selling paintings
+
+",someone is selling paintings,0.0,1.0,1.0,1.0
+a crowd gathered around a young man who is performing,"Fact: an audience is a crowd of people who gather for a performance.
+Composition / Monotone: the people are at a performance
+
+Fact: humans are located in performance.
+Composition / Monotone: people are at a performance
+
+Fact: an audience is a gathering of people with the purpose of watching a performance
+Composition / Monotone: people are at a performance
+
+",they are at a performance,4.0,1.0,2.0,2.0
+a cyclist in a red and white uniform is biking across a garage full of people,"Fact: garage is a building.
+Composition / Monotone: a man rides a bicycle
+
+",there is a man riding a bicycle,2.0,1.0,1.0,2.0
+a golfer shoots his ball out of a sand trap,"Fact: human beings play games with balls.
+Composition / Monotone: golfers playing golf
+
+Fact: a ball is used for playing a game
+Composition / Monotone: the game of golf is being played
+
+Fact: golfers play the game of golf
+Composition / Monotone: golf is a game being played
+
+Fact: golfers are people who play the game of golf
+Composition / Monotone: golf is a game being played
+
+",the game of golf being played,5.0,2.0,4.0,2.0
+a young family enjoys feeling ocean waves lap at their feet,"Fact: ocean waves approach beaches.
+Composition / Monotone: a family is at a beach
+
+",a family is at the beach,1.0,1.0,0.0,2.0
+3 young man in hoods standing in the middle of a quiet street facing the camera,"Fact: black people with a lot of words
+Composition / Monotone: 3 people in hoods face the camera
+
+Fact: a camera is for taking a picture
+Composition / Monotone: three people in hoods pose for a picture
+
+Fact: a camera takes pictures
+Composition / Monotone: three people in hoods pose for a picture
+
+",three hood wearing people pose for a picture,0.0,2.0,2.0,2.0
+a man standing in front of a building on the phone as two men to the side pain on the side,"Fact: if we are men we a are guys
+Composition / Monotone: two other guys are next to the guy standing in front of the building
+
+",a guy near a building stands by two other men,1.0,1.0,1.0,2.0
+three boys in white shirts are walking behind an older model ford car,"Fact: cars are located in street corners.
+Composition / Monotone: there are several boys on the street
+
+",the boys are on the street,1.0,1.0,1.0,1.0
+a professional swimmer spits water out after surfacing while grabbing the hand of someone helping him back to land,"Fact: a hand is part of the arm
+Composition / Monotone: a person is swimming
+
+",a person is swimming,1.0,1.0,0.0,2.0
+five girls and two guys are crossing a overpass,"Fact: guys meet girls.
+Composition / Monotone: there are people outdoors
+
+Fact: girls see guys.
+Composition / Monotone: there are people outside
+
+",there are people outside,2.0,1.0,0.0,2.0
+a man of the cloth puts a black substance on a mans forehead,"Fact: a forehead is part of a head.
+Composition / Monotone: a man puts something on another mans head
+
+Fact: a forehead is part of a head
+Composition / Monotone: a man puts something on the other mans head
+
+",the man puts something on the other mans head,2.0,1.0,1.0,2.0
+a group of adults stands in the bathroom looking down a small child in the bath,"Fact: people can join  a group
+Composition / Monotone: people are inside the house
+
+",people are in the house,1.0,1.0,0.0,2.0
+a man woman and child get their picture taken in front of the mountains,"Fact: a family can plan a vacation
+Composition / Monotone: a family gets their picture taken on vacation
+
+Fact: the family can plan to go on vacation
+Composition / Monotone: a family has a picture taken on vacation
+
+",a family on vacation is posing,0.0,1.0,0.0,0.0
+a dog standing near snow looking at water,"Fact: dog is a type of animal.
+Composition / Monotone: the animal is outdoors
+
+Fact: a dog is a kind of animal
+Composition / Monotone: the animal is outdoors
+
+",animal is outdoors,2.0,1.0,1.0,2.0
+the american footballer in yellow catches the ball whilst under pressure from the payer in white,"Fact: a duress is a force
+Composition / Monotone: the football player is under duress
+
+",the football player is under duress,1.0,1.0,0.0,2.0
+a biker races,"Fact: a riding is a sport
+Composition / Monotone: a person is riding a bike
+
+",a person is riding a bike,1.0,1.0,0.0,2.0
+island native fishermen reeling in their nets after a long days work,"Fact: today is the day it is right now
+Composition / Monotone: the native fishermen are finishing their days work
+
+",the men are finishing their day of work,1.0,1.0,0.0,2.0
+young woman is putting her clothes in the dryer portion of a double stacked washer and dryer unit,"Fact: a lady is a woman
+Composition / Monotone: a woman is drying clothes
+
+Fact: lady is a woman.
+Composition / Monotone: a person drying clothes
+
+",a person drying clothes,2.0,2.0,0.0,2.0
+everyone on the street in the city seem to be busy doing their own thing,"Fact: stores are business.
+Composition / Monotone: people are doing business in the city
+
+",people are conducting business in the city,1.0,1.0,0.0,2.0
+a man in an apron smiles as he pokes a frying donut with a little metal stick,"Fact: donut is a cake.
+Composition / Monotone: the man is cooking
+
+Fact: a donut is made of deep-fried dough and sugar.
+Composition / Monotone: the man is cooking
+
+Fact: donuts are in the shpae of a ring.
+Composition / Monotone: the man cooks food
+
+",the man is cooking food,3.0,1.0,0.0,1.0
+a guy and a girl look down a mountain range,"Fact: take the time to look around
+Composition / Monotone: people are looking at the mountains
+
+",the people look at the mountains,1.0,1.0,0.0,2.0
+a standing man talks to a seated woman while on some sort of vehicle,"Fact: a car can seat people.
+Composition / Monotone: two people are talking
+
+",two people are talking,1.0,1.0,0.0,2.0
+a woman in a black outfit lies face first on a yoga mat several paintings are hanged on the wall and the sun shines through a large window near her,"Fact: a window can be found in a house.
+Composition / Monotone: a person is indoors
+
+Fact: a wall is part of a room.
+Composition / Monotone: a person is in a room
+
+",there is a person in a room,2.0,2.0,2.0,2.0
+a woman in a brown shirt is kneeling in the street,"Fact: ground is sites.
+Composition / Monotone: a woman is on the ground
+
+Fact: a hole in the ground
+Composition / Monotone: a woman is on the ground outside
+
+",a woman is on the ground outside,1.0,2.0,0.0,2.0
+the woman in the black shirt hands papers to the children surrounding her,"Fact: children use alot of paper.
+Composition / Monotone: a woman giving paper
+
+",someone giving out paper,1.0,1.0,0.0,2.0
+a young boy in green shorts balances on a pipe above a river,"Fact: a boy is a young male human.
+Composition / Monotone: a human balancing
+
+Fact: boy is a person.
+Composition / Monotone: a human balancing
+
+Fact: a boy is a young person
+Composition / Monotone: a person balancing
+
+",a person balancing,3.0,1.0,1.0,2.0
+a bearded man jumps in the snow with the ocean in the background and an orange recumbent bike parked near a road sign,"Fact: jumping are activities.
+Composition / Monotone: a person jumping
+
+",a human jumping,1.0,1.0,0.0,2.0
+couples enjoying a meal while a bunch of dogs take a nap,"Fact: dogs are a type of animal
+Composition / Monotone: some animals are asleep
+
+",some animals are asleep,1.0,1.0,1.0,2.0
+a white duck expanding its wings in the water,"Fact: a duck is part of animal
+Composition / Monotone: there is an animal outside
+
+Fact: a wing is part of a animal
+Composition / Monotone: there is an animal in this picture
+
+",there is one animal in this picture,1.0,2.0,1.0,1.0
+a woman wearing jeans is walking down the street,"Fact: a lady is a woman
+Composition / Monotone: a person is outdoors
+
+Fact: lady is a woman.
+Composition / Monotone: a person is outside
+
+",a person is outside,2.0,1.0,0.0,2.0
+a woman in a black jacket and a black and white striped skirt is watching a woman talking to a little boy sitting on concrete steps,"Fact: a child is a person
+Composition / Monotone: a man watching someone talk to a child
+
+",a person is talking to a child while another person watches,0.0,1.0,0.0,2.0
+three men are carrying a red bag into a boat with another person and boat in the background,"Fact: a person knows other people
+Composition / Monotone: people in a boat
+
+",some people put something in a boat in a place with more than one boat,1.0,1.0,0.0,2.0
+a female runner dressed in blue athletic wear is running in a competition while spectators line the street,"Fact: spectators can watch sport
+Composition / Monotone: there are people on the street
+
+Fact: spectators can watch a race
+Composition / Monotone: there are people on the street
+
+",there are people on the street,2.0,1.0,0.0,2.0
+a man is painting a picture outside behind a crowd,"Fact: painter can paint a picture
+Composition / Monotone: the painter is painting a picture
+
+",a painter is creating a picture,1.0,1.0,1.0,2.0
+a blond little boy in an orange sweatshirt with red sleeves is using scissors to cut something,"Fact: closed fists make it easier to get hands through sleeves.
+Composition / Monotone: the little boy is using scissors
+
+",a little male has clothes on with a pair of scissors in his hands,1.0,1.0,0.0,2.0
+a man cooking over high flames,"Fact: a man is a male person.
+Composition / Monotone: a person is preparing food
+
+",a person is preparing some food,1.0,1.0,1.0,2.0
+four men stand in a circle facing each other playing brass instruments which people watch them,"Fact: people make music.
+Composition / Monotone: the men are playing music
+
+",the men are playing music,1.0,1.0,0.0,2.0
+a group of footballs players is standing behind a coaching official,"Fact: people is a group.
+Composition / Monotone: there are multiple people present
+
+",there are multiple people present,1.0,1.0,1.0,2.0
+two men in neon yellow shirts busily sawing a log in half,"Fact: shirts are a form of clothing.
+Composition / Monotone: two men are using a saw
+
+",two men are using a saw,1.0,1.0,0.0,2.0
+a man is working on a earthen structure with a pickaxe,"Fact: tools can be found in a hardware shop.
+Composition / Monotone: the man is using tools
+
+",a man has tools,1.0,1.0,0.0,2.0
+a man in a black shirt and brown pants is jumping in the air performing a karate kick towards a man in a red shirt and black hat,"Fact: a man is a male
+Composition / Monotone: the males are performing martial arts exercises
+
+Fact: a man is a male human
+Composition / Monotone: two males are human performing martial arts exercises
+
+Fact: karate is a japanese martial art
+Composition / Monotone: two males are doing martial arts
+
+Fact: karate is one of the martial arts
+Composition / Monotone: the two males do martial arts
+
+",two males are involved in martial arts,1.0,2.0,2.0,2.0
+two guys walking one carrying a skateboard,"Fact: if we are men we a are guys
+Composition / Monotone: two men are walking
+
+",both of the men are walking,1.0,1.0,1.0,2.0
+kid holding handles on two wheeled object,"Fact: hands have thumbs.
+Composition / Monotone: the kid has hands
+
+",the kid has hands,1.0,1.0,0.0,1.0
+a man holding some sort of vegetables while his wife in a red sweater stares to the side and his daughter in a red sweater looks at the camera,"Fact: a sweater is a piece of clothing.
+Composition / Monotone: a man is holding a vegetable
+
+Fact: a sweater is a garment
+Composition / Monotone: a man holding a vegetable
+
+",a man holds a vegetable,2.0,1.0,0.0,2.0
+a young man holds a hammer shaped object in the air with one hand and a similar shaped object in the other while making a funny expression,"Fact: a guy is a man
+Composition / Monotone: a person is holding a tool
+
+",a person is holding a tool,1.0,1.0,0.0,2.0
+a man is watching as a woman is reading a piece of paper,"Fact: woman is a person.
+Composition / Monotone: a person watching another person
+
+Fact: woman is a someone.
+Composition / Monotone: a person watching someone
+
+",a person watches someone,2.0,1.0,1.0,2.0
+a baby girl and little boy are standing next to a guitar and a drum,"Fact: a drum is a percussive instrument
+Composition / Monotone: a little girl is holding a percussive instrument
+
+",the girl is near an instrument,0.0,1.0,1.0,2.0
+boys in what appears to be a library or school room,"Fact: girls and boys are children.
+Composition / Monotone: children are indoors
+
+",children are indoors,1.0,1.0,1.0,2.0
+a young boy sits outside in a grassy field with his back turned towards the viewer he is holding a wooden toy that can be spun between your hands and launched into the air,"Fact: a child can own a toy
+Composition / Monotone: a child plays outside
+
+Fact: a boy can own a toy
+Composition / Monotone: a child plays outdoors
+
+",a child plays outdoors,2.0,1.0,0.0,2.0
+kids work at computers with a teachers help,"Fact: you are likely to find a main entrance in the front
+Composition / Monotone: children are at their computers
+
+",the kids sit in front of computers,1.0,1.0,0.0,2.0
+a worker is doing a job on scaffolding,"Fact: worker is a somebody.
+Composition / Monotone: a human working
+
+",a human working,1.0,1.0,0.0,2.0
+a man wearing black pants rides along a concrete ledge on rollerblades,"Fact: a man's suit includes pants.
+Composition / Monotone: he is on a ledge
+
+",the ledge is made of a hard substance,1.0,1.0,0.0,0.0
+a boy in shorts doing a skateboard trick,"Fact: people desire leisure time.
+Composition / Monotone: the boy is interested in leisure activity
+
+",a boy engaged in a leisure activity,0.0,1.0,0.0,1.0
+a worker is on a cherry picker in a palm tree,"Fact: a worker is a person
+Composition / Monotone: someone is working on a tree
+
+",a person is messing with a tree,1.0,1.0,1.0,2.0
+am man riding a very tall bicycle down the street past a large brick building,"Fact: a bicycle is for riding
+Composition / Monotone: a man rides a bike outside
+
+",a man rides a bike outside,1.0,1.0,0.0,2.0
+a musician playing his violin,"Fact: a violin is an instrument.
+Composition / Monotone: a person playing an instrument
+
+",a person is playing an instrument,1.0,1.0,1.0,2.0
+a man with beard sitting down playing an acoustic guitar,"Fact: one can play music with a guitar.
+Composition / Monotone: a musician is playing an instrument
+
+Fact: a guitar is for playing music
+Composition / Monotone: a musician plays an instrument
+
+",a musician plays on his instrument,2.0,1.0,1.0,2.0
+the little boy stands in the middle of birds who have gathered on the sidewalk,"Fact: boys are a different group of people.
+Composition / Monotone: there are many birds on the sidewalk
+
+",there are a lot of birds outside by the sidewalk,1.0,1.0,0.0,2.0
+two men and two women in jackets walk down a large city street,"Fact: women are women and men are men.
+Composition / Monotone: there are people outside
+
+",there are people outside,1.0,1.0,0.0,2.0
+runners in various athletic garb as well as one individual in a spottedgreen dragon costume run to the right,"Fact: a person is one individual of the word ""people"".
+Composition / Monotone: runners in a dragon costume
+
+Fact: a person is a individual
+Composition / Monotone: runners in a dragon costume are a kind of individual
+
+",runners see a dragon costumed person,0.0,2.0,1.0,2.0
+a rugby player running the ball between two downed opponents,"Fact: people can fight each other
+Composition / Monotone: people are playing rugby
+
+",some people are playing rugby,1.0,1.0,0.0,2.0
+a woman in a long dark coat looks through trashcans in winter,"Fact: a trash container is for trash storage 
+Composition / Monotone: a woman is looking through a container
+
+",a woman is exploring containers for something,1.0,1.0,1.0,2.0
+a woman with a blue hat is taking photos in an area covered in brush,"Fact: camera is used for taking pictures.
+Composition / Monotone: the woman is holding a camera
+
+Fact: a camera is used to take pictures.
+Composition / Monotone: the woman is holding a camera
+
+",the woman is holding a camera,2.0,1.0,1.0,2.0
+a skateboarder does a trick in midair,"Fact: people can board aircraft
+Composition / Monotone: a person skateboarding
+
+Fact: a skateboard is a board
+Composition / Monotone: a person is boarding with a skateboard
+
+Fact: a person can board a plane
+Composition / Monotone: a person with a skateboard is boarding
+
+Fact: person can board plane
+Composition / Monotone: a person with a skateboard is boarding
+
+",a person skate boarding,1.0,2.0,1.0,2.0
+a whiteclad soccer player is attempting to intercept a soccer ball that is quickly approaching the goal box,"Fact: a fair ball is contact
+Composition / Monotone: a soccer player is attempting to intercept the ball
+
+",a soccer player tries to get an interception,1.0,1.0,0.0,2.0
+a man is holding a microphone in front of his mouth,"Fact: a man is a kind of male.
+Composition / Monotone: a man is holding a device in his mouth
+
+Fact: a man is a male.
+Composition / Monotone: a guy has a device in his mouth
+
+Fact: a man is a male
+Composition / Monotone: a male has a device in the mouth
+
+",a male has a device near his mouth,3.0,3.0,1.0,2.0
+two racers race on motorcycles,"Fact: people are capable of race cars.
+Composition / Monotone: two people are racing
+
+",two people are racing,1.0,1.0,0.0,2.0
+a female camera operator is capturing some offcamera activity,"Fact: lady is a woman.
+Composition / Monotone: a lady is taking a picture
+
+",a lady is taking a picture,1.0,1.0,0.0,1.0
+two adults hold either side of a boat at the edge of the water,"Fact: adults are grown people and children are not
+Composition / Monotone: two people are near water
+
+",two people are near water,1.0,1.0,0.0,2.0
+a five piece horn band all playing in a hall of what looks like a church,"Fact: church music enhances the sacredness of a holy place.
+Composition / Monotone: people are playing music
+
+",there are people playing music,1.0,1.0,0.0,2.0
+a middleaged woman with redhair a white shirt and a silver beaded necklace is holding a yellow cellphone against her ear while talking,"Fact: cellphone is a telephone.
+Composition / Monotone: the woman is on the phone
+
+",the woman was talking on the phone,1.0,1.0,1.0,2.0

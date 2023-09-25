@@ -1,0 +1,1000 @@
+contradiction	Jill has french class then computer science class then commerce class.	Commerce class is before computer science class.
+contradiction	Frances has mathematics class then economics class then commerce class.	Commerce class is before economics class.
+contradiction	Jill has french class then geography class then computer science class.	Computer science class is before geography class.
+contradiction	Betty has political science class then computer science class then literature class.	Literature class is before computer science class.
+contradiction	Dave has political science class then music class then art class.	Art class is before music class.
+contradiction	Annie has political science class then biology class then economics class.	Economics class is before biology class.
+contradiction	Brian has biology class then computer science class then art class.	Art class is before computer science class.
+contradiction	Fiona has economics class then chemistry class then geography class.	Geography class is before chemistry class.
+contradiction	Lynn has commerce class then geography class then geology class.	Geology class is before geography class.
+contradiction	Mark has geology class then physics class then mathematics class.	Mathematics class is before physics class.
+contradiction	Bruce has history class then music class then political science class.	Political science class is before music class.
+contradiction	Carolyn has biology class then history class then art class.	Art class is before history class.
+contradiction	Ann has commerce class then literature class then french class.	French class is before literature class.
+contradiction	David has french class then political science class then physics class.	Physics class is before political science class.
+contradiction	Arthur has chemistry class then literature class then mathematics class.	Mathematics class is before literature class.
+contradiction	Laura has mathematics class then art class then geology class.	Geology class is before art class.
+contradiction	Harold has geography class then literature class then latin class.	Latin class is before literature class.
+contradiction	Ruth has history class then economics class then french class.	French class is before economics class.
+contradiction	Gary has art class then mathematics class then french class.	French class is before mathematics class.
+contradiction	Wendy has literature class then music class then latin class.	Latin class is before music class.
+contradiction	Matt has computer science class then latin class then biology class.	Biology class is before latin class.
+contradiction	Katherine has physics class then political science class then mathematics class.	Mathematics class is before political science class.
+contradiction	Sue has political science class then computer science class then geology class.	Geology class is before computer science class.
+contradiction	Jean has french class then geology class then computer science class.	Computer science class is before geology class.
+contradiction	Mark has latin class then mathematics class then commerce class.	Commerce class is before mathematics class.
+contradiction	Kelly has political science class then computer science class then literature class.	Literature class is before computer science class.
+contradiction	Edward has art class then geology class then biology class.	Biology class is before geology class.
+contradiction	Barbara has literature class then commerce class then music class.	Music class is before commerce class.
+contradiction	Bill has chemistry class then geography class then political science class.	Political science class is before geography class.
+contradiction	Kevin has physics class then commerce class then geology class.	Geology class is before commerce class.
+contradiction	Sarah has physics class then geography class then mathematics class.	Mathematics class is before geography class.
+contradiction	Dan has chemistry class then commerce class then latin class.	Latin class is before commerce class.
+contradiction	Dave has political science class then physics class then history class.	History class is before physics class.
+contradiction	Philip has commerce class then art class then geology class.	Geology class is before art class.
+contradiction	Sue has chemistry class then biology class then commerce class.	Commerce class is before biology class.
+contradiction	Peter has political science class then geography class then geology class.	Geology class is before geography class.
+contradiction	Julia has geography class then french class then geology class.	Geology class is before french class.
+contradiction	Howard has computer science class then literature class then latin class.	Latin class is before literature class.
+contradiction	Nick has economics class then history class then mathematics class.	Mathematics class is before history class.
+contradiction	Rachel has political science class then french class then mathematics class.	Mathematics class is before french class.
+contradiction	Sandra has literature class then art class then french class.	French class is before art class.
+contradiction	Michael has chemistry class then literature class then computer science class.	Computer science class is before literature class.
+contradiction	Matt has literature class then economics class then computer science class.	Computer science class is before economics class.
+contradiction	Daniel has history class then biology class then literature class.	Literature class is before biology class.
+contradiction	Eleanor has chemistry class then geology class then commerce class.	Commerce class is before geology class.
+contradiction	Ryan has physics class then literature class then history class.	History class is before literature class.
+contradiction	Walter has biology class then history class then latin class.	Latin class is before history class.
+contradiction	Diana has chemistry class then french class then music class.	Music class is before french class.
+contradiction	James has political science class then art class then literature class.	Literature class is before art class.
+contradiction	Greg has history class then french class then chemistry class.	Chemistry class is before french class.
+contradiction	Frederick has latin class then music class then geography class.	Geography class is before music class.
+contradiction	Diana has physics class then commerce class then french class.	French class is before commerce class.
+contradiction	Gary has computer science class then mathematics class then physics class.	Physics class is before mathematics class.
+contradiction	Rose has music class then history class then chemistry class.	Chemistry class is before history class.
+contradiction	Ashley has history class then biology class then art class.	Art class is before biology class.
+contradiction	Sue has physics class then political science class then mathematics class.	Mathematics class is before political science class.
+contradiction	Betty has latin class then political science class then chemistry class.	Chemistry class is before political science class.
+contradiction	Ron has latin class then biology class then chemistry class.	Chemistry class is before biology class.
+contradiction	Benjamin has art class then commerce class then literature class.	Literature class is before commerce class.
+contradiction	Sandra has geology class then music class then literature class.	Literature class is before music class.
+contradiction	Sarah has computer science class then french class then music class.	Music class is before french class.
+contradiction	Simon has geography class then chemistry class then art class.	Art class is before chemistry class.
+contradiction	Ryan has geology class then physics class then chemistry class.	Chemistry class is before physics class.
+contradiction	Brian has biology class then mathematics class then latin class.	Latin class is before mathematics class.
+contradiction	Samuel has commerce class then computer science class then history class.	History class is before computer science class.
+contradiction	Ray has biology class then mathematics class then geology class.	Geology class is before mathematics class.
+contradiction	Marie has music class then geography class then french class.	French class is before geography class.
+contradiction	Richard has biology class then literature class then geology class.	Geology class is before literature class.
+contradiction	Ryan has biology class then latin class then physics class.	Physics class is before latin class.
+contradiction	Heather has economics class then political science class then literature class.	Literature class is before political science class.
+contradiction	Christopher has latin class then commerce class then mathematics class.	Mathematics class is before commerce class.
+contradiction	Andrew has physics class then chemistry class then computer science class.	Computer science class is before chemistry class.
+contradiction	Don has music class then political science class then geography class.	Geography class is before political science class.
+contradiction	Laura has geology class then literature class then political science class.	Political science class is before literature class.
+contradiction	Jack has literature class then chemistry class then computer science class.	Computer science class is before chemistry class.
+contradiction	Thomas has history class then literature class then music class.	Music class is before literature class.
+contradiction	Jean has latin class then biology class then french class.	French class is before biology class.
+contradiction	Lucy has biology class then history class then commerce class.	Commerce class is before history class.
+contradiction	Bruce has physics class then chemistry class then economics class.	Economics class is before chemistry class.
+contradiction	Eric has economics class then physics class then geography class.	Geography class is before physics class.
+contradiction	Kelly has chemistry class then music class then economics class.	Economics class is before music class.
+contradiction	Bob has geography class then art class then mathematics class.	Mathematics class is before art class.
+contradiction	Bob has french class then music class then physics class.	Physics class is before music class.
+contradiction	Ruth has commerce class then geography class then french class.	French class is before geography class.
+contradiction	David has physics class then history class then economics class.	Economics class is before history class.
+contradiction	Sophie has geography class then french class then political science class.	Political science class is before french class.
+contradiction	Simon has geology class then french class then geography class.	Geography class is before french class.
+contradiction	Adam has mathematics class then computer science class then french class.	French class is before computer science class.
+contradiction	Daniel has geography class then art class then biology class.	Biology class is before art class.
+contradiction	Sue has economics class then biology class then computer science class.	Computer science class is before biology class.
+contradiction	Annie has physics class then political science class then literature class.	Literature class is before political science class.
+contradiction	Lynn has political science class then history class then latin class.	Latin class is before history class.
+contradiction	Rose has art class then physics class then economics class.	Economics class is before physics class.
+contradiction	Richard has political science class then art class then mathematics class.	Mathematics class is before art class.
+contradiction	Mark has literature class then biology class then history class.	History class is before biology class.
+contradiction	Julie has latin class then economics class then french class.	French class is before economics class.
+contradiction	Richard has commerce class then computer science class then art class.	Art class is before computer science class.
+contradiction	Francis has music class then latin class then history class.	History class is before latin class.
+contradiction	Patricia has physics class then history class then commerce class.	Commerce class is before history class.
+contradiction	Carol has french class then latin class then computer science class.	Computer science class is before latin class.
+contradiction	Diane has latin class then computer science class then physics class.	Physics class is before computer science class.
+contradiction	Michelle has art class then latin class then literature class.	Literature class is before latin class.
+contradiction	Victoria has geology class then biology class then chemistry class.	Chemistry class is before biology class.
+contradiction	Diana has economics class then computer science class then political science class.	Political science class is before computer science class.
+contradiction	Donald has literature class then biology class then geology class.	Geology class is before biology class.
+contradiction	Don has music class then economics class then french class.	French class is before economics class.
+contradiction	Billy has geography class then geology class then french class.	French class is before geology class.
+contradiction	Chris has history class then art class then french class.	French class is before art class.
+contradiction	Jerry has political science class then french class then computer science class.	Computer science class is before french class.
+contradiction	Virginia has computer science class then geology class then history class.	History class is before geology class.
+contradiction	Roger has french class then physics class then music class.	Music class is before physics class.
+contradiction	Arthur has music class then economics class then chemistry class.	Chemistry class is before economics class.
+contradiction	Rebecca has chemistry class then political science class then commerce class.	Commerce class is before political science class.
+contradiction	Andrew has french class then chemistry class then music class.	Music class is before chemistry class.
+contradiction	Linda has biology class then music class then art class.	Art class is before music class.
+contradiction	Gary has latin class then french class then geology class.	Geology class is before french class.
+contradiction	Susan has history class then chemistry class then french class.	French class is before chemistry class.
+contradiction	Sarah has music class then geography class then art class.	Art class is before geography class.
+contradiction	Melissa has chemistry class then history class then literature class.	Literature class is before history class.
+contradiction	Tony has computer science class then latin class then physics class.	Physics class is before latin class.
+contradiction	Kelly has chemistry class then mathematics class then commerce class.	Commerce class is before mathematics class.
+contradiction	Helen has history class then mathematics class then french class.	French class is before mathematics class.
+contradiction	Diana has commerce class then economics class then political science class.	Political science class is before economics class.
+contradiction	Jay has physics class then biology class then computer science class.	Computer science class is before biology class.
+contradiction	Anne has literature class then biology class then history class.	History class is before biology class.
+contradiction	Jennifer has latin class then music class then biology class.	Biology class is before music class.
+contradiction	Martha has geology class then literature class then political science class.	Political science class is before literature class.
+contradiction	Walter has french class then literature class then latin class.	Latin class is before literature class.
+contradiction	David has chemistry class then mathematics class then history class.	History class is before mathematics class.
+contradiction	Katie has geography class then economics class then geology class.	Geology class is before economics class.
+contradiction	Michael has physics class then latin class then chemistry class.	Chemistry class is before latin class.
+contradiction	Sarah has physics class then commerce class then political science class.	Political science class is before commerce class.
+contradiction	Donna has economics class then chemistry class then geology class.	Geology class is before chemistry class.
+contradiction	Ron has mathematics class then latin class then art class.	Art class is before latin class.
+contradiction	Andrew has music class then commerce class then biology class.	Biology class is before commerce class.
+contradiction	Jessica has computer science class then french class then art class.	Art class is before french class.
+contradiction	Catherine has french class then biology class then computer science class.	Computer science class is before biology class.
+contradiction	Martin has computer science class then history class then economics class.	Economics class is before history class.
+contradiction	Kathryn has political science class then french class then economics class.	Economics class is before french class.
+contradiction	Louis has mathematics class then commerce class then chemistry class.	Chemistry class is before commerce class.
+contradiction	Susan has geography class then music class then art class.	Art class is before music class.
+contradiction	Joseph has chemistry class then physics class then political science class.	Political science class is before physics class.
+contradiction	Walter has chemistry class then music class then geography class.	Geography class is before music class.
+contradiction	Betty has geology class then political science class then mathematics class.	Mathematics class is before political science class.
+contradiction	Richard has latin class then biology class then mathematics class.	Mathematics class is before biology class.
+contradiction	Harold has mathematics class then biology class then history class.	History class is before biology class.
+contradiction	Jonathan has art class then history class then mathematics class.	Mathematics class is before history class.
+contradiction	Carolyn has literature class then latin class then economics class.	Economics class is before latin class.
+contradiction	Anne has political science class then literature class then latin class.	Latin class is before literature class.
+contradiction	Michelle has literature class then physics class then geology class.	Geology class is before physics class.
+contradiction	Rachel has biology class then economics class then geography class.	Geography class is before economics class.
+contradiction	Melissa has chemistry class then geology class then political science class.	Political science class is before geology class.
+contradiction	Bobby has mathematics class then history class then french class.	French class is before history class.
+contradiction	Gary has computer science class then literature class then latin class.	Latin class is before literature class.
+contradiction	Heather has chemistry class then geography class then music class.	Music class is before geography class.
+contradiction	Simon has biology class then music class then geography class.	Geography class is before music class.
+contradiction	Jill has computer science class then mathematics class then biology class.	Biology class is before mathematics class.
+contradiction	Albert has chemistry class then biology class then mathematics class.	Mathematics class is before biology class.
+contradiction	Benjamin has economics class then latin class then history class.	History class is before latin class.
+contradiction	Lauren has mathematics class then french class then art class.	Art class is before french class.
+contradiction	Sally has chemistry class then commerce class then mathematics class.	Mathematics class is before commerce class.
+contradiction	George has computer science class then geology class then history class.	History class is before geology class.
+contradiction	Claire has chemistry class then economics class then biology class.	Biology class is before economics class.
+contradiction	Jill has geology class then computer science class then french class.	French class is before computer science class.
+contradiction	Emily has music class then computer science class then latin class.	Latin class is before computer science class.
+contradiction	Diana has mathematics class then chemistry class then commerce class.	Commerce class is before chemistry class.
+contradiction	Robin has literature class then art class then latin class.	Latin class is before art class.
+contradiction	Paul has music class then biology class then art class.	Art class is before biology class.
+contradiction	Ruth has geography class then physics class then art class.	Art class is before physics class.
+contradiction	Eric has mathematics class then physics class then geology class.	Geology class is before physics class.
+contradiction	Rose has mathematics class then biology class then latin class.	Latin class is before biology class.
+contradiction	Harriet has french class then latin class then chemistry class.	Chemistry class is before latin class.
+contradiction	Gary has literature class then chemistry class then art class.	Art class is before chemistry class.
+contradiction	Adam has biology class then literature class then history class.	History class is before literature class.
+contradiction	Karen has physics class then biology class then mathematics class.	Mathematics class is before biology class.
+contradiction	Diane has mathematics class then geology class then biology class.	Biology class is before geology class.
+contradiction	Heather has political science class then economics class then mathematics class.	Mathematics class is before economics class.
+contradiction	Ralph has art class then geography class then latin class.	Latin class is before geography class.
+contradiction	Ralph has literature class then mathematics class then art class.	Art class is before mathematics class.
+contradiction	Charlie has political science class then commerce class then music class.	Music class is before commerce class.
+contradiction	Tom has geology class then music class then mathematics class.	Mathematics class is before music class.
+contradiction	Diana has art class then computer science class then music class.	Music class is before computer science class.
+contradiction	Ellen has latin class then art class then commerce class.	Commerce class is before art class.
+contradiction	Linda has history class then music class then political science class.	Political science class is before music class.
+contradiction	Nicole has computer science class then physics class then economics class.	Economics class is before physics class.
+contradiction	Michael has commerce class then geology class then physics class.	Physics class is before geology class.
+contradiction	Anthony has french class then music class then art class.	Art class is before music class.
+contradiction	Scott has french class then literature class then latin class.	Latin class is before literature class.
+contradiction	Jay has music class then art class then physics class.	Physics class is before art class.
+contradiction	Ellen has economics class then french class then biology class.	Biology class is before french class.
+contradiction	Stephanie has art class then latin class then geography class.	Geography class is before latin class.
+contradiction	Florence has economics class then political science class then chemistry class.	Chemistry class is before political science class.
+contradiction	Joan has chemistry class then geography class then history class.	History class is before geography class.
+contradiction	Carol has literature class then political science class then music class.	Music class is before political science class.
+contradiction	Harry has history class then literature class then computer science class.	Computer science class is before literature class.
+contradiction	Alfred has computer science class then commerce class then latin class.	Latin class is before commerce class.
+contradiction	Edwin has history class then physics class then chemistry class.	Chemistry class is before physics class.
+contradiction	Rachel has art class then literature class then chemistry class.	Chemistry class is before literature class.
+contradiction	Scott has commerce class then music class then biology class.	Biology class is before music class.
+contradiction	Al has music class then history class then french class.	French class is before history class.
+contradiction	Frederick has literature class then geography class then latin class.	Latin class is before geography class.
+contradiction	Samuel has latin class then literature class then geology class.	Geology class is before literature class.
+contradiction	Diane has computer science class then physics class then art class.	Art class is before physics class.
+contradiction	Billy has commerce class then french class then political science class.	Political science class is before french class.
+contradiction	Lynn has geography class then art class then french class.	French class is before art class.
+contradiction	Sam has geography class then music class then history class.	History class is before music class.
+contradiction	Kate has literature class then music class then geography class.	Geography class is before music class.
+contradiction	Angela has chemistry class then political science class then economics class.	Economics class is before political science class.
+contradiction	Andrea has physics class then biology class then computer science class.	Computer science class is before biology class.
+contradiction	Benjamin has music class then latin class then biology class.	Biology class is before latin class.
+contradiction	Harold has physics class then geography class then music class.	Music class is before geography class.
+contradiction	Emily has french class then political science class then chemistry class.	Chemistry class is before political science class.
+contradiction	Dick has art class then biology class then literature class.	Literature class is before biology class.
+contradiction	Nick has computer science class then literature class then biology class.	Biology class is before literature class.
+contradiction	Dick has biology class then political science class then geography class.	Geography class is before political science class.
+contradiction	Peter has biology class then commerce class then physics class.	Physics class is before commerce class.
+contradiction	Rachel has computer science class then geology class then french class.	French class is before geology class.
+contradiction	David has economics class then literature class then latin class.	Latin class is before literature class.
+contradiction	Bruce has french class then history class then commerce class.	Commerce class is before history class.
+contradiction	Jerry has biology class then physics class then economics class.	Economics class is before physics class.
+contradiction	Linda has music class then geology class then history class.	History class is before geology class.
+contradiction	Ben has geology class then music class then literature class.	Literature class is before music class.
+contradiction	Jim has art class then computer science class then french class.	French class is before computer science class.
+contradiction	Alexander has commerce class then mathematics class then chemistry class.	Chemistry class is before mathematics class.
+contradiction	Ray has geology class then literature class then chemistry class.	Chemistry class is before literature class.
+contradiction	Christine has music class then physics class then political science class.	Political science class is before physics class.
+contradiction	Suzanne has commerce class then latin class then history class.	History class is before latin class.
+contradiction	Nicole has geology class then history class then economics class.	Economics class is before history class.
+contradiction	Charlotte has geography class then computer science class then economics class.	Economics class is before computer science class.
+contradiction	Tom has history class then art class then economics class.	Economics class is before art class.
+contradiction	Simon has literature class then chemistry class then economics class.	Economics class is before chemistry class.
+contradiction	Tim has geology class then french class then literature class.	Literature class is before french class.
+contradiction	Francis has music class then history class then french class.	French class is before history class.
+contradiction	Walter has latin class then geography class then chemistry class.	Chemistry class is before geography class.
+contradiction	Kim has economics class then commerce class then political science class.	Political science class is before commerce class.
+contradiction	Matt has art class then music class then mathematics class.	Mathematics class is before music class.
+contradiction	Bob has commerce class then political science class then music class.	Music class is before political science class.
+contradiction	Sara has geology class then art class then chemistry class.	Chemistry class is before art class.
+contradiction	Tom has political science class then computer science class then biology class.	Biology class is before computer science class.
+contradiction	Dick has political science class then physics class then literature class.	Literature class is before physics class.
+contradiction	Heather has geography class then latin class then economics class.	Economics class is before latin class.
+contradiction	Roy has computer science class then french class then chemistry class.	Chemistry class is before french class.
+contradiction	Barbara has french class then computer science class then commerce class.	Commerce class is before computer science class.
+contradiction	Wendy has art class then music class then political science class.	Political science class is before music class.
+contradiction	Cynthia has latin class then biology class then art class.	Art class is before biology class.
+contradiction	David has literature class then biology class then physics class.	Physics class is before biology class.
+contradiction	Emma has political science class then music class then economics class.	Economics class is before music class.
+contradiction	Marilyn has economics class then biology class then geology class.	Geology class is before biology class.
+contradiction	Jean has computer science class then latin class then geology class.	Geology class is before latin class.
+contradiction	Keith has music class then latin class then chemistry class.	Chemistry class is before latin class.
+contradiction	Greg has physics class then commerce class then literature class.	Literature class is before commerce class.
+contradiction	Tony has french class then physics class then geography class.	Geography class is before physics class.
+contradiction	Chris has literature class then economics class then political science class.	Political science class is before economics class.
+contradiction	Anna has geology class then latin class then music class.	Music class is before latin class.
+contradiction	Wendy has economics class then physics class then political science class.	Political science class is before physics class.
+contradiction	Eric has chemistry class then history class then literature class.	Literature class is before history class.
+contradiction	Laura has chemistry class then latin class then mathematics class.	Mathematics class is before latin class.
+contradiction	Roger has latin class then music class then economics class.	Economics class is before music class.
+contradiction	Alison has economics class then music class then geology class.	Geology class is before music class.
+contradiction	Alexander has literature class then computer science class then geology class.	Geology class is before computer science class.
+contradiction	Margaret has literature class then commerce class then chemistry class.	Chemistry class is before commerce class.
+contradiction	Anne has literature class then latin class then commerce class.	Commerce class is before latin class.
+contradiction	Joseph has chemistry class then physics class then political science class.	Political science class is before physics class.
+contradiction	Joe has commerce class then history class then latin class.	Latin class is before history class.
+contradiction	Ed has biology class then chemistry class then commerce class.	Commerce class is before chemistry class.
+contradiction	Benjamin has political science class then economics class then literature class.	Literature class is before economics class.
+contradiction	Albert has commerce class then chemistry class then music class.	Music class is before chemistry class.
+contradiction	Steve has mathematics class then economics class then music class.	Music class is before economics class.
+contradiction	Harold has mathematics class then political science class then chemistry class.	Chemistry class is before political science class.
+contradiction	Jim has geology class then art class then latin class.	Latin class is before art class.
+contradiction	Virginia has economics class then latin class then political science class.	Political science class is before latin class.
+contradiction	Jim has music class then chemistry class then mathematics class.	Mathematics class is before chemistry class.
+contradiction	Alice has latin class then geography class then biology class.	Biology class is before geography class.
+contradiction	Patricia has political science class then geology class then chemistry class.	Chemistry class is before geology class.
+contradiction	Christopher has french class then economics class then political science class.	Political science class is before economics class.
+contradiction	Nicole has music class then geography class then economics class.	Economics class is before geography class.
+contradiction	Martin has physics class then french class then art class.	Art class is before french class.
+contradiction	Edwin has economics class then physics class then literature class.	Literature class is before physics class.
+contradiction	Tom has geology class then geography class then history class.	History class is before geography class.
+contradiction	Emily has political science class then computer science class then art class.	Art class is before computer science class.
+contradiction	Jessica has literature class then physics class then music class.	Music class is before physics class.
+contradiction	John has art class then geography class then chemistry class.	Chemistry class is before geography class.
+contradiction	Albert has geology class then history class then latin class.	Latin class is before history class.
+contradiction	Charlie has computer science class then biology class then french class.	French class is before biology class.
+contradiction	Roger has history class then music class then biology class.	Biology class is before music class.
+contradiction	Peter has chemistry class then literature class then commerce class.	Commerce class is before literature class.
+contradiction	Judith has french class then history class then literature class.	Literature class is before history class.
+contradiction	Frederick has political science class then computer science class then chemistry class.	Chemistry class is before computer science class.
+contradiction	Edward has chemistry class then mathematics class then political science class.	Political science class is before mathematics class.
+contradiction	Anthony has physics class then latin class then mathematics class.	Mathematics class is before latin class.
+contradiction	Donald has literature class then history class then physics class.	Physics class is before history class.
+contradiction	James has geography class then chemistry class then french class.	French class is before chemistry class.
+contradiction	Grace has political science class then history class then biology class.	Biology class is before history class.
+contradiction	Walter has commerce class then computer science class then geology class.	Geology class is before computer science class.
+contradiction	Carol has latin class then economics class then art class.	Art class is before economics class.
+contradiction	Donald has latin class then art class then music class.	Music class is before art class.
+contradiction	Linda has commerce class then history class then economics class.	Economics class is before history class.
+contradiction	Alfred has art class then mathematics class then geology class.	Geology class is before mathematics class.
+contradiction	Albert has geography class then latin class then french class.	French class is before latin class.
+contradiction	Ken has mathematics class then biology class then music class.	Music class is before biology class.
+contradiction	Steve has commerce class then political science class then french class.	French class is before political science class.
+contradiction	Brian has french class then physics class then geology class.	Geology class is before physics class.
+contradiction	Francis has physics class then economics class then computer science class.	Computer science class is before economics class.
+contradiction	Jane has mathematics class then literature class then physics class.	Physics class is before literature class.
+contradiction	Maria has physics class then computer science class then latin class.	Latin class is before computer science class.
+contradiction	Elizabeth has chemistry class then computer science class then physics class.	Physics class is before computer science class.
+contradiction	Ken has biology class then geology class then commerce class.	Commerce class is before geology class.
+contradiction	Christine has history class then music class then political science class.	Political science class is before music class.
+contradiction	Melissa has latin class then music class then commerce class.	Commerce class is before music class.
+contradiction	Claire has french class then literature class then history class.	History class is before literature class.
+contradiction	Edith has computer science class then physics class then mathematics class.	Mathematics class is before physics class.
+contradiction	Ray has geography class then political science class then biology class.	Biology class is before political science class.
+contradiction	Don has biology class then geography class then history class.	History class is before geography class.
+contradiction	Carolyn has latin class then geology class then political science class.	Political science class is before geology class.
+contradiction	Arthur has chemistry class then political science class then economics class.	Economics class is before political science class.
+contradiction	John has physics class then french class then computer science class.	Computer science class is before french class.
+contradiction	Anne has commerce class then french class then history class.	History class is before french class.
+contradiction	Joan has art class then geology class then history class.	History class is before geology class.
+contradiction	Amy has history class then geology class then political science class.	Political science class is before geology class.
+contradiction	Rachel has art class then geography class then geology class.	Geology class is before geography class.
+contradiction	Sarah has chemistry class then computer science class then political science class.	Political science class is before computer science class.
+contradiction	Lisa has physics class then economics class then geology class.	Geology class is before economics class.
+contradiction	Richard has art class then literature class then physics class.	Physics class is before literature class.
+contradiction	Jennifer has latin class then art class then physics class.	Physics class is before art class.
+contradiction	Dorothy has french class then art class then commerce class.	Commerce class is before art class.
+contradiction	Joe has computer science class then commerce class then latin class.	Latin class is before commerce class.
+contradiction	Jerry has commerce class then history class then french class.	French class is before history class.
+contradiction	Carolyn has art class then economics class then history class.	History class is before economics class.
+contradiction	Alex has computer science class then commerce class then literature class.	Literature class is before commerce class.
+contradiction	Frederick has art class then economics class then music class.	Music class is before economics class.
+contradiction	Eleanor has computer science class then literature class then history class.	History class is before literature class.
+contradiction	Marie has mathematics class then music class then chemistry class.	Chemistry class is before music class.
+contradiction	Jeff has french class then computer science class then economics class.	Economics class is before computer science class.
+contradiction	Emily has physics class then french class then art class.	Art class is before french class.
+contradiction	Victoria has political science class then computer science class then economics class.	Economics class is before computer science class.
+contradiction	Ed has art class then computer science class then physics class.	Physics class is before computer science class.
+contradiction	Marie has french class then latin class then literature class.	Literature class is before latin class.
+contradiction	Andrea has economics class then art class then political science class.	Political science class is before art class.
+contradiction	Jane has geography class then biology class then music class.	Music class is before biology class.
+contradiction	Hugh has latin class then geography class then computer science class.	Computer science class is before geography class.
+contradiction	Jeff has art class then mathematics class then music class.	Music class is before mathematics class.
+contradiction	Louis has geography class then biology class then literature class.	Literature class is before biology class.
+contradiction	Alice has political science class then chemistry class then literature class.	Literature class is before chemistry class.
+contradiction	Joseph has commerce class then history class then french class.	French class is before history class.
+contradiction	Pamela has french class then mathematics class then geology class.	Geology class is before mathematics class.
+contradiction	George has music class then french class then history class.	History class is before french class.
+contradiction	Judith has latin class then economics class then geology class.	Geology class is before economics class.
+contradiction	Ed has commerce class then physics class then chemistry class.	Chemistry class is before physics class.
+contradiction	Chris has geography class then literature class then commerce class.	Commerce class is before literature class.
+contradiction	Rebecca has history class then literature class then physics class.	Physics class is before literature class.
+contradiction	Nicole has art class then mathematics class then computer science class.	Computer science class is before mathematics class.
+contradiction	Sue has history class then music class then french class.	French class is before music class.
+contradiction	Edward has computer science class then economics class then chemistry class.	Chemistry class is before economics class.
+contradiction	Suzanne has economics class then geology class then commerce class.	Commerce class is before geology class.
+contradiction	Tim has geology class then geography class then chemistry class.	Chemistry class is before geography class.
+contradiction	Ann has geology class then literature class then commerce class.	Commerce class is before literature class.
+contradiction	Pamela has economics class then chemistry class then biology class.	Biology class is before chemistry class.
+contradiction	Ron has mathematics class then geography class then computer science class.	Computer science class is before geography class.
+contradiction	Florence has literature class then biology class then commerce class.	Commerce class is before biology class.
+contradiction	Patrick has literature class then art class then commerce class.	Commerce class is before art class.
+contradiction	Dan has commerce class then art class then latin class.	Latin class is before art class.
+contradiction	Stephen has political science class then economics class then physics class.	Physics class is before economics class.
+contradiction	George has french class then computer science class then mathematics class.	Mathematics class is before computer science class.
+contradiction	Louise has economics class then chemistry class then geology class.	Geology class is before chemistry class.
+contradiction	Rose has chemistry class then geology class then music class.	Music class is before geology class.
+contradiction	Leslie has commerce class then literature class then french class.	French class is before literature class.
+contradiction	Edwin has commerce class then literature class then political science class.	Political science class is before literature class.
+contradiction	Dick has mathematics class then latin class then art class.	Art class is before latin class.
+contradiction	Jack has economics class then literature class then physics class.	Physics class is before literature class.
+contradiction	Bobby has latin class then mathematics class then physics class.	Physics class is before mathematics class.
+contradiction	Steve has chemistry class then geology class then history class.	History class is before geology class.
+contradiction	Alexander has commerce class then latin class then music class.	Music class is before latin class.
+contradiction	Angela has french class then physics class then biology class.	Biology class is before physics class.
+contradiction	Rose has art class then literature class then french class.	French class is before literature class.
+contradiction	Ralph has computer science class then biology class then literature class.	Literature class is before biology class.
+contradiction	Bobby has history class then music class then art class.	Art class is before music class.
+contradiction	Anne has chemistry class then history class then mathematics class.	Mathematics class is before history class.
+contradiction	Emma has music class then mathematics class then physics class.	Physics class is before mathematics class.
+contradiction	Alice has geography class then chemistry class then commerce class.	Commerce class is before chemistry class.
+contradiction	Mark has economics class then history class then literature class.	Literature class is before history class.
+contradiction	Martha has commerce class then biology class then geology class.	Geology class is before biology class.
+contradiction	Eleanor has geography class then history class then literature class.	Literature class is before history class.
+contradiction	Jonathan has art class then french class then chemistry class.	Chemistry class is before french class.
+contradiction	Sara has geology class then economics class then french class.	French class is before economics class.
+contradiction	Michelle has economics class then french class then geology class.	Geology class is before french class.
+contradiction	Larry has french class then latin class then literature class.	Literature class is before latin class.
+contradiction	Kelly has political science class then biology class then literature class.	Literature class is before biology class.
+contradiction	Ashley has political science class then french class then music class.	Music class is before french class.
+contradiction	Kelly has music class then chemistry class then economics class.	Economics class is before chemistry class.
+contradiction	Susan has french class then art class then economics class.	Economics class is before art class.
+contradiction	Larry has computer science class then literature class then geology class.	Geology class is before literature class.
+contradiction	Benjamin has geography class then economics class then mathematics class.	Mathematics class is before economics class.
+contradiction	Katherine has geology class then biology class then mathematics class.	Mathematics class is before biology class.
+contradiction	Sue has art class then geology class then commerce class.	Commerce class is before geology class.
+contradiction	Al has geography class then biology class then computer science class.	Computer science class is before biology class.
+contradiction	Helen has music class then geology class then geography class.	Geography class is before geology class.
+contradiction	Florence has literature class then mathematics class then music class.	Music class is before mathematics class.
+contradiction	Andrew has computer science class then chemistry class then history class.	History class is before chemistry class.
+contradiction	Hugh has biology class then geography class then art class.	Art class is before geography class.
+contradiction	Frances has french class then history class then chemistry class.	Chemistry class is before history class.
+contradiction	Amy has mathematics class then economics class then political science class.	Political science class is before economics class.
+contradiction	Katherine has physics class then geography class then computer science class.	Computer science class is before geography class.
+contradiction	Ben has economics class then chemistry class then political science class.	Political science class is before chemistry class.
+contradiction	Philip has chemistry class then political science class then physics class.	Physics class is before political science class.
+contradiction	Eric has chemistry class then economics class then french class.	French class is before economics class.
+contradiction	Amanda has history class then computer science class then art class.	Art class is before computer science class.
+contradiction	Jessica has latin class then music class then art class.	Art class is before music class.
+contradiction	Jonathan has mathematics class then geography class then music class.	Music class is before geography class.
+contradiction	Kelly has physics class then chemistry class then music class.	Music class is before chemistry class.
+contradiction	Karen has computer science class then latin class then geology class.	Geology class is before latin class.
+contradiction	Dick has chemistry class then mathematics class then history class.	History class is before mathematics class.
+contradiction	Wendy has chemistry class then geology class then history class.	History class is before geology class.
+contradiction	Kate has art class then latin class then physics class.	Physics class is before latin class.
+contradiction	Joan has literature class then commerce class then geology class.	Geology class is before commerce class.
+contradiction	Jay has physics class then french class then literature class.	Literature class is before french class.
+contradiction	Louise has computer science class then biology class then commerce class.	Commerce class is before biology class.
+contradiction	Judith has chemistry class then computer science class then history class.	History class is before computer science class.
+contradiction	Kim has art class then geography class then chemistry class.	Chemistry class is before geography class.
+contradiction	Jeff has geography class then economics class then history class.	History class is before economics class.
+contradiction	Christine has music class then physics class then chemistry class.	Chemistry class is before physics class.
+contradiction	Lauren has geography class then political science class then physics class.	Physics class is before political science class.
+contradiction	Fred has music class then computer science class then french class.	French class is before computer science class.
+contradiction	Linda has music class then computer science class then commerce class.	Commerce class is before computer science class.
+contradiction	Keith has music class then art class then geology class.	Geology class is before art class.
+contradiction	Alfred has biology class then physics class then geography class.	Geography class is before physics class.
+contradiction	Ian has geology class then chemistry class then french class.	French class is before chemistry class.
+contradiction	Edith has latin class then chemistry class then french class.	French class is before chemistry class.
+contradiction	Patrick has geology class then art class then geography class.	Geography class is before art class.
+contradiction	Mark has biology class then art class then computer science class.	Computer science class is before art class.
+contradiction	Bob has literature class then french class then chemistry class.	Chemistry class is before french class.
+contradiction	Steven has economics class then biology class then computer science class.	Computer science class is before biology class.
+contradiction	Claire has biology class then french class then commerce class.	Commerce class is before french class.
+contradiction	Ken has chemistry class then commerce class then computer science class.	Computer science class is before commerce class.
+contradiction	Jerry has music class then commerce class then geology class.	Geology class is before commerce class.
+contradiction	Sharon has latin class then biology class then history class.	History class is before biology class.
+contradiction	Howard has music class then history class then art class.	Art class is before history class.
+contradiction	Mary has latin class then music class then literature class.	Literature class is before music class.
+contradiction	Daniel has history class then biology class then french class.	French class is before biology class.
+contradiction	James has geology class then computer science class then geography class.	Geography class is before computer science class.
+contradiction	Ian has geology class then french class then geography class.	Geography class is before french class.
+contradiction	Rachel has geography class then history class then computer science class.	Computer science class is before history class.
+contradiction	Laura has history class then literature class then mathematics class.	Mathematics class is before literature class.
+contradiction	Billy has literature class then art class then commerce class.	Commerce class is before art class.
+contradiction	Mark has mathematics class then french class then latin class.	Latin class is before french class.
+contradiction	Sue has music class then history class then art class.	Art class is before history class.
+contradiction	Tony has french class then geology class then computer science class.	Computer science class is before geology class.
+contradiction	Francis has latin class then literature class then physics class.	Physics class is before literature class.
+contradiction	Mark has french class then art class then computer science class.	Computer science class is before art class.
+contradiction	Jim has history class then biology class then french class.	French class is before biology class.
+contradiction	Laura has geography class then mathematics class then economics class.	Economics class is before mathematics class.
+contradiction	Jonathan has literature class then french class then economics class.	Economics class is before french class.
+contradiction	Frances has political science class then geology class then biology class.	Biology class is before geology class.
+contradiction	Don has computer science class then french class then music class.	Music class is before french class.
+contradiction	Greg has history class then french class then geology class.	Geology class is before french class.
+contradiction	Katie has geography class then geology class then mathematics class.	Mathematics class is before geology class.
+contradiction	Sarah has french class then art class then physics class.	Physics class is before art class.
+contradiction	Michelle has chemistry class then history class then literature class.	Literature class is before history class.
+contradiction	Greg has music class then geology class then art class.	Art class is before geology class.
+contradiction	Andrew has french class then economics class then art class.	Art class is before economics class.
+contradiction	Robin has art class then history class then geology class.	Geology class is before history class.
+contradiction	Hugh has latin class then music class then literature class.	Literature class is before music class.
+contradiction	Pamela has economics class then french class then art class.	Art class is before french class.
+contradiction	Matthew has political science class then art class then literature class.	Literature class is before art class.
+contradiction	Paul has geography class then physics class then commerce class.	Commerce class is before physics class.
+contradiction	Sally has economics class then physics class then geography class.	Geography class is before physics class.
+contradiction	William has art class then french class then political science class.	Political science class is before french class.
+contradiction	Dorothy has art class then geography class then physics class.	Physics class is before geography class.
+contradiction	Jessica has economics class then commerce class then geology class.	Geology class is before commerce class.
+contradiction	Jane has french class then computer science class then literature class.	Literature class is before computer science class.
+contradiction	Hugh has geology class then music class then political science class.	Political science class is before music class.
+contradiction	Katherine has computer science class then economics class then latin class.	Latin class is before economics class.
+contradiction	Kathleen has geography class then geology class then chemistry class.	Chemistry class is before geology class.
+contradiction	Sophie has physics class then biology class then political science class.	Political science class is before biology class.
+contradiction	Rose has latin class then geology class then physics class.	Physics class is before geology class.
+contradiction	Ben has chemistry class then latin class then history class.	History class is before latin class.
+contradiction	Al has chemistry class then art class then history class.	History class is before art class.
+contradiction	Matthew has economics class then latin class then french class.	French class is before latin class.
+contradiction	Angela has political science class then history class then chemistry class.	Chemistry class is before history class.
+contradiction	Henry has latin class then political science class then biology class.	Biology class is before political science class.
+contradiction	Jeff has history class then geology class then latin class.	Latin class is before geology class.
+contradiction	Evelyn has computer science class then history class then biology class.	Biology class is before history class.
+contradiction	Joe has chemistry class then literature class then music class.	Music class is before literature class.
+contradiction	Patricia has political science class then art class then computer science class.	Computer science class is before art class.
+contradiction	Frances has music class then mathematics class then art class.	Art class is before mathematics class.
+contradiction	Benjamin has geography class then biology class then mathematics class.	Mathematics class is before biology class.
+contradiction	Kevin has geography class then literature class then biology class.	Biology class is before literature class.
+contradiction	Roger has mathematics class then french class then geography class.	Geography class is before french class.
+contradiction	Suzanne has literature class then commerce class then art class.	Art class is before commerce class.
+contradiction	Karen has commerce class then latin class then chemistry class.	Chemistry class is before latin class.
+contradiction	Edward has geography class then chemistry class then french class.	French class is before chemistry class.
+contradiction	Joseph has history class then physics class then political science class.	Political science class is before physics class.
+contradiction	Cynthia has latin class then chemistry class then physics class.	Physics class is before chemistry class.
+contradiction	Susan has commerce class then mathematics class then art class.	Art class is before mathematics class.
+contradiction	Gary has mathematics class then economics class then political science class.	Political science class is before economics class.
+contradiction	Roy has economics class then art class then geography class.	Geography class is before art class.
+contradiction	Tim has geography class then physics class then biology class.	Biology class is before physics class.
+contradiction	Bob has commerce class then french class then geology class.	Geology class is before french class.
+contradiction	Diane has art class then computer science class then economics class.	Economics class is before computer science class.
+contradiction	Joan has latin class then geology class then mathematics class.	Mathematics class is before geology class.
+contradiction	Peter has history class then physics class then french class.	French class is before physics class.
+contradiction	Charlie has chemistry class then latin class then biology class.	Biology class is before latin class.
+contradiction	Arthur has history class then computer science class then art class.	Art class is before computer science class.
+contradiction	Henry has biology class then geography class then art class.	Art class is before geography class.
+contradiction	Betty has french class then music class then economics class.	Economics class is before music class.
+contradiction	Joseph has geography class then physics class then music class.	Music class is before physics class.
+contradiction	Jim has geography class then geology class then computer science class.	Computer science class is before geology class.
+contradiction	Joseph has geography class then commerce class then literature class.	Literature class is before commerce class.
+contradiction	Judith has latin class then mathematics class then music class.	Music class is before mathematics class.
+contradiction	Mark has french class then geography class then political science class.	Political science class is before geography class.
+contradiction	Robin has chemistry class then art class then music class.	Music class is before art class.
+contradiction	Elizabeth has french class then latin class then chemistry class.	Chemistry class is before latin class.
+contradiction	Al has commerce class then music class then literature class.	Literature class is before music class.
+contradiction	Donna has art class then literature class then geology class.	Geology class is before literature class.
+contradiction	Marie has art class then biology class then chemistry class.	Chemistry class is before biology class.
+contradiction	Patrick has geology class then geography class then mathematics class.	Mathematics class is before geography class.
+contradiction	Ron has latin class then economics class then computer science class.	Computer science class is before economics class.
+contradiction	Kate has commerce class then history class then geology class.	Geology class is before history class.
+contradiction	Gary has biology class then chemistry class then art class.	Art class is before chemistry class.
+contradiction	Kate has economics class then french class then physics class.	Physics class is before french class.
+contradiction	Alan has music class then geology class then french class.	French class is before geology class.
+contradiction	Peter has economics class then latin class then history class.	History class is before latin class.
+contradiction	Benjamin has chemistry class then latin class then geography class.	Geography class is before latin class.
+contradiction	Jessica has economics class then political science class then chemistry class.	Chemistry class is before political science class.
+contradiction	Walter has latin class then music class then economics class.	Economics class is before music class.
+contradiction	Adam has latin class then art class then commerce class.	Commerce class is before art class.
+contradiction	Daniel has art class then chemistry class then history class.	History class is before chemistry class.
+contradiction	Joe has physics class then french class then art class.	Art class is before french class.
+contradiction	Ralph has literature class then geology class then latin class.	Latin class is before geology class.
+contradiction	Charlotte has chemistry class then geology class then literature class.	Literature class is before geology class.
+contradiction	Ed has physics class then biology class then literature class.	Literature class is before biology class.
+contradiction	Amy has history class then mathematics class then geography class.	Geography class is before mathematics class.
+contradiction	Julia has economics class then political science class then french class.	French class is before political science class.
+contradiction	Jimmy has physics class then french class then mathematics class.	Mathematics class is before french class.
+contradiction	Alex has art class then physics class then geography class.	Geography class is before physics class.
+contradiction	Ralph has french class then literature class then music class.	Music class is before literature class.
+contradiction	Alfred has chemistry class then history class then economics class.	Economics class is before history class.
+contradiction	Simon has music class then physics class then art class.	Art class is before physics class.
+contradiction	Matthew has physics class then literature class then economics class.	Economics class is before literature class.
+contradiction	Paul has commerce class then music class then literature class.	Literature class is before music class.
+contradiction	Linda has geography class then chemistry class then geology class.	Geology class is before chemistry class.
+contradiction	Dan has political science class then computer science class then mathematics class.	Mathematics class is before computer science class.
+contradiction	Alexander has commerce class then computer science class then physics class.	Physics class is before computer science class.
+contradiction	Patricia has biology class then commerce class then latin class.	Latin class is before commerce class.
+contradiction	Daniel has geology class then political science class then latin class.	Latin class is before political science class.
+contradiction	Carol has physics class then commerce class then biology class.	Biology class is before commerce class.
+contradiction	Stephen has chemistry class then geography class then art class.	Art class is before geography class.
+contradiction	Chris has biology class then physics class then literature class.	Literature class is before physics class.
+contradiction	Diana has political science class then economics class then physics class.	Physics class is before economics class.
+contradiction	Harry has economics class then french class then music class.	Music class is before french class.
+contradiction	Janet has computer science class then history class then latin class.	Latin class is before history class.
+contradiction	Tony has art class then geography class then music class.	Music class is before geography class.
+contradiction	Florence has commerce class then computer science class then history class.	History class is before computer science class.
+contradiction	Wendy has political science class then geography class then geology class.	Geology class is before geography class.
+contradiction	Benjamin has biology class then economics class then commerce class.	Commerce class is before economics class.
+contradiction	Alison has commerce class then geology class then geography class.	Geography class is before geology class.
+contradiction	Fred has computer science class then french class then political science class.	Political science class is before french class.
+contradiction	Katherine has art class then latin class then commerce class.	Commerce class is before latin class.
+contradiction	Judy has chemistry class then history class then economics class.	Economics class is before history class.
+contradiction	Caroline has political science class then latin class then physics class.	Physics class is before latin class.
+contradiction	Gary has french class then biology class then physics class.	Physics class is before biology class.
+contradiction	Rachel has geology class then mathematics class then french class.	French class is before mathematics class.
+contradiction	Kenneth has history class then chemistry class then mathematics class.	Mathematics class is before chemistry class.
+contradiction	Emma has literature class then commerce class then art class.	Art class is before commerce class.
+contradiction	Ray has latin class then art class then physics class.	Physics class is before art class.
+contradiction	Ann has geology class then biology class then chemistry class.	Chemistry class is before biology class.
+contradiction	Richard has physics class then computer science class then history class.	History class is before computer science class.
+contradiction	Alison has commerce class then economics class then music class.	Music class is before economics class.
+contradiction	Henry has french class then economics class then biology class.	Biology class is before economics class.
+contradiction	Alice has chemistry class then french class then commerce class.	Commerce class is before french class.
+contradiction	Walter has literature class then chemistry class then music class.	Music class is before chemistry class.
+contradiction	Anthony has computer science class then music class then french class.	French class is before music class.
+contradiction	Fred has history class then latin class then art class.	Art class is before latin class.
+contradiction	Sally has art class then economics class then biology class.	Biology class is before economics class.
+contradiction	Nicole has history class then art class then physics class.	Physics class is before art class.
+contradiction	Alexandra has literature class then economics class then chemistry class.	Chemistry class is before economics class.
+contradiction	Emma has mathematics class then french class then physics class.	Physics class is before french class.
+contradiction	Carolyn has chemistry class then biology class then art class.	Art class is before biology class.
+contradiction	Judith has political science class then art class then computer science class.	Computer science class is before art class.
+contradiction	Jill has french class then commerce class then geology class.	Geology class is before commerce class.
+contradiction	Marilyn has geology class then literature class then music class.	Music class is before literature class.
+contradiction	Edward has geography class then economics class then literature class.	Literature class is before economics class.
+contradiction	Claire has art class then economics class then chemistry class.	Chemistry class is before economics class.
+contradiction	Ben has music class then computer science class then physics class.	Physics class is before computer science class.
+contradiction	Judith has latin class then computer science class then history class.	History class is before computer science class.
+contradiction	Lynn has mathematics class then geography class then economics class.	Economics class is before geography class.
+contradiction	Gary has economics class then physics class then computer science class.	Computer science class is before physics class.
+contradiction	Howard has computer science class then commerce class then geology class.	Geology class is before commerce class.
+contradiction	Patrick has computer science class then history class then physics class.	Physics class is before history class.
+contradiction	Mary has geology class then economics class then physics class.	Physics class is before economics class.
+contradiction	Dan has chemistry class then latin class then history class.	History class is before latin class.
+contradiction	Betty has music class then commerce class then french class.	French class is before commerce class.
+contradiction	Nancy has art class then chemistry class then french class.	French class is before chemistry class.
+contradiction	Edward has political science class then latin class then music class.	Music class is before latin class.
+contradiction	Ian has commerce class then biology class then history class.	History class is before biology class.
+contradiction	Florence has geography class then biology class then literature class.	Literature class is before biology class.
+contradiction	Philip has chemistry class then latin class then mathematics class.	Mathematics class is before latin class.
+contradiction	Deborah has history class then literature class then geography class.	Geography class is before literature class.
+contradiction	Colin has physics class then biology class then economics class.	Economics class is before biology class.
+contradiction	Kathy has geography class then art class then french class.	French class is before art class.
+contradiction	Leslie has biology class then latin class then literature class.	Literature class is before latin class.
+contradiction	Joan has mathematics class then commerce class then biology class.	Biology class is before commerce class.
+contradiction	Chris has biology class then french class then computer science class.	Computer science class is before french class.
+contradiction	Julie has biology class then geology class then art class.	Art class is before geology class.
+contradiction	Claire has geology class then music class then computer science class.	Computer science class is before music class.
+contradiction	Sophie has music class then chemistry class then latin class.	Latin class is before chemistry class.
+contradiction	Ken has mathematics class then music class then french class.	French class is before music class.
+contradiction	Stephen has political science class then commerce class then french class.	French class is before commerce class.
+contradiction	Karen has history class then french class then physics class.	Physics class is before french class.
+contradiction	Grace has music class then art class then french class.	French class is before art class.
+contradiction	Ray has music class then literature class then latin class.	Latin class is before literature class.
+contradiction	Amy has biology class then physics class then geography class.	Geography class is before physics class.
+contradiction	Sandra has geology class then chemistry class then latin class.	Latin class is before chemistry class.
+contradiction	Frederick has economics class then biology class then history class.	History class is before biology class.
+contradiction	Mary has geography class then physics class then music class.	Music class is before physics class.
+contradiction	Emma has literature class then physics class then economics class.	Economics class is before physics class.
+contradiction	Suzanne has mathematics class then biology class then french class.	French class is before biology class.
+contradiction	Ken has geology class then physics class then computer science class.	Computer science class is before physics class.
+contradiction	Brian has history class then commerce class then music class.	Music class is before commerce class.
+contradiction	Ralph has history class then french class then latin class.	Latin class is before french class.
+contradiction	Caroline has geology class then chemistry class then geography class.	Geography class is before chemistry class.
+contradiction	Thomas has music class then biology class then commerce class.	Commerce class is before biology class.
+contradiction	Michael has chemistry class then economics class then commerce class.	Commerce class is before economics class.
+contradiction	Diana has geography class then economics class then art class.	Art class is before economics class.
+contradiction	Katie has history class then political science class then computer science class.	Computer science class is before political science class.
+contradiction	Jessica has geology class then mathematics class then music class.	Music class is before mathematics class.
+contradiction	Carol has literature class then geology class then economics class.	Economics class is before geology class.
+contradiction	Laura has geography class then music class then political science class.	Political science class is before music class.
+contradiction	Nicole has biology class then latin class then computer science class.	Computer science class is before latin class.
+contradiction	Katie has commerce class then french class then history class.	History class is before french class.
+contradiction	Thomas has latin class then physics class then economics class.	Economics class is before physics class.
+contradiction	George has latin class then computer science class then physics class.	Physics class is before computer science class.
+contradiction	Sophie has computer science class then french class then latin class.	Latin class is before french class.
+contradiction	Tony has political science class then latin class then computer science class.	Computer science class is before latin class.
+contradiction	Virginia has history class then music class then french class.	French class is before music class.
+contradiction	Fred has mathematics class then physics class then commerce class.	Commerce class is before physics class.
+contradiction	Wendy has latin class then physics class then geography class.	Geography class is before physics class.
+contradiction	Victoria has computer science class then french class then latin class.	Latin class is before french class.
+contradiction	Dorothy has computer science class then commerce class then music class.	Music class is before commerce class.
+contradiction	Helen has chemistry class then commerce class then french class.	French class is before commerce class.
+contradiction	Julie has music class then history class then biology class.	Biology class is before history class.
+contradiction	Ray has geology class then economics class then biology class.	Biology class is before economics class.
+contradiction	Daniel has economics class then political science class then mathematics class.	Mathematics class is before political science class.
+contradiction	Carol has physics class then art class then computer science class.	Computer science class is before art class.
+contradiction	Martin has art class then french class then biology class.	Biology class is before french class.
+contradiction	Carl has history class then latin class then computer science class.	Computer science class is before latin class.
+contradiction	Keith has geography class then music class then french class.	French class is before music class.
+contradiction	Jane has latin class then chemistry class then geology class.	Geology class is before chemistry class.
+contradiction	Jim has french class then biology class then history class.	History class is before biology class.
+contradiction	Elaine has art class then french class then political science class.	Political science class is before french class.
+contradiction	Kevin has computer science class then mathematics class then commerce class.	Commerce class is before mathematics class.
+contradiction	Amanda has literature class then geography class then geology class.	Geology class is before geography class.
+contradiction	Joseph has mathematics class then latin class then french class.	French class is before latin class.
+contradiction	Matthew has french class then geography class then computer science class.	Computer science class is before geography class.
+contradiction	Charles has mathematics class then art class then biology class.	Biology class is before art class.
+contradiction	Christine has french class then history class then economics class.	Economics class is before history class.
+contradiction	Lawrence has commerce class then literature class then geography class.	Geography class is before literature class.
+contradiction	Lisa has chemistry class then biology class then political science class.	Political science class is before biology class.
+contradiction	Catherine has political science class then french class then geography class.	Geography class is before french class.
+contradiction	Paul has commerce class then art class then biology class.	Biology class is before art class.
+contradiction	Gary has music class then french class then political science class.	Political science class is before french class.
+contradiction	Catherine has latin class then computer science class then history class.	History class is before computer science class.
+contradiction	Alan has commerce class then physics class then political science class.	Political science class is before physics class.
+contradiction	Anne has biology class then history class then literature class.	Literature class is before history class.
+contradiction	Ray has geology class then history class then commerce class.	Commerce class is before history class.
+contradiction	Jack has biology class then computer science class then music class.	Music class is before computer science class.
+contradiction	Rose has commerce class then literature class then computer science class.	Computer science class is before literature class.
+contradiction	Frances has political science class then mathematics class then music class.	Music class is before mathematics class.
+contradiction	Ben has chemistry class then music class then art class.	Art class is before music class.
+contradiction	Fiona has music class then computer science class then economics class.	Economics class is before computer science class.
+contradiction	John has art class then economics class then geography class.	Geography class is before economics class.
+contradiction	Richard has biology class then art class then chemistry class.	Chemistry class is before art class.
+contradiction	Emma has mathematics class then latin class then music class.	Music class is before latin class.
+contradiction	Robin has biology class then geology class then commerce class.	Commerce class is before geology class.
+contradiction	Karen has music class then history class then computer science class.	Computer science class is before history class.
+contradiction	Annie has latin class then computer science class then geography class.	Geography class is before computer science class.
+contradiction	George has computer science class then physics class then latin class.	Latin class is before physics class.
+contradiction	Sue has history class then geography class then computer science class.	Computer science class is before geography class.
+contradiction	Bruce has biology class then geology class then chemistry class.	Chemistry class is before geology class.
+contradiction	Judy has economics class then french class then physics class.	Physics class is before french class.
+contradiction	Ann has mathematics class then chemistry class then french class.	French class is before chemistry class.
+contradiction	Louis has art class then geography class then literature class.	Literature class is before geography class.
+contradiction	Harriet has geography class then french class then physics class.	Physics class is before french class.
+contradiction	Donna has music class then physics class then history class.	History class is before physics class.
+contradiction	Elizabeth has chemistry class then latin class then literature class.	Literature class is before latin class.
+contradiction	Janet has economics class then chemistry class then geology class.	Geology class is before chemistry class.
+contradiction	Patrick has geology class then literature class then mathematics class.	Mathematics class is before literature class.
+contradiction	Maria has geography class then art class then computer science class.	Computer science class is before art class.
+contradiction	Diane has biology class then art class then history class.	History class is before art class.
+contradiction	Matthew has physics class then music class then art class.	Art class is before music class.
+contradiction	Patrick has french class then history class then economics class.	Economics class is before history class.
+contradiction	Joe has french class then mathematics class then economics class.	Economics class is before mathematics class.
+contradiction	Rebecca has chemistry class then mathematics class then french class.	French class is before mathematics class.
+contradiction	Daniel has mathematics class then art class then french class.	French class is before art class.
+contradiction	Don has history class then latin class then art class.	Art class is before latin class.
+contradiction	Jerry has political science class then history class then physics class.	Physics class is before history class.
+contradiction	Cynthia has mathematics class then art class then computer science class.	Computer science class is before art class.
+contradiction	Walter has geography class then political science class then latin class.	Latin class is before political science class.
+contradiction	Marie has mathematics class then computer science class then latin class.	Latin class is before computer science class.
+contradiction	Charles has computer science class then geology class then biology class.	Biology class is before geology class.
+contradiction	Lauren has commerce class then biology class then literature class.	Literature class is before biology class.
+contradiction	Heather has mathematics class then history class then biology class.	Biology class is before history class.
+contradiction	Al has computer science class then french class then economics class.	Economics class is before french class.
+contradiction	Steve has music class then geology class then economics class.	Economics class is before geology class.
+contradiction	Julia has computer science class then physics class then geology class.	Geology class is before physics class.
+contradiction	Ian has french class then chemistry class then computer science class.	Computer science class is before chemistry class.
+contradiction	Lynn has french class then biology class then computer science class.	Computer science class is before biology class.
+contradiction	Jane has computer science class then biology class then french class.	French class is before biology class.
+contradiction	Judy has music class then economics class then biology class.	Biology class is before economics class.
+contradiction	Billy has biology class then music class then geography class.	Geography class is before music class.
+contradiction	Larry has economics class then biology class then geology class.	Geology class is before biology class.
+contradiction	Claire has chemistry class then physics class then commerce class.	Commerce class is before physics class.
+contradiction	Jay has latin class then geography class then music class.	Music class is before geography class.
+contradiction	Alison has chemistry class then geography class then physics class.	Physics class is before geography class.
+contradiction	Cynthia has commerce class then chemistry class then physics class.	Physics class is before chemistry class.
+contradiction	Gary has french class then economics class then computer science class.	Computer science class is before economics class.
+contradiction	Nicole has latin class then mathematics class then biology class.	Biology class is before mathematics class.
+contradiction	Annie has political science class then physics class then computer science class.	Computer science class is before physics class.
+contradiction	Samuel has french class then geography class then chemistry class.	Chemistry class is before geography class.
+contradiction	Keith has geology class then commerce class then physics class.	Physics class is before commerce class.
+contradiction	Virginia has computer science class then mathematics class then french class.	French class is before mathematics class.
+contradiction	Jane has french class then commerce class then political science class.	Political science class is before commerce class.
+contradiction	Bobby has art class then latin class then history class.	History class is before latin class.
+contradiction	Rebecca has biology class then computer science class then french class.	French class is before computer science class.
+contradiction	Elaine has commerce class then music class then economics class.	Economics class is before music class.
+contradiction	Jeff has political science class then geography class then chemistry class.	Chemistry class is before geography class.
+contradiction	Alex has history class then geography class then french class.	French class is before geography class.
+contradiction	Sam has political science class then french class then geology class.	Geology class is before french class.
+contradiction	Ray has geology class then literature class then mathematics class.	Mathematics class is before literature class.
+contradiction	Alison has latin class then computer science class then commerce class.	Commerce class is before computer science class.
+contradiction	Patrick has art class then physics class then music class.	Music class is before physics class.
+contradiction	Heather has music class then geology class then political science class.	Political science class is before geology class.
+contradiction	Brian has mathematics class then commerce class then music class.	Music class is before commerce class.
+contradiction	Cynthia has latin class then physics class then history class.	History class is before physics class.
+contradiction	Alison has physics class then geology class then art class.	Art class is before geology class.
+contradiction	Donna has history class then commerce class then mathematics class.	Mathematics class is before commerce class.
+contradiction	Lisa has commerce class then physics class then political science class.	Political science class is before physics class.
+contradiction	Rose has mathematics class then music class then computer science class.	Computer science class is before music class.
+contradiction	Alice has biology class then political science class then commerce class.	Commerce class is before political science class.
+contradiction	Kelly has biology class then history class then latin class.	Latin class is before history class.
+contradiction	Angela has french class then music class then physics class.	Physics class is before music class.
+contradiction	Ed has biology class then commerce class then music class.	Music class is before commerce class.
+contradiction	Karen has french class then latin class then history class.	History class is before latin class.
+contradiction	Ruth has computer science class then economics class then geography class.	Geography class is before economics class.
+contradiction	Brian has commerce class then french class then geology class.	Geology class is before french class.
+contradiction	Fiona has computer science class then chemistry class then physics class.	Physics class is before chemistry class.
+contradiction	Fiona has computer science class then music class then chemistry class.	Chemistry class is before music class.
+contradiction	Martin has art class then geology class then political science class.	Political science class is before geology class.
+contradiction	Roy has art class then mathematics class then biology class.	Biology class is before mathematics class.
+contradiction	Jimmy has history class then mathematics class then music class.	Music class is before mathematics class.
+contradiction	Greg has french class then music class then physics class.	Physics class is before music class.
+contradiction	Jim has history class then economics class then music class.	Music class is before economics class.
+contradiction	Nancy has physics class then latin class then biology class.	Biology class is before latin class.
+contradiction	Grace has mathematics class then economics class then biology class.	Biology class is before economics class.
+contradiction	Jay has economics class then biology class then chemistry class.	Chemistry class is before biology class.
+contradiction	Bobby has commerce class then computer science class then economics class.	Economics class is before computer science class.
+contradiction	Jason has biology class then economics class then physics class.	Physics class is before economics class.
+contradiction	Anthony has latin class then chemistry class then commerce class.	Commerce class is before chemistry class.
+contradiction	Jason has geography class then mathematics class then latin class.	Latin class is before mathematics class.
+contradiction	Louise has history class then literature class then physics class.	Physics class is before literature class.
+contradiction	Alan has latin class then commerce class then chemistry class.	Chemistry class is before commerce class.
+contradiction	Katie has geology class then history class then physics class.	Physics class is before history class.
+contradiction	Thomas has political science class then music class then history class.	History class is before music class.
+contradiction	Mark has art class then chemistry class then commerce class.	Commerce class is before chemistry class.
+contradiction	Lucy has geology class then french class then latin class.	Latin class is before french class.
+contradiction	Christine has geology class then latin class then music class.	Music class is before latin class.
+contradiction	Laura has literature class then computer science class then chemistry class.	Chemistry class is before computer science class.
+contradiction	Stephen has biology class then political science class then music class.	Music class is before political science class.
+contradiction	Gary has history class then mathematics class then music class.	Music class is before mathematics class.
+contradiction	Kevin has history class then french class then geography class.	Geography class is before french class.
+contradiction	Ben has history class then political science class then geology class.	Geology class is before political science class.
+contradiction	Caroline has mathematics class then biology class then commerce class.	Commerce class is before biology class.
+contradiction	Betty has geography class then literature class then political science class.	Political science class is before literature class.
+contradiction	David has geography class then literature class then mathematics class.	Mathematics class is before literature class.
+contradiction	Sarah has political science class then french class then geology class.	Geology class is before french class.
+contradiction	Emma has chemistry class then physics class then art class.	Art class is before physics class.
+contradiction	Betty has mathematics class then literature class then art class.	Art class is before literature class.
+contradiction	Jennifer has art class then geology class then computer science class.	Computer science class is before geology class.
+contradiction	Harriet has economics class then art class then political science class.	Political science class is before art class.
+contradiction	Ruth has biology class then geology class then history class.	History class is before geology class.
+contradiction	Carl has history class then economics class then geology class.	Geology class is before economics class.
+contradiction	Eric has music class then geology class then chemistry class.	Chemistry class is before geology class.
+contradiction	Donald has economics class then mathematics class then political science class.	Political science class is before mathematics class.
+contradiction	Steve has biology class then french class then political science class.	Political science class is before french class.
+contradiction	Susan has commerce class then geography class then literature class.	Literature class is before geography class.
+contradiction	Jean has economics class then history class then computer science class.	Computer science class is before history class.
+contradiction	Helen has computer science class then latin class then art class.	Art class is before latin class.
+contradiction	Joe has french class then geology class then computer science class.	Computer science class is before geology class.
+contradiction	Lawrence has economics class then mathematics class then literature class.	Literature class is before mathematics class.
+contradiction	Ben has chemistry class then physics class then mathematics class.	Mathematics class is before physics class.
+contradiction	Howard has music class then french class then chemistry class.	Chemistry class is before french class.
+contradiction	Philip has history class then mathematics class then french class.	French class is before mathematics class.
+contradiction	Ryan has latin class then commerce class then chemistry class.	Chemistry class is before commerce class.
+contradiction	Caroline has economics class then chemistry class then latin class.	Latin class is before chemistry class.
+contradiction	Ellen has french class then chemistry class then physics class.	Physics class is before chemistry class.
+contradiction	Howard has french class then computer science class then art class.	Art class is before computer science class.
+contradiction	Rebecca has literature class then biology class then french class.	French class is before biology class.
+contradiction	Colin has geology class then biology class then geography class.	Geography class is before biology class.
+contradiction	Jean has latin class then geology class then french class.	French class is before geology class.
+contradiction	Florence has commerce class then chemistry class then literature class.	Literature class is before chemistry class.
+contradiction	Ralph has literature class then computer science class then music class.	Music class is before computer science class.
+contradiction	Mark has commerce class then history class then geography class.	Geography class is before history class.
+contradiction	Bill has french class then art class then mathematics class.	Mathematics class is before art class.
+contradiction	Angela has computer science class then literature class then physics class.	Physics class is before literature class.
+contradiction	Nancy has mathematics class then latin class then physics class.	Physics class is before latin class.
+contradiction	Ron has literature class then music class then latin class.	Latin class is before music class.
+contradiction	Michael has french class then music class then commerce class.	Commerce class is before music class.
+contradiction	Amanda has computer science class then geology class then chemistry class.	Chemistry class is before geology class.
+contradiction	David has latin class then physics class then biology class.	Biology class is before physics class.
+contradiction	Linda has french class then mathematics class then latin class.	Latin class is before mathematics class.
+contradiction	Mary has latin class then physics class then literature class.	Literature class is before physics class.
+contradiction	Florence has biology class then latin class then music class.	Music class is before latin class.
+contradiction	Peter has chemistry class then music class then geography class.	Geography class is before music class.
+contradiction	Greg has geology class then literature class then geography class.	Geography class is before literature class.
+contradiction	Grace has history class then geology class then biology class.	Biology class is before geology class.
+contradiction	Louis has commerce class then economics class then chemistry class.	Chemistry class is before economics class.
+contradiction	Frances has economics class then mathematics class then art class.	Art class is before mathematics class.
+contradiction	Carl has music class then french class then computer science class.	Computer science class is before french class.
+contradiction	Victoria has biology class then political science class then latin class.	Latin class is before political science class.
+contradiction	Annie has political science class then geography class then geology class.	Geology class is before geography class.
+contradiction	Edwin has french class then computer science class then physics class.	Physics class is before computer science class.
+contradiction	Judith has commerce class then art class then physics class.	Physics class is before art class.
+contradiction	Tim has history class then biology class then geology class.	Geology class is before biology class.
+contradiction	Michelle has mathematics class then literature class then french class.	French class is before literature class.
+contradiction	Deborah has literature class then music class then mathematics class.	Mathematics class is before music class.
+contradiction	Matthew has mathematics class then biology class then music class.	Music class is before biology class.
+contradiction	Donald has computer science class then latin class then political science class.	Political science class is before latin class.
+contradiction	Michelle has geology class then mathematics class then commerce class.	Commerce class is before mathematics class.
+contradiction	Michelle has mathematics class then french class then biology class.	Biology class is before french class.
+contradiction	Edward has geology class then literature class then music class.	Music class is before literature class.
+contradiction	Sara has literature class then art class then history class.	History class is before art class.
+contradiction	Anne has geography class then computer science class then political science class.	Political science class is before computer science class.
+contradiction	Victoria has physics class then geography class then literature class.	Literature class is before geography class.
+contradiction	Annie has art class then history class then mathematics class.	Mathematics class is before history class.
+contradiction	Jerry has computer science class then economics class then latin class.	Latin class is before economics class.
+contradiction	Ray has chemistry class then physics class then music class.	Music class is before physics class.
+contradiction	Ben has latin class then political science class then economics class.	Economics class is before political science class.
+contradiction	Betty has computer science class then latin class then literature class.	Literature class is before latin class.
+contradiction	Charles has geology class then economics class then commerce class.	Commerce class is before economics class.
+contradiction	Caroline has art class then music class then mathematics class.	Mathematics class is before music class.
+contradiction	Ann has computer science class then geology class then history class.	History class is before geology class.
+contradiction	Sam has physics class then political science class then french class.	French class is before political science class.
+contradiction	Eleanor has latin class then computer science class then economics class.	Economics class is before computer science class.
+contradiction	Edith has geology class then history class then mathematics class.	Mathematics class is before history class.
+contradiction	Katie has economics class then latin class then music class.	Music class is before latin class.
+contradiction	Ellen has french class then geology class then music class.	Music class is before geology class.
+contradiction	George has geography class then economics class then latin class.	Latin class is before economics class.
+contradiction	Eric has economics class then mathematics class then commerce class.	Commerce class is before mathematics class.
+contradiction	Jerry has geology class then art class then french class.	French class is before art class.
+contradiction	Daniel has music class then geology class then chemistry class.	Chemistry class is before geology class.
+contradiction	Dorothy has history class then computer science class then biology class.	Biology class is before computer science class.
+contradiction	Rachel has geology class then biology class then geography class.	Geography class is before biology class.
+contradiction	Mary has physics class then french class then geology class.	Geology class is before french class.
+contradiction	Sara has economics class then commerce class then latin class.	Latin class is before commerce class.
+contradiction	Edwin has economics class then french class then geology class.	Geology class is before french class.
+contradiction	Kim has art class then economics class then commerce class.	Commerce class is before economics class.
+contradiction	Donna has computer science class then commerce class then geology class.	Geology class is before commerce class.
+contradiction	Melissa has latin class then economics class then mathematics class.	Mathematics class is before economics class.
+contradiction	Florence has physics class then latin class then music class.	Music class is before latin class.
+contradiction	Diana has french class then literature class then political science class.	Political science class is before literature class.
+contradiction	Grace has literature class then geography class then french class.	French class is before geography class.
+contradiction	Tom has art class then commerce class then biology class.	Biology class is before commerce class.
+contradiction	Nick has geology class then mathematics class then commerce class.	Commerce class is before mathematics class.
+contradiction	Bill has literature class then mathematics class then latin class.	Latin class is before mathematics class.
+contradiction	Alison has art class then biology class then chemistry class.	Chemistry class is before biology class.
+contradiction	Barbara has physics class then latin class then music class.	Music class is before latin class.
+contradiction	Andrea has french class then geology class then economics class.	Economics class is before geology class.
+contradiction	Carl has geography class then mathematics class then commerce class.	Commerce class is before mathematics class.
+contradiction	Charles has economics class then latin class then history class.	History class is before latin class.
+contradiction	Sam has music class then history class then commerce class.	Commerce class is before history class.
+contradiction	James has geography class then political science class then art class.	Art class is before political science class.
+contradiction	Joan has geography class then history class then economics class.	Economics class is before history class.
+contradiction	Pamela has commerce class then literature class then french class.	French class is before literature class.
+contradiction	Sue has commerce class then music class then literature class.	Literature class is before music class.
+contradiction	Al has literature class then physics class then political science class.	Political science class is before physics class.
+contradiction	Ray has chemistry class then history class then music class.	Music class is before history class.
+contradiction	Elaine has french class then history class then physics class.	Physics class is before history class.
+contradiction	Larry has latin class then chemistry class then physics class.	Physics class is before chemistry class.
+contradiction	Jessica has political science class then biology class then music class.	Music class is before biology class.
+contradiction	Ben has geography class then art class then latin class.	Latin class is before art class.
+contradiction	Tony has music class then geology class then economics class.	Economics class is before geology class.
+contradiction	Mike has chemistry class then literature class then physics class.	Physics class is before literature class.
+contradiction	Emma has computer science class then art class then french class.	French class is before art class.
+contradiction	Carol has commerce class then chemistry class then music class.	Music class is before chemistry class.
+contradiction	Mark has economics class then commerce class then latin class.	Latin class is before commerce class.
+contradiction	Robin has political science class then geology class then chemistry class.	Chemistry class is before geology class.
+contradiction	Marilyn has chemistry class then biology class then physics class.	Physics class is before biology class.
+contradiction	Janet has commerce class then history class then computer science class.	Computer science class is before history class.
+contradiction	Jennifer has french class then latin class then physics class.	Physics class is before latin class.
+contradiction	Chris has art class then commerce class then geography class.	Geography class is before commerce class.
+contradiction	Kim has art class then commerce class then literature class.	Literature class is before commerce class.
+contradiction	Alison has biology class then chemistry class then music class.	Music class is before chemistry class.
+contradiction	Martin has music class then latin class then geology class.	Geology class is before latin class.
+contradiction	Johnny has history class then art class then chemistry class.	Chemistry class is before art class.
+contradiction	Michael has biology class then music class then history class.	History class is before music class.
+contradiction	Mark has art class then commerce class then geography class.	Geography class is before commerce class.
+contradiction	Joan has economics class then geology class then history class.	History class is before geology class.
+contradiction	Sandra has biology class then geology class then music class.	Music class is before geology class.
+contradiction	Robin has mathematics class then french class then music class.	Music class is before french class.
+contradiction	Julie has physics class then art class then geography class.	Geography class is before art class.
+contradiction	Louise has art class then history class then political science class.	Political science class is before history class.
+contradiction	Walter has commerce class then geology class then computer science class.	Computer science class is before geology class.
+contradiction	Annie has music class then chemistry class then economics class.	Economics class is before chemistry class.
+contradiction	Martha has literature class then latin class then french class.	French class is before latin class.
+contradiction	Eric has history class then economics class then geology class.	Geology class is before economics class.
+contradiction	Larry has commerce class then art class then mathematics class.	Mathematics class is before art class.
+contradiction	Linda has political science class then history class then chemistry class.	Chemistry class is before history class.
+contradiction	Jack has latin class then economics class then chemistry class.	Chemistry class is before economics class.
+contradiction	Jack has chemistry class then physics class then economics class.	Economics class is before physics class.
+contradiction	Kathy has mathematics class then art class then political science class.	Political science class is before art class.
+contradiction	Anthony has political science class then history class then biology class.	Biology class is before history class.
+contradiction	Carol has geography class then latin class then commerce class.	Commerce class is before latin class.
+contradiction	Larry has political science class then economics class then physics class.	Physics class is before economics class.
+contradiction	Bill has latin class then computer science class then chemistry class.	Chemistry class is before computer science class.
+contradiction	Ron has computer science class then music class then chemistry class.	Chemistry class is before music class.
+contradiction	George has chemistry class then geology class then political science class.	Political science class is before geology class.
+contradiction	Claire has geology class then french class then biology class.	Biology class is before french class.
+contradiction	Charlie has biology class then computer science class then mathematics class.	Mathematics class is before computer science class.
+contradiction	Carol has music class then physics class then chemistry class.	Chemistry class is before physics class.
+contradiction	Dan has latin class then mathematics class then chemistry class.	Chemistry class is before mathematics class.
+contradiction	Emma has geography class then geology class then latin class.	Latin class is before geology class.
+contradiction	Donna has geology class then mathematics class then literature class.	Literature class is before mathematics class.
+contradiction	Donald has french class then literature class then music class.	Music class is before literature class.
+contradiction	Diane has french class then chemistry class then economics class.	Economics class is before chemistry class.
+contradiction	Helen has literature class then history class then geology class.	Geology class is before history class.
+contradiction	Amanda has music class then computer science class then chemistry class.	Chemistry class is before computer science class.
+contradiction	Ralph has computer science class then latin class then geology class.	Geology class is before latin class.
+contradiction	Alison has mathematics class then music class then computer science class.	Computer science class is before music class.
+contradiction	Matt has geography class then commerce class then chemistry class.	Chemistry class is before commerce class.
+contradiction	Amy has history class then art class then literature class.	Literature class is before art class.
+contradiction	Benjamin has geology class then history class then mathematics class.	Mathematics class is before history class.
+contradiction	Harriet has computer science class then french class then latin class.	Latin class is before french class.
+contradiction	Kathryn has music class then geography class then art class.	Art class is before geography class.
+contradiction	Brian has art class then political science class then geography class.	Geography class is before political science class.
+contradiction	Daniel has geology class then art class then economics class.	Economics class is before art class.
+contradiction	Samuel has commerce class then chemistry class then economics class.	Economics class is before chemistry class.
+contradiction	Leslie has economics class then art class then music class.	Music class is before art class.
+contradiction	Laura has latin class then geology class then french class.	French class is before geology class.
+contradiction	Nicole has computer science class then art class then music class.	Music class is before art class.
+contradiction	Sandra has chemistry class then economics class then latin class.	Latin class is before economics class.
+contradiction	Sue has mathematics class then french class then literature class.	Literature class is before french class.
+contradiction	Kathy has physics class then latin class then economics class.	Economics class is before latin class.
+contradiction	Jack has music class then biology class then commerce class.	Commerce class is before biology class.
+contradiction	Jill has latin class then literature class then political science class.	Political science class is before literature class.
+contradiction	Laura has french class then biology class then economics class.	Economics class is before biology class.
+contradiction	Larry has commerce class then history class then music class.	Music class is before history class.
+contradiction	Ashley has political science class then geology class then computer science class.	Computer science class is before geology class.
+contradiction	Ellen has chemistry class then geology class then geography class.	Geography class is before geology class.
+contradiction	Suzanne has art class then computer science class then music class.	Music class is before computer science class.
+contradiction	Louis has french class then latin class then history class.	History class is before latin class.
+contradiction	Diane has computer science class then geology class then physics class.	Physics class is before geology class.
+contradiction	Eleanor has political science class then geology class then music class.	Music class is before geology class.
+contradiction	Karen has biology class then computer science class then chemistry class.	Chemistry class is before computer science class.
+contradiction	Elaine has geography class then economics class then geology class.	Geology class is before economics class.
+contradiction	Charlie has biology class then physics class then chemistry class.	Chemistry class is before physics class.
+contradiction	Greg has chemistry class then biology class then latin class.	Latin class is before biology class.
+contradiction	Marilyn has commerce class then latin class then biology class.	Biology class is before latin class.
+contradiction	Sam has commerce class then biology class then physics class.	Physics class is before biology class.
+contradiction	Roger has latin class then art class then music class.	Music class is before art class.
+contradiction	Katherine has history class then physics class then mathematics class.	Mathematics class is before physics class.
+contradiction	Robin has music class then latin class then art class.	Art class is before latin class.
+contradiction	Robin has economics class then physics class then geography class.	Geography class is before physics class.
+contradiction	Jim has mathematics class then political science class then latin class.	Latin class is before political science class.
+contradiction	Hugh has chemistry class then economics class then mathematics class.	Mathematics class is before economics class.
+contradiction	Ray has mathematics class then history class then music class.	Music class is before history class.
+contradiction	Nancy has french class then geography class then history class.	History class is before geography class.
+contradiction	Adam has geography class then commerce class then history class.	History class is before commerce class.
+contradiction	Sam has computer science class then mathematics class then physics class.	Physics class is before mathematics class.
+contradiction	Edward has commerce class then history class then mathematics class.	Mathematics class is before history class.
+contradiction	George has geology class then political science class then art class.	Art class is before political science class.
+contradiction	Ian has computer science class then political science class then history class.	History class is before political science class.
+contradiction	Betty has french class then physics class then chemistry class.	Chemistry class is before physics class.
+contradiction	Virginia has latin class then geology class then geography class.	Geography class is before geology class.
+contradiction	Dorothy has french class then physics class then mathematics class.	Mathematics class is before physics class.
+contradiction	Kenneth has music class then commerce class then french class.	French class is before commerce class.
+contradiction	Jimmy has history class then french class then geography class.	Geography class is before french class.
+contradiction	Colin has chemistry class then geology class then mathematics class.	Mathematics class is before geology class.
+contradiction	Diane has computer science class then latin class then french class.	French class is before latin class.
+contradiction	Rebecca has history class then chemistry class then literature class.	Literature class is before chemistry class.
+contradiction	Deborah has political science class then economics class then french class.	French class is before economics class.
+contradiction	Sharon has art class then latin class then computer science class.	Computer science class is before latin class.
+contradiction	Frank has physics class then geography class then computer science class.	Computer science class is before geography class.
+contradiction	Anna has commerce class then physics class then art class.	Art class is before physics class.
+contradiction	Patrick has physics class then commerce class then geology class.	Geology class is before commerce class.
+contradiction	Elaine has economics class then literature class then political science class.	Political science class is before literature class.
+contradiction	Richard has latin class then geography class then history class.	History class is before geography class.
+contradiction	Donna has geology class then economics class then latin class.	Latin class is before economics class.
+contradiction	Virginia has mathematics class then french class then geography class.	Geography class is before french class.
+contradiction	Scott has french class then political science class then commerce class.	Commerce class is before political science class.
+contradiction	Harry has literature class then latin class then art class.	Art class is before latin class.
+contradiction	Andrew has political science class then history class then literature class.	Literature class is before history class.
+contradiction	Lawrence has physics class then history class then economics class.	Economics class is before history class.
+contradiction	Heather has geography class then physics class then mathematics class.	Mathematics class is before physics class.
+contradiction	Jack has music class then economics class then mathematics class.	Mathematics class is before economics class.
+contradiction	Jim has literature class then geography class then computer science class.	Computer science class is before geography class.
+contradiction	Andrea has literature class then french class then history class.	History class is before french class.
+contradiction	Robin has art class then mathematics class then biology class.	Biology class is before mathematics class.
+contradiction	Margaret has commerce class then biology class then french class.	French class is before biology class.
+contradiction	Howard has literature class then political science class then chemistry class.	Chemistry class is before political science class.
+contradiction	Michael has art class then french class then geography class.	Geography class is before french class.
+contradiction	Adam has physics class then geography class then biology class.	Biology class is before geography class.

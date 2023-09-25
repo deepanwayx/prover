@@ -1,0 +1,1000 @@
+entailment	Nick is fairer than Marie. Nick is fairer than William.	Among Marie, William and Nick the fairest is Nick.
+entailment	Frank is more clever than Helen. Frank is more clever than Nick.	Among Helen, Nick and Frank the most clever is Frank.
+entailment	Lawrence is dumber than Richard. Lawrence is dumber than Ray.	Among Richard, Ray and Lawrence the dumbest is Lawrence.
+entailment	Elizabeth is bitterer than Greg. Elizabeth is bitterer than Anne.	Among Greg, Anne and Elizabeth the bitterest is Elizabeth.
+entailment	Caroline is older than Emily. Caroline is older than Victoria.	Among Emily, Victoria and Caroline the oldest is Caroline.
+entailment	Robert is cleverer than Ben. Robert is cleverer than Matt.	Among Ben, Matt and Robert the cleverest is Robert.
+entailment	Sarah is curvier than Roy. Sarah is curvier than Matthew.	Among Roy, Matthew and Sarah the curviest is Sarah.
+entailment	Jay is tougher than Donald. Jay is tougher than Robin.	Among Donald, Robin and Jay the toughest is Jay.
+entailment	Howard is more handsome than Joan. Howard is more handsome than Benjamin.	Among Joan, Benjamin and Howard the most handsome is Howard.
+entailment	Margaret is prettier than Francis. Margaret is prettier than Brian.	Among Francis, Brian and Margaret the prettiest is Margaret.
+entailment	Alexandra is uglier than Julia. Alexandra is uglier than Sally.	Among Julia, Sally and Alexandra the ugliest is Alexandra.
+entailment	Kelly is skinnier than Harry. Kelly is skinnier than Al.	Among Harry, Al and Kelly the skinniest is Kelly.
+entailment	Julie is crazier than Catherine. Julie is crazier than Robin.	Among Catherine, Robin and Julie the craziest is Julie.
+entailment	Florence is crueller than Ruth. Florence is crueller than Joe.	Among Ruth, Joe and Florence the cruellest is Florence.
+entailment	Fiona is more tired than Julie. Fiona is more tired than Al.	Among Julie, Al and Fiona the most tired is Fiona.
+entailment	Jeff is more modern than Martin. Jeff is more modern than Laura.	Among Martin, Laura and Jeff the most modern is Jeff.
+entailment	Julia is prouder than Thomas. Julia is prouder than Sara.	Among Thomas, Sara and Julia the proudest is Julia.
+entailment	Heather is longer than Sarah. Heather is longer than Donna.	Among Sarah, Donna and Heather the longest is Heather.
+entailment	Martha is chubbier than Marilyn. Martha is chubbier than Kate.	Among Marilyn, Kate and Martha the chubbiest is Martha.
+entailment	Fred is brighter than Mark. Fred is brighter than Maria.	Among Mark, Maria and Fred the brightest is Fred.
+entailment	Edward is shorter than Sam. Edward is shorter than Julie.	Among Sam, Julie and Edward the shortest is Edward.
+entailment	Jim is richer than Kim. Jim is richer than Victoria.	Among Kim, Victoria and Jim the richest is Jim.
+entailment	Nancy is slimmer than Florence. Nancy is slimmer than Jack.	Among Florence, Jack and Nancy the slimmest is Nancy.
+entailment	Karen is more beautiful than Diana. Karen is more beautiful than Sara.	Among Diana, Sara and Karen the most beautiful is Karen.
+entailment	Michael is naughtier than Nancy. Michael is naughtier than Sam.	Among Nancy, Sam and Michael the naughtiest is Michael.
+entailment	Sandra is bitterer than Scott. Sandra is bitterer than Tim.	Among Scott, Tim and Sandra the bitterest is Sandra.
+entailment	Roy is richer than Julia. Roy is richer than Howard.	Among Julia, Howard and Roy the richest is Roy.
+entailment	Jennifer is more handsome than Tony. Jennifer is more handsome than Emily.	Among Tony, Emily and Jennifer the most handsome is Jennifer.
+entailment	Harriet is lonlier than Frances. Harriet is lonlier than Ray.	Among Frances, Ray and Harriet the loneliest is Harriet.
+entailment	Bill is greedier than Florence. Bill is greedier than Edward.	Among Florence, Edward and Bill the greediest is Bill.
+entailment	Mary is messier than Arthur. Mary is messier than Harry.	Among Arthur, Harry and Mary the messiest is Mary.
+entailment	Dave is firmer than Frances. Dave is firmer than Victoria.	Among Frances, Victoria and Dave the firmest is Dave.
+entailment	Jane is more attractive than Heather. Jane is more attractive than Ian.	Among Heather, Ian and Jane the most attractive is Jane.
+entailment	Bill is bolder than Andrew. Bill is bolder than Richard.	Among Andrew, Richard and Bill the boldest is Bill.
+entailment	Samuel is crazier than Donna. Samuel is crazier than Kathryn.	Among Donna, Kathryn and Samuel the craziest is Samuel.
+entailment	Ellen is friendlier than Francis. Ellen is friendlier than Joe.	Among Francis, Joe and Ellen the friendliest is Ellen.
+entailment	Harold is nicer than Francis. Harold is nicer than Thomas.	Among Francis, Thomas and Harold the nicest is Harold.
+entailment	Catherine is more beautiful than Nancy. Catherine is more beautiful than Elaine.	Among Nancy, Elaine and Catherine the most beautiful is Catherine.
+entailment	John is classier than Pamela. John is classier than Henry.	Among Pamela, Henry and John the classiest is John.
+entailment	Kate is classier than Howard. Kate is classier than Leslie.	Among Howard, Leslie and Kate the classiest is Kate.
+entailment	Bill is noisier than Julie. Bill is noisier than Ann.	Among Julie, Ann and Bill the noisiest is Bill.
+entailment	Patrick is greedier than Hugh. Patrick is greedier than Tim.	Among Hugh, Tim and Patrick the greediest is Patrick.
+entailment	Christine is better than Jennifer. Christine is better than Ashley.	Among Jennifer, Ashley and Christine the best is Christine.
+entailment	Alice is taller than Robert. Alice is taller than Anna.	Among Robert, Anna and Alice the tallest is Alice.
+entailment	Janet is sharper than Claire. Janet is sharper than Annie.	Among Claire, Annie and Janet the sharpest is Janet.
+entailment	Marie is kinder than Howard. Marie is kinder than Sam.	Among Howard, Sam and Marie the kindest is Marie.
+entailment	Ruth is scarier than Rebecca. Ruth is scarier than Anthony.	Among Rebecca, Anthony and Ruth the scariest is Ruth.
+entailment	Sue is more beautiful than Johnny. Sue is more beautiful than Simon.	Among Johnny, Simon and Sue the most beautiful is Sue.
+entailment	Jack is classier than Bob. Jack is classier than Patricia.	Among Bob, Patricia and Jack the classiest is Jack.
+entailment	Amanda is hungrier than Kathryn. Amanda is hungrier than Wendy.	Among Kathryn, Wendy and Amanda the hungriest is Amanda.
+entailment	Ray is curvier than Kenneth. Ray is curvier than Louise.	Among Kenneth, Louise and Ray the curviest is Ray.
+entailment	Mark is uglier than Janet. Mark is uglier than David.	Among Janet, David and Mark the ugliest is Mark.
+entailment	Fiona is sorrier than Lisa. Fiona is sorrier than Dick.	Among Lisa, Dick and Fiona the sorriest is Fiona.
+entailment	Albert is classier than Joe. Albert is classier than Bobby.	Among Joe, Bobby and Albert the classiest is Albert.
+entailment	Carolyn is taller than Ruth. Carolyn is taller than Peter.	Among Ruth, Peter and Carolyn the tallest is Carolyn.
+entailment	Suzanne is scarier than Jason. Suzanne is scarier than Katie.	Among Jason, Katie and Suzanne the scariest is Suzanne.
+entailment	Benjamin is weirder than Roger. Benjamin is weirder than Judy.	Among Roger, Judy and Benjamin the weirdest is Benjamin.
+entailment	Dorothy is guilter than Alan. Dorothy is guilter than Stephen.	Among Alan, Stephen and Dorothy the guiltiest is Dorothy.
+entailment	Frank is more polite than Ruth. Frank is more polite than Stephen.	Among Ruth, Stephen and Frank the most polite is Frank.
+entailment	Jonathan is noisier than Anne. Jonathan is noisier than Alexandra.	Among Anne, Alexandra and Jonathan the noisiest is Jonathan.
+entailment	Joe is busier than Nicole. Joe is busier than Anne.	Among Nicole, Anne and Joe the busiest is Joe.
+entailment	Jay is older than Judith. Jay is older than Karen.	Among Judith, Karen and Jay the oldest is Jay.
+entailment	Betty is more bitter than Lucy. Betty is more bitter than Dorothy.	Among Lucy, Dorothy and Betty the most bitter is Betty.
+entailment	Diane is tougher than Harriet. Diane is tougher than Charlotte.	Among Harriet, Charlotte and Diane the toughest is Diane.
+entailment	Donald is cleverer than Heather. Donald is cleverer than Eleanor.	Among Heather, Eleanor and Donald the cleverest is Donald.
+entailment	Tony is shallower than Arthur. Tony is shallower than Alison.	Among Arthur, Alison and Tony the shallowest is Tony.
+entailment	Annie is classier than Sam. Annie is classier than Ryan.	Among Sam, Ryan and Annie the classiest is Annie.
+entailment	Dorothy is stronger than Martin. Dorothy is stronger than Sophie.	Among Martin, Sophie and Dorothy the strongest is Dorothy.
+entailment	Don is calmer than Alexandra. Don is calmer than Jeff.	Among Alexandra, Jeff and Don the calmest is Don.
+entailment	Sally is quieter than Tony. Sally is quieter than Brian.	Among Tony, Brian and Sally the quietest is Sally.
+entailment	Frances is crueller than Anna. Frances is crueller than Robin.	Among Anna, Robin and Frances the cruellest is Frances.
+entailment	Jay is worse than Edwin. Jay is worse than Jonathan.	Among Edwin, Jonathan and Jay the worst is Jay.
+entailment	Greg is lonlier than Melissa. Greg is lonlier than Joseph.	Among Melissa, Joseph and Greg the loneliest is Greg.
+entailment	Martin is chubbier than Joan. Martin is chubbier than Roy.	Among Joan, Roy and Martin the chubbiest is Martin.
+entailment	Larry is ruder than Daniel. Larry is ruder than Francis.	Among Daniel, Francis and Larry the rudest is Larry.
+entailment	Andrew is denser than Maria. Andrew is denser than Greg.	Among Maria, Greg and Andrew the densest is Andrew.
+entailment	Maria is cuter than Richard. Maria is cuter than Greg.	Among Richard, Greg and Maria the cutest is Maria.
+entailment	Ralph is chubbier than Carl. Ralph is chubbier than Bill.	Among Carl, Bill and Ralph the chubbiest is Ralph.
+entailment	Keith is prettier than Jane. Keith is prettier than Lawrence.	Among Jane, Lawrence and Keith the prettiest is Keith.
+entailment	Edwin is calmer than Edith. Edwin is calmer than Lawrence.	Among Edith, Lawrence and Edwin the calmest is Edwin.
+entailment	Laura is more bitter than Nancy. Laura is more bitter than Frederick.	Among Nancy, Frederick and Laura the most bitter is Laura.
+entailment	Ellen is more clever than Edith. Ellen is more clever than Billy.	Among Edith, Billy and Ellen the most clever is Ellen.
+entailment	Amanda is sharper than Steve. Amanda is sharper than Matt.	Among Steve, Matt and Amanda the sharpest is Amanda.
+entailment	Judith is more renowned than Karen. Judith is more renowned than Adam.	Among Karen, Adam and Judith the most renowned is Judith.
+entailment	Christopher is friendlier than George. Christopher is friendlier than Steve.	Among George, Steve and Christopher the friendliest is Christopher.
+entailment	Donna is worse than Jennifer. Donna is worse than Melissa.	Among Jennifer, Melissa and Donna the worst is Donna.
+entailment	Ralph is busier than Al. Ralph is busier than Rose.	Among Al, Rose and Ralph the busiest is Ralph.
+entailment	Annie is thinner than Andrea. Annie is thinner than Chris.	Among Andrea, Chris and Annie the thinnest is Annie.
+entailment	George is fatter than Ashley. George is fatter than Ken.	Among Ashley, Ken and George the fattest is George.
+entailment	Charlotte is politer than Brian. Charlotte is politer than Wendy.	Among Brian, Wendy and Charlotte the politest is Charlotte.
+entailment	Bruce is smaller than Deborah. Bruce is smaller than Charles.	Among Deborah, Charles and Bruce the smallest is Bruce.
+entailment	Jennifer is harsher than Anthony. Jennifer is harsher than Kim.	Among Anthony, Kim and Jennifer the harshest is Jennifer.
+entailment	Leslie is friendlier than Sue. Leslie is friendlier than Tony.	Among Sue, Tony and Leslie the friendliest is Leslie.
+entailment	Carl is more interesting than Frances. Carl is more interesting than Angela.	Among Frances, Angela and Carl the most interesting is Carl.
+entailment	Mike is smarter than Jason. Mike is smarter than Richard.	Among Jason, Richard and Mike the smartest is Mike.
+entailment	Catherine is weirder than Frederick. Catherine is weirder than Dorothy.	Among Frederick, Dorothy and Catherine the weirdest is Catherine.
+entailment	Carol is brighter than Jessica. Carol is brighter than Ed.	Among Jessica, Ed and Carol the brightest is Carol.
+entailment	Stephanie is nicer than Bruce. Stephanie is nicer than Martha.	Among Bruce, Martha and Stephanie the nicest is Stephanie.
+entailment	Victoria is slower than Marie. Victoria is slower than Wendy.	Among Marie, Wendy and Victoria the slowest is Victoria.
+entailment	Fred is firmer than Virginia. Fred is firmer than Anthony.	Among Virginia, Anthony and Fred the firmest is Fred.
+entailment	Judith is denser than George. Judith is denser than Alison.	Among George, Alison and Judith the densest is Judith.
+entailment	Harry is worse than Jane. Harry is worse than Ian.	Among Jane, Ian and Harry the worst is Harry.
+entailment	Kevin is angrier than Kathy. Kevin is angrier than Charles.	Among Kathy, Charles and Kevin the angriest is Kevin.
+entailment	Edith is fitter than Keith. Edith is fitter than Kenneth.	Among Keith, Kenneth and Edith the fittest is Edith.
+entailment	Louise is kinder than Kathy. Louise is kinder than Linda.	Among Kathy, Linda and Louise the kindest is Louise.
+entailment	William is more interesting than Jimmy. William is more interesting than Donald.	Among Jimmy, Donald and William the most interesting is William.
+entailment	Dorothy is busier than Lynn. Dorothy is busier than Julie.	Among Lynn, Julie and Dorothy the busiest is Dorothy.
+entailment	Amanda is nicer than Tony. Amanda is nicer than Steven.	Among Tony, Steven and Amanda the nicest is Amanda.
+entailment	Barbara is more popular than Harry. Barbara is more popular than Leslie.	Among Harry, Leslie and Barbara the most popular is Barbara.
+entailment	Dorothy is funnier than Marilyn. Dorothy is funnier than Ellen.	Among Marilyn, Ellen and Dorothy the funniest is Dorothy.
+entailment	Wendy is prouder than Roger. Wendy is prouder than Frances.	Among Roger, Frances and Wendy the proudest is Wendy.
+entailment	James is quieter than Chris. James is quieter than Stephanie.	Among Chris, Stephanie and James the quietest is James.
+entailment	Daniel is slimmer than Katie. Daniel is slimmer than Ruth.	Among Katie, Ruth and Daniel the slimmest is Daniel.
+entailment	Rebecca is cleverer than Samuel. Rebecca is cleverer than Cynthia.	Among Samuel, Cynthia and Rebecca the cleverest is Rebecca.
+entailment	Sue is sadder than Jessica. Sue is sadder than Michael.	Among Jessica, Michael and Sue the saddest is Sue.
+entailment	Jim is worse than Virginia. Jim is worse than Peter.	Among Virginia, Peter and Jim the worst is Jim.
+entailment	Charlotte is greedier than Linda. Charlotte is greedier than Patricia.	Among Linda, Patricia and Charlotte the greediest is Charlotte.
+entailment	Mark is sorrier than Don. Mark is sorrier than Rose.	Among Don, Rose and Mark the sorriest is Mark.
+entailment	Betty is hotter than Ruth. Betty is hotter than Keith.	Among Ruth, Keith and Betty the hottest is Betty.
+entailment	Samuel is curvier than Elaine. Samuel is curvier than Jennifer.	Among Elaine, Jennifer and Samuel the curviest is Samuel.
+entailment	Elizabeth is crueller than Ryan. Elizabeth is crueller than Linda.	Among Ryan, Linda and Elizabeth the cruellest is Elizabeth.
+entailment	Jennifer is more renowned than Daniel. Jennifer is more renowned than Albert.	Among Daniel, Albert and Jennifer the most renowned is Jennifer.
+entailment	Julia is busier than Caroline. Julia is busier than Robert.	Among Caroline, Robert and Julia the busiest is Julia.
+entailment	Donald is hotter than Emily. Donald is hotter than Sandra.	Among Emily, Sandra and Donald the hottest is Donald.
+entailment	Karen is more handsome than Annie. Karen is more handsome than Alex.	Among Annie, Alex and Karen the most handsome is Karen.
+entailment	Ann is gloomier than Ken. Ann is gloomier than Ian.	Among Ken, Ian and Ann the gloomiest is Ann.
+entailment	Jason is gloomier than Dorothy. Jason is gloomier than Anthony.	Among Dorothy, Anthony and Jason the gloomiest is Jason.
+entailment	Frederick is wealthier than Sally. Frederick is wealthier than Alan.	Among Sally, Alan and Frederick the wealthiest is Frederick.
+entailment	William is hairier than Fiona. William is hairier than Al.	Among Fiona, Al and William the hairiest is William.
+entailment	Dave is guilter than Bob. Dave is guilter than Lucy.	Among Bob, Lucy and Dave the guiltiest is Dave.
+entailment	Julie is clumsier than Alison. Julie is clumsier than Francis.	Among Alison, Francis and Julie the clumsiest is Julie.
+entailment	Susan is sharper than Alison. Susan is sharper than Katie.	Among Alison, Katie and Susan the sharpest is Susan.
+entailment	Walter is cleverer than Emily. Walter is cleverer than Amanda.	Among Emily, Amanda and Walter the cleverest is Walter.
+entailment	Annie is humbler than Mark. Annie is humbler than Ryan.	Among Mark, Ryan and Annie the humblest is Annie.
+entailment	Nicole is younger than Claire. Nicole is younger than Paul.	Among Claire, Paul and Nicole the youngest is Nicole.
+entailment	Judy is taller than Lynn. Judy is taller than Richard.	Among Lynn, Richard and Judy the tallest is Judy.
+entailment	Julie is shallower than Dick. Julie is shallower than David.	Among Dick, David and Julie the shallowest is Julie.
+entailment	Stephanie is funnier than Jimmy. Stephanie is funnier than Thomas.	Among Jimmy, Thomas and Stephanie the funniest is Stephanie.
+entailment	Mary is harsher than Diane. Mary is harsher than Ashley.	Among Diane, Ashley and Mary the harshest is Mary.
+entailment	Ray is cuter than David. Ray is cuter than Steve.	Among David, Steve and Ray the cutest is Ray.
+entailment	Michael is scarier than Ralph. Michael is scarier than Rose.	Among Ralph, Rose and Michael the scariest is Michael.
+entailment	Susan is meaner than Angela. Susan is meaner than Bob.	Among Angela, Bob and Susan the meanest is Susan.
+entailment	Alexander is taller than Howard. Alexander is taller than Lauren.	Among Howard, Lauren and Alexander the tallest is Alexander.
+entailment	Emma is sharper than Susan. Emma is sharper than Ben.	Among Susan, Ben and Emma the sharpest is Emma.
+entailment	Annie is scarier than Sam. Annie is scarier than Jessica.	Among Sam, Jessica and Annie the scariest is Annie.
+entailment	Carol is sweeter than Howard. Carol is sweeter than Steven.	Among Howard, Steven and Carol the sweetest is Carol.
+entailment	Claire is cleverer than Carol. Claire is cleverer than Dick.	Among Carol, Dick and Claire the cleverest is Claire.
+entailment	Jennifer is greedier than Joe. Jennifer is greedier than Ryan.	Among Joe, Ryan and Jennifer the greediest is Jennifer.
+entailment	Alison is sillier than Elaine. Alison is sillier than Albert.	Among Elaine, Albert and Alison the silliest is Alison.
+entailment	Ed is faster than Jennifer. Ed is faster than Laura.	Among Jennifer, Laura and Ed the fastest is Ed.
+entailment	Alison is more handsome than Marilyn. Alison is more handsome than Charlie.	Among Marilyn, Charlie and Alison the most handsome is Alison.
+entailment	Julie is lovelier than Julia. Julie is lovelier than Francis.	Among Julia, Francis and Julie the loveliest is Julie.
+entailment	Sally is uglier than Andrew. Sally is uglier than Bob.	Among Andrew, Bob and Sally the ugliest is Sally.
+entailment	Ian is messier than Don. Ian is messier than Alfred.	Among Don, Alfred and Ian the messiest is Ian.
+entailment	William is fairer than Virginia. William is fairer than Kevin.	Among Virginia, Kevin and William the fairest is William.
+entailment	Wendy is denser than Leslie. Wendy is denser than Suzanne.	Among Leslie, Suzanne and Wendy the densest is Wendy.
+entailment	Jim is smaller than Catherine. Jim is smaller than Ashley.	Among Catherine, Ashley and Jim the smallest is Jim.
+entailment	Benjamin is chubbier than Bruce. Benjamin is chubbier than Harry.	Among Bruce, Harry and Benjamin the chubbiest is Benjamin.
+entailment	Kathy is more attractive than Wendy. Kathy is more attractive than Sarah.	Among Wendy, Sarah and Kathy the most attractive is Kathy.
+entailment	Benjamin is hungrier than Louis. Benjamin is hungrier than Nicole.	Among Louis, Nicole and Benjamin the hungriest is Benjamin.
+entailment	Johnny is guilter than Mark. Johnny is guilter than Joan.	Among Mark, Joan and Johnny the guiltiest is Johnny.
+entailment	Rose is sweeter than Rachel. Rose is sweeter than Betty.	Among Rachel, Betty and Rose the sweetest is Rose.
+entailment	Henry is sillier than Emma. Henry is sillier than Sophie.	Among Emma, Sophie and Henry the silliest is Henry.
+entailment	Jason is kinder than Jessica. Jason is kinder than Ashley.	Among Jessica, Ashley and Jason the kindest is Jason.
+entailment	Bob is bigger than Al. Bob is bigger than Larry.	Among Al, Larry and Bob the biggest is Bob.
+entailment	Jim is curvier than Alice. Jim is curvier than Margaret.	Among Alice, Margaret and Jim the curviest is Jim.
+entailment	Marilyn is fitter than Frank. Marilyn is fitter than Jay.	Among Frank, Jay and Marilyn the fittest is Marilyn.
+entailment	Amy is stronger than Robert. Amy is stronger than Tony.	Among Robert, Tony and Amy the strongest is Amy.
+entailment	Ken is bigger than Virginia. Ken is bigger than Peter.	Among Virginia, Peter and Ken the biggest is Ken.
+entailment	Harry is guilter than Simon. Harry is guilter than Emma.	Among Simon, Emma and Harry the guiltiest is Harry.
+entailment	Annie is more clever than Peter. Annie is more clever than Alison.	Among Peter, Alison and Annie the most clever is Annie.
+entailment	Carl is thinner than Lauren. Carl is thinner than Diana.	Among Lauren, Diana and Carl the thinnest is Carl.
+entailment	Wendy is shallower than James. Wendy is shallower than Emma.	Among James, Emma and Wendy the shallowest is Wendy.
+entailment	Carl is fitter than Rebecca. Carl is fitter than Simon.	Among Rebecca, Simon and Carl the fittest is Carl.
+entailment	Sally is hairier than Bob. Sally is hairier than Kevin.	Among Bob, Kevin and Sally the hairiest is Sally.
+entailment	Joe is cleverer than Carol. Joe is cleverer than Lisa.	Among Carol, Lisa and Joe the cleverest is Joe.
+entailment	Larry is greater than Joseph. Larry is greater than Jonathan.	Among Joseph, Jonathan and Larry the greatest is Larry.
+entailment	Evelyn is better than Howard. Evelyn is better than Nick.	Among Howard, Nick and Evelyn the best is Evelyn.
+entailment	Jeff is duller than Jane. Jeff is duller than Susan.	Among Jane, Susan and Jeff the dullest is Jeff.
+entailment	Christine is faster than George. Christine is faster than Kate.	Among George, Kate and Christine the fastest is Christine.
+entailment	Al is greedier than Harold. Al is greedier than Diane.	Among Harold, Diane and Al the greediest is Al.
+entailment	Peter is tinier than Billy. Peter is tinier than Marie.	Among Billy, Marie and Peter the tiniest is Peter.
+entailment	Sandra is cleverer than Katherine. Sandra is cleverer than Al.	Among Katherine, Al and Sandra the cleverest is Sandra.
+entailment	Edith is scarier than Roy. Edith is scarier than Fiona.	Among Roy, Fiona and Edith the scariest is Edith.
+entailment	Carolyn is bossier than Christine. Carolyn is bossier than Emma.	Among Christine, Emma and Carolyn the bossiest is Carolyn.
+entailment	Greg is fairer than Lauren. Greg is fairer than Walter.	Among Lauren, Walter and Greg the fairest is Greg.
+entailment	Ashley is more clever than Alexander. Ashley is more clever than Nick.	Among Alexander, Nick and Ashley the most clever is Ashley.
+entailment	David is ruder than Robin. David is ruder than James.	Among Robin, James and David the rudest is David.
+entailment	Florence is more interesting than Judith. Florence is more interesting than Alexandra.	Among Judith, Alexandra and Florence the most interesting is Florence.
+entailment	Claire is older than Martha. Claire is older than Dan.	Among Martha, Dan and Claire the oldest is Claire.
+entailment	Marilyn is gloomier than Bobby. Marilyn is gloomier than Anne.	Among Bobby, Anne and Marilyn the gloomiest is Marilyn.
+entailment	Jill is bitterer than Dan. Jill is bitterer than Billy.	Among Dan, Billy and Jill the bitterest is Jill.
+entailment	Andrew is more renowned than Susan. Andrew is more renowned than Brian.	Among Susan, Brian and Andrew the most renowned is Andrew.
+entailment	Jerry is wealthier than Anne. Jerry is wealthier than Julie.	Among Anne, Julie and Jerry the wealthiest is Jerry.
+entailment	Diana is smaller than Louis. Diana is smaller than Jennifer.	Among Louis, Jennifer and Diana the smallest is Diana.
+entailment	Harold is grosser than Jerry. Harold is grosser than Lisa.	Among Jerry, Lisa and Harold the grossest is Harold.
+entailment	Pamela is wealthier than Marie. Pamela is wealthier than Harry.	Among Marie, Harry and Pamela the wealthiest is Pamela.
+entailment	Diane is poorer than Adam. Diane is poorer than Brian.	Among Adam, Brian and Diane the poorest is Diane.
+entailment	Nick is saltier than Susan. Nick is saltier than Bill.	Among Susan, Bill and Nick the saltiest is Nick.
+entailment	Sharon is denser than Martin. Sharon is denser than Ray.	Among Martin, Ray and Sharon the densest is Sharon.
+entailment	Kenneth is richer than Alison. Kenneth is richer than Steven.	Among Alison, Steven and Kenneth the richest is Kenneth.
+entailment	Annie is ruder than Ray. Annie is ruder than Christopher.	Among Ray, Christopher and Annie the rudest is Annie.
+entailment	Lawrence is cleverer than Bill. Lawrence is cleverer than Kate.	Among Bill, Kate and Lawrence the cleverest is Lawrence.
+entailment	Wendy is smaller than Sophie. Wendy is smaller than Andrea.	Among Sophie, Andrea and Wendy the smallest is Wendy.
+entailment	James is sleepier than Wendy. James is sleepier than Joseph.	Among Wendy, Joseph and James the sleepiest is James.
+entailment	Charlie is hotter than Alfred. Charlie is hotter than Alexandra.	Among Alfred, Alexandra and Charlie the hottest is Charlie.
+entailment	Nicole is more popular than Albert. Nicole is more popular than Elaine.	Among Albert, Elaine and Nicole the most popular is Nicole.
+entailment	Greg is crueller than Nick. Greg is crueller than Christine.	Among Nick, Christine and Greg the cruellest is Greg.
+entailment	Andrew is funnier than Kate. Andrew is funnier than Charlie.	Among Kate, Charlie and Andrew the funniest is Andrew.
+entailment	Anthony is sorrier than Arthur. Anthony is sorrier than Alice.	Among Arthur, Alice and Anthony the sorriest is Anthony.
+entailment	Joan is crueller than Edwin. Joan is crueller than Alexander.	Among Edwin, Alexander and Joan the cruellest is Joan.
+entailment	Jeff is bigger than Wendy. Jeff is bigger than Simon.	Among Wendy, Simon and Jeff the biggest is Jeff.
+entailment	Hugh is slimmer than Kathleen. Hugh is slimmer than Anne.	Among Kathleen, Anne and Hugh the slimmest is Hugh.
+entailment	Edwin is richer than John. Edwin is richer than Janet.	Among John, Janet and Edwin the richest is Edwin.
+entailment	Henry is shorter than Walter. Henry is shorter than Wendy.	Among Walter, Wendy and Henry the shortest is Henry.
+entailment	Kathy is scarier than Frances. Kathy is scarier than Simon.	Among Frances, Simon and Kathy the scariest is Kathy.
+entailment	Donald is quieter than Jean. Donald is quieter than Betty.	Among Jean, Betty and Donald the quietest is Donald.
+entailment	Catherine is sleepier than Tom. Catherine is sleepier than Carl.	Among Tom, Carl and Catherine the sleepiest is Catherine.
+entailment	Roy is more important than Charlotte. Roy is more important than Bruce.	Among Charlotte, Bruce and Roy the most important is Roy.
+entailment	Emma is firmer than Claire. Emma is firmer than Billy.	Among Claire, Billy and Emma the firmest is Emma.
+entailment	Harry is saltier than Caroline. Harry is saltier than Harold.	Among Caroline, Harold and Harry the saltiest is Harry.
+entailment	Ben is more renowned than Mark. Ben is more renowned than Brian.	Among Mark, Brian and Ben the most renowned is Ben.
+entailment	Nicole is guilter than Bobby. Nicole is guilter than Alexander.	Among Bobby, Alexander and Nicole the guiltiest is Nicole.
+entailment	Benjamin is chubbier than Tom. Benjamin is chubbier than Annie.	Among Tom, Annie and Benjamin the chubbiest is Benjamin.
+entailment	Charlotte is curvier than Dan. Charlotte is curvier than Lauren.	Among Dan, Lauren and Charlotte the curviest is Charlotte.
+entailment	Lawrence is slimmer than Ron. Lawrence is slimmer than Jerry.	Among Ron, Jerry and Lawrence the slimmest is Lawrence.
+entailment	Edward is bossier than Lawrence. Edward is bossier than Andrea.	Among Lawrence, Andrea and Edward the bossiest is Edward.
+entailment	Louise is bitterer than Bob. Louise is bitterer than Francis.	Among Bob, Francis and Louise the bitterest is Louise.
+entailment	Jane is more tired than Kate. Jane is more tired than Ben.	Among Kate, Ben and Jane the most tired is Jane.
+entailment	Carl is meaner than Carol. Carl is meaner than Matthew.	Among Carol, Matthew and Carl the meanest is Carl.
+entailment	Roger is kinder than Anna. Roger is kinder than Stephen.	Among Anna, Stephen and Roger the kindest is Roger.
+entailment	Joseph is more clever than Lisa. Joseph is more clever than Louise.	Among Lisa, Louise and Joseph the most clever is Joseph.
+entailment	Frances is happier than Peter. Frances is happier than Ryan.	Among Peter, Ryan and Frances the happiest is Frances.
+entailment	Harry is harsher than Frank. Harry is harsher than Eric.	Among Frank, Eric and Harry the harshest is Harry.
+entailment	Karen is tougher than Albert. Karen is tougher than Dave.	Among Albert, Dave and Karen the toughest is Karen.
+entailment	Lauren is braver than Ralph. Lauren is braver than Anne.	Among Ralph, Anne and Lauren the bravest is Lauren.
+entailment	Catherine is more interesting than Martin. Catherine is more interesting than Nicole.	Among Martin, Nicole and Catherine the most interesting is Catherine.
+entailment	Jason is crueller than Caroline. Jason is crueller than Carolyn.	Among Caroline, Carolyn and Jason the cruellest is Jason.
+entailment	Jessica is harsher than Michael. Jessica is harsher than Lauren.	Among Michael, Lauren and Jessica the harshest is Jessica.
+entailment	Kathryn is duller than Kathy. Kathryn is duller than Roger.	Among Kathy, Roger and Kathryn the dullest is Kathryn.
+entailment	Benjamin is poorer than Stephen. Benjamin is poorer than Edith.	Among Stephen, Edith and Benjamin the poorest is Benjamin.
+entailment	Eleanor is lazier than Joseph. Eleanor is lazier than Laura.	Among Joseph, Laura and Eleanor the laziest is Eleanor.
+entailment	Leslie is greater than Katherine. Leslie is greater than Keith.	Among Katherine, Keith and Leslie the greatest is Leslie.
+entailment	Al is gloomier than Jill. Al is gloomier than Kathleen.	Among Jill, Kathleen and Al the gloomiest is Al.
+entailment	Marilyn is worse than Rachel. Marilyn is worse than Richard.	Among Rachel, Richard and Marilyn the worst is Marilyn.
+entailment	Cynthia is prettier than Jason. Cynthia is prettier than Jimmy.	Among Jason, Jimmy and Cynthia the prettiest is Cynthia.
+entailment	Ron is sincerer than Angela. Ron is sincerer than Roger.	Among Angela, Roger and Ron the sincerest is Ron.
+entailment	Jimmy is bitterer than Andrew. Jimmy is bitterer than Harry.	Among Andrew, Harry and Jimmy the bitterest is Jimmy.
+entailment	Wendy is more clever than Sue. Wendy is more clever than Chris.	Among Sue, Chris and Wendy the most clever is Wendy.
+entailment	Nick is grosser than Bob. Nick is grosser than Lynn.	Among Bob, Lynn and Nick the grossest is Nick.
+entailment	Rebecca is cleverer than Helen. Rebecca is cleverer than Betty.	Among Helen, Betty and Rebecca the cleverest is Rebecca.
+entailment	Nicole is fatter than Heather. Nicole is fatter than Bob.	Among Heather, Bob and Nicole the fattest is Nicole.
+entailment	Marie is lovelier than John. Marie is lovelier than Bobby.	Among John, Bobby and Marie the loveliest is Marie.
+entailment	Laura is greedier than Pamela. Laura is greedier than Jimmy.	Among Pamela, Jimmy and Laura the greediest is Laura.
+entailment	Carl is older than Andrew. Carl is older than Lisa.	Among Andrew, Lisa and Carl the oldest is Carl.
+entailment	Wendy is lonlier than Amanda. Wendy is lonlier than Ashley.	Among Amanda, Ashley and Wendy the loneliest is Wendy.
+entailment	Helen is healthier than Harry. Helen is healthier than Sara.	Among Harry, Sara and Helen the healthiest is Helen.
+entailment	Tom is more interesting than Sam. Tom is more interesting than Elaine.	Among Sam, Elaine and Tom the most interesting is Tom.
+entailment	Amy is creepier than Jason. Amy is creepier than Matthew.	Among Jason, Matthew and Amy the creepiest is Amy.
+entailment	Melissa is poorer than James. Melissa is poorer than John.	Among James, John and Melissa the poorest is Melissa.
+entailment	Lawrence is crazier than John. Lawrence is crazier than Diana.	Among John, Diana and Lawrence the craziest is Lawrence.
+entailment	Ron is bossier than Jack. Ron is bossier than Diane.	Among Jack, Diane and Ron the bossiest is Ron.
+entailment	Emily is duller than Alexander. Emily is duller than Jay.	Among Alexander, Jay and Emily the dullest is Emily.
+entailment	Walter is dumber than Eleanor. Walter is dumber than Peter.	Among Eleanor, Peter and Walter the dumbest is Walter.
+entailment	Johnny is sweeter than Laura. Johnny is sweeter than Tom.	Among Laura, Tom and Johnny the sweetest is Johnny.
+entailment	Tony is lazier than James. Tony is lazier than Alexander.	Among James, Alexander and Tony the laziest is Tony.
+entailment	Richard is more beautiful than Anne. Richard is more beautiful than Martha.	Among Anne, Martha and Richard the most beautiful is Richard.
+entailment	Frances is taller than Rose. Frances is taller than Jessica.	Among Rose, Jessica and Frances the tallest is Frances.
+entailment	Steven is more beautiful than Eric. Steven is more beautiful than Don.	Among Eric, Don and Steven the most beautiful is Steven.
+entailment	Johnny is fairer than Cynthia. Johnny is fairer than Kelly.	Among Cynthia, Kelly and Johnny the fairest is Johnny.
+entailment	Edith is firmer than Nancy. Edith is firmer than Eric.	Among Nancy, Eric and Edith the firmest is Edith.
+entailment	Alan is politer than Adam. Alan is politer than Harry.	Among Adam, Harry and Alan the politest is Alan.
+entailment	David is more renowned than Lynn. David is more renowned than Karen.	Among Lynn, Karen and David the most renowned is David.
+entailment	Kenneth is more attractive than Ray. Kenneth is more attractive than Dave.	Among Ray, Dave and Kenneth the most attractive is Kenneth.
+entailment	Alan is crueller than Alice. Alan is crueller than Greg.	Among Alice, Greg and Alan the cruellest is Alan.
+entailment	Chris is more handsome than Mark. Chris is more handsome than Carolyn.	Among Mark, Carolyn and Chris the most handsome is Chris.
+entailment	Ashley is lovelier than Andrew. Ashley is lovelier than Harriet.	Among Andrew, Harriet and Ashley the loveliest is Ashley.
+entailment	William is kinder than Elaine. William is kinder than Dave.	Among Elaine, Dave and William the kindest is William.
+entailment	Nicole is slower than Claire. Nicole is slower than Ryan.	Among Claire, Ryan and Nicole the slowest is Nicole.
+entailment	Fiona is more tired than Kelly. Fiona is more tired than Ron.	Among Kelly, Ron and Fiona the most tired is Fiona.
+entailment	Dave is shorter than Tom. Dave is shorter than Colin.	Among Tom, Colin and Dave the shortest is Dave.
+entailment	Joe is bitterer than Billy. Joe is bitterer than Bobby.	Among Billy, Bobby and Joe the bitterest is Joe.
+entailment	Kim is more modern than Diane. Kim is more modern than Ed.	Among Diane, Ed and Kim the most modern is Kim.
+entailment	Jean is hotter than Sarah. Jean is hotter than Nick.	Among Sarah, Nick and Jean the hottest is Jean.
+entailment	Barbara is worse than Larry. Barbara is worse than Harriet.	Among Larry, Harriet and Barbara the worst is Barbara.
+entailment	Virginia is busier than Jim. Virginia is busier than Jane.	Among Jim, Jane and Virginia the busiest is Virginia.
+entailment	Kate is faster than Anthony. Kate is faster than Tony.	Among Anthony, Tony and Kate the fastest is Kate.
+entailment	Jennifer is sincerer than Marilyn. Jennifer is sincerer than Howard.	Among Marilyn, Howard and Jennifer the sincerest is Jennifer.
+entailment	Susan is creepier than Stephanie. Susan is creepier than Cynthia.	Among Stephanie, Cynthia and Susan the creepiest is Susan.
+entailment	Billy is more interesting than Henry. Billy is more interesting than Dick.	Among Henry, Dick and Billy the most interesting is Billy.
+entailment	Amanda is more interesting than Albert. Amanda is more interesting than Sam.	Among Albert, Sam and Amanda the most interesting is Amanda.
+entailment	Sophie is nicer than Florence. Sophie is nicer than Ann.	Among Florence, Ann and Sophie the nicest is Sophie.
+entailment	Sue is gentler than Betty. Sue is gentler than Kate.	Among Betty, Kate and Sue the gentlest is Sue.
+entailment	Sophie is stronger than Larry. Sophie is stronger than Martin.	Among Larry, Martin and Sophie the strongest is Sophie.
+entailment	Eric is firmer than Elizabeth. Eric is firmer than Jason.	Among Elizabeth, Jason and Eric the firmest is Eric.
+entailment	Sara is younger than Elizabeth. Sara is younger than Henry.	Among Elizabeth, Henry and Sara the youngest is Sara.
+entailment	Lisa is saltier than Lynn. Lisa is saltier than Leslie.	Among Lynn, Leslie and Lisa the saltiest is Lisa.
+entailment	Sally is sweeter than Kim. Sally is sweeter than Charlotte.	Among Kim, Charlotte and Sally the sweetest is Sally.
+entailment	Daniel is hairier than Thomas. Daniel is hairier than Jessica.	Among Thomas, Jessica and Daniel the hairiest is Daniel.
+entailment	Amy is messier than Nancy. Amy is messier than Katie.	Among Nancy, Katie and Amy the messiest is Amy.
+entailment	Charlotte is uglier than George. Charlotte is uglier than Philip.	Among George, Philip and Charlotte the ugliest is Charlotte.
+entailment	Jill is happier than Edward. Jill is happier than Mary.	Among Edward, Mary and Jill the happiest is Jill.
+entailment	Howard is happier than Donald. Howard is happier than Joan.	Among Donald, Joan and Howard the happiest is Howard.
+entailment	Kevin is chubbier than Rose. Kevin is chubbier than Jack.	Among Rose, Jack and Kevin the chubbiest is Kevin.
+entailment	Edward is slower than Suzanne. Edward is slower than Sandra.	Among Suzanne, Sandra and Edward the slowest is Edward.
+entailment	Simon is greater than Walter. Simon is greater than Sandra.	Among Walter, Sandra and Simon the greatest is Simon.
+entailment	Andrew is weirder than Maria. Andrew is weirder than Peter.	Among Maria, Peter and Andrew the weirdest is Andrew.
+entailment	Sarah is saltier than Jim. Sarah is saltier than Richard.	Among Jim, Richard and Sarah the saltiest is Sarah.
+entailment	Benjamin is smaller than Janet. Benjamin is smaller than Gary.	Among Janet, Gary and Benjamin the smallest is Benjamin.
+entailment	Patrick is bigger than Evelyn. Patrick is bigger than Richard.	Among Evelyn, Richard and Patrick the biggest is Patrick.
+entailment	Betty is meaner than Henry. Betty is meaner than Lauren.	Among Henry, Lauren and Betty the meanest is Betty.
+entailment	Jim is wealthier than Rebecca. Jim is wealthier than Diane.	Among Rebecca, Diane and Jim the wealthiest is Jim.
+entailment	Steve is thinner than Edwin. Steve is thinner than Simon.	Among Edwin, Simon and Steve the thinnest is Steve.
+entailment	Kim is friendlier than Philip. Kim is friendlier than Ellen.	Among Philip, Ellen and Kim the friendliest is Kim.
+entailment	Christine is naughtier than Dan. Christine is naughtier than Anna.	Among Dan, Anna and Christine the naughtiest is Christine.
+entailment	Julie is hungrier than Amy. Julie is hungrier than Johnny.	Among Amy, Johnny and Julie the hungriest is Julie.
+entailment	Joan is bitterer than Kim. Joan is bitterer than Steven.	Among Kim, Steven and Joan the bitterest is Joan.
+entailment	Lawrence is sleepier than Dan. Lawrence is sleepier than Michelle.	Among Dan, Michelle and Lawrence the sleepiest is Lawrence.
+entailment	Charlotte is faster than Judy. Charlotte is faster than Grace.	Among Judy, Grace and Charlotte the fastest is Charlotte.
+entailment	Jennifer is calmer than Dick. Jennifer is calmer than Andrew.	Among Dick, Andrew and Jennifer the calmest is Jennifer.
+entailment	Jay is sleepier than Steve. Jay is sleepier than Alex.	Among Steve, Alex and Jay the sleepiest is Jay.
+entailment	Dan is crueller than Diana. Dan is crueller than Frank.	Among Diana, Frank and Dan the cruellest is Dan.
+entailment	Katie is stronger than Paul. Katie is stronger than Cynthia.	Among Paul, Cynthia and Katie the strongest is Katie.
+entailment	Pamela is braver than Charles. Pamela is braver than Peter.	Among Charles, Peter and Pamela the bravest is Pamela.
+entailment	Helen is kinder than Martin. Helen is kinder than Florence.	Among Martin, Florence and Helen the kindest is Helen.
+entailment	Jack is uglier than Jim. Jack is uglier than Peter.	Among Jim, Peter and Jack the ugliest is Jack.
+entailment	Patricia is more clever than George. Patricia is more clever than Alan.	Among George, Alan and Patricia the most clever is Patricia.
+entailment	Alexandra is dumber than David. Alexandra is dumber than Sue.	Among David, Sue and Alexandra the dumbest is Alexandra.
+entailment	Matthew is more handsome than Tony. Matthew is more handsome than Kevin.	Among Tony, Kevin and Matthew the most handsome is Matthew.
+entailment	Joe is bossier than Sandra. Joe is bossier than Carolyn.	Among Sandra, Carolyn and Joe the bossiest is Joe.
+entailment	Kate is quieter than Jack. Kate is quieter than Dorothy.	Among Jack, Dorothy and Kate the quietest is Kate.
+entailment	Annie is longer than Sara. Annie is longer than Bobby.	Among Sara, Bobby and Annie the longest is Annie.
+entailment	Gary is bigger than Amy. Gary is bigger than Jennifer.	Among Amy, Jennifer and Gary the biggest is Gary.
+entailment	Sharon is wiser than Betty. Sharon is wiser than Julie.	Among Betty, Julie and Sharon the wisest is Sharon.
+entailment	Philip is shyer than Caroline. Philip is shyer than Sally.	Among Caroline, Sally and Philip the shyest is Philip.
+entailment	Ron is older than Kim. Ron is older than Martha.	Among Kim, Martha and Ron the oldest is Ron.
+entailment	Walter is sleepier than Maria. Walter is sleepier than Jason.	Among Maria, Jason and Walter the sleepiest is Walter.
+entailment	Edwin is hairier than Alice. Edwin is hairier than Laura.	Among Alice, Laura and Edwin the hairiest is Edwin.
+entailment	Patrick is healthier than Claire. Patrick is healthier than Philip.	Among Claire, Philip and Patrick the healthiest is Patrick.
+entailment	Amanda is politer than Harriet. Amanda is politer than Frances.	Among Harriet, Frances and Amanda the politest is Amanda.
+entailment	Albert is better than Frances. Albert is better than Scott.	Among Frances, Scott and Albert the best is Albert.
+entailment	Martin is grosser than Mark. Martin is grosser than Larry.	Among Mark, Larry and Martin the grossest is Martin.
+entailment	Ruth is more handsome than Suzanne. Ruth is more handsome than Chris.	Among Suzanne, Chris and Ruth the most handsome is Ruth.
+entailment	Harold is bossier than Katherine. Harold is bossier than Alex.	Among Katherine, Alex and Harold the bossiest is Harold.
+entailment	Joseph is clumsier than Julia. Joseph is clumsier than Andrew.	Among Julia, Andrew and Joseph the clumsiest is Joseph.
+entailment	Laura is more attractive than Chris. Laura is more attractive than Anne.	Among Chris, Anne and Laura the most attractive is Laura.
+entailment	Sandra is crueller than Alexandra. Sandra is crueller than George.	Among Alexandra, George and Sandra the cruellest is Sandra.
+entailment	Alice is thinner than Kenneth. Alice is thinner than Florence.	Among Kenneth, Florence and Alice the thinnest is Alice.
+entailment	Leslie is faster than Rachel. Leslie is faster than Johnny.	Among Rachel, Johnny and Leslie the fastest is Leslie.
+entailment	Janet is more popular than Stephanie. Janet is more popular than Fiona.	Among Stephanie, Fiona and Janet the most popular is Janet.
+entailment	Virginia is faster than Rose. Virginia is faster than Peter.	Among Rose, Peter and Virginia the fastest is Virginia.
+entailment	Adam is younger than Andrew. Adam is younger than Jennifer.	Among Andrew, Jennifer and Adam the youngest is Adam.
+entailment	Daniel is wealthier than Bob. Daniel is wealthier than William.	Among Bob, William and Daniel the wealthiest is Daniel.
+entailment	Ben is longer than Don. Ben is longer than Virginia.	Among Don, Virginia and Ben the longest is Ben.
+entailment	Anne is harsher than Rebecca. Anne is harsher than Jessica.	Among Rebecca, Jessica and Anne the harshest is Anne.
+entailment	Patrick is curvier than Melissa. Patrick is curvier than Lucy.	Among Melissa, Lucy and Patrick the curviest is Patrick.
+entailment	Tom is bossier than Judy. Tom is bossier than Jason.	Among Judy, Jason and Tom the bossiest is Tom.
+entailment	Anna is shallower than Jonathan. Anna is shallower than Virginia.	Among Jonathan, Virginia and Anna the shallowest is Anna.
+entailment	Kevin is more renowned than Andrew. Kevin is more renowned than Jeff.	Among Andrew, Jeff and Kevin the most renowned is Kevin.
+entailment	Larry is sillier than Howard. Larry is sillier than Hugh.	Among Howard, Hugh and Larry the silliest is Larry.
+entailment	Elaine is tinier than Larry. Elaine is tinier than Alex.	Among Larry, Alex and Elaine the tiniest is Elaine.
+entailment	Jane is sadder than Marie. Jane is sadder than Ruth.	Among Marie, Ruth and Jane the saddest is Jane.
+entailment	Martin is bitterer than Deborah. Martin is bitterer than Jason.	Among Deborah, Jason and Martin the bitterest is Martin.
+entailment	Evelyn is humbler than Christine. Evelyn is humbler than Charlotte.	Among Christine, Charlotte and Evelyn the humblest is Evelyn.
+entailment	Lucy is sharper than Martin. Lucy is sharper than Ben.	Among Martin, Ben and Lucy the sharpest is Lucy.
+entailment	Chris is politer than Alexander. Chris is politer than Dorothy.	Among Alexander, Dorothy and Chris the politest is Chris.
+entailment	Martha is hungrier than Lawrence. Martha is hungrier than Evelyn.	Among Lawrence, Evelyn and Martha the hungriest is Martha.
+entailment	Michael is better than Jay. Michael is better than Ray.	Among Jay, Ray and Michael the best is Michael.
+entailment	Lisa is ruder than Martha. Lisa is ruder than Adam.	Among Martha, Adam and Lisa the rudest is Lisa.
+entailment	Arthur is meaner than Diane. Arthur is meaner than Jean.	Among Diane, Jean and Arthur the meanest is Arthur.
+entailment	Robin is tougher than Bill. Robin is tougher than Adam.	Among Bill, Adam and Robin the toughest is Robin.
+entailment	Mark is hungrier than Louise. Mark is hungrier than Rebecca.	Among Louise, Rebecca and Mark the hungriest is Mark.
+entailment	Edwin is more tired than Alice. Edwin is more tired than Elizabeth.	Among Alice, Elizabeth and Edwin the most tired is Edwin.
+entailment	Jane is better than Marilyn. Jane is better than Stephen.	Among Marilyn, Stephen and Jane the best is Jane.
+entailment	Jack is politer than Ben. Jack is politer than Elaine.	Among Ben, Elaine and Jack the politest is Jack.
+entailment	Rose is more handsome than Stephen. Rose is more handsome than Mark.	Among Stephen, Mark and Rose the most handsome is Rose.
+entailment	Steven is skinnier than Jessica. Steven is skinnier than Catherine.	Among Jessica, Catherine and Steven the skinniest is Steven.
+entailment	Diane is hungrier than Bill. Diane is hungrier than Virginia.	Among Bill, Virginia and Diane the hungriest is Diane.
+entailment	Marilyn is greater than Hugh. Marilyn is greater than Helen.	Among Hugh, Helen and Marilyn the greatest is Marilyn.
+entailment	Bill is clumsier than Jerry. Bill is clumsier than Frederick.	Among Jerry, Frederick and Bill the clumsiest is Bill.
+entailment	Kathy is sorrier than Ken. Kathy is sorrier than Emily.	Among Ken, Emily and Kathy the sorriest is Kathy.
+entailment	Alison is more modern than Jane. Alison is more modern than John.	Among Jane, John and Alison the most modern is Alison.
+entailment	Jessica is angrier than Alison. Jessica is angrier than Donna.	Among Alison, Donna and Jessica the angriest is Jessica.
+entailment	Ellen is more interesting than Maria. Ellen is more interesting than Nick.	Among Maria, Nick and Ellen the most interesting is Ellen.
+entailment	Virginia is funnier than Ashley. Virginia is funnier than Sandra.	Among Ashley, Sandra and Virginia the funniest is Virginia.
+entailment	Samuel is slimmer than Laura. Samuel is slimmer than Colin.	Among Laura, Colin and Samuel the slimmest is Samuel.
+entailment	Mike is friendlier than Deborah. Mike is friendlier than Christopher.	Among Deborah, Christopher and Mike the friendliest is Mike.
+entailment	Jonathan is worse than Kelly. Jonathan is worse than Tony.	Among Kelly, Tony and Jonathan the worst is Jonathan.
+entailment	Diane is ruder than Alison. Diane is ruder than Rebecca.	Among Alison, Rebecca and Diane the rudest is Diane.
+entailment	Jean is greater than David. Jean is greater than Sally.	Among David, Sally and Jean the greatest is Jean.
+entailment	Jessica is sincerer than Laura. Jessica is sincerer than Matthew.	Among Laura, Matthew and Jessica the sincerest is Jessica.
+entailment	Don is dumber than Ruth. Don is dumber than Harriet.	Among Ruth, Harriet and Don the dumbest is Don.
+entailment	Christine is smarter than Ralph. Christine is smarter than Keith.	Among Ralph, Keith and Christine the smartest is Christine.
+entailment	Victoria is firmer than Andrea. Victoria is firmer than Donna.	Among Andrea, Donna and Victoria the firmest is Victoria.
+entailment	Frederick is kinder than Sara. Frederick is kinder than Fiona.	Among Sara, Fiona and Frederick the kindest is Frederick.
+entailment	Marie is more clever than Frank. Marie is more clever than Jessica.	Among Frank, Jessica and Marie the most clever is Marie.
+entailment	Angela is sleepier than Mike. Angela is sleepier than Frances.	Among Mike, Frances and Angela the sleepiest is Angela.
+entailment	Judy is crueller than Evelyn. Judy is crueller than Diana.	Among Evelyn, Diana and Judy the cruellest is Judy.
+entailment	Marie is prettier than Frances. Marie is prettier than Kathryn.	Among Frances, Kathryn and Marie the prettiest is Marie.
+entailment	Fred is smaller than Kelly. Fred is smaller than Frances.	Among Kelly, Frances and Fred the smallest is Fred.
+entailment	Hugh is denser than Daniel. Hugh is denser than Harriet.	Among Daniel, Harriet and Hugh the densest is Hugh.
+entailment	Edwin is more handsome than Sophie. Edwin is more handsome than Scott.	Among Sophie, Scott and Edwin the most handsome is Edwin.
+entailment	Dave is skinnier than Benjamin. Dave is skinnier than Carolyn.	Among Benjamin, Carolyn and Dave the skinniest is Dave.
+entailment	Adam is shallower than Jane. Adam is shallower than Ruth.	Among Jane, Ruth and Adam the shallowest is Adam.
+entailment	Victoria is slower than Carol. Victoria is slower than Jim.	Among Carol, Jim and Victoria the slowest is Victoria.
+entailment	Joan is sincerer than Susan. Joan is sincerer than Lauren.	Among Susan, Lauren and Joan the sincerest is Joan.
+entailment	Leslie is richer than Jessica. Leslie is richer than Steven.	Among Jessica, Steven and Leslie the richest is Leslie.
+entailment	Edward is more tired than Katie. Edward is more tired than Kathy.	Among Katie, Kathy and Edward the most tired is Edward.
+entailment	George is politer than Dick. George is politer than Margaret.	Among Dick, Margaret and George the politest is George.
+entailment	Donald is ruder than Roy. Donald is ruder than Kevin.	Among Roy, Kevin and Donald the rudest is Donald.
+entailment	Karen is more clever than Lisa. Karen is more clever than Jean.	Among Lisa, Jean and Karen the most clever is Karen.
+entailment	James is kinder than Henry. James is kinder than Kelly.	Among Henry, Kelly and James the kindest is James.
+entailment	Robert is wealthier than Francis. Robert is wealthier than Jim.	Among Francis, Jim and Robert the wealthiest is Robert.
+entailment	Rebecca is friendlier than Margaret. Rebecca is friendlier than Ian.	Among Margaret, Ian and Rebecca the friendliest is Rebecca.
+entailment	Leslie is more bitter than Suzanne. Leslie is more bitter than Stephanie.	Among Suzanne, Stephanie and Leslie the most bitter is Leslie.
+entailment	Anne is more handsome than Dave. Anne is more handsome than Maria.	Among Dave, Maria and Anne the most handsome is Anne.
+entailment	Sara is more polite than Alison. Sara is more polite than Ryan.	Among Alison, Ryan and Sara the most polite is Sara.
+entailment	Albert is bossier than Matt. Albert is bossier than Katherine.	Among Matt, Katherine and Albert the bossiest is Albert.
+entailment	Edwin is classier than Margaret. Edwin is classier than Deborah.	Among Margaret, Deborah and Edwin the classiest is Edwin.
+entailment	Dick is busier than Ashley. Dick is busier than Scott.	Among Ashley, Scott and Dick the busiest is Dick.
+entailment	Thomas is bossier than Ken. Thomas is bossier than Kenneth.	Among Ken, Kenneth and Thomas the bossiest is Thomas.
+entailment	Howard is bossier than Ed. Howard is bossier than George.	Among Ed, George and Howard the bossiest is Howard.
+entailment	Kathleen is duller than Tony. Kathleen is duller than Martha.	Among Tony, Martha and Kathleen the dullest is Kathleen.
+entailment	Samuel is stronger than Peter. Samuel is stronger than Jay.	Among Peter, Jay and Samuel the strongest is Samuel.
+entailment	Donald is creepier than Alison. Donald is creepier than Johnny.	Among Alison, Johnny and Donald the creepiest is Donald.
+entailment	Karen is sillier than Christine. Karen is sillier than Patricia.	Among Christine, Patricia and Karen the silliest is Karen.
+entailment	Thomas is weaker than Steve. Thomas is weaker than Carolyn.	Among Steve, Carolyn and Thomas the weakest is Thomas.
+entailment	Mary is faster than Albert. Mary is faster than Jill.	Among Albert, Jill and Mary the fastest is Mary.
+entailment	Kathleen is hairier than Jean. Kathleen is hairier than Sophie.	Among Jean, Sophie and Kathleen the hairiest is Kathleen.
+entailment	Tony is tougher than James. Tony is tougher than Ed.	Among James, Ed and Tony the toughest is Tony.
+entailment	Tony is creepier than Sue. Tony is creepier than Johnny.	Among Sue, Johnny and Tony the creepiest is Tony.
+entailment	Joseph is sweeter than Mark. Joseph is sweeter than Christopher.	Among Mark, Christopher and Joseph the sweetest is Joseph.
+entailment	Ruth is angrier than Elizabeth. Ruth is angrier than David.	Among Elizabeth, David and Ruth the angriest is Ruth.
+entailment	Patrick is dumber than Kelly. Patrick is dumber than Frederick.	Among Kelly, Frederick and Patrick the dumbest is Patrick.
+entailment	Martha is better than Frederick. Martha is better than Lynn.	Among Frederick, Lynn and Martha the best is Martha.
+entailment	Louise is smarter than Grace. Louise is smarter than Ray.	Among Grace, Ray and Louise the smartest is Louise.
+entailment	Michael is more polite than Melissa. Michael is more polite than Judith.	Among Melissa, Judith and Michael the most polite is Michael.
+entailment	Katherine is better than Keith. Katherine is better than Rebecca.	Among Keith, Rebecca and Katherine the best is Katherine.
+entailment	Carolyn is busier than Edwin. Carolyn is busier than Stephanie.	Among Edwin, Stephanie and Carolyn the busiest is Carolyn.
+entailment	Donna is gentler than Christine. Donna is gentler than Helen.	Among Christine, Helen and Donna the gentlest is Donna.
+entailment	Sam is friendlier than Lynn. Sam is friendlier than Frederick.	Among Lynn, Frederick and Sam the friendliest is Sam.
+entailment	John is noisier than Ian. John is noisier than Amy.	Among Ian, Amy and John the noisiest is John.
+entailment	Kim is fitter than Michelle. Kim is fitter than Paul.	Among Michelle, Paul and Kim the fittest is Kim.
+entailment	Janet is lonlier than Fiona. Janet is lonlier than Judy.	Among Fiona, Judy and Janet the loneliest is Janet.
+entailment	Jay is braver than Henry. Jay is braver than Marilyn.	Among Henry, Marilyn and Jay the bravest is Jay.
+entailment	Jack is curvier than Pamela. Jack is curvier than Jerry.	Among Pamela, Jerry and Jack the curviest is Jack.
+entailment	Alexander is lonlier than Ellen. Alexander is lonlier than David.	Among Ellen, David and Alexander the loneliest is Alexander.
+entailment	Ed is scarier than Jim. Ed is scarier than Nancy.	Among Jim, Nancy and Ed the scariest is Ed.
+entailment	Barbara is friendlier than Judy. Barbara is friendlier than Edith.	Among Judy, Edith and Barbara the friendliest is Barbara.
+entailment	David is slower than Christine. David is slower than Nancy.	Among Christine, Nancy and David the slowest is David.
+entailment	Mike is chubbier than Joan. Mike is chubbier than Tony.	Among Joan, Tony and Mike the chubbiest is Mike.
+entailment	Edwin is sharper than Anthony. Edwin is sharper than Lynn.	Among Anthony, Lynn and Edwin the sharpest is Edwin.
+entailment	Ray is smaller than Louise. Ray is smaller than Rose.	Among Louise, Rose and Ray the smallest is Ray.
+entailment	James is greedier than Greg. James is greedier than Kenneth.	Among Greg, Kenneth and James the greediest is James.
+entailment	Laura is fatter than Jill. Laura is fatter than Linda.	Among Jill, Linda and Laura the fattest is Laura.
+entailment	Scott is prettier than Louise. Scott is prettier than Linda.	Among Louise, Linda and Scott the prettiest is Scott.
+entailment	Walter is longer than Katie. Walter is longer than William.	Among Katie, William and Walter the longest is Walter.
+entailment	Scott is calmer than Simon. Scott is calmer than Jimmy.	Among Simon, Jimmy and Scott the calmest is Scott.
+entailment	Stephen is lazier than Matt. Stephen is lazier than Linda.	Among Matt, Linda and Stephen the laziest is Stephen.
+entailment	Dave is braver than Jason. Dave is braver than Christine.	Among Jason, Christine and Dave the bravest is Dave.
+entailment	Evelyn is lonlier than Florence. Evelyn is lonlier than Catherine.	Among Florence, Catherine and Evelyn the loneliest is Evelyn.
+entailment	Cynthia is fairer than Rose. Cynthia is fairer than Nick.	Among Rose, Nick and Cynthia the fairest is Cynthia.
+entailment	Charlotte is wealthier than Carolyn. Charlotte is wealthier than Jason.	Among Carolyn, Jason and Charlotte the wealthiest is Charlotte.
+entailment	Michael is hungrier than Daniel. Michael is hungrier than Matthew.	Among Daniel, Matthew and Michael the hungriest is Michael.
+entailment	Al is naughtier than Paul. Al is naughtier than Ken.	Among Paul, Ken and Al the naughtiest is Al.
+entailment	Amanda is more bitter than Roy. Amanda is more bitter than Angela.	Among Roy, Angela and Amanda the most bitter is Amanda.
+entailment	Joan is more renowned than Charlotte. Joan is more renowned than Ken.	Among Charlotte, Ken and Joan the most renowned is Joan.
+entailment	David is slimmer than Simon. David is slimmer than Jason.	Among Simon, Jason and David the slimmest is David.
+entailment	Hugh is greedier than Ken. Hugh is greedier than Tim.	Among Ken, Tim and Hugh the greediest is Hugh.
+entailment	Victoria is weaker than Kate. Victoria is weaker than Charles.	Among Kate, Charles and Victoria the weakest is Victoria.
+entailment	Jeff is gloomier than Michelle. Jeff is gloomier than Adam.	Among Michelle, Adam and Jeff the gloomiest is Jeff.
+entailment	Christopher is more attractive than Fred. Christopher is more attractive than Steve.	Among Fred, Steve and Christopher the most attractive is Christopher.
+entailment	David is ruder than Kelly. David is ruder than Joan.	Among Kelly, Joan and David the rudest is David.
+entailment	David is smaller than Jay. David is smaller than Peter.	Among Jay, Peter and David the smallest is David.
+entailment	Don is weirder than Jean. Don is weirder than Martin.	Among Jean, Martin and Don the weirdest is Don.
+entailment	Steven is bitterer than Dan. Steven is bitterer than Karen.	Among Dan, Karen and Steven the bitterest is Steven.
+entailment	Andrea is older than Ruth. Andrea is older than Catherine.	Among Ruth, Catherine and Andrea the oldest is Andrea.
+entailment	Harriet is funnier than Roger. Harriet is funnier than Benjamin.	Among Roger, Benjamin and Harriet the funniest is Harriet.
+entailment	Julie is denser than Roger. Julie is denser than Jonathan.	Among Roger, Jonathan and Julie the densest is Julie.
+entailment	Alan is healthier than Amanda. Alan is healthier than Sara.	Among Amanda, Sara and Alan the healthiest is Alan.
+entailment	Martin is chubbier than Margaret. Martin is chubbier than Martha.	Among Margaret, Martha and Martin the chubbiest is Martin.
+entailment	Jonathan is classier than Linda. Jonathan is classier than Sharon.	Among Linda, Sharon and Jonathan the classiest is Jonathan.
+entailment	Billy is smaller than Fiona. Billy is smaller than Marilyn.	Among Fiona, Marilyn and Billy the smallest is Billy.
+entailment	John is more interesting than Jack. John is more interesting than Louis.	Among Jack, Louis and John the most interesting is John.
+entailment	Laura is curvier than Emily. Laura is curvier than Julia.	Among Emily, Julia and Laura the curviest is Laura.
+entailment	Maria is politer than Alfred. Maria is politer than Elizabeth.	Among Alfred, Elizabeth and Maria the politest is Maria.
+entailment	Jean is healthier than Edith. Jean is healthier than Bob.	Among Edith, Bob and Jean the healthiest is Jean.
+entailment	Jay is dumber than Michelle. Jay is dumber than David.	Among Michelle, David and Jay the dumbest is Jay.
+entailment	George is shyer than Marie. George is shyer than Donald.	Among Marie, Donald and George the shyest is George.
+entailment	Julie is skinnier than Henry. Julie is skinnier than Eric.	Among Henry, Eric and Julie the skinniest is Julie.
+entailment	Susan is messier than Christine. Susan is messier than Grace.	Among Christine, Grace and Susan the messiest is Susan.
+entailment	Carolyn is bossier than Donald. Carolyn is bossier than Karen.	Among Donald, Karen and Carolyn the bossiest is Carolyn.
+entailment	Frederick is denser than Philip. Frederick is denser than Lauren.	Among Philip, Lauren and Frederick the densest is Frederick.
+entailment	Nicole is more renowned than Henry. Nicole is more renowned than Charlie.	Among Henry, Charlie and Nicole the most renowned is Nicole.
+entailment	Alexandra is hairier than Bob. Alexandra is hairier than Keith.	Among Bob, Keith and Alexandra the hairiest is Alexandra.
+entailment	Helen is more interesting than Kelly. Helen is more interesting than Deborah.	Among Kelly, Deborah and Helen the most interesting is Helen.
+entailment	Andrea is longer than Maria. Andrea is longer than Ken.	Among Maria, Ken and Andrea the longest is Andrea.
+entailment	Eleanor is lonlier than Nicole. Eleanor is lonlier than Louise.	Among Nicole, Louise and Eleanor the loneliest is Eleanor.
+entailment	Simon is harsher than Betty. Simon is harsher than Melissa.	Among Betty, Melissa and Simon the harshest is Simon.
+entailment	Kevin is greater than Don. Kevin is greater than Rebecca.	Among Don, Rebecca and Kevin the greatest is Kevin.
+entailment	Edward is bitterer than Kenneth. Edward is bitterer than Jean.	Among Kenneth, Jean and Edward the bitterest is Edward.
+entailment	Elizabeth is hotter than Fiona. Elizabeth is hotter than Ben.	Among Fiona, Ben and Elizabeth the hottest is Elizabeth.
+entailment	Harold is angrier than Ruth. Harold is angrier than Marie.	Among Ruth, Marie and Harold the angriest is Harold.
+entailment	Kathleen is smarter than Brian. Kathleen is smarter than Fred.	Among Brian, Fred and Kathleen the smartest is Kathleen.
+entailment	Jill is angrier than Alfred. Jill is angrier than Louise.	Among Alfred, Louise and Jill the angriest is Jill.
+entailment	Edward is greedier than Anne. Edward is greedier than Maria.	Among Anne, Maria and Edward the greediest is Edward.
+entailment	Bob is noisier than Florence. Bob is noisier than Simon.	Among Florence, Simon and Bob the noisiest is Bob.
+entailment	Louis is more handsome than Robin. Louis is more handsome than Grace.	Among Robin, Grace and Louis the most handsome is Louis.
+entailment	Sara is more modern than Melissa. Sara is more modern than Catherine.	Among Melissa, Catherine and Sara the most modern is Sara.
+entailment	Sophie is clumsier than Virginia. Sophie is clumsier than Katie.	Among Virginia, Katie and Sophie the clumsiest is Sophie.
+entailment	Tony is lazier than Nicole. Tony is lazier than Richard.	Among Nicole, Richard and Tony the laziest is Tony.
+entailment	Alexandra is greedier than Lynn. Alexandra is greedier than Kathleen.	Among Lynn, Kathleen and Alexandra the greediest is Alexandra.
+entailment	Edward is sadder than Melissa. Edward is sadder than Bob.	Among Melissa, Bob and Edward the saddest is Edward.
+entailment	Nick is meaner than Steven. Nick is meaner than Martin.	Among Steven, Martin and Nick the meanest is Nick.
+entailment	Sophie is tinier than Ashley. Sophie is tinier than Michael.	Among Ashley, Michael and Sophie the tiniest is Sophie.
+entailment	Keith is sharper than George. Keith is sharper than Matthew.	Among George, Matthew and Keith the sharpest is Keith.
+entailment	Martin is brighter than Frances. Martin is brighter than Bruce.	Among Frances, Bruce and Martin the brightest is Martin.
+entailment	Elaine is tougher than Hugh. Elaine is tougher than Ellen.	Among Hugh, Ellen and Elaine the toughest is Elaine.
+entailment	Eleanor is shyer than Tom. Eleanor is shyer than Harry.	Among Tom, Harry and Eleanor the shyest is Eleanor.
+entailment	Matt is cuter than Kevin. Matt is cuter than Jerry.	Among Kevin, Jerry and Matt the cutest is Matt.
+entailment	Samuel is grosser than Adam. Samuel is grosser than Greg.	Among Adam, Greg and Samuel the grossest is Samuel.
+entailment	Nicole is hungrier than Stephen. Nicole is hungrier than Nancy.	Among Stephen, Nancy and Nicole the hungriest is Nicole.
+entailment	Chris is noisier than Lynn. Chris is noisier than Sara.	Among Lynn, Sara and Chris the noisiest is Chris.
+entailment	Sandra is gloomier than Michelle. Sandra is gloomier than Donald.	Among Michelle, Donald and Sandra the gloomiest is Sandra.
+entailment	Bob is quieter than Francis. Bob is quieter than Katherine.	Among Francis, Katherine and Bob the quietest is Bob.
+entailment	Sally is sweeter than Alexander. Sally is sweeter than Ann.	Among Alexander, Ann and Sally the sweetest is Sally.
+entailment	Frances is more interesting than Betty. Frances is more interesting than George.	Among Betty, George and Frances the most interesting is Frances.
+entailment	Billy is hairier than Leslie. Billy is hairier than Ray.	Among Leslie, Ray and Billy the hairiest is Billy.
+entailment	Ed is friendlier than Chris. Ed is friendlier than Sandra.	Among Chris, Sandra and Ed the friendliest is Ed.
+entailment	Christine is noisier than Dan. Christine is noisier than Andrea.	Among Dan, Andrea and Christine the noisiest is Christine.
+entailment	Al is hotter than Andrea. Al is hotter than Amanda.	Among Andrea, Amanda and Al the hottest is Al.
+entailment	Edith is more interesting than Patrick. Edith is more interesting than Kim.	Among Patrick, Kim and Edith the most interesting is Edith.
+entailment	James is kinder than Bruce. James is kinder than Ann.	Among Bruce, Ann and James the kindest is James.
+entailment	Edith is noisier than Louis. Edith is noisier than Linda.	Among Louis, Linda and Edith the noisiest is Edith.
+entailment	Nicole is fairer than Laura. Nicole is fairer than Fiona.	Among Laura, Fiona and Nicole the fairest is Nicole.
+entailment	Alexandra is crueller than Melissa. Alexandra is crueller than Chris.	Among Melissa, Chris and Alexandra the cruellest is Alexandra.
+entailment	Jill is smarter than Cynthia. Jill is smarter than Lucy.	Among Cynthia, Lucy and Jill the smartest is Jill.
+entailment	Harold is stronger than Katherine. Harold is stronger than Amanda.	Among Katherine, Amanda and Harold the strongest is Harold.
+entailment	Sam is calmer than Ian. Sam is calmer than Roger.	Among Ian, Roger and Sam the calmest is Sam.
+entailment	Joe is sadder than Sharon. Joe is sadder than Alice.	Among Sharon, Alice and Joe the saddest is Joe.
+entailment	Judith is scarier than Claire. Judith is scarier than Patrick.	Among Claire, Patrick and Judith the scariest is Judith.
+entailment	Mary is stronger than Linda. Mary is stronger than Helen.	Among Linda, Helen and Mary the strongest is Mary.
+entailment	Billy is more clever than Rebecca. Billy is more clever than Sharon.	Among Rebecca, Sharon and Billy the most clever is Billy.
+entailment	Brian is more interesting than Dave. Brian is more interesting than Emily.	Among Dave, Emily and Brian the most interesting is Brian.
+entailment	Emma is more attractive than Walter. Emma is more attractive than Tony.	Among Walter, Tony and Emma the most attractive is Emma.
+entailment	Eleanor is funnier than Ken. Eleanor is funnier than Jay.	Among Ken, Jay and Eleanor the funniest is Eleanor.
+entailment	Thomas is crazier than Rose. Thomas is crazier than Ryan.	Among Rose, Ryan and Thomas the craziest is Thomas.
+entailment	Dan is more tired than Robert. Dan is more tired than Frederick.	Among Robert, Frederick and Dan the most tired is Dan.
+entailment	Colin is smarter than Rose. Colin is smarter than Stephanie.	Among Rose, Stephanie and Colin the smartest is Colin.
+entailment	Alan is more attractive than Kathleen. Alan is more attractive than Keith.	Among Kathleen, Keith and Alan the most attractive is Alan.
+entailment	Karen is classier than Greg. Karen is classier than Patricia.	Among Greg, Patricia and Karen the classiest is Karen.
+entailment	Sally is fatter than Edith. Sally is fatter than Jean.	Among Edith, Jean and Sally the fattest is Sally.
+entailment	Joseph is funnier than Diane. Joseph is funnier than Francis.	Among Diane, Francis and Joseph the funniest is Joseph.
+entailment	Daniel is sharper than Lisa. Daniel is sharper than Sally.	Among Lisa, Sally and Daniel the sharpest is Daniel.
+entailment	William is slimmer than Nicole. William is slimmer than Simon.	Among Nicole, Simon and William the slimmest is William.
+entailment	Sue is poorer than Kevin. Sue is poorer than Victoria.	Among Kevin, Victoria and Sue the poorest is Sue.
+entailment	Ray is lazier than Sharon. Ray is lazier than Deborah.	Among Sharon, Deborah and Ray the laziest is Ray.
+entailment	Ken is better than Louis. Ken is better than Jeff.	Among Louis, Jeff and Ken the best is Ken.
+entailment	Albert is noisier than Harry. Albert is noisier than Rose.	Among Harry, Rose and Albert the noisiest is Albert.
+entailment	Sharon is more interesting than Katie. Sharon is more interesting than Diana.	Among Katie, Diana and Sharon the most interesting is Sharon.
+entailment	Stephanie is naughtier than Andrea. Stephanie is naughtier than Jane.	Among Andrea, Jane and Stephanie the naughtiest is Stephanie.
+entailment	Lisa is gloomier than Eric. Lisa is gloomier than Julia.	Among Eric, Julia and Lisa the gloomiest is Lisa.
+entailment	Jennifer is tougher than Chris. Jennifer is tougher than Marilyn.	Among Chris, Marilyn and Jennifer the toughest is Jennifer.
+entailment	Florence is skinnier than Keith. Florence is skinnier than Ralph.	Among Keith, Ralph and Florence the skinniest is Florence.
+entailment	Elizabeth is friendlier than Francis. Elizabeth is friendlier than Melissa.	Among Francis, Melissa and Elizabeth the friendliest is Elizabeth.
+entailment	Ruth is calmer than Dave. Ruth is calmer than Francis.	Among Dave, Francis and Ruth the calmest is Ruth.
+entailment	Wendy is fatter than Jessica. Wendy is fatter than Frederick.	Among Jessica, Frederick and Wendy the fattest is Wendy.
+entailment	Andrew is hotter than Andrea. Andrew is hotter than Lauren.	Among Andrea, Lauren and Andrew the hottest is Andrew.
+entailment	Jean is bolder than Bob. Jean is bolder than Sharon.	Among Bob, Sharon and Jean the boldest is Jean.
+entailment	Sara is cuter than Walter. Sara is cuter than Carl.	Among Walter, Carl and Sara the cutest is Sara.
+entailment	Ed is weirder than Ron. Ed is weirder than James.	Among Ron, James and Ed the weirdest is Ed.
+entailment	Alfred is gloomier than Matthew. Alfred is gloomier than Ann.	Among Matthew, Ann and Alfred the gloomiest is Alfred.
+entailment	Catherine is older than Roy. Catherine is older than Louise.	Among Roy, Louise and Catherine the oldest is Catherine.
+entailment	Simon is sweeter than Dick. Simon is sweeter than Jill.	Among Dick, Jill and Simon the sweetest is Simon.
+entailment	Philip is chubbier than Jill. Philip is chubbier than Howard.	Among Jill, Howard and Philip the chubbiest is Philip.
+entailment	Tim is cuter than Howard. Tim is cuter than Mary.	Among Howard, Mary and Tim the cutest is Tim.
+entailment	Keith is crazier than Jennifer. Keith is crazier than Mary.	Among Jennifer, Mary and Keith the craziest is Keith.
+entailment	Christine is shallower than Tony. Christine is shallower than Hugh.	Among Tony, Hugh and Christine the shallowest is Christine.
+entailment	Roger is richer than Maria. Roger is richer than Ryan.	Among Maria, Ryan and Roger the richest is Roger.
+entailment	Jason is lonlier than Martin. Jason is lonlier than Ruth.	Among Martin, Ruth and Jason the loneliest is Jason.
+entailment	Margaret is clumsier than Annie. Margaret is clumsier than Ray.	Among Annie, Ray and Margaret the clumsiest is Margaret.
+entailment	Donald is fatter than Chris. Donald is fatter than Stephen.	Among Chris, Stephen and Donald the fattest is Donald.
+entailment	Eric is more attractive than Matt. Eric is more attractive than Francis.	Among Matt, Francis and Eric the most attractive is Eric.
+entailment	Charles is dumber than Sandra. Charles is dumber than Mike.	Among Sandra, Mike and Charles the dumbest is Charles.
+entailment	Edith is fairer than Christine. Edith is fairer than Walter.	Among Christine, Walter and Edith the fairest is Edith.
+entailment	Florence is gentler than Rose. Florence is gentler than Karen.	Among Rose, Karen and Florence the gentlest is Florence.
+entailment	Bobby is hungrier than Roger. Bobby is hungrier than Judith.	Among Roger, Judith and Bobby the hungriest is Bobby.
+entailment	Ann is worse than Al. Ann is worse than Eric.	Among Al, Eric and Ann the worst is Ann.
+entailment	Ron is sadder than Anthony. Ron is sadder than Claire.	Among Anthony, Claire and Ron the saddest is Ron.
+entailment	Adam is angrier than Kim. Adam is angrier than Julia.	Among Kim, Julia and Adam the angriest is Adam.
+entailment	Sarah is weirder than Amanda. Sarah is weirder than Alfred.	Among Amanda, Alfred and Sarah the weirdest is Sarah.
+entailment	Joe is busier than Jonathan. Joe is busier than Harriet.	Among Jonathan, Harriet and Joe the busiest is Joe.
+entailment	Matthew is worse than Amanda. Matthew is worse than Marie.	Among Amanda, Marie and Matthew the worst is Matthew.
+entailment	Scott is shyer than Judy. Scott is shyer than Barbara.	Among Judy, Barbara and Scott the shyest is Scott.
+entailment	Peter is crueller than Kenneth. Peter is crueller than Samuel.	Among Kenneth, Samuel and Peter the cruellest is Peter.
+entailment	Emma is bigger than Jason. Emma is bigger than Annie.	Among Jason, Annie and Emma the biggest is Emma.
+entailment	Ed is calmer than Ann. Ed is calmer than Larry.	Among Ann, Larry and Ed the calmest is Ed.
+entailment	Matt is greater than Anna. Matt is greater than Julie.	Among Anna, Julie and Matt the greatest is Matt.
+entailment	Dick is harsher than Suzanne. Dick is harsher than Jimmy.	Among Suzanne, Jimmy and Dick the harshest is Dick.
+entailment	Victoria is cleverer than Suzanne. Victoria is cleverer than Margaret.	Among Suzanne, Margaret and Victoria the cleverest is Victoria.
+entailment	Martha is humbler than Jennifer. Martha is humbler than Sandra.	Among Jennifer, Sandra and Martha the humblest is Martha.
+entailment	Patricia is cleverer than Ralph. Patricia is cleverer than Tim.	Among Ralph, Tim and Patricia the cleverest is Patricia.
+entailment	Chris is prouder than Rebecca. Chris is prouder than Scott.	Among Rebecca, Scott and Chris the proudest is Chris.
+entailment	Amanda is busier than Rose. Amanda is busier than Tom.	Among Rose, Tom and Amanda the busiest is Amanda.
+entailment	Karen is smarter than Jean. Karen is smarter than Roger.	Among Jean, Roger and Karen the smartest is Karen.
+entailment	Brian is tinier than Ed. Brian is tinier than Robin.	Among Ed, Robin and Brian the tiniest is Brian.
+entailment	Kathryn is sharper than Diane. Kathryn is sharper than Suzanne.	Among Diane, Suzanne and Kathryn the sharpest is Kathryn.
+entailment	Julie is kinder than Jane. Julie is kinder than Ryan.	Among Jane, Ryan and Julie the kindest is Julie.
+entailment	Richard is louder than Sharon. Richard is louder than Julia.	Among Sharon, Julia and Richard the loudest is Richard.
+entailment	Frank is sleepier than Daniel. Frank is sleepier than Bob.	Among Daniel, Bob and Frank the sleepiest is Frank.
+entailment	Carolyn is fairer than Ron. Carolyn is fairer than Bill.	Among Ron, Bill and Carolyn the fairest is Carolyn.
+entailment	Keith is noisier than Patricia. Keith is noisier than Marie.	Among Patricia, Marie and Keith the noisiest is Keith.
+entailment	Helen is smaller than Heather. Helen is smaller than Melissa.	Among Heather, Melissa and Helen the smallest is Helen.
+entailment	Louise is happier than Edith. Louise is happier than Arthur.	Among Edith, Arthur and Louise the happiest is Louise.
+entailment	Wendy is lonlier than Dick. Wendy is lonlier than Chris.	Among Dick, Chris and Wendy the loneliest is Wendy.
+entailment	Francis is shallower than Sandra. Francis is shallower than Edwin.	Among Sandra, Edwin and Francis the shallowest is Francis.
+entailment	Thomas is harsher than Claire. Thomas is harsher than Billy.	Among Claire, Billy and Thomas the harshest is Thomas.
+entailment	Charlotte is poorer than Dick. Charlotte is poorer than Emma.	Among Dick, Emma and Charlotte the poorest is Charlotte.
+entailment	Dave is brighter than Sue. Dave is brighter than Anne.	Among Sue, Anne and Dave the brightest is Dave.
+entailment	Helen is smarter than Ben. Helen is smarter than Francis.	Among Ben, Francis and Helen the smartest is Helen.
+entailment	Louise is prettier than Cynthia. Louise is prettier than Ray.	Among Cynthia, Ray and Louise the prettiest is Louise.
+entailment	Sara is brighter than Sandra. Sara is brighter than Kelly.	Among Sandra, Kelly and Sara the brightest is Sara.
+entailment	Diane is more clever than Bruce. Diane is more clever than Kenneth.	Among Bruce, Kenneth and Diane the most clever is Diane.
+entailment	Johnny is hotter than Sandra. Johnny is hotter than Michael.	Among Sandra, Michael and Johnny the hottest is Johnny.
+entailment	Elizabeth is nicer than Maria. Elizabeth is nicer than Frank.	Among Maria, Frank and Elizabeth the nicest is Elizabeth.
+entailment	Diana is grosser than Al. Diana is grosser than Matt.	Among Al, Matt and Diana the grossest is Diana.
+entailment	Jerry is gloomier than Florence. Jerry is gloomier than Amy.	Among Florence, Amy and Jerry the gloomiest is Jerry.
+entailment	Lisa is politer than Cynthia. Lisa is politer than Kevin.	Among Cynthia, Kevin and Lisa the politest is Lisa.
+entailment	Mark is greedier than Eric. Mark is greedier than Leslie.	Among Eric, Leslie and Mark the greediest is Mark.
+entailment	William is sweeter than Alison. William is sweeter than Grace.	Among Alison, Grace and William the sweetest is William.
+entailment	Carl is firmer than Andrew. Carl is firmer than Brian.	Among Andrew, Brian and Carl the firmest is Carl.
+entailment	Stephanie is more important than Rose. Stephanie is more important than Christine.	Among Rose, Christine and Stephanie the most important is Stephanie.
+entailment	Anna is meaner than Richard. Anna is meaner than Dave.	Among Richard, Dave and Anna the meanest is Anna.
+entailment	Al is meaner than Pamela. Al is meaner than Victoria.	Among Pamela, Victoria and Al the meanest is Al.
+entailment	Richard is sillier than Michelle. Richard is sillier than Dick.	Among Michelle, Dick and Richard the silliest is Richard.
+entailment	Helen is shallower than Marie. Helen is shallower than Edith.	Among Marie, Edith and Helen the shallowest is Helen.
+entailment	Joan is more important than Jessica. Joan is more important than Amy.	Among Jessica, Amy and Joan the most important is Joan.
+entailment	Joan is dumber than Joseph. Joan is dumber than Karen.	Among Joseph, Karen and Joan the dumbest is Joan.
+entailment	Jane is firmer than Caroline. Jane is firmer than Carolyn.	Among Caroline, Carolyn and Jane the firmest is Jane.
+entailment	Mark is politer than Pamela. Mark is politer than Michael.	Among Pamela, Michael and Mark the politest is Mark.
+entailment	Marilyn is younger than Ruth. Marilyn is younger than Kathryn.	Among Ruth, Kathryn and Marilyn the youngest is Marilyn.
+entailment	Alexandra is humbler than Nancy. Alexandra is humbler than Martha.	Among Nancy, Martha and Alexandra the humblest is Alexandra.
+entailment	Melissa is noisier than Patrick. Melissa is noisier than Richard.	Among Patrick, Richard and Melissa the noisiest is Melissa.
+entailment	Al is naughtier than Jack. Al is naughtier than George.	Among Jack, George and Al the naughtiest is Al.
+entailment	Joseph is sillier than Charles. Joseph is sillier than Harriet.	Among Charles, Harriet and Joseph the silliest is Joseph.
+entailment	Victoria is richer than Edith. Victoria is richer than Scott.	Among Edith, Scott and Victoria the richest is Victoria.
+entailment	Laura is stronger than Joe. Laura is stronger than Patrick.	Among Joe, Patrick and Laura the strongest is Laura.
+entailment	Carol is bolder than Nancy. Carol is bolder than Diana.	Among Nancy, Diana and Carol the boldest is Carol.
+entailment	Amanda is faster than Billy. Amanda is faster than Kathy.	Among Billy, Kathy and Amanda the fastest is Amanda.
+entailment	Thomas is dumber than Karen. Thomas is dumber than Edith.	Among Karen, Edith and Thomas the dumbest is Thomas.
+entailment	Betty is saltier than Steve. Betty is saltier than Evelyn.	Among Steve, Evelyn and Betty the saltiest is Betty.
+entailment	Arthur is smarter than Sue. Arthur is smarter than Ralph.	Among Sue, Ralph and Arthur the smartest is Arthur.
+entailment	Frank is louder than Wendy. Frank is louder than Larry.	Among Wendy, Larry and Frank the loudest is Frank.
+entailment	Alex is scarier than Arthur. Alex is scarier than Emma.	Among Arthur, Emma and Alex the scariest is Alex.
+entailment	Jean is dumber than Bruce. Jean is dumber than Bill.	Among Bruce, Bill and Jean the dumbest is Jean.
+entailment	Grace is smarter than Harold. Grace is smarter than Jeff.	Among Harold, Jeff and Grace the smartest is Grace.
+entailment	Kim is shorter than Don. Kim is shorter than Virginia.	Among Don, Virginia and Kim the shortest is Kim.
+entailment	Gary is nicer than Ron. Gary is nicer than Alice.	Among Ron, Alice and Gary the nicest is Gary.
+entailment	Patricia is braver than Mary. Patricia is braver than Simon.	Among Mary, Simon and Patricia the bravest is Patricia.
+entailment	Scott is lazier than Julia. Scott is lazier than Anne.	Among Julia, Anne and Scott the laziest is Scott.
+entailment	Dave is richer than Don. Dave is richer than Annie.	Among Don, Annie and Dave the richest is Dave.
+entailment	Michelle is sadder than Mary. Michelle is sadder than Scott.	Among Mary, Scott and Michelle the saddest is Michelle.
+entailment	Harriet is quieter than Billy. Harriet is quieter than Florence.	Among Billy, Florence and Harriet the quietest is Harriet.
+entailment	Julia is better than Nick. Julia is better than Al.	Among Nick, Al and Julia the best is Julia.
+entailment	Annie is slimmer than Lisa. Annie is slimmer than Virginia.	Among Lisa, Virginia and Annie the slimmest is Annie.
+entailment	Florence is hotter than Virginia. Florence is hotter than Judith.	Among Virginia, Judith and Florence the hottest is Florence.
+entailment	Tony is guilter than Michael. Tony is guilter than Scott.	Among Michael, Scott and Tony the guiltiest is Tony.
+entailment	Christopher is sincerer than Dan. Christopher is sincerer than Peter.	Among Dan, Peter and Christopher the sincerest is Christopher.
+entailment	James is lonlier than Charles. James is lonlier than Kelly.	Among Charles, Kelly and James the loneliest is James.
+entailment	Sue is noisier than Francis. Sue is noisier than Diana.	Among Francis, Diana and Sue the noisiest is Sue.
+entailment	Mark is braver than Joseph. Mark is braver than Kathy.	Among Joseph, Kathy and Mark the bravest is Mark.
+entailment	John is more polite than Alice. John is more polite than Alan.	Among Alice, Alan and John the most polite is John.
+entailment	Julia is wiser than Evelyn. Julia is wiser than George.	Among Evelyn, George and Julia the wisest is Julia.
+entailment	Eleanor is stronger than Ed. Eleanor is stronger than Lawrence.	Among Ed, Lawrence and Eleanor the strongest is Eleanor.
+entailment	Harry is clumsier than Elaine. Harry is clumsier than Alice.	Among Elaine, Alice and Harry the clumsiest is Harry.
+entailment	Bobby is weirder than Richard. Bobby is weirder than Angela.	Among Richard, Angela and Bobby the weirdest is Bobby.
+entailment	Nancy is more bitter than Mike. Nancy is more bitter than Ed.	Among Mike, Ed and Nancy the most bitter is Nancy.
+entailment	Anthony is more attractive than Rachel. Anthony is more attractive than Jay.	Among Rachel, Jay and Anthony the most attractive is Anthony.
+entailment	Dorothy is clumsier than Ed. Dorothy is clumsier than Alfred.	Among Ed, Alfred and Dorothy the clumsiest is Dorothy.
+entailment	Jack is bitterer than Kenneth. Jack is bitterer than Matt.	Among Kenneth, Matt and Jack the bitterest is Jack.
+entailment	Sandra is more modern than Kathleen. Sandra is more modern than Elaine.	Among Kathleen, Elaine and Sandra the most modern is Sandra.
+entailment	Harriet is more beautiful than Lisa. Harriet is more beautiful than Ruth.	Among Lisa, Ruth and Harriet the most beautiful is Harriet.
+entailment	Kim is angrier than Julia. Kim is angrier than Kate.	Among Julia, Kate and Kim the angriest is Kim.
+entailment	Ruth is quieter than Harriet. Ruth is quieter than Michelle.	Among Harriet, Michelle and Ruth the quietest is Ruth.
+entailment	Richard is older than Elaine. Richard is older than Jimmy.	Among Elaine, Jimmy and Richard the oldest is Richard.
+entailment	Anne is grosser than Brian. Anne is grosser than Ken.	Among Brian, Ken and Anne the grossest is Anne.
+entailment	Stephen is wiser than Betty. Stephen is wiser than Sophie.	Among Betty, Sophie and Stephen the wisest is Stephen.
+entailment	Billy is weirder than Michael. Billy is weirder than Ashley.	Among Michael, Ashley and Billy the weirdest is Billy.
+entailment	Steven is thinner than Lisa. Steven is thinner than Daniel.	Among Lisa, Daniel and Steven the thinnest is Steven.
+entailment	Alan is lazier than Kelly. Alan is lazier than Arthur.	Among Kelly, Arthur and Alan the laziest is Alan.
+entailment	Dan is bigger than Kathy. Dan is bigger than Scott.	Among Kathy, Scott and Dan the biggest is Dan.
+entailment	Wendy is firmer than Carl. Wendy is firmer than Pamela.	Among Carl, Pamela and Wendy the firmest is Wendy.
+entailment	Dorothy is thinner than Ashley. Dorothy is thinner than Sharon.	Among Ashley, Sharon and Dorothy the thinnest is Dorothy.
+entailment	Carolyn is smaller than Emma. Carolyn is smaller than Kathleen.	Among Emma, Kathleen and Carolyn the smallest is Carolyn.
+entailment	Anthony is lovelier than Leslie. Anthony is lovelier than Walter.	Among Leslie, Walter and Anthony the loveliest is Anthony.
+entailment	Victoria is slower than Fiona. Victoria is slower than Anna.	Among Fiona, Anna and Victoria the slowest is Victoria.
+entailment	William is sadder than Judith. William is sadder than Anthony.	Among Judith, Anthony and William the saddest is William.
+entailment	Leslie is lovelier than Florence. Leslie is lovelier than Lynn.	Among Florence, Lynn and Leslie the loveliest is Leslie.
+entailment	Jay is cleverer than Ruth. Jay is cleverer than Gary.	Among Ruth, Gary and Jay the cleverest is Jay.
+entailment	Tim is fatter than Adam. Tim is fatter than Rebecca.	Among Adam, Rebecca and Tim the fattest is Tim.
+entailment	Kevin is more modern than Kim. Kevin is more modern than Sarah.	Among Kim, Sarah and Kevin the most modern is Kevin.
+entailment	George is shyer than Charlotte. George is shyer than Melissa.	Among Charlotte, Melissa and George the shyest is George.
+entailment	Donald is chubbier than Pamela. Donald is chubbier than Sue.	Among Pamela, Sue and Donald the chubbiest is Donald.
+entailment	Colin is politer than Pamela. Colin is politer than Jerry.	Among Pamela, Jerry and Colin the politest is Colin.
+entailment	Scott is quieter than Benjamin. Scott is quieter than Amy.	Among Benjamin, Amy and Scott the quietest is Scott.
+entailment	Mary is denser than Rose. Mary is denser than Greg.	Among Rose, Greg and Mary the densest is Mary.
+entailment	Betty is more attractive than Frances. Betty is more attractive than Susan.	Among Frances, Susan and Betty the most attractive is Betty.
+entailment	Kathleen is more beautiful than Suzanne. Kathleen is more beautiful than Helen.	Among Suzanne, Helen and Kathleen the most beautiful is Kathleen.
+entailment	Kenneth is firmer than Lauren. Kenneth is firmer than Arthur.	Among Lauren, Arthur and Kenneth the firmest is Kenneth.
+entailment	Emma is harsher than Ryan. Emma is harsher than Helen.	Among Ryan, Helen and Emma the harshest is Emma.
+entailment	Patrick is sleepier than Lisa. Patrick is sleepier than Jessica.	Among Lisa, Jessica and Patrick the sleepiest is Patrick.
+entailment	Fred is gentler than Anne. Fred is gentler than Mike.	Among Anne, Mike and Fred the gentlest is Fred.
+entailment	Dorothy is sweeter than Larry. Dorothy is sweeter than Bobby.	Among Larry, Bobby and Dorothy the sweetest is Dorothy.
+entailment	Cynthia is more interesting than Alice. Cynthia is more interesting than Lawrence.	Among Alice, Lawrence and Cynthia the most interesting is Cynthia.
+entailment	Ron is taller than Jeff. Ron is taller than Jill.	Among Jeff, Jill and Ron the tallest is Ron.
+entailment	Albert is more tired than Alex. Albert is more tired than Ken.	Among Alex, Ken and Albert the most tired is Albert.
+entailment	Dick is tinier than Don. Dick is tinier than Mike.	Among Don, Mike and Dick the tiniest is Dick.
+entailment	Anne is curvier than Michelle. Anne is curvier than Ian.	Among Michelle, Ian and Anne the curviest is Anne.
+entailment	Don is uglier than Daniel. Don is uglier than Gary.	Among Daniel, Gary and Don the ugliest is Don.
+entailment	Thomas is weirder than Fred. Thomas is weirder than Stephen.	Among Fred, Stephen and Thomas the weirdest is Thomas.
+entailment	Ann is stronger than Martha. Ann is stronger than Sarah.	Among Martha, Sarah and Ann the strongest is Ann.
+entailment	Jonathan is slimmer than Kim. Jonathan is slimmer than Gary.	Among Kim, Gary and Jonathan the slimmest is Jonathan.
+entailment	Jessica is clumsier than Bobby. Jessica is clumsier than Adam.	Among Bobby, Adam and Jessica the clumsiest is Jessica.
+entailment	Carl is longer than Tom. Carl is longer than Amanda.	Among Tom, Amanda and Carl the longest is Carl.
+entailment	Julia is fatter than David. Julia is fatter than Carolyn.	Among David, Carolyn and Julia the fattest is Julia.
+entailment	Michelle is denser than Frances. Michelle is denser than Florence.	Among Frances, Florence and Michelle the densest is Michelle.
+entailment	Joseph is sorrier than Sharon. Joseph is sorrier than Anthony.	Among Sharon, Anthony and Joseph the sorriest is Joseph.
+entailment	Christine is greedier than Betty. Christine is greedier than Judy.	Among Betty, Judy and Christine the greediest is Christine.
+entailment	Claire is hairier than Maria. Claire is hairier than Lucy.	Among Maria, Lucy and Claire the hairiest is Claire.
+entailment	Jill is kinder than Laura. Jill is kinder than Kathy.	Among Laura, Kathy and Jill the kindest is Jill.
+entailment	Johnny is curvier than Adam. Johnny is curvier than Henry.	Among Adam, Henry and Johnny the curviest is Johnny.
+entailment	Julia is chubbier than Hugh. Julia is chubbier than Alfred.	Among Hugh, Alfred and Julia the chubbiest is Julia.
+entailment	Dick is crueller than Sandra. Dick is crueller than Roy.	Among Sandra, Roy and Dick the cruellest is Dick.
+entailment	Deborah is braver than Eleanor. Deborah is braver than Judy.	Among Eleanor, Judy and Deborah the bravest is Deborah.
+entailment	Bob is nicer than Diana. Bob is nicer than Victoria.	Among Diana, Victoria and Bob the nicest is Bob.
+entailment	Deborah is sharper than Maria. Deborah is sharper than Louis.	Among Maria, Louis and Deborah the sharpest is Deborah.
+entailment	Ellen is more modern than Karen. Ellen is more modern than Angela.	Among Karen, Angela and Ellen the most modern is Ellen.
+entailment	Eric is hotter than Ruth. Eric is hotter than Roy.	Among Ruth, Roy and Eric the hottest is Eric.
+entailment	Margaret is prouder than Kathleen. Margaret is prouder than Marie.	Among Kathleen, Marie and Margaret the proudest is Margaret.
+entailment	Jim is bossier than Colin. Jim is bossier than Wendy.	Among Colin, Wendy and Jim the bossiest is Jim.
+entailment	Leslie is older than Grace. Leslie is older than Jerry.	Among Grace, Jerry and Leslie the oldest is Leslie.
+entailment	Martha is worse than Stephanie. Martha is worse than Ken.	Among Stephanie, Ken and Martha the worst is Martha.
+entailment	Greg is prettier than Daniel. Greg is prettier than Claire.	Among Daniel, Claire and Greg the prettiest is Greg.
+entailment	Robin is more clever than Bobby. Robin is more clever than Pamela.	Among Bobby, Pamela and Robin the most clever is Robin.
+entailment	Paul is more clever than Harry. Paul is more clever than Ian.	Among Harry, Ian and Paul the most clever is Paul.
+entailment	Jill is bigger than Deborah. Jill is bigger than Virginia.	Among Deborah, Virginia and Jill the biggest is Jill.
+entailment	Carl is uglier than David. Carl is uglier than Heather.	Among David, Heather and Carl the ugliest is Carl.
+entailment	Charles is skinnier than Judith. Charles is skinnier than Paul.	Among Judith, Paul and Charles the skinniest is Charles.
+entailment	Lynn is duller than Simon. Lynn is duller than Marie.	Among Simon, Marie and Lynn the dullest is Lynn.
+entailment	Sam is shallower than Julie. Sam is shallower than Kenneth.	Among Julie, Kenneth and Sam the shallowest is Sam.
+entailment	Bob is stronger than Henry. Bob is stronger than Kenneth.	Among Henry, Kenneth and Bob the strongest is Bob.
+entailment	Kathy is more important than Edith. Kathy is more important than Jim.	Among Edith, Jim and Kathy the most important is Kathy.
+entailment	Charlotte is sillier than Tom. Charlotte is sillier than Walter.	Among Tom, Walter and Charlotte the silliest is Charlotte.
+entailment	Edwin is humbler than Al. Edwin is humbler than Colin.	Among Al, Colin and Edwin the humblest is Edwin.
+entailment	Fred is busier than Katie. Fred is busier than Jean.	Among Katie, Jean and Fred the busiest is Fred.
+entailment	Peter is hungrier than Emily. Peter is hungrier than Carl.	Among Emily, Carl and Peter the hungriest is Peter.
+entailment	Andrea is bitterer than Betty. Andrea is bitterer than Alice.	Among Betty, Alice and Andrea the bitterest is Andrea.
+entailment	Patricia is sharper than Ian. Patricia is sharper than Patrick.	Among Ian, Patrick and Patricia the sharpest is Patricia.
+entailment	Barbara is kinder than Jerry. Barbara is kinder than Emma.	Among Jerry, Emma and Barbara the kindest is Barbara.
+entailment	David is fatter than Jean. David is fatter than Frances.	Among Jean, Frances and David the fattest is David.
+entailment	Rachel is weaker than Grace. Rachel is weaker than Anthony.	Among Grace, Anthony and Rachel the weakest is Rachel.
+entailment	Brian is weirder than Betty. Brian is weirder than Roy.	Among Betty, Roy and Brian the weirdest is Brian.
+entailment	Howard is more beautiful than Janet. Howard is more beautiful than George.	Among Janet, George and Howard the most beautiful is Howard.
+entailment	Jonathan is richer than Betty. Jonathan is richer than Fiona.	Among Betty, Fiona and Jonathan the richest is Jonathan.
+entailment	Thomas is messier than Evelyn. Thomas is messier than Sandra.	Among Evelyn, Sandra and Thomas the messiest is Thomas.
+entailment	Jonathan is cleverer than Adam. Jonathan is cleverer than Benjamin.	Among Adam, Benjamin and Jonathan the cleverest is Jonathan.
+entailment	Carolyn is more clever than Rachel. Carolyn is more clever than John.	Among Rachel, John and Carolyn the most clever is Carolyn.
+entailment	Roy is crazier than Betty. Roy is crazier than Melissa.	Among Betty, Melissa and Roy the craziest is Roy.
+entailment	Kevin is more attractive than Katherine. Kevin is more attractive than Cynthia.	Among Katherine, Cynthia and Kevin the most attractive is Kevin.
+entailment	Sam is chubbier than Laura. Sam is chubbier than Diane.	Among Laura, Diane and Sam the chubbiest is Sam.
+entailment	Tony is hungrier than Gary. Tony is hungrier than Evelyn.	Among Gary, Evelyn and Tony the hungriest is Tony.
+entailment	Kathleen is creepier than Charlie. Kathleen is creepier than Diana.	Among Charlie, Diana and Kathleen the creepiest is Kathleen.
+entailment	Carolyn is wealthier than Jennifer. Carolyn is wealthier than Claire.	Among Jennifer, Claire and Carolyn the wealthiest is Carolyn.
+entailment	Dick is creepier than Kathleen. Dick is creepier than Alexandra.	Among Kathleen, Alexandra and Dick the creepiest is Dick.
+entailment	Frank is uglier than Anthony. Frank is uglier than Bruce.	Among Anthony, Bruce and Frank the ugliest is Frank.
+entailment	Kelly is crazier than Suzanne. Kelly is crazier than Paul.	Among Suzanne, Paul and Kelly the craziest is Kelly.
+entailment	Katherine is more handsome than Bob. Katherine is more handsome than Marie.	Among Bob, Marie and Katherine the most handsome is Katherine.
+entailment	Lucy is sweeter than Angela. Lucy is sweeter than Jonathan.	Among Angela, Jonathan and Lucy the sweetest is Lucy.
+entailment	Bill is skinnier than Julie. Bill is skinnier than Colin.	Among Julie, Colin and Bill the skinniest is Bill.
+entailment	Sophie is sincerer than Kim. Sophie is sincerer than Lawrence.	Among Kim, Lawrence and Sophie the sincerest is Sophie.
+entailment	Anthony is sharper than Jennifer. Anthony is sharper than Kelly.	Among Jennifer, Kelly and Anthony the sharpest is Anthony.
+entailment	Ben is slower than Billy. Ben is slower than Anne.	Among Billy, Anne and Ben the slowest is Ben.
+entailment	Charles is brighter than Alexander. Charles is brighter than Rose.	Among Alexander, Rose and Charles the brightest is Charles.
+entailment	Robert is meaner than Tim. Robert is meaner than Emma.	Among Tim, Emma and Robert the meanest is Robert.
+entailment	Louise is happier than Adam. Louise is happier than Lucy.	Among Adam, Lucy and Louise the happiest is Louise.
+entailment	Dick is wiser than Ed. Dick is wiser than Stephanie.	Among Ed, Stephanie and Dick the wisest is Dick.
+entailment	Lynn is sincerer than Victoria. Lynn is sincerer than Judith.	Among Victoria, Judith and Lynn the sincerest is Lynn.
+entailment	Judy is crazier than Eleanor. Judy is crazier than Joseph.	Among Eleanor, Joseph and Judy the craziest is Judy.
+entailment	Dave is guilter than Edward. Dave is guilter than Anna.	Among Edward, Anna and Dave the guiltiest is Dave.
+entailment	Walter is kinder than Joan. Walter is kinder than Chris.	Among Joan, Chris and Walter the kindest is Walter.
+entailment	Matthew is sillier than Sally. Matthew is sillier than Jerry.	Among Sally, Jerry and Matthew the silliest is Matthew.
+entailment	Roger is sadder than Larry. Roger is sadder than Kenneth.	Among Larry, Kenneth and Roger the saddest is Roger.
+entailment	Tom is sincerer than Ralph. Tom is sincerer than Greg.	Among Ralph, Greg and Tom the sincerest is Tom.
+entailment	Judy is lonlier than Kathleen. Judy is lonlier than Sam.	Among Kathleen, Sam and Judy the loneliest is Judy.
+entailment	Nancy is poorer than Thomas. Nancy is poorer than Michelle.	Among Thomas, Michelle and Nancy the poorest is Nancy.
+entailment	Dave is meaner than Ben. Dave is meaner than Ann.	Among Ben, Ann and Dave the meanest is Dave.
+entailment	Adam is brighter than Jimmy. Adam is brighter than Edwin.	Among Jimmy, Edwin and Adam the brightest is Adam.
+entailment	Walter is sillier than Grace. Walter is sillier than Barbara.	Among Grace, Barbara and Walter the silliest is Walter.
+entailment	Carolyn is poorer than Ralph. Carolyn is poorer than Lynn.	Among Ralph, Lynn and Carolyn the poorest is Carolyn.
+entailment	Thomas is smarter than Jack. Thomas is smarter than Michael.	Among Jack, Michael and Thomas the smartest is Thomas.
+entailment	Edith is lovelier than Lynn. Edith is lovelier than Sally.	Among Lynn, Sally and Edith the loveliest is Edith.
+entailment	Laura is busier than Michelle. Laura is busier than Sam.	Among Michelle, Sam and Laura the busiest is Laura.
+entailment	Donald is smaller than Anthony. Donald is smaller than Scott.	Among Anthony, Scott and Donald the smallest is Donald.
+entailment	Lucy is smarter than Ed. Lucy is smarter than Catherine.	Among Ed, Catherine and Lucy the smartest is Lucy.
+entailment	Laura is weaker than Jennifer. Laura is weaker than Angela.	Among Jennifer, Angela and Laura the weakest is Laura.
+entailment	Victoria is meaner than Kelly. Victoria is meaner than Sara.	Among Kelly, Sara and Victoria the meanest is Victoria.
+entailment	Anna is quieter than Jay. Anna is quieter than Elizabeth.	Among Jay, Elizabeth and Anna the quietest is Anna.
+entailment	Donald is sadder than Matt. Donald is sadder than Diane.	Among Matt, Diane and Donald the saddest is Donald.
+entailment	Angela is more beautiful than Rachel. Angela is more beautiful than Edith.	Among Rachel, Edith and Angela the most beautiful is Angela.
+entailment	Dick is nicer than Robert. Dick is nicer than Don.	Among Robert, Don and Dick the nicest is Dick.
+entailment	Catherine is skinnier than Jerry. Catherine is skinnier than Carolyn.	Among Jerry, Carolyn and Catherine the skinniest is Catherine.
+entailment	Alice is harsher than Marie. Alice is harsher than Jennifer.	Among Marie, Jennifer and Alice the harshest is Alice.
+entailment	Michelle is wiser than Carolyn. Michelle is wiser than Anna.	Among Carolyn, Anna and Michelle the wisest is Michelle.
+entailment	Marie is happier than Ken. Marie is happier than Florence.	Among Ken, Florence and Marie the happiest is Marie.
+entailment	Kathleen is noisier than Diane. Kathleen is noisier than Jason.	Among Diane, Jason and Kathleen the noisiest is Kathleen.
+entailment	Adam is quieter than Heather. Adam is quieter than Carol.	Among Heather, Carol and Adam the quietest is Adam.
+entailment	Kathy is prouder than Christine. Kathy is prouder than Tom.	Among Christine, Tom and Kathy the proudest is Kathy.
+entailment	Betty is more important than Stephanie. Betty is more important than Caroline.	Among Stephanie, Caroline and Betty the most important is Betty.
+entailment	Marilyn is saltier than Diane. Marilyn is saltier than Jay.	Among Diane, Jay and Marilyn the saltiest is Marilyn.
+entailment	Grace is greater than Michael. Grace is greater than Heather.	Among Michael, Heather and Grace the greatest is Grace.
+entailment	Charlotte is angrier than Joe. Charlotte is angrier than Harriet.	Among Joe, Harriet and Charlotte the angriest is Charlotte.
+entailment	Betty is grosser than Andrea. Betty is grosser than Maria.	Among Andrea, Maria and Betty the grossest is Betty.
+entailment	Sam is happier than Billy. Sam is happier than Frank.	Among Billy, Frank and Sam the happiest is Sam.
+entailment	Arthur is fairer than Tony. Arthur is fairer than Ashley.	Among Tony, Ashley and Arthur the fairest is Arthur.
+entailment	Harold is shorter than Jean. Harold is shorter than Paul.	Among Jean, Paul and Harold the shortest is Harold.
+entailment	Julie is sleepier than Florence. Julie is sleepier than Alex.	Among Florence, Alex and Julie the sleepiest is Julie.
+entailment	Kenneth is ruder than Carol. Kenneth is ruder than Cynthia.	Among Carol, Cynthia and Kenneth the rudest is Kenneth.
+entailment	Al is hairier than Bobby. Al is hairier than Ed.	Among Bobby, Ed and Al the hairiest is Al.
+entailment	Suzanne is more bitter than Greg. Suzanne is more bitter than Catherine.	Among Greg, Catherine and Suzanne the most bitter is Suzanne.
+entailment	Alexandra is denser than Charlotte. Alexandra is denser than Bob.	Among Charlotte, Bob and Alexandra the densest is Alexandra.
+entailment	Joe is weaker than Al. Joe is weaker than Susan.	Among Al, Susan and Joe the weakest is Joe.
+entailment	Dave is politer than Peter. Dave is politer than Joan.	Among Peter, Joan and Dave the politest is Dave.
+entailment	Sue is faster than Sandra. Sue is faster than Tony.	Among Sandra, Tony and Sue the fastest is Sue.
+entailment	Henry is faster than Matt. Henry is faster than Adam.	Among Matt, Adam and Henry the fastest is Henry.
+entailment	Elizabeth is duller than Tim. Elizabeth is duller than Alex.	Among Tim, Alex and Elizabeth the dullest is Elizabeth.
+entailment	Keith is sincerer than Michael. Keith is sincerer than Ruth.	Among Michael, Ruth and Keith the sincerest is Keith.
+entailment	Dave is sorrier than Sam. Dave is sorrier than Bobby.	Among Sam, Bobby and Dave the sorriest is Dave.
+entailment	Diana is kinder than Mary. Diana is kinder than Robert.	Among Mary, Robert and Diana the kindest is Diana.
+entailment	Ray is fatter than Rose. Ray is fatter than Stephen.	Among Rose, Stephen and Ray the fattest is Ray.
+entailment	Sandra is brighter than Edwin. Sandra is brighter than Albert.	Among Edwin, Albert and Sandra the brightest is Sandra.
+entailment	Patricia is worse than Louis. Patricia is worse than Martha.	Among Louis, Martha and Patricia the worst is Patricia.
+entailment	Leslie is angrier than Chris. Leslie is angrier than Charles.	Among Chris, Charles and Leslie the angriest is Leslie.
+entailment	Martin is better than Peter. Martin is better than David.	Among Peter, David and Martin the best is Martin.
+entailment	Elizabeth is more interesting than Nicole. Elizabeth is more interesting than Robert.	Among Nicole, Robert and Elizabeth the most interesting is Elizabeth.
+entailment	Emily is nicer than Ian. Emily is nicer than Keith.	Among Ian, Keith and Emily the nicest is Emily.
+entailment	Suzanne is funnier than Brian. Suzanne is funnier than John.	Among Brian, John and Suzanne the funniest is Suzanne.
+entailment	Melissa is saltier than Ken. Melissa is saltier than Harry.	Among Ken, Harry and Melissa the saltiest is Melissa.
+entailment	Wendy is more bitter than Karen. Wendy is more bitter than Frances.	Among Karen, Frances and Wendy the most bitter is Wendy.
+entailment	Mike is dumber than Rachel. Mike is dumber than James.	Among Rachel, James and Mike the dumbest is Mike.
+entailment	Anthony is older than Charlotte. Anthony is older than Alison.	Among Charlotte, Alison and Anthony the oldest is Anthony.
+entailment	Ruth is shallower than Gary. Ruth is shallower than Sally.	Among Gary, Sally and Ruth the shallowest is Ruth.
+entailment	Andrea is more modern than Susan. Andrea is more modern than Julia.	Among Susan, Julia and Andrea the most modern is Andrea.
+entailment	Tom is noisier than Philip. Tom is noisier than John.	Among Philip, John and Tom the noisiest is Tom.
+entailment	Ken is gentler than Kathleen. Ken is gentler than Leslie.	Among Kathleen, Leslie and Ken the gentlest is Ken.
+entailment	Ron is curvier than Philip. Ron is curvier than Katherine.	Among Philip, Katherine and Ron the curviest is Ron.
+entailment	Sara is saltier than Linda. Sara is saltier than Thomas.	Among Linda, Thomas and Sara the saltiest is Sara.
+entailment	Anna is bigger than Heather. Anna is bigger than Jason.	Among Heather, Jason and Anna the biggest is Anna.
+entailment	Evelyn is smarter than Bruce. Evelyn is smarter than John.	Among Bruce, John and Evelyn the smartest is Evelyn.
+entailment	Eric is fatter than Christopher. Eric is fatter than Paul.	Among Christopher, Paul and Eric the fattest is Eric.
+entailment	Alexander is messier than Sam. Alexander is messier than Sharon.	Among Sam, Sharon and Alexander the messiest is Alexander.
+entailment	Laura is tinier than Sara. Laura is tinier than Carol.	Among Sara, Carol and Laura the tiniest is Laura.
+entailment	Ryan is richer than Ellen. Ryan is richer than Larry.	Among Ellen, Larry and Ryan the richest is Ryan.
+entailment	Scott is noisier than Julia. Scott is noisier than Ellen.	Among Julia, Ellen and Scott the noisiest is Scott.
+entailment	Ron is happier than Diane. Ron is happier than Elaine.	Among Diane, Elaine and Ron the happiest is Ron.
+entailment	Bill is politer than Sophie. Bill is politer than Charlotte.	Among Sophie, Charlotte and Bill the politest is Bill.
+entailment	Nick is louder than Roger. Nick is louder than Sara.	Among Roger, Sara and Nick the loudest is Nick.
+entailment	Roy is louder than Kate. Roy is louder than John.	Among Kate, John and Roy the loudest is Roy.
+entailment	Jeff is sleepier than Tim. Jeff is sleepier than Martha.	Among Tim, Martha and Jeff the sleepiest is Jeff.
+entailment	Bill is smaller than Jason. Bill is smaller than Mike.	Among Jason, Mike and Bill the smallest is Bill.
+entailment	Heather is busier than Peter. Heather is busier than Marilyn.	Among Peter, Marilyn and Heather the busiest is Heather.
+entailment	Dave is more popular than Charles. Dave is more popular than Ruth.	Among Charles, Ruth and Dave the most popular is Dave.
+entailment	Walter is classier than Emma. Walter is classier than Gary.	Among Emma, Gary and Walter the classiest is Walter.
+entailment	Patricia is skinnier than Matt. Patricia is skinnier than Ryan.	Among Matt, Ryan and Patricia the skinniest is Patricia.
+entailment	Ellen is cuter than Stephen. Ellen is cuter than Fiona.	Among Stephen, Fiona and Ellen the cutest is Ellen.
+entailment	Christine is fatter than Ray. Christine is fatter than Alexander.	Among Ray, Alexander and Christine the fattest is Christine.
+entailment	Ann is poorer than Andrea. Ann is poorer than Joseph.	Among Andrea, Joseph and Ann the poorest is Ann.
+entailment	Elaine is creepier than Anna. Elaine is creepier than Jill.	Among Anna, Jill and Elaine the creepiest is Elaine.
+entailment	Sarah is older than George. Sarah is older than Keith.	Among George, Keith and Sarah the oldest is Sarah.
+entailment	Mary is more important than Alice. Mary is more important than Mark.	Among Alice, Mark and Mary the most important is Mary.
+entailment	Jim is meaner than Carol. Jim is meaner than Patrick.	Among Carol, Patrick and Jim the meanest is Jim.
+entailment	Alex is louder than Martha. Alex is louder than Deborah.	Among Martha, Deborah and Alex the loudest is Alex.
+entailment	Susan is more attractive than Ryan. Susan is more attractive than Carl.	Among Ryan, Carl and Susan the most attractive is Susan.
+entailment	Edward is skinnier than Mary. Edward is skinnier than Arthur.	Among Mary, Arthur and Edward the skinniest is Edward.
+entailment	Jerry is younger than Keith. Jerry is younger than Kate.	Among Keith, Kate and Jerry the youngest is Jerry.
+entailment	Brian is ruder than Virginia. Brian is ruder than Laura.	Among Virginia, Laura and Brian the rudest is Brian.
+entailment	Kathryn is wealthier than Kim. Kathryn is wealthier than Andrea.	Among Kim, Andrea and Kathryn the wealthiest is Kathryn.
+entailment	Ruth is brighter than Alexander. Ruth is brighter than Lawrence.	Among Alexander, Lawrence and Ruth the brightest is Ruth.
+entailment	William is skinnier than Amy. William is skinnier than Johnny.	Among Amy, Johnny and William the skinniest is William.
+entailment	Florence is meaner than Charlotte. Florence is meaner than Jonathan.	Among Charlotte, Jonathan and Florence the meanest is Florence.
+entailment	Cynthia is duller than John. Cynthia is duller than Robin.	Among John, Robin and Cynthia the dullest is Cynthia.
+entailment	Joe is firmer than Emma. Joe is firmer than Karen.	Among Emma, Karen and Joe the firmest is Joe.
+entailment	Sally is firmer than Dorothy. Sally is firmer than George.	Among Dorothy, George and Sally the firmest is Sally.
+entailment	Stephanie is brighter than Andrew. Stephanie is brighter than Evelyn.	Among Andrew, Evelyn and Stephanie the brightest is Stephanie.
+entailment	Ben is meaner than Tom. Ben is meaner than Martin.	Among Tom, Martin and Ben the meanest is Ben.
+entailment	Linda is crueller than Robert. Linda is crueller than Roy.	Among Robert, Roy and Linda the cruellest is Linda.
+entailment	Jack is more interesting than Elizabeth. Jack is more interesting than Alexandra.	Among Elizabeth, Alexandra and Jack the most interesting is Jack.
+entailment	Alan is braver than Dick. Alan is braver than Matt.	Among Dick, Matt and Alan the bravest is Alan.
+entailment	Bob is firmer than James. Bob is firmer than Larry.	Among James, Larry and Bob the firmest is Bob.
+entailment	Edith is richer than Linda. Edith is richer than Margaret.	Among Linda, Margaret and Edith the richest is Edith.
+entailment	Emma is lonlier than Evelyn. Emma is lonlier than Anna.	Among Evelyn, Anna and Emma the loneliest is Emma.
+entailment	Fred is humbler than Howard. Fred is humbler than Arthur.	Among Howard, Arthur and Fred the humblest is Fred.
+entailment	Anna is worse than Mary. Anna is worse than Joan.	Among Mary, Joan and Anna the worst is Anna.
+entailment	Nick is hairier than Nancy. Nick is hairier than Emily.	Among Nancy, Emily and Nick the hairiest is Nick.
+entailment	Carol is sharper than Howard. Carol is sharper than Andrea.	Among Howard, Andrea and Carol the sharpest is Carol.
+entailment	Karen is hungrier than Donald. Karen is hungrier than Deborah.	Among Donald, Deborah and Karen the hungriest is Karen.
+entailment	Ralph is firmer than Anthony. Ralph is firmer than Pamela.	Among Anthony, Pamela and Ralph the firmest is Ralph.
+entailment	Paul is braver than Thomas. Paul is braver than Andrew.	Among Thomas, Andrew and Paul the bravest is Paul.
+entailment	Linda is shorter than Sarah. Linda is shorter than Emily.	Among Sarah, Emily and Linda the shortest is Linda.
+entailment	Kathryn is saltier than Suzanne. Kathryn is saltier than Sara.	Among Suzanne, Sara and Kathryn the saltiest is Kathryn.
+entailment	Frank is greedier than Rachel. Frank is greedier than Kevin.	Among Rachel, Kevin and Frank the greediest is Frank.
+entailment	Jennifer is friendlier than Ruth. Jennifer is friendlier than Dave.	Among Ruth, Dave and Jennifer the friendliest is Jennifer.
+entailment	Jeff is guilter than Alice. Jeff is guilter than John.	Among Alice, John and Jeff the guiltiest is Jeff.
+entailment	Lawrence is more beautiful than Diane. Lawrence is more beautiful than Bob.	Among Diane, Bob and Lawrence the most beautiful is Lawrence.
+entailment	Lawrence is sweeter than Sally. Lawrence is sweeter than Jessica.	Among Sally, Jessica and Lawrence the sweetest is Lawrence.
+entailment	Michelle is prouder than Patrick. Michelle is prouder than Evelyn.	Among Patrick, Evelyn and Michelle the proudest is Michelle.
+entailment	Edward is shallower than Sally. Edward is shallower than Tom.	Among Sally, Tom and Edward the shallowest is Edward.
+entailment	Roy is noisier than Colin. Roy is noisier than Jill.	Among Colin, Jill and Roy the noisiest is Roy.
+entailment	Samuel is grosser than Greg. Samuel is grosser than Katie.	Among Greg, Katie and Samuel the grossest is Samuel.
+entailment	Peter is sweeter than Joe. Peter is sweeter than Steven.	Among Joe, Steven and Peter the sweetest is Peter.
+entailment	Fiona is chubbier than Virginia. Fiona is chubbier than Heather.	Among Virginia, Heather and Fiona the chubbiest is Fiona.
+entailment	Jay is more popular than Carolyn. Jay is more popular than Christopher.	Among Carolyn, Christopher and Jay the most popular is Jay.
+entailment	Christine is messier than Kathy. Christine is messier than Lauren.	Among Kathy, Lauren and Christine the messiest is Christine.
+entailment	Larry is calmer than Harold. Larry is calmer than Keith.	Among Harold, Keith and Larry the calmest is Larry.
+entailment	Dave is more bitter than Karen. Dave is more bitter than Pamela.	Among Karen, Pamela and Dave the most bitter is Dave.
+entailment	Jay is kinder than Louis. Jay is kinder than Stephanie.	Among Louis, Stephanie and Jay the kindest is Jay.
+entailment	Jim is braver than Julie. Jim is braver than Francis.	Among Julie, Francis and Jim the bravest is Jim.
+entailment	Amy is more modern than Kathryn. Amy is more modern than Joe.	Among Kathryn, Joe and Amy the most modern is Amy.
+entailment	Caroline is more polite than Jennifer. Caroline is more polite than Judy.	Among Jennifer, Judy and Caroline the most polite is Caroline.
+entailment	Susan is wiser than Sue. Susan is wiser than Lynn.	Among Sue, Lynn and Susan the wisest is Susan.
+entailment	Louis is nicer than Ben. Louis is nicer than David.	Among Ben, David and Louis the nicest is Louis.
+entailment	Jack is brighter than Edith. Jack is brighter than Suzanne.	Among Edith, Suzanne and Jack the brightest is Jack.
+entailment	Joan is angrier than Howard. Joan is angrier than Bill.	Among Howard, Bill and Joan the angriest is Joan.
+entailment	Fred is quieter than Anna. Fred is quieter than Alexandra.	Among Anna, Alexandra and Fred the quietest is Fred.
+entailment	Elizabeth is quieter than Larry. Elizabeth is quieter than Sharon.	Among Larry, Sharon and Elizabeth the quietest is Elizabeth.
+entailment	Caroline is younger than Colin. Caroline is younger than Jimmy.	Among Colin, Jimmy and Caroline the youngest is Caroline.
+entailment	Victoria is fitter than Amanda. Victoria is fitter than Emily.	Among Amanda, Emily and Victoria the fittest is Victoria.
+entailment	Barbara is sincerer than Brian. Barbara is sincerer than Robin.	Among Brian, Robin and Barbara the sincerest is Barbara.
+entailment	Larry is crazier than Charlotte. Larry is crazier than Nicole.	Among Charlotte, Nicole and Larry the craziest is Larry.
+entailment	Al is classier than Deborah. Al is classier than Amanda.	Among Deborah, Amanda and Al the classiest is Al.
+entailment	Mike is skinnier than Lisa. Mike is skinnier than Brian.	Among Lisa, Brian and Mike the skinniest is Mike.
+entailment	Virginia is more popular than Jeff. Virginia is more popular than Keith.	Among Jeff, Keith and Virginia the most popular is Virginia.
+entailment	Gary is bossier than Robert. Gary is bossier than Rose.	Among Robert, Rose and Gary the bossiest is Gary.
+entailment	Linda is more beautiful than Colin. Linda is more beautiful than Suzanne.	Among Colin, Suzanne and Linda the most beautiful is Linda.
+entailment	Sue is brighter than Mark. Sue is brighter than Robin.	Among Mark, Robin and Sue the brightest is Sue.
+entailment	Harold is cleverer than Caroline. Harold is cleverer than Louis.	Among Caroline, Louis and Harold the cleverest is Harold.
+entailment	Rachel is gentler than Ashley. Rachel is gentler than Maria.	Among Ashley, Maria and Rachel the gentlest is Rachel.
+entailment	Amanda is more handsome than Jessica. Amanda is more handsome than Ruth.	Among Jessica, Ruth and Amanda the most handsome is Amanda.
+entailment	James is creepier than Arthur. James is creepier than Kathryn.	Among Arthur, Kathryn and James the creepiest is James.
+entailment	Sam is bitterer than Kathryn. Sam is bitterer than Scott.	Among Kathryn, Scott and Sam the bitterest is Sam.
+entailment	Al is gentler than Bob. Al is gentler than Matt.	Among Bob, Matt and Al the gentlest is Al.
+entailment	Tony is older than Lisa. Tony is older than Jimmy.	Among Lisa, Jimmy and Tony the oldest is Tony.
+entailment	Richard is scarier than Thomas. Richard is scarier than Bob.	Among Thomas, Bob and Richard the scariest is Richard.
+entailment	Stephen is wiser than Ray. Stephen is wiser than Larry.	Among Ray, Larry and Stephen the wisest is Stephen.
+entailment	Judy is happier than Kim. Judy is happier than Anne.	Among Kim, Anne and Judy the happiest is Judy.
+entailment	Ruth is fairer than Matthew. Ruth is fairer than Betty.	Among Matthew, Betty and Ruth the fairest is Ruth.
+entailment	Stephanie is tinier than Anne. Stephanie is tinier than Ashley.	Among Anne, Ashley and Stephanie the tiniest is Stephanie.
+entailment	Bob is prettier than Alan. Bob is prettier than Al.	Among Alan, Al and Bob the prettiest is Bob.
+entailment	Roger is happier than Caroline. Roger is happier than Linda.	Among Caroline, Linda and Roger the happiest is Roger.
+entailment	Walter is crazier than Florence. Walter is crazier than Ralph.	Among Florence, Ralph and Walter the craziest is Walter.
+entailment	Judith is calmer than Steve. Judith is calmer than Jerry.	Among Steve, Jerry and Judith the calmest is Judith.
+entailment	Alfred is worse than Joe. Alfred is worse than Harold.	Among Joe, Harold and Alfred the worst is Alfred.
+entailment	Thomas is lazier than Andrea. Thomas is lazier than Jessica.	Among Andrea, Jessica and Thomas the laziest is Thomas.
+entailment	Kelly is sharper than Keith. Kelly is sharper than Frances.	Among Keith, Frances and Kelly the sharpest is Kelly.
+entailment	Lauren is more beautiful than Nick. Lauren is more beautiful than Roy.	Among Nick, Roy and Lauren the most beautiful is Lauren.
+entailment	John is busier than Grace. John is busier than Jill.	Among Grace, Jill and John the busiest is John.
+entailment	Christine is wealthier than Emily. Christine is wealthier than Jessica.	Among Emily, Jessica and Christine the wealthiest is Christine.
+entailment	Judith is gentler than Ed. Judith is gentler than Dave.	Among Ed, Dave and Judith the gentlest is Judith.
+entailment	Alice is sweeter than Ruth. Alice is sweeter than Charlie.	Among Ruth, Charlie and Alice the sweetest is Alice.
+entailment	Sam is duller than Kate. Sam is duller than Colin.	Among Kate, Colin and Sam the dullest is Sam.
+entailment	Nicole is wiser than Kathryn. Nicole is wiser than Matthew.	Among Kathryn, Matthew and Nicole the wisest is Nicole.
+entailment	Leslie is sweeter than Betty. Leslie is sweeter than Heather.	Among Betty, Heather and Leslie the sweetest is Leslie.
+entailment	Mike is ruder than Michael. Mike is ruder than Rachel.	Among Michael, Rachel and Mike the rudest is Mike.
+entailment	Jerry is taller than Samuel. Jerry is taller than Diane.	Among Samuel, Diane and Jerry the tallest is Jerry.
+entailment	Ray is lovelier than Janet. Ray is lovelier than Jack.	Among Janet, Jack and Ray the loveliest is Ray.
+entailment	Ben is curvier than Kenneth. Ben is curvier than Sophie.	Among Kenneth, Sophie and Ben the curviest is Ben.
+entailment	Lisa is politer than Benjamin. Lisa is politer than Caroline.	Among Benjamin, Caroline and Lisa the politest is Lisa.
+entailment	Ben is firmer than Kim. Ben is firmer than Francis.	Among Kim, Francis and Ben the firmest is Ben.
+entailment	Alan is skinnier than Lisa. Alan is skinnier than Frances.	Among Lisa, Frances and Alan the skinniest is Alan.
+entailment	Caroline is dumber than Charlotte. Caroline is dumber than Amanda.	Among Charlotte, Amanda and Caroline the dumbest is Caroline.
+entailment	Victoria is sleepier than Sally. Victoria is sleepier than Mark.	Among Sally, Mark and Victoria the sleepiest is Victoria.
+entailment	Roy is younger than Dan. Roy is younger than Caroline.	Among Dan, Caroline and Roy the youngest is Roy.
+entailment	Mary is happier than Carol. Mary is happier than Don.	Among Carol, Don and Mary the happiest is Mary.
+entailment	Frances is more important than Jane. Frances is more important than Joe.	Among Jane, Joe and Frances the most important is Frances.
+entailment	Joan is cleverer than Laura. Joan is cleverer than Lawrence.	Among Laura, Lawrence and Joan the cleverest is Joan.
+entailment	Claire is taller than Patrick. Claire is taller than Emily.	Among Patrick, Emily and Claire the tallest is Claire.
+entailment	William is bitterer than Betty. William is bitterer than Edwin.	Among Betty, Edwin and William the bitterest is William.
+entailment	Bill is kinder than Ron. Bill is kinder than Kim.	Among Ron, Kim and Bill the kindest is Bill.
+entailment	Charlie is shallower than Jack. Charlie is shallower than Angela.	Among Jack, Angela and Charlie the shallowest is Charlie.
+entailment	Kathryn is brighter than Mary. Kathryn is brighter than Jonathan.	Among Mary, Jonathan and Kathryn the brightest is Kathryn.
+entailment	Sandra is bolder than Kate. Sandra is bolder than Dave.	Among Kate, Dave and Sandra the boldest is Sandra.
+entailment	Dave is sillier than Kenneth. Dave is sillier than Caroline.	Among Kenneth, Caroline and Dave the silliest is Dave.
+entailment	Richard is longer than Annie. Richard is longer than Heather.	Among Annie, Heather and Richard the longest is Richard.
+entailment	Billy is poorer than Al. Billy is poorer than Margaret.	Among Al, Margaret and Billy the poorest is Billy.
+entailment	Deborah is nicer than Wendy. Deborah is nicer than Tony.	Among Wendy, Tony and Deborah the nicest is Deborah.
+entailment	Katherine is lonlier than Patricia. Katherine is lonlier than Al.	Among Patricia, Al and Katherine the loneliest is Katherine.
+entailment	Jean is messier than Nick. Jean is messier than Margaret.	Among Nick, Margaret and Jean the messiest is Jean.
+entailment	Francis is more handsome than Amanda. Francis is more handsome than Laura.	Among Amanda, Laura and Francis the most handsome is Francis.
+entailment	Hugh is guilter than Jerry. Hugh is guilter than Joe.	Among Jerry, Joe and Hugh the guiltiest is Hugh.
+entailment	George is better than Sara. George is better than Samuel.	Among Sara, Samuel and George the best is George.
+entailment	Jonathan is messier than Andrea. Jonathan is messier than Martha.	Among Andrea, Martha and Jonathan the messiest is Jonathan.

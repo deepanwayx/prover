@@ -1,0 +1,1000 @@
+entailment	Ken has french class then biology class then literature class.	French class is the first class among the three.
+entailment	Deborah has french class then geography class then chemistry class.	French class is the first class among the three.
+entailment	Alex has geography class then physics class then literature class.	Geography class is the first class among the three.
+entailment	Tim has music class then chemistry class then economics class.	Music class is the first class among the three.
+entailment	Judy has mathematics class then literature class then physics class.	Mathematics class is the first class among the three.
+entailment	Margaret has french class then art class then mathematics class.	French class is the first class among the three.
+entailment	Charlotte has literature class then history class then latin class.	Literature class is the first class among the three.
+entailment	Maria has chemistry class then biology class then art class.	Chemistry class is the first class among the three.
+entailment	Bruce has economics class then latin class then geography class.	Economics class is the first class among the three.
+entailment	Chris has geology class then literature class then geography class.	Geology class is the first class among the three.
+entailment	Ellen has latin class then chemistry class then french class.	Latin class is the first class among the three.
+entailment	Ben has chemistry class then history class then geology class.	Chemistry class is the first class among the three.
+entailment	Keith has chemistry class then physics class then literature class.	Chemistry class is the first class among the three.
+entailment	Howard has history class then political science class then geology class.	History class is the first class among the three.
+entailment	Alison has geology class then chemistry class then political science class.	Geology class is the first class among the three.
+entailment	Carl has biology class then latin class then geology class.	Biology class is the first class among the three.
+entailment	William has mathematics class then physics class then geography class.	Mathematics class is the first class among the three.
+entailment	Ed has mathematics class then geology class then political science class.	Mathematics class is the first class among the three.
+entailment	Scott has french class then computer science class then chemistry class.	French class is the first class among the three.
+entailment	Philip has french class then history class then computer science class.	French class is the first class among the three.
+entailment	Henry has economics class then latin class then computer science class.	Economics class is the first class among the three.
+entailment	Joan has physics class then music class then computer science class.	Physics class is the first class among the three.
+entailment	Betty has history class then commerce class then music class.	History class is the first class among the three.
+entailment	Alexandra has art class then chemistry class then biology class.	Art class is the first class among the three.
+entailment	George has economics class then physics class then geology class.	Economics class is the first class among the three.
+entailment	Michelle has economics class then literature class then geology class.	Economics class is the first class among the three.
+entailment	Maria has history class then mathematics class then latin class.	History class is the first class among the three.
+entailment	Nick has art class then literature class then geography class.	Art class is the first class among the three.
+entailment	Philip has commerce class then music class then geology class.	Commerce class is the first class among the three.
+entailment	Jimmy has chemistry class then computer science class then economics class.	Chemistry class is the first class among the three.
+entailment	Jennifer has commerce class then computer science class then french class.	Commerce class is the first class among the three.
+entailment	Jessica has commerce class then chemistry class then political science class.	Commerce class is the first class among the three.
+entailment	Donald has geology class then literature class then computer science class.	Geology class is the first class among the three.
+entailment	Bruce has commerce class then geography class then latin class.	Commerce class is the first class among the three.
+entailment	Kathy has mathematics class then physics class then art class.	Mathematics class is the first class among the three.
+entailment	Maria has economics class then computer science class then mathematics class.	Economics class is the first class among the three.
+entailment	Emily has art class then geology class then geography class.	Art class is the first class among the three.
+entailment	Frederick has geography class then history class then mathematics class.	Geography class is the first class among the three.
+entailment	Greg has economics class then political science class then chemistry class.	Economics class is the first class among the three.
+entailment	Martha has computer science class then geography class then art class.	Computer science class is the first class among the three.
+entailment	Ken has commerce class then economics class then art class.	Commerce class is the first class among the three.
+entailment	Barbara has geology class then economics class then history class.	Geology class is the first class among the three.
+entailment	Larry has physics class then political science class then geography class.	Physics class is the first class among the three.
+entailment	Katie has physics class then commerce class then geography class.	Physics class is the first class among the three.
+entailment	Ron has literature class then history class then physics class.	Literature class is the first class among the three.
+entailment	Frank has history class then economics class then chemistry class.	History class is the first class among the three.
+entailment	Roy has geography class then commerce class then computer science class.	Geography class is the first class among the three.
+entailment	Lynn has computer science class then geology class then music class.	Computer science class is the first class among the three.
+entailment	Grace has art class then political science class then literature class.	Art class is the first class among the three.
+entailment	Edith has political science class then mathematics class then physics class.	Political science class is the first class among the three.
+entailment	David has computer science class then political science class then commerce class.	Computer science class is the first class among the three.
+entailment	Mark has geology class then chemistry class then latin class.	Geology class is the first class among the three.
+entailment	Nancy has latin class then mathematics class then geology class.	Latin class is the first class among the three.
+entailment	Carl has mathematics class then geography class then physics class.	Mathematics class is the first class among the three.
+entailment	Heather has music class then art class then mathematics class.	Music class is the first class among the three.
+entailment	Roy has latin class then geology class then physics class.	Latin class is the first class among the three.
+entailment	Jay has physics class then latin class then history class.	Physics class is the first class among the three.
+entailment	Ian has economics class then commerce class then political science class.	Economics class is the first class among the three.
+entailment	Alexander has economics class then mathematics class then geology class.	Economics class is the first class among the three.
+entailment	Lawrence has chemistry class then computer science class then physics class.	Chemistry class is the first class among the three.
+entailment	Mike has literature class then computer science class then political science class.	Literature class is the first class among the three.
+entailment	Alan has latin class then physics class then political science class.	Latin class is the first class among the three.
+entailment	David has music class then computer science class then biology class.	Music class is the first class among the three.
+entailment	Emma has computer science class then french class then chemistry class.	Computer science class is the first class among the three.
+entailment	Keith has commerce class then chemistry class then history class.	Commerce class is the first class among the three.
+entailment	Carl has french class then computer science class then art class.	French class is the first class among the three.
+entailment	Dick has history class then political science class then economics class.	History class is the first class among the three.
+entailment	Michael has literature class then french class then political science class.	Literature class is the first class among the three.
+entailment	Lawrence has biology class then art class then computer science class.	Biology class is the first class among the three.
+entailment	Edith has geology class then political science class then computer science class.	Geology class is the first class among the three.
+entailment	Joan has economics class then political science class then literature class.	Economics class is the first class among the three.
+entailment	Maria has computer science class then music class then geography class.	Computer science class is the first class among the three.
+entailment	Albert has economics class then biology class then art class.	Economics class is the first class among the three.
+entailment	Jason has music class then art class then commerce class.	Music class is the first class among the three.
+entailment	Sandra has mathematics class then economics class then literature class.	Mathematics class is the first class among the three.
+entailment	Catherine has geology class then french class then literature class.	Geology class is the first class among the three.
+entailment	Howard has chemistry class then mathematics class then history class.	Chemistry class is the first class among the three.
+entailment	Linda has biology class then computer science class then geography class.	Biology class is the first class among the three.
+entailment	Donna has art class then latin class then computer science class.	Art class is the first class among the three.
+entailment	Harold has biology class then geography class then music class.	Biology class is the first class among the three.
+entailment	Elizabeth has art class then literature class then physics class.	Art class is the first class among the three.
+entailment	Pamela has french class then computer science class then biology class.	French class is the first class among the three.
+entailment	Wendy has mathematics class then history class then latin class.	Mathematics class is the first class among the three.
+entailment	Philip has geography class then mathematics class then commerce class.	Geography class is the first class among the three.
+entailment	Fiona has economics class then music class then geography class.	Economics class is the first class among the three.
+entailment	Ray has french class then latin class then commerce class.	French class is the first class among the three.
+entailment	Howard has literature class then mathematics class then art class.	Literature class is the first class among the three.
+entailment	Stephen has political science class then literature class then music class.	Political science class is the first class among the three.
+entailment	Christine has chemistry class then biology class then latin class.	Chemistry class is the first class among the three.
+entailment	Robert has political science class then latin class then chemistry class.	Political science class is the first class among the three.
+entailment	Tim has mathematics class then art class then geography class.	Mathematics class is the first class among the three.
+entailment	Sophie has music class then literature class then commerce class.	Music class is the first class among the three.
+entailment	Kenneth has physics class then mathematics class then geography class.	Physics class is the first class among the three.
+entailment	Colin has art class then music class then physics class.	Art class is the first class among the three.
+entailment	Bruce has chemistry class then physics class then art class.	Chemistry class is the first class among the three.
+entailment	Amy has history class then geography class then literature class.	History class is the first class among the three.
+entailment	Mike has french class then mathematics class then latin class.	French class is the first class among the three.
+entailment	Don has music class then history class then geography class.	Music class is the first class among the three.
+entailment	Jean has music class then chemistry class then computer science class.	Music class is the first class among the three.
+entailment	Francis has geology class then mathematics class then geography class.	Geology class is the first class among the three.
+entailment	Philip has music class then geology class then french class.	Music class is the first class among the three.
+entailment	Billy has french class then commerce class then economics class.	French class is the first class among the three.
+entailment	Ashley has mathematics class then music class then physics class.	Mathematics class is the first class among the three.
+entailment	Eleanor has latin class then art class then political science class.	Latin class is the first class among the three.
+entailment	Robin has french class then music class then geography class.	French class is the first class among the three.
+entailment	Sam has computer science class then physics class then geology class.	Computer science class is the first class among the three.
+entailment	Jean has geology class then computer science class then economics class.	Geology class is the first class among the three.
+entailment	Scott has music class then commerce class then political science class.	Music class is the first class among the three.
+entailment	Jim has political science class then chemistry class then physics class.	Political science class is the first class among the three.
+entailment	Grace has commerce class then music class then french class.	Commerce class is the first class among the three.
+entailment	Alexandra has economics class then mathematics class then political science class.	Economics class is the first class among the three.
+entailment	Alexander has french class then literature class then latin class.	French class is the first class among the three.
+entailment	Victoria has physics class then history class then mathematics class.	Physics class is the first class among the three.
+entailment	Jessica has literature class then latin class then political science class.	Literature class is the first class among the three.
+entailment	Alison has art class then chemistry class then latin class.	Art class is the first class among the three.
+entailment	Helen has literature class then latin class then music class.	Literature class is the first class among the three.
+entailment	Florence has geology class then french class then political science class.	Geology class is the first class among the three.
+entailment	Kevin has commerce class then chemistry class then geology class.	Commerce class is the first class among the three.
+entailment	Alison has music class then physics class then latin class.	Music class is the first class among the three.
+entailment	Simon has chemistry class then computer science class then geology class.	Chemistry class is the first class among the three.
+entailment	George has computer science class then geography class then commerce class.	Computer science class is the first class among the three.
+entailment	Steve has latin class then computer science class then commerce class.	Latin class is the first class among the three.
+entailment	Ray has physics class then economics class then history class.	Physics class is the first class among the three.
+entailment	Ann has geology class then latin class then computer science class.	Geology class is the first class among the three.
+entailment	Sharon has history class then literature class then economics class.	History class is the first class among the three.
+entailment	Anthony has commerce class then geography class then music class.	Commerce class is the first class among the three.
+entailment	Katie has biology class then economics class then physics class.	Biology class is the first class among the three.
+entailment	Dave has economics class then history class then computer science class.	Economics class is the first class among the three.
+entailment	Anna has economics class then physics class then literature class.	Economics class is the first class among the three.
+entailment	Martin has chemistry class then mathematics class then computer science class.	Chemistry class is the first class among the three.
+entailment	Ron has political science class then economics class then chemistry class.	Political science class is the first class among the three.
+entailment	Jane has latin class then physics class then history class.	Latin class is the first class among the three.
+entailment	Donald has french class then political science class then mathematics class.	French class is the first class among the three.
+entailment	Jean has chemistry class then commerce class then history class.	Chemistry class is the first class among the three.
+entailment	Kelly has history class then computer science class then mathematics class.	History class is the first class among the three.
+entailment	Thomas has computer science class then biology class then music class.	Computer science class is the first class among the three.
+entailment	Charles has economics class then computer science class then french class.	Economics class is the first class among the three.
+entailment	Carl has history class then mathematics class then music class.	History class is the first class among the three.
+entailment	Sarah has geography class then art class then economics class.	Geography class is the first class among the three.
+entailment	Frank has physics class then literature class then history class.	Physics class is the first class among the three.
+entailment	Steven has geography class then physics class then biology class.	Geography class is the first class among the three.
+entailment	Frank has physics class then latin class then mathematics class.	Physics class is the first class among the three.
+entailment	Nicole has geography class then computer science class then geology class.	Geography class is the first class among the three.
+entailment	Dan has french class then music class then latin class.	French class is the first class among the three.
+entailment	Laura has political science class then commerce class then music class.	Political science class is the first class among the three.
+entailment	Linda has computer science class then literature class then geology class.	Computer science class is the first class among the three.
+entailment	Alison has economics class then geology class then computer science class.	Economics class is the first class among the three.
+entailment	Amanda has economics class then commerce class then biology class.	Economics class is the first class among the three.
+entailment	Florence has geology class then economics class then latin class.	Geology class is the first class among the three.
+entailment	Judy has music class then art class then latin class.	Music class is the first class among the three.
+entailment	Angela has chemistry class then history class then computer science class.	Chemistry class is the first class among the three.
+entailment	Johnny has literature class then biology class then chemistry class.	Literature class is the first class among the three.
+entailment	Rachel has biology class then french class then history class.	Biology class is the first class among the three.
+entailment	Kelly has art class then computer science class then geology class.	Art class is the first class among the three.
+entailment	Eric has french class then latin class then art class.	French class is the first class among the three.
+entailment	Ann has physics class then economics class then mathematics class.	Physics class is the first class among the three.
+entailment	Michelle has history class then economics class then political science class.	History class is the first class among the three.
+entailment	Benjamin has geology class then biology class then geography class.	Geology class is the first class among the three.
+entailment	Christopher has geography class then biology class then literature class.	Geography class is the first class among the three.
+entailment	Alice has history class then art class then french class.	History class is the first class among the three.
+entailment	Michael has chemistry class then french class then geography class.	Chemistry class is the first class among the three.
+entailment	Sue has mathematics class then music class then computer science class.	Mathematics class is the first class among the three.
+entailment	Colin has biology class then geography class then economics class.	Biology class is the first class among the three.
+entailment	Ruth has geology class then french class then economics class.	Geology class is the first class among the three.
+entailment	Hugh has chemistry class then computer science class then physics class.	Chemistry class is the first class among the three.
+entailment	Alexandra has french class then literature class then chemistry class.	French class is the first class among the three.
+entailment	Mike has physics class then history class then literature class.	Physics class is the first class among the three.
+entailment	Janet has physics class then commerce class then french class.	Physics class is the first class among the three.
+entailment	Donald has french class then latin class then chemistry class.	French class is the first class among the three.
+entailment	Joan has art class then chemistry class then computer science class.	Art class is the first class among the three.
+entailment	Mark has computer science class then latin class then mathematics class.	Computer science class is the first class among the three.
+entailment	Deborah has music class then history class then latin class.	Music class is the first class among the three.
+entailment	Alfred has history class then biology class then physics class.	History class is the first class among the three.
+entailment	Jerry has physics class then mathematics class then political science class.	Physics class is the first class among the three.
+entailment	Fred has economics class then geography class then biology class.	Economics class is the first class among the three.
+entailment	Edith has mathematics class then chemistry class then french class.	Mathematics class is the first class among the three.
+entailment	Kathy has art class then computer science class then biology class.	Art class is the first class among the three.
+entailment	Jeff has art class then mathematics class then music class.	Art class is the first class among the three.
+entailment	Anne has economics class then physics class then history class.	Economics class is the first class among the three.
+entailment	Katherine has latin class then biology class then economics class.	Latin class is the first class among the three.
+entailment	Grace has physics class then computer science class then chemistry class.	Physics class is the first class among the three.
+entailment	Victoria has latin class then mathematics class then commerce class.	Latin class is the first class among the three.
+entailment	Julia has history class then chemistry class then geology class.	History class is the first class among the three.
+entailment	Lawrence has political science class then mathematics class then french class.	Political science class is the first class among the three.
+entailment	Charlotte has art class then computer science class then mathematics class.	Art class is the first class among the three.
+entailment	Edith has mathematics class then geography class then french class.	Mathematics class is the first class among the three.
+entailment	Ed has latin class then geography class then biology class.	Latin class is the first class among the three.
+entailment	Ruth has biology class then latin class then computer science class.	Biology class is the first class among the three.
+entailment	Rebecca has literature class then political science class then geography class.	Literature class is the first class among the three.
+entailment	Donna has geology class then chemistry class then biology class.	Geology class is the first class among the three.
+entailment	Lisa has latin class then geology class then music class.	Latin class is the first class among the three.
+entailment	George has geography class then latin class then mathematics class.	Geography class is the first class among the three.
+entailment	Tim has physics class then geology class then french class.	Physics class is the first class among the three.
+entailment	Laura has biology class then french class then commerce class.	Biology class is the first class among the three.
+entailment	Larry has geography class then history class then political science class.	Geography class is the first class among the three.
+entailment	Harriet has mathematics class then chemistry class then art class.	Mathematics class is the first class among the three.
+entailment	Daniel has geography class then political science class then chemistry class.	Geography class is the first class among the three.
+entailment	Joe has geography class then art class then commerce class.	Geography class is the first class among the three.
+entailment	Claire has physics class then chemistry class then literature class.	Physics class is the first class among the three.
+entailment	Matt has history class then political science class then computer science class.	History class is the first class among the three.
+entailment	Larry has history class then music class then chemistry class.	History class is the first class among the three.
+entailment	Thomas has commerce class then mathematics class then history class.	Commerce class is the first class among the three.
+entailment	Brian has latin class then commerce class then art class.	Latin class is the first class among the three.
+entailment	Kelly has french class then music class then geography class.	French class is the first class among the three.
+entailment	Frank has physics class then literature class then computer science class.	Physics class is the first class among the three.
+entailment	William has french class then latin class then mathematics class.	French class is the first class among the three.
+entailment	Johnny has french class then music class then art class.	French class is the first class among the three.
+entailment	Jerry has history class then geology class then mathematics class.	History class is the first class among the three.
+entailment	Ed has biology class then history class then latin class.	Biology class is the first class among the three.
+entailment	Simon has music class then art class then political science class.	Music class is the first class among the three.
+entailment	Lucy has physics class then latin class then geography class.	Physics class is the first class among the three.
+entailment	Frederick has art class then literature class then geology class.	Art class is the first class among the three.
+entailment	Kathy has geography class then art class then literature class.	Geography class is the first class among the three.
+entailment	Barbara has biology class then physics class then music class.	Biology class is the first class among the three.
+entailment	Al has geology class then literature class then music class.	Geology class is the first class among the three.
+entailment	Susan has art class then chemistry class then history class.	Art class is the first class among the three.
+entailment	Don has literature class then computer science class then latin class.	Literature class is the first class among the three.
+entailment	Deborah has computer science class then physics class then biology class.	Computer science class is the first class among the three.
+entailment	Stephen has economics class then mathematics class then literature class.	Economics class is the first class among the three.
+entailment	Matt has biology class then commerce class then chemistry class.	Biology class is the first class among the three.
+entailment	Kelly has political science class then history class then literature class.	Political science class is the first class among the three.
+entailment	Paul has biology class then geology class then political science class.	Biology class is the first class among the three.
+entailment	Julie has computer science class then physics class then history class.	Computer science class is the first class among the three.
+entailment	Hugh has art class then latin class then biology class.	Art class is the first class among the three.
+entailment	Rebecca has political science class then geology class then art class.	Political science class is the first class among the three.
+entailment	Sandra has political science class then latin class then commerce class.	Political science class is the first class among the three.
+entailment	Lisa has latin class then french class then biology class.	Latin class is the first class among the three.
+entailment	Edward has french class then computer science class then commerce class.	French class is the first class among the three.
+entailment	Amanda has latin class then biology class then commerce class.	Latin class is the first class among the three.
+entailment	Michelle has music class then computer science class then latin class.	Music class is the first class among the three.
+entailment	Gary has computer science class then biology class then mathematics class.	Computer science class is the first class among the three.
+entailment	Martin has music class then geography class then political science class.	Music class is the first class among the three.
+entailment	Larry has french class then economics class then mathematics class.	French class is the first class among the three.
+entailment	Elaine has biology class then french class then commerce class.	Biology class is the first class among the three.
+entailment	Charles has mathematics class then political science class then geology class.	Mathematics class is the first class among the three.
+entailment	Diane has literature class then geography class then economics class.	Literature class is the first class among the three.
+entailment	Lucy has literature class then chemistry class then physics class.	Literature class is the first class among the three.
+entailment	Emily has music class then history class then computer science class.	Music class is the first class among the three.
+entailment	Harold has literature class then physics class then political science class.	Literature class is the first class among the three.
+entailment	Judith has music class then political science class then geology class.	Music class is the first class among the three.
+entailment	Benjamin has history class then literature class then french class.	History class is the first class among the three.
+entailment	Caroline has music class then chemistry class then biology class.	Music class is the first class among the three.
+entailment	James has computer science class then chemistry class then mathematics class.	Computer science class is the first class among the three.
+entailment	Alice has literature class then economics class then political science class.	Literature class is the first class among the three.
+entailment	Steve has geology class then computer science class then biology class.	Geology class is the first class among the three.
+entailment	Steve has french class then mathematics class then economics class.	French class is the first class among the three.
+entailment	John has geography class then latin class then computer science class.	Geography class is the first class among the three.
+entailment	Alan has geography class then chemistry class then political science class.	Geography class is the first class among the three.
+entailment	Francis has chemistry class then political science class then art class.	Chemistry class is the first class among the three.
+entailment	Carl has french class then latin class then biology class.	French class is the first class among the three.
+entailment	Elaine has french class then computer science class then economics class.	French class is the first class among the three.
+entailment	Bruce has computer science class then economics class then latin class.	Computer science class is the first class among the three.
+entailment	Susan has political science class then commerce class then french class.	Political science class is the first class among the three.
+entailment	Florence has computer science class then geology class then commerce class.	Computer science class is the first class among the three.
+entailment	Lisa has geography class then mathematics class then chemistry class.	Geography class is the first class among the three.
+entailment	Brian has latin class then mathematics class then geology class.	Latin class is the first class among the three.
+entailment	William has geology class then chemistry class then commerce class.	Geology class is the first class among the three.
+entailment	Carl has geography class then music class then computer science class.	Geography class is the first class among the three.
+entailment	Tony has commerce class then economics class then literature class.	Commerce class is the first class among the three.
+entailment	Ed has economics class then geology class then commerce class.	Economics class is the first class among the three.
+entailment	Victoria has biology class then music class then physics class.	Biology class is the first class among the three.
+entailment	Walter has commerce class then geography class then mathematics class.	Commerce class is the first class among the three.
+entailment	Larry has music class then commerce class then chemistry class.	Music class is the first class among the three.
+entailment	Gary has geography class then french class then geology class.	Geography class is the first class among the three.
+entailment	Evelyn has art class then commerce class then music class.	Art class is the first class among the three.
+entailment	Matthew has geology class then french class then literature class.	Geology class is the first class among the three.
+entailment	Tony has chemistry class then biology class then commerce class.	Chemistry class is the first class among the three.
+entailment	Ruth has biology class then commerce class then computer science class.	Biology class is the first class among the three.
+entailment	Laura has political science class then music class then economics class.	Political science class is the first class among the three.
+entailment	Jimmy has physics class then mathematics class then latin class.	Physics class is the first class among the three.
+entailment	Jennifer has music class then economics class then chemistry class.	Music class is the first class among the three.
+entailment	Larry has french class then geography class then art class.	French class is the first class among the three.
+entailment	Charlotte has mathematics class then art class then geography class.	Mathematics class is the first class among the three.
+entailment	Florence has political science class then french class then geography class.	Political science class is the first class among the three.
+entailment	Ron has art class then geography class then chemistry class.	Art class is the first class among the three.
+entailment	Ed has physics class then music class then geology class.	Physics class is the first class among the three.
+entailment	David has political science class then latin class then mathematics class.	Political science class is the first class among the three.
+entailment	Kelly has geology class then geography class then physics class.	Geology class is the first class among the three.
+entailment	Lauren has physics class then commerce class then history class.	Physics class is the first class among the three.
+entailment	Sarah has mathematics class then commerce class then physics class.	Mathematics class is the first class among the three.
+entailment	Victoria has geography class then economics class then computer science class.	Geography class is the first class among the three.
+entailment	Mary has commerce class then physics class then economics class.	Commerce class is the first class among the three.
+entailment	Philip has geography class then latin class then economics class.	Geography class is the first class among the three.
+entailment	Hugh has commerce class then french class then geography class.	Commerce class is the first class among the three.
+entailment	Kathy has commerce class then geology class then physics class.	Commerce class is the first class among the three.
+entailment	Gary has art class then economics class then commerce class.	Art class is the first class among the three.
+entailment	Matt has french class then geography class then biology class.	French class is the first class among the three.
+entailment	Johnny has biology class then history class then mathematics class.	Biology class is the first class among the three.
+entailment	Judith has geology class then computer science class then geography class.	Geology class is the first class among the three.
+entailment	Samuel has chemistry class then biology class then geography class.	Chemistry class is the first class among the three.
+entailment	Jessica has commerce class then history class then chemistry class.	Commerce class is the first class among the three.
+entailment	Laura has biology class then computer science class then music class.	Biology class is the first class among the three.
+entailment	Heather has mathematics class then art class then chemistry class.	Mathematics class is the first class among the three.
+entailment	Ron has political science class then literature class then geology class.	Political science class is the first class among the three.
+entailment	Jason has physics class then economics class then biology class.	Physics class is the first class among the three.
+entailment	Melissa has geography class then literature class then political science class.	Geography class is the first class among the three.
+entailment	Louise has french class then geography class then biology class.	French class is the first class among the three.
+entailment	Betty has french class then economics class then commerce class.	French class is the first class among the three.
+entailment	Roger has french class then chemistry class then physics class.	French class is the first class among the three.
+entailment	Joseph has art class then latin class then mathematics class.	Art class is the first class among the three.
+entailment	Edward has history class then french class then biology class.	History class is the first class among the three.
+entailment	Catherine has biology class then geology class then latin class.	Biology class is the first class among the three.
+entailment	Anna has mathematics class then music class then physics class.	Mathematics class is the first class among the three.
+entailment	Eleanor has commerce class then french class then political science class.	Commerce class is the first class among the three.
+entailment	Peter has chemistry class then political science class then economics class.	Chemistry class is the first class among the three.
+entailment	Joe has history class then literature class then political science class.	History class is the first class among the three.
+entailment	Sue has french class then music class then art class.	French class is the first class among the three.
+entailment	Benjamin has geography class then history class then political science class.	Geography class is the first class among the three.
+entailment	Deborah has computer science class then physics class then political science class.	Computer science class is the first class among the three.
+entailment	Robin has latin class then geology class then biology class.	Latin class is the first class among the three.
+entailment	Stephanie has biology class then chemistry class then art class.	Biology class is the first class among the three.
+entailment	Jonathan has economics class then french class then biology class.	Economics class is the first class among the three.
+entailment	Jack has economics class then music class then political science class.	Economics class is the first class among the three.
+entailment	Rose has political science class then geology class then physics class.	Political science class is the first class among the three.
+entailment	Fred has political science class then latin class then geology class.	Political science class is the first class among the three.
+entailment	Anne has mathematics class then latin class then music class.	Mathematics class is the first class among the three.
+entailment	Peter has political science class then literature class then music class.	Political science class is the first class among the three.
+entailment	Heather has physics class then music class then art class.	Physics class is the first class among the three.
+entailment	Jeff has latin class then chemistry class then physics class.	Latin class is the first class among the three.
+entailment	Benjamin has mathematics class then commerce class then political science class.	Mathematics class is the first class among the three.
+entailment	Catherine has mathematics class then music class then history class.	Mathematics class is the first class among the three.
+entailment	Dan has french class then literature class then history class.	French class is the first class among the three.
+entailment	Dan has computer science class then physics class then history class.	Computer science class is the first class among the three.
+entailment	Amy has literature class then chemistry class then economics class.	Literature class is the first class among the three.
+entailment	Jim has commerce class then geology class then physics class.	Commerce class is the first class among the three.
+entailment	Jeff has political science class then art class then computer science class.	Political science class is the first class among the three.
+entailment	Anne has literature class then music class then computer science class.	Literature class is the first class among the three.
+entailment	Harold has latin class then economics class then biology class.	Latin class is the first class among the three.
+entailment	Jill has biology class then mathematics class then commerce class.	Biology class is the first class among the three.
+entailment	Louise has biology class then music class then chemistry class.	Biology class is the first class among the three.
+entailment	Greg has mathematics class then chemistry class then biology class.	Mathematics class is the first class among the three.
+entailment	Karen has commerce class then physics class then geography class.	Commerce class is the first class among the three.
+entailment	Louis has literature class then music class then latin class.	Literature class is the first class among the three.
+entailment	Deborah has latin class then history class then biology class.	Latin class is the first class among the three.
+entailment	Kim has economics class then geography class then art class.	Economics class is the first class among the three.
+entailment	Ann has latin class then geology class then literature class.	Latin class is the first class among the three.
+entailment	Eleanor has economics class then physics class then geography class.	Economics class is the first class among the three.
+entailment	Kenneth has literature class then chemistry class then biology class.	Literature class is the first class among the three.
+entailment	Rachel has computer science class then french class then physics class.	Computer science class is the first class among the three.
+entailment	Janet has geography class then music class then computer science class.	Geography class is the first class among the three.
+entailment	Virginia has geography class then political science class then history class.	Geography class is the first class among the three.
+entailment	Ed has commerce class then biology class then music class.	Commerce class is the first class among the three.
+entailment	Alex has mathematics class then political science class then chemistry class.	Mathematics class is the first class among the three.
+entailment	Sue has commerce class then computer science class then physics class.	Commerce class is the first class among the three.
+entailment	Ellen has political science class then economics class then latin class.	Political science class is the first class among the three.
+entailment	Angela has french class then art class then physics class.	French class is the first class among the three.
+entailment	Alex has mathematics class then geography class then latin class.	Mathematics class is the first class among the three.
+entailment	Kenneth has chemistry class then french class then economics class.	Chemistry class is the first class among the three.
+entailment	Keith has geography class then french class then chemistry class.	Geography class is the first class among the three.
+entailment	Harold has biology class then commerce class then geology class.	Biology class is the first class among the three.
+entailment	Martin has latin class then chemistry class then french class.	Latin class is the first class among the three.
+entailment	Barbara has art class then economics class then political science class.	Art class is the first class among the three.
+entailment	Matthew has literature class then latin class then physics class.	Literature class is the first class among the three.
+entailment	Thomas has latin class then art class then chemistry class.	Latin class is the first class among the three.
+entailment	Ryan has french class then geology class then latin class.	French class is the first class among the three.
+entailment	Judy has latin class then chemistry class then history class.	Latin class is the first class among the three.
+entailment	Sophie has geography class then computer science class then political science class.	Geography class is the first class among the three.
+entailment	Bruce has literature class then music class then art class.	Literature class is the first class among the three.
+entailment	Johnny has physics class then commerce class then music class.	Physics class is the first class among the three.
+entailment	Jill has computer science class then political science class then music class.	Computer science class is the first class among the three.
+entailment	Bob has chemistry class then physics class then geology class.	Chemistry class is the first class among the three.
+entailment	Martin has mathematics class then art class then literature class.	Mathematics class is the first class among the three.
+entailment	Dorothy has french class then mathematics class then economics class.	French class is the first class among the three.
+entailment	Ian has economics class then biology class then physics class.	Economics class is the first class among the three.
+entailment	Fred has art class then history class then physics class.	Art class is the first class among the three.
+entailment	Kevin has geography class then commerce class then latin class.	Geography class is the first class among the three.
+entailment	Samuel has latin class then computer science class then physics class.	Latin class is the first class among the three.
+entailment	Karen has chemistry class then physics class then mathematics class.	Chemistry class is the first class among the three.
+entailment	Peter has mathematics class then economics class then latin class.	Mathematics class is the first class among the three.
+entailment	Christopher has mathematics class then computer science class then geography class.	Mathematics class is the first class among the three.
+entailment	Jonathan has mathematics class then economics class then literature class.	Mathematics class is the first class among the three.
+entailment	Benjamin has political science class then computer science class then geology class.	Political science class is the first class among the three.
+entailment	Ashley has geology class then economics class then computer science class.	Geology class is the first class among the three.
+entailment	Lawrence has commerce class then political science class then chemistry class.	Commerce class is the first class among the three.
+entailment	Jean has french class then geography class then commerce class.	French class is the first class among the three.
+entailment	Sophie has commerce class then mathematics class then literature class.	Commerce class is the first class among the three.
+entailment	Eleanor has biology class then latin class then art class.	Biology class is the first class among the three.
+entailment	Suzanne has music class then physics class then history class.	Music class is the first class among the three.
+entailment	Andrea has literature class then economics class then art class.	Literature class is the first class among the three.
+entailment	Rebecca has political science class then french class then physics class.	Political science class is the first class among the three.
+entailment	Katie has literature class then geography class then political science class.	Literature class is the first class among the three.
+entailment	Judy has art class then music class then biology class.	Art class is the first class among the three.
+entailment	Annie has latin class then physics class then mathematics class.	Latin class is the first class among the three.
+entailment	Julia has biology class then art class then geology class.	Biology class is the first class among the three.
+entailment	Steve has history class then chemistry class then computer science class.	History class is the first class among the three.
+entailment	Suzanne has computer science class then literature class then chemistry class.	Computer science class is the first class among the three.
+entailment	Billy has economics class then latin class then political science class.	Economics class is the first class among the three.
+entailment	Keith has history class then latin class then music class.	History class is the first class among the three.
+entailment	Ron has economics class then mathematics class then music class.	Economics class is the first class among the three.
+entailment	Claire has literature class then chemistry class then biology class.	Literature class is the first class among the three.
+entailment	Eric has physics class then history class then latin class.	Physics class is the first class among the three.
+entailment	Martin has music class then physics class then chemistry class.	Music class is the first class among the three.
+entailment	Matt has biology class then literature class then economics class.	Biology class is the first class among the three.
+entailment	Kelly has music class then history class then commerce class.	Music class is the first class among the three.
+entailment	Caroline has geology class then political science class then chemistry class.	Geology class is the first class among the three.
+entailment	Alexander has french class then biology class then physics class.	French class is the first class among the three.
+entailment	Rose has history class then literature class then commerce class.	History class is the first class among the three.
+entailment	Sophie has mathematics class then geology class then biology class.	Mathematics class is the first class among the three.
+entailment	Robert has mathematics class then chemistry class then literature class.	Mathematics class is the first class among the three.
+entailment	Fred has french class then economics class then computer science class.	French class is the first class among the three.
+entailment	Andrew has biology class then mathematics class then commerce class.	Biology class is the first class among the three.
+entailment	Christopher has art class then geology class then physics class.	Art class is the first class among the three.
+entailment	Kathleen has biology class then computer science class then music class.	Biology class is the first class among the three.
+entailment	Kevin has chemistry class then economics class then art class.	Chemistry class is the first class among the three.
+entailment	Harriet has commerce class then mathematics class then political science class.	Commerce class is the first class among the three.
+entailment	Tom has art class then geology class then physics class.	Art class is the first class among the three.
+entailment	Edwin has economics class then computer science class then history class.	Economics class is the first class among the three.
+entailment	Michael has biology class then geology class then mathematics class.	Biology class is the first class among the three.
+entailment	Carol has political science class then biology class then chemistry class.	Political science class is the first class among the three.
+entailment	Ann has music class then literature class then geography class.	Music class is the first class among the three.
+entailment	Jim has computer science class then art class then latin class.	Computer science class is the first class among the three.
+entailment	Johnny has mathematics class then geology class then history class.	Mathematics class is the first class among the three.
+entailment	Heather has music class then art class then physics class.	Music class is the first class among the three.
+entailment	Robin has art class then geography class then biology class.	Art class is the first class among the three.
+entailment	Harriet has commerce class then literature class then economics class.	Commerce class is the first class among the three.
+entailment	Kenneth has mathematics class then music class then biology class.	Mathematics class is the first class among the three.
+entailment	Richard has political science class then literature class then geology class.	Political science class is the first class among the three.
+entailment	Charlie has literature class then chemistry class then computer science class.	Literature class is the first class among the three.
+entailment	Arthur has mathematics class then music class then literature class.	Mathematics class is the first class among the three.
+entailment	Nicole has biology class then french class then commerce class.	Biology class is the first class among the three.
+entailment	Linda has history class then french class then art class.	History class is the first class among the three.
+entailment	Jimmy has literature class then geography class then latin class.	Literature class is the first class among the three.
+entailment	Mary has mathematics class then biology class then economics class.	Mathematics class is the first class among the three.
+entailment	Michelle has commerce class then economics class then geography class.	Commerce class is the first class among the three.
+entailment	Jack has political science class then physics class then history class.	Political science class is the first class among the three.
+entailment	Dorothy has commerce class then geography class then political science class.	Commerce class is the first class among the three.
+entailment	Christine has history class then political science class then geography class.	History class is the first class among the three.
+entailment	Harriet has french class then art class then latin class.	French class is the first class among the three.
+entailment	Larry has geography class then biology class then geology class.	Geography class is the first class among the three.
+entailment	Kathleen has music class then geology class then computer science class.	Music class is the first class among the three.
+entailment	Ian has geography class then mathematics class then literature class.	Geography class is the first class among the three.
+entailment	Michael has art class then literature class then economics class.	Art class is the first class among the three.
+entailment	James has geography class then latin class then french class.	Geography class is the first class among the three.
+entailment	Keith has mathematics class then commerce class then computer science class.	Mathematics class is the first class among the three.
+entailment	Nick has art class then history class then computer science class.	Art class is the first class among the three.
+entailment	Christopher has music class then art class then physics class.	Music class is the first class among the three.
+entailment	Gary has commerce class then literature class then computer science class.	Commerce class is the first class among the three.
+entailment	Angela has geology class then latin class then political science class.	Geology class is the first class among the three.
+entailment	Catherine has geology class then chemistry class then physics class.	Geology class is the first class among the three.
+entailment	Annie has history class then art class then commerce class.	History class is the first class among the three.
+entailment	Kelly has computer science class then mathematics class then geography class.	Computer science class is the first class among the three.
+entailment	Bill has french class then economics class then music class.	French class is the first class among the three.
+entailment	Colin has french class then latin class then art class.	French class is the first class among the three.
+entailment	Rose has physics class then geology class then computer science class.	Physics class is the first class among the three.
+entailment	George has literature class then geology class then biology class.	Literature class is the first class among the three.
+entailment	Maria has political science class then art class then geography class.	Political science class is the first class among the three.
+entailment	Dan has computer science class then french class then biology class.	Computer science class is the first class among the three.
+entailment	Bruce has biology class then political science class then computer science class.	Biology class is the first class among the three.
+entailment	Robin has economics class then chemistry class then mathematics class.	Economics class is the first class among the three.
+entailment	Jimmy has geography class then chemistry class then mathematics class.	Geography class is the first class among the three.
+entailment	Jason has computer science class then political science class then french class.	Computer science class is the first class among the three.
+entailment	Thomas has latin class then mathematics class then geology class.	Latin class is the first class among the three.
+entailment	Robin has physics class then economics class then music class.	Physics class is the first class among the three.
+entailment	Samuel has latin class then chemistry class then economics class.	Latin class is the first class among the three.
+entailment	Melissa has biology class then physics class then literature class.	Biology class is the first class among the three.
+entailment	Kevin has french class then history class then economics class.	French class is the first class among the three.
+entailment	Susan has french class then latin class then mathematics class.	French class is the first class among the three.
+entailment	Ken has political science class then art class then computer science class.	Political science class is the first class among the three.
+entailment	Sophie has mathematics class then french class then music class.	Mathematics class is the first class among the three.
+entailment	Angela has latin class then geology class then mathematics class.	Latin class is the first class among the three.
+entailment	Cynthia has art class then geology class then computer science class.	Art class is the first class among the three.
+entailment	Deborah has history class then mathematics class then computer science class.	History class is the first class among the three.
+entailment	Frank has music class then biology class then computer science class.	Music class is the first class among the three.
+entailment	Frank has latin class then political science class then commerce class.	Latin class is the first class among the three.
+entailment	Carl has geography class then political science class then latin class.	Geography class is the first class among the three.
+entailment	Ann has literature class then french class then political science class.	Literature class is the first class among the three.
+entailment	Amy has mathematics class then music class then political science class.	Mathematics class is the first class among the three.
+entailment	Linda has literature class then history class then french class.	Literature class is the first class among the three.
+entailment	Benjamin has commerce class then geology class then mathematics class.	Commerce class is the first class among the three.
+entailment	Sandra has history class then geology class then mathematics class.	History class is the first class among the three.
+entailment	William has mathematics class then history class then political science class.	Mathematics class is the first class among the three.
+entailment	Christopher has computer science class then mathematics class then chemistry class.	Computer science class is the first class among the three.
+entailment	Kevin has commerce class then music class then latin class.	Commerce class is the first class among the three.
+entailment	Charlie has biology class then art class then commerce class.	Biology class is the first class among the three.
+entailment	Patricia has mathematics class then political science class then computer science class.	Mathematics class is the first class among the three.
+entailment	Michelle has economics class then commerce class then geography class.	Economics class is the first class among the three.
+entailment	Lucy has chemistry class then french class then literature class.	Chemistry class is the first class among the three.
+entailment	Jill has geology class then music class then latin class.	Geology class is the first class among the three.
+entailment	Sharon has latin class then geology class then art class.	Latin class is the first class among the three.
+entailment	Roger has political science class then computer science class then chemistry class.	Political science class is the first class among the three.
+entailment	Mary has geography class then music class then history class.	Geography class is the first class among the three.
+entailment	Rose has biology class then geography class then computer science class.	Biology class is the first class among the three.
+entailment	Kathy has biology class then music class then art class.	Biology class is the first class among the three.
+entailment	Heather has economics class then art class then computer science class.	Economics class is the first class among the three.
+entailment	Alan has art class then biology class then mathematics class.	Art class is the first class among the three.
+entailment	Jerry has commerce class then music class then art class.	Commerce class is the first class among the three.
+entailment	Kenneth has music class then biology class then art class.	Music class is the first class among the three.
+entailment	Sandra has biology class then french class then geology class.	Biology class is the first class among the three.
+entailment	Ken has mathematics class then art class then physics class.	Mathematics class is the first class among the three.
+entailment	Pamela has music class then latin class then biology class.	Music class is the first class among the three.
+entailment	Francis has commerce class then computer science class then biology class.	Commerce class is the first class among the three.
+entailment	Mark has latin class then mathematics class then chemistry class.	Latin class is the first class among the three.
+entailment	William has computer science class then mathematics class then biology class.	Computer science class is the first class among the three.
+entailment	Chris has political science class then biology class then history class.	Political science class is the first class among the three.
+entailment	Marilyn has music class then political science class then history class.	Music class is the first class among the three.
+entailment	Alexandra has computer science class then mathematics class then economics class.	Computer science class is the first class among the three.
+entailment	Angela has commerce class then economics class then literature class.	Commerce class is the first class among the three.
+entailment	Jack has literature class then latin class then physics class.	Literature class is the first class among the three.
+entailment	Alfred has history class then biology class then french class.	History class is the first class among the three.
+entailment	Carolyn has geography class then art class then geology class.	Geography class is the first class among the three.
+entailment	Leslie has chemistry class then geography class then economics class.	Chemistry class is the first class among the three.
+entailment	Peter has french class then history class then biology class.	French class is the first class among the three.
+entailment	Rebecca has political science class then commerce class then mathematics class.	Political science class is the first class among the three.
+entailment	Roy has commerce class then art class then music class.	Commerce class is the first class among the three.
+entailment	Ashley has computer science class then french class then art class.	Computer science class is the first class among the three.
+entailment	Ruth has chemistry class then geography class then mathematics class.	Chemistry class is the first class among the three.
+entailment	Sharon has latin class then mathematics class then literature class.	Latin class is the first class among the three.
+entailment	Sandra has music class then biology class then commerce class.	Music class is the first class among the three.
+entailment	Linda has chemistry class then music class then latin class.	Chemistry class is the first class among the three.
+entailment	Bob has economics class then mathematics class then french class.	Economics class is the first class among the three.
+entailment	Fiona has literature class then political science class then commerce class.	Literature class is the first class among the three.
+entailment	Adam has geography class then economics class then biology class.	Geography class is the first class among the three.
+entailment	Katherine has mathematics class then economics class then computer science class.	Mathematics class is the first class among the three.
+entailment	Barbara has geography class then art class then economics class.	Geography class is the first class among the three.
+entailment	Evelyn has economics class then latin class then geology class.	Economics class is the first class among the three.
+entailment	Christopher has art class then latin class then french class.	Art class is the first class among the three.
+entailment	Linda has music class then physics class then latin class.	Music class is the first class among the three.
+entailment	Ellen has commerce class then music class then computer science class.	Commerce class is the first class among the three.
+entailment	Marie has computer science class then history class then biology class.	Computer science class is the first class among the three.
+entailment	Brian has music class then physics class then art class.	Music class is the first class among the three.
+entailment	Martha has commerce class then history class then mathematics class.	Commerce class is the first class among the three.
+entailment	Roger has physics class then biology class then commerce class.	Physics class is the first class among the three.
+entailment	Adam has geography class then art class then biology class.	Geography class is the first class among the three.
+entailment	Simon has music class then art class then literature class.	Music class is the first class among the three.
+entailment	Melissa has economics class then literature class then commerce class.	Economics class is the first class among the three.
+entailment	Maria has literature class then biology class then geology class.	Literature class is the first class among the three.
+entailment	Tom has computer science class then latin class then physics class.	Computer science class is the first class among the three.
+entailment	Dorothy has music class then economics class then political science class.	Music class is the first class among the three.
+entailment	Ashley has biology class then chemistry class then history class.	Biology class is the first class among the three.
+entailment	Kelly has music class then political science class then physics class.	Music class is the first class among the three.
+entailment	Colin has music class then geology class then biology class.	Music class is the first class among the three.
+entailment	Sophie has physics class then geography class then latin class.	Physics class is the first class among the three.
+entailment	Evelyn has french class then music class then commerce class.	French class is the first class among the three.
+entailment	Alexandra has physics class then biology class then geography class.	Physics class is the first class among the three.
+entailment	Sarah has music class then geography class then computer science class.	Music class is the first class among the three.
+entailment	Simon has physics class then economics class then music class.	Physics class is the first class among the three.
+entailment	Sharon has history class then geography class then geology class.	History class is the first class among the three.
+entailment	Leslie has art class then mathematics class then chemistry class.	Art class is the first class among the three.
+entailment	Donna has geology class then literature class then geography class.	Geology class is the first class among the three.
+entailment	Victoria has music class then commerce class then geology class.	Music class is the first class among the three.
+entailment	Charlie has computer science class then commerce class then literature class.	Computer science class is the first class among the three.
+entailment	Claire has music class then geography class then french class.	Music class is the first class among the three.
+entailment	Tom has chemistry class then history class then physics class.	Chemistry class is the first class among the three.
+entailment	Anna has mathematics class then biology class then commerce class.	Mathematics class is the first class among the three.
+entailment	Ellen has geology class then art class then mathematics class.	Geology class is the first class among the three.
+entailment	Louise has literature class then chemistry class then music class.	Literature class is the first class among the three.
+entailment	Claire has political science class then mathematics class then economics class.	Political science class is the first class among the three.
+entailment	Kevin has computer science class then mathematics class then biology class.	Computer science class is the first class among the three.
+entailment	Alexander has commerce class then physics class then biology class.	Commerce class is the first class among the three.
+entailment	Caroline has history class then commerce class then mathematics class.	History class is the first class among the three.
+entailment	Pamela has geology class then biology class then geography class.	Geology class is the first class among the three.
+entailment	Diana has biology class then history class then chemistry class.	Biology class is the first class among the three.
+entailment	Alfred has chemistry class then art class then history class.	Chemistry class is the first class among the three.
+entailment	Ed has latin class then history class then geology class.	Latin class is the first class among the three.
+entailment	Alice has latin class then art class then economics class.	Latin class is the first class among the three.
+entailment	Scott has latin class then geology class then geography class.	Latin class is the first class among the three.
+entailment	Pamela has chemistry class then french class then computer science class.	Chemistry class is the first class among the three.
+entailment	Henry has geography class then music class then art class.	Geography class is the first class among the three.
+entailment	Emily has latin class then history class then economics class.	Latin class is the first class among the three.
+entailment	Roger has geography class then political science class then art class.	Geography class is the first class among the three.
+entailment	Sarah has political science class then chemistry class then history class.	Political science class is the first class among the three.
+entailment	Harriet has art class then history class then biology class.	Art class is the first class among the three.
+entailment	Walter has computer science class then political science class then physics class.	Computer science class is the first class among the three.
+entailment	Ray has music class then art class then history class.	Music class is the first class among the three.
+entailment	Judy has geography class then computer science class then political science class.	Geography class is the first class among the three.
+entailment	Patrick has physics class then history class then art class.	Physics class is the first class among the three.
+entailment	Bob has literature class then economics class then art class.	Literature class is the first class among the three.
+entailment	Mike has history class then political science class then commerce class.	History class is the first class among the three.
+entailment	Charlie has french class then commerce class then computer science class.	French class is the first class among the three.
+entailment	Alice has french class then geography class then physics class.	French class is the first class among the three.
+entailment	Rose has political science class then computer science class then history class.	Political science class is the first class among the three.
+entailment	Charlie has geography class then geology class then music class.	Geography class is the first class among the three.
+entailment	John has political science class then chemistry class then economics class.	Political science class is the first class among the three.
+entailment	Philip has geology class then art class then latin class.	Geology class is the first class among the three.
+entailment	Al has computer science class then political science class then mathematics class.	Computer science class is the first class among the three.
+entailment	Jay has latin class then chemistry class then political science class.	Latin class is the first class among the three.
+entailment	Annie has french class then geography class then history class.	French class is the first class among the three.
+entailment	Patrick has chemistry class then history class then computer science class.	Chemistry class is the first class among the three.
+entailment	Judy has commerce class then biology class then political science class.	Commerce class is the first class among the three.
+entailment	Billy has chemistry class then commerce class then french class.	Chemistry class is the first class among the three.
+entailment	Peter has political science class then geography class then physics class.	Political science class is the first class among the three.
+entailment	Kathy has chemistry class then economics class then geography class.	Chemistry class is the first class among the three.
+entailment	Christine has commerce class then art class then french class.	Commerce class is the first class among the three.
+entailment	Bobby has history class then mathematics class then commerce class.	History class is the first class among the three.
+entailment	Kathryn has history class then french class then mathematics class.	History class is the first class among the three.
+entailment	Martha has computer science class then physics class then french class.	Computer science class is the first class among the three.
+entailment	Lauren has latin class then economics class then history class.	Latin class is the first class among the three.
+entailment	Matt has computer science class then physics class then geography class.	Computer science class is the first class among the three.
+entailment	Al has latin class then economics class then commerce class.	Latin class is the first class among the three.
+entailment	Hugh has commerce class then economics class then computer science class.	Commerce class is the first class among the three.
+entailment	Ann has music class then chemistry class then french class.	Music class is the first class among the three.
+entailment	Henry has geography class then chemistry class then french class.	Geography class is the first class among the three.
+entailment	Amanda has geography class then french class then political science class.	Geography class is the first class among the three.
+entailment	Heather has geography class then music class then political science class.	Geography class is the first class among the three.
+entailment	Kathleen has music class then economics class then commerce class.	Music class is the first class among the three.
+entailment	Anthony has french class then economics class then literature class.	French class is the first class among the three.
+entailment	Bobby has art class then geology class then geography class.	Art class is the first class among the three.
+entailment	Henry has commerce class then biology class then french class.	Commerce class is the first class among the three.
+entailment	Alex has history class then french class then geography class.	History class is the first class among the three.
+entailment	Emma has chemistry class then biology class then computer science class.	Chemistry class is the first class among the three.
+entailment	Karen has computer science class then geography class then history class.	Computer science class is the first class among the three.
+entailment	Alexander has chemistry class then geography class then physics class.	Chemistry class is the first class among the three.
+entailment	Bobby has geology class then political science class then mathematics class.	Geology class is the first class among the three.
+entailment	Katherine has economics class then latin class then mathematics class.	Economics class is the first class among the three.
+entailment	Emily has biology class then mathematics class then commerce class.	Biology class is the first class among the three.
+entailment	Jack has music class then chemistry class then commerce class.	Music class is the first class among the three.
+entailment	Julia has geology class then political science class then biology class.	Geology class is the first class among the three.
+entailment	Louis has history class then political science class then geography class.	History class is the first class among the three.
+entailment	Mark has chemistry class then political science class then art class.	Chemistry class is the first class among the three.
+entailment	Deborah has chemistry class then literature class then biology class.	Chemistry class is the first class among the three.
+entailment	Paul has commerce class then music class then mathematics class.	Commerce class is the first class among the three.
+entailment	Kenneth has art class then latin class then mathematics class.	Art class is the first class among the three.
+entailment	Jean has art class then chemistry class then geology class.	Art class is the first class among the three.
+entailment	Kelly has chemistry class then computer science class then geology class.	Chemistry class is the first class among the three.
+entailment	Sophie has biology class then latin class then commerce class.	Biology class is the first class among the three.
+entailment	Harold has history class then commerce class then chemistry class.	History class is the first class among the three.
+entailment	Hugh has latin class then literature class then political science class.	Latin class is the first class among the three.
+entailment	Christine has physics class then history class then music class.	Physics class is the first class among the three.
+entailment	Andrea has biology class then french class then mathematics class.	Biology class is the first class among the three.
+entailment	Brian has mathematics class then chemistry class then history class.	Mathematics class is the first class among the three.
+entailment	Dick has computer science class then political science class then geology class.	Computer science class is the first class among the three.
+entailment	Gary has geography class then political science class then music class.	Geography class is the first class among the three.
+entailment	Rebecca has political science class then french class then latin class.	Political science class is the first class among the three.
+entailment	Christine has physics class then chemistry class then music class.	Physics class is the first class among the three.
+entailment	Jonathan has computer science class then music class then geography class.	Computer science class is the first class among the three.
+entailment	Sophie has physics class then music class then literature class.	Physics class is the first class among the three.
+entailment	Stephanie has art class then geography class then geology class.	Art class is the first class among the three.
+entailment	Sharon has mathematics class then computer science class then music class.	Mathematics class is the first class among the three.
+entailment	Paul has biology class then political science class then geography class.	Biology class is the first class among the three.
+entailment	Frank has computer science class then political science class then french class.	Computer science class is the first class among the three.
+entailment	Roger has literature class then political science class then biology class.	Literature class is the first class among the three.
+entailment	Matt has literature class then biology class then computer science class.	Literature class is the first class among the three.
+entailment	Jennifer has history class then literature class then commerce class.	History class is the first class among the three.
+entailment	Matthew has latin class then mathematics class then chemistry class.	Latin class is the first class among the three.
+entailment	Johnny has economics class then geology class then literature class.	Economics class is the first class among the three.
+entailment	Dave has biology class then chemistry class then economics class.	Biology class is the first class among the three.
+entailment	Kelly has computer science class then history class then geography class.	Computer science class is the first class among the three.
+entailment	Michelle has economics class then geology class then physics class.	Economics class is the first class among the three.
+entailment	Lawrence has geology class then art class then political science class.	Geology class is the first class among the three.
+entailment	Sandra has commerce class then mathematics class then latin class.	Commerce class is the first class among the three.
+entailment	Richard has political science class then latin class then commerce class.	Political science class is the first class among the three.
+entailment	Samuel has geography class then french class then history class.	Geography class is the first class among the three.
+entailment	Stephanie has geology class then economics class then history class.	Geology class is the first class among the three.
+entailment	Martha has physics class then latin class then geology class.	Physics class is the first class among the three.
+entailment	William has political science class then commerce class then geography class.	Political science class is the first class among the three.
+entailment	Benjamin has french class then literature class then computer science class.	French class is the first class among the three.
+entailment	Henry has political science class then geology class then history class.	Political science class is the first class among the three.
+entailment	Cynthia has physics class then economics class then literature class.	Physics class is the first class among the three.
+entailment	Maria has chemistry class then economics class then french class.	Chemistry class is the first class among the three.
+entailment	Samuel has mathematics class then literature class then commerce class.	Mathematics class is the first class among the three.
+entailment	Margaret has latin class then commerce class then computer science class.	Latin class is the first class among the three.
+entailment	Fiona has art class then chemistry class then music class.	Art class is the first class among the three.
+entailment	Robin has geology class then computer science class then literature class.	Geology class is the first class among the three.
+entailment	Frank has economics class then chemistry class then art class.	Economics class is the first class among the three.
+entailment	Sue has art class then french class then physics class.	Art class is the first class among the three.
+entailment	Albert has political science class then literature class then computer science class.	Political science class is the first class among the three.
+entailment	Jason has geography class then french class then chemistry class.	Geography class is the first class among the three.
+entailment	Sally has latin class then mathematics class then physics class.	Latin class is the first class among the three.
+entailment	Alfred has french class then music class then literature class.	French class is the first class among the three.
+entailment	Marilyn has computer science class then economics class then mathematics class.	Computer science class is the first class among the three.
+entailment	Howard has music class then latin class then chemistry class.	Music class is the first class among the three.
+entailment	Henry has history class then chemistry class then art class.	History class is the first class among the three.
+entailment	Mike has french class then art class then biology class.	French class is the first class among the three.
+entailment	Amy has history class then latin class then art class.	History class is the first class among the three.
+entailment	Christine has art class then geology class then commerce class.	Art class is the first class among the three.
+entailment	Emma has latin class then political science class then french class.	Latin class is the first class among the three.
+entailment	Mary has french class then political science class then economics class.	French class is the first class among the three.
+entailment	Sue has commerce class then economics class then latin class.	Commerce class is the first class among the three.
+entailment	Robert has biology class then economics class then french class.	Biology class is the first class among the three.
+entailment	Ken has biology class then art class then history class.	Biology class is the first class among the three.
+entailment	Nick has political science class then literature class then chemistry class.	Political science class is the first class among the three.
+entailment	Fred has french class then commerce class then political science class.	French class is the first class among the three.
+entailment	Judy has art class then literature class then political science class.	Art class is the first class among the three.
+entailment	Dave has history class then latin class then economics class.	History class is the first class among the three.
+entailment	Ed has latin class then computer science class then commerce class.	Latin class is the first class among the three.
+entailment	Florence has computer science class then physics class then literature class.	Computer science class is the first class among the three.
+entailment	Suzanne has geology class then biology class then literature class.	Geology class is the first class among the three.
+entailment	Elizabeth has latin class then chemistry class then mathematics class.	Latin class is the first class among the three.
+entailment	Peter has latin class then literature class then economics class.	Latin class is the first class among the three.
+entailment	Walter has computer science class then geology class then latin class.	Computer science class is the first class among the three.
+entailment	Kelly has commerce class then geography class then latin class.	Commerce class is the first class among the three.
+entailment	Kevin has commerce class then geology class then latin class.	Commerce class is the first class among the three.
+entailment	Philip has history class then french class then art class.	History class is the first class among the three.
+entailment	Martha has geography class then commerce class then latin class.	Geography class is the first class among the three.
+entailment	Barbara has history class then chemistry class then physics class.	History class is the first class among the three.
+entailment	Simon has geography class then latin class then art class.	Geography class is the first class among the three.
+entailment	Lynn has economics class then commerce class then french class.	Economics class is the first class among the three.
+entailment	Bill has art class then computer science class then latin class.	Art class is the first class among the three.
+entailment	Jason has music class then french class then literature class.	Music class is the first class among the three.
+entailment	Jessica has geology class then political science class then history class.	Geology class is the first class among the three.
+entailment	Virginia has physics class then latin class then economics class.	Physics class is the first class among the three.
+entailment	Sandra has commerce class then geology class then literature class.	Commerce class is the first class among the three.
+entailment	Alexandra has economics class then commerce class then music class.	Economics class is the first class among the three.
+entailment	Rebecca has commerce class then literature class then chemistry class.	Commerce class is the first class among the three.
+entailment	Joseph has music class then mathematics class then computer science class.	Music class is the first class among the three.
+entailment	Howard has art class then biology class then economics class.	Art class is the first class among the three.
+entailment	Steve has geology class then physics class then history class.	Geology class is the first class among the three.
+entailment	Ralph has biology class then commerce class then geography class.	Biology class is the first class among the three.
+entailment	Anne has french class then economics class then geography class.	French class is the first class among the three.
+entailment	Virginia has history class then art class then chemistry class.	History class is the first class among the three.
+entailment	Kelly has computer science class then history class then chemistry class.	Computer science class is the first class among the three.
+entailment	Jonathan has latin class then computer science class then history class.	Latin class is the first class among the three.
+entailment	Philip has latin class then computer science class then mathematics class.	Latin class is the first class among the three.
+entailment	Harriet has commerce class then art class then biology class.	Commerce class is the first class among the three.
+entailment	Fred has music class then latin class then physics class.	Music class is the first class among the three.
+entailment	Charles has economics class then history class then mathematics class.	Economics class is the first class among the three.
+entailment	Diana has political science class then commerce class then biology class.	Political science class is the first class among the three.
+entailment	Stephen has computer science class then biology class then art class.	Computer science class is the first class among the three.
+entailment	Diane has literature class then biology class then computer science class.	Literature class is the first class among the three.
+entailment	Nancy has music class then economics class then political science class.	Music class is the first class among the three.
+entailment	Joan has geology class then latin class then literature class.	Geology class is the first class among the three.
+entailment	Alice has physics class then literature class then political science class.	Physics class is the first class among the three.
+entailment	Jonathan has commerce class then music class then mathematics class.	Commerce class is the first class among the three.
+entailment	Carolyn has biology class then history class then physics class.	Biology class is the first class among the three.
+entailment	Sam has geography class then french class then commerce class.	Geography class is the first class among the three.
+entailment	Tony has computer science class then geology class then biology class.	Computer science class is the first class among the three.
+entailment	Sam has geology class then commerce class then economics class.	Geology class is the first class among the three.
+entailment	Edward has geology class then french class then physics class.	Geology class is the first class among the three.
+entailment	Marilyn has political science class then commerce class then physics class.	Political science class is the first class among the three.
+entailment	Philip has chemistry class then literature class then computer science class.	Chemistry class is the first class among the three.
+entailment	Gary has geology class then french class then chemistry class.	Geology class is the first class among the three.
+entailment	Kathryn has music class then physics class then geology class.	Music class is the first class among the three.
+entailment	Emma has history class then chemistry class then mathematics class.	History class is the first class among the three.
+entailment	Ron has chemistry class then mathematics class then art class.	Chemistry class is the first class among the three.
+entailment	Alexandra has music class then mathematics class then latin class.	Music class is the first class among the three.
+entailment	Don has history class then biology class then economics class.	History class is the first class among the three.
+entailment	Christopher has mathematics class then geology class then french class.	Mathematics class is the first class among the three.
+entailment	Charlie has geography class then chemistry class then music class.	Geography class is the first class among the three.
+entailment	Bill has music class then mathematics class then commerce class.	Music class is the first class among the three.
+entailment	Jack has commerce class then history class then physics class.	Commerce class is the first class among the three.
+entailment	Greg has economics class then biology class then music class.	Economics class is the first class among the three.
+entailment	Scott has mathematics class then geology class then french class.	Mathematics class is the first class among the three.
+entailment	Mary has physics class then mathematics class then geology class.	Physics class is the first class among the three.
+entailment	Eleanor has music class then computer science class then latin class.	Music class is the first class among the three.
+entailment	Don has latin class then economics class then literature class.	Latin class is the first class among the three.
+entailment	Benjamin has computer science class then latin class then mathematics class.	Computer science class is the first class among the three.
+entailment	Edward has political science class then physics class then french class.	Political science class is the first class among the three.
+entailment	Alan has chemistry class then music class then history class.	Chemistry class is the first class among the three.
+entailment	Jack has music class then geology class then literature class.	Music class is the first class among the three.
+entailment	Gary has geology class then physics class then mathematics class.	Geology class is the first class among the three.
+entailment	Greg has french class then latin class then music class.	French class is the first class among the three.
+entailment	Edwin has literature class then mathematics class then chemistry class.	Literature class is the first class among the three.
+entailment	Jill has biology class then political science class then computer science class.	Biology class is the first class among the three.
+entailment	Alex has literature class then music class then history class.	Literature class is the first class among the three.
+entailment	Catherine has latin class then chemistry class then art class.	Latin class is the first class among the three.
+entailment	Joseph has latin class then art class then music class.	Latin class is the first class among the three.
+entailment	Anna has political science class then geology class then literature class.	Political science class is the first class among the three.
+entailment	Florence has physics class then geology class then geography class.	Physics class is the first class among the three.
+entailment	Tim has economics class then chemistry class then literature class.	Economics class is the first class among the three.
+entailment	Suzanne has chemistry class then latin class then biology class.	Chemistry class is the first class among the three.
+entailment	Harold has biology class then art class then history class.	Biology class is the first class among the three.
+entailment	Alex has art class then economics class then french class.	Art class is the first class among the three.
+entailment	Alice has chemistry class then economics class then geology class.	Chemistry class is the first class among the three.
+entailment	Anthony has art class then chemistry class then history class.	Art class is the first class among the three.
+entailment	Jessica has mathematics class then physics class then biology class.	Mathematics class is the first class among the three.
+entailment	Sam has music class then latin class then commerce class.	Music class is the first class among the three.
+entailment	Diana has mathematics class then physics class then computer science class.	Mathematics class is the first class among the three.
+entailment	Eleanor has political science class then geology class then music class.	Political science class is the first class among the three.
+entailment	Kathleen has biology class then history class then french class.	Biology class is the first class among the three.
+entailment	Lynn has french class then mathematics class then economics class.	French class is the first class among the three.
+entailment	Cynthia has physics class then economics class then chemistry class.	Physics class is the first class among the three.
+entailment	Katie has physics class then computer science class then latin class.	Physics class is the first class among the three.
+entailment	Deborah has history class then geology class then music class.	History class is the first class among the three.
+entailment	Eric has art class then economics class then french class.	Art class is the first class among the three.
+entailment	Nicole has literature class then geography class then art class.	Literature class is the first class among the three.
+entailment	Ian has geography class then geology class then economics class.	Geography class is the first class among the three.
+entailment	Jason has economics class then history class then political science class.	Economics class is the first class among the three.
+entailment	Matt has geology class then computer science class then economics class.	Geology class is the first class among the three.
+entailment	Alison has art class then history class then economics class.	Art class is the first class among the three.
+entailment	William has economics class then physics class then literature class.	Economics class is the first class among the three.
+entailment	Sandra has mathematics class then geography class then commerce class.	Mathematics class is the first class among the three.
+entailment	Jerry has commerce class then geology class then biology class.	Commerce class is the first class among the three.
+entailment	Ian has art class then physics class then computer science class.	Art class is the first class among the three.
+entailment	Anthony has french class then chemistry class then history class.	French class is the first class among the three.
+entailment	Ashley has chemistry class then mathematics class then commerce class.	Chemistry class is the first class among the three.
+entailment	Anne has geography class then history class then chemistry class.	Geography class is the first class among the three.
+entailment	Fred has music class then geology class then commerce class.	Music class is the first class among the three.
+entailment	Frederick has geology class then political science class then physics class.	Geology class is the first class among the three.
+entailment	Charles has physics class then geography class then political science class.	Physics class is the first class among the three.
+entailment	Judith has french class then mathematics class then biology class.	French class is the first class among the three.
+entailment	Jane has physics class then french class then art class.	Physics class is the first class among the three.
+entailment	Alice has physics class then political science class then mathematics class.	Physics class is the first class among the three.
+entailment	Cynthia has geography class then art class then chemistry class.	Geography class is the first class among the three.
+entailment	Kenneth has music class then geology class then history class.	Music class is the first class among the three.
+entailment	Ryan has latin class then biology class then computer science class.	Latin class is the first class among the three.
+entailment	Barbara has history class then latin class then geography class.	History class is the first class among the three.
+entailment	Tom has mathematics class then french class then computer science class.	Mathematics class is the first class among the three.
+entailment	Louis has latin class then literature class then biology class.	Latin class is the first class among the three.
+entailment	Louise has computer science class then economics class then mathematics class.	Computer science class is the first class among the three.
+entailment	Jack has latin class then computer science class then economics class.	Latin class is the first class among the three.
+entailment	Nicole has art class then latin class then geography class.	Art class is the first class among the three.
+entailment	Stephen has latin class then biology class then geology class.	Latin class is the first class among the three.
+entailment	Sara has history class then chemistry class then commerce class.	History class is the first class among the three.
+entailment	Peter has art class then computer science class then commerce class.	Art class is the first class among the three.
+entailment	Bob has commerce class then physics class then music class.	Commerce class is the first class among the three.
+entailment	Paul has geography class then mathematics class then history class.	Geography class is the first class among the three.
+entailment	Emma has mathematics class then literature class then chemistry class.	Mathematics class is the first class among the three.
+entailment	Victoria has chemistry class then geology class then economics class.	Chemistry class is the first class among the three.
+entailment	John has music class then biology class then mathematics class.	Music class is the first class among the three.
+entailment	Karen has history class then music class then geology class.	History class is the first class among the three.
+entailment	Jonathan has french class then physics class then art class.	French class is the first class among the three.
+entailment	Mark has economics class then geology class then art class.	Economics class is the first class among the three.
+entailment	Cynthia has mathematics class then physics class then political science class.	Mathematics class is the first class among the three.
+entailment	Sandra has biology class then literature class then political science class.	Biology class is the first class among the three.
+entailment	Lauren has political science class then french class then economics class.	Political science class is the first class among the three.
+entailment	Bill has commerce class then history class then computer science class.	Commerce class is the first class among the three.
+entailment	Carl has economics class then physics class then chemistry class.	Economics class is the first class among the three.
+entailment	Jack has latin class then french class then art class.	Latin class is the first class among the three.
+entailment	Patricia has history class then geology class then political science class.	History class is the first class among the three.
+entailment	Gary has french class then economics class then geography class.	French class is the first class among the three.
+entailment	Tim has literature class then mathematics class then chemistry class.	Literature class is the first class among the three.
+entailment	Colin has mathematics class then latin class then geology class.	Mathematics class is the first class among the three.
+entailment	Jimmy has art class then biology class then political science class.	Art class is the first class among the three.
+entailment	Amy has latin class then political science class then biology class.	Latin class is the first class among the three.
+entailment	Robert has geography class then history class then literature class.	Geography class is the first class among the three.
+entailment	Jimmy has history class then chemistry class then biology class.	History class is the first class among the three.
+entailment	Simon has geography class then economics class then latin class.	Geography class is the first class among the three.
+entailment	Charlie has art class then latin class then mathematics class.	Art class is the first class among the three.
+entailment	Richard has commerce class then geography class then biology class.	Commerce class is the first class among the three.
+entailment	Patrick has economics class then biology class then geography class.	Economics class is the first class among the three.
+entailment	Walter has chemistry class then mathematics class then physics class.	Chemistry class is the first class among the three.
+entailment	Bill has computer science class then commerce class then physics class.	Computer science class is the first class among the three.
+entailment	Patrick has political science class then mathematics class then french class.	Political science class is the first class among the three.
+entailment	Sandra has chemistry class then commerce class then history class.	Chemistry class is the first class among the three.
+entailment	Nick has geology class then french class then physics class.	Geology class is the first class among the three.
+entailment	Nancy has biology class then literature class then mathematics class.	Biology class is the first class among the three.
+entailment	Melissa has french class then geology class then political science class.	French class is the first class among the three.
+entailment	Ron has literature class then physics class then history class.	Literature class is the first class among the three.
+entailment	Katherine has physics class then history class then economics class.	Physics class is the first class among the three.
+entailment	Martha has computer science class then physics class then geography class.	Computer science class is the first class among the three.
+entailment	Suzanne has chemistry class then geology class then music class.	Chemistry class is the first class among the three.
+entailment	William has french class then chemistry class then geology class.	French class is the first class among the three.
+entailment	Benjamin has history class then french class then physics class.	History class is the first class among the three.
+entailment	Eleanor has french class then history class then literature class.	French class is the first class among the three.
+entailment	Greg has history class then physics class then computer science class.	History class is the first class among the three.
+entailment	Anthony has economics class then latin class then political science class.	Economics class is the first class among the three.
+entailment	Greg has economics class then geography class then commerce class.	Economics class is the first class among the three.
+entailment	Henry has biology class then french class then economics class.	Biology class is the first class among the three.
+entailment	Sally has political science class then geology class then geography class.	Political science class is the first class among the three.
+entailment	Kathleen has mathematics class then literature class then latin class.	Mathematics class is the first class among the three.
+entailment	Paul has political science class then music class then physics class.	Political science class is the first class among the three.
+entailment	Marie has chemistry class then latin class then music class.	Chemistry class is the first class among the three.
+entailment	Kathryn has history class then computer science class then latin class.	History class is the first class among the three.
+entailment	Howard has geography class then art class then economics class.	Geography class is the first class among the three.
+entailment	Howard has biology class then french class then literature class.	Biology class is the first class among the three.
+entailment	Jimmy has economics class then biology class then commerce class.	Economics class is the first class among the three.
+entailment	Melissa has latin class then history class then music class.	Latin class is the first class among the three.
+entailment	Peter has art class then chemistry class then computer science class.	Art class is the first class among the three.
+entailment	Jay has physics class then latin class then geography class.	Physics class is the first class among the three.
+entailment	Ray has history class then literature class then latin class.	History class is the first class among the three.
+entailment	Alexander has geology class then political science class then commerce class.	Geology class is the first class among the three.
+entailment	Bill has economics class then music class then art class.	Economics class is the first class among the three.
+entailment	Jay has music class then art class then history class.	Music class is the first class among the three.
+entailment	Larry has geography class then chemistry class then french class.	Geography class is the first class among the three.
+entailment	Sally has music class then mathematics class then geology class.	Music class is the first class among the three.
+entailment	Diane has chemistry class then latin class then french class.	Chemistry class is the first class among the three.
+entailment	Fred has music class then geology class then geography class.	Music class is the first class among the three.
+entailment	Janet has commerce class then literature class then music class.	Commerce class is the first class among the three.
+entailment	Brian has french class then history class then mathematics class.	French class is the first class among the three.
+entailment	Helen has art class then economics class then literature class.	Art class is the first class among the three.
+entailment	Thomas has history class then political science class then physics class.	History class is the first class among the three.
+entailment	Billy has commerce class then geology class then music class.	Commerce class is the first class among the three.
+entailment	Nick has mathematics class then commerce class then political science class.	Mathematics class is the first class among the three.
+entailment	Edwin has literature class then history class then latin class.	Literature class is the first class among the three.
+entailment	Patrick has political science class then art class then latin class.	Political science class is the first class among the three.
+entailment	Barbara has political science class then physics class then music class.	Political science class is the first class among the three.
+entailment	Martha has biology class then french class then music class.	Biology class is the first class among the three.
+entailment	Lawrence has biology class then chemistry class then commerce class.	Biology class is the first class among the three.
+entailment	Wendy has political science class then commerce class then literature class.	Political science class is the first class among the three.
+entailment	Jason has chemistry class then french class then mathematics class.	Chemistry class is the first class among the three.
+entailment	Edith has geology class then computer science class then geography class.	Geology class is the first class among the three.
+entailment	Edwin has mathematics class then computer science class then geology class.	Mathematics class is the first class among the three.
+entailment	Pamela has chemistry class then mathematics class then art class.	Chemistry class is the first class among the three.
+entailment	Sophie has mathematics class then literature class then geology class.	Mathematics class is the first class among the three.
+entailment	Amy has commerce class then french class then mathematics class.	Commerce class is the first class among the three.
+entailment	Bill has history class then latin class then french class.	History class is the first class among the three.
+entailment	Ralph has biology class then french class then computer science class.	Biology class is the first class among the three.
+entailment	Lawrence has latin class then biology class then commerce class.	Latin class is the first class among the three.
+entailment	Patricia has mathematics class then political science class then biology class.	Mathematics class is the first class among the three.
+entailment	Heather has geography class then art class then geology class.	Geography class is the first class among the three.
+entailment	Dave has geography class then biology class then latin class.	Geography class is the first class among the three.
+entailment	Roger has music class then geography class then political science class.	Music class is the first class among the three.
+entailment	Mike has literature class then chemistry class then latin class.	Literature class is the first class among the three.
+entailment	George has latin class then history class then political science class.	Latin class is the first class among the three.
+entailment	Gary has physics class then history class then french class.	Physics class is the first class among the three.
+entailment	John has history class then commerce class then art class.	History class is the first class among the three.
+entailment	Alan has geography class then biology class then art class.	Geography class is the first class among the three.
+entailment	Marie has geology class then physics class then economics class.	Geology class is the first class among the three.
+entailment	Elizabeth has physics class then literature class then geology class.	Physics class is the first class among the three.
+entailment	Ann has chemistry class then art class then economics class.	Chemistry class is the first class among the three.
+entailment	Fiona has commerce class then music class then latin class.	Commerce class is the first class among the three.
+entailment	Chris has physics class then art class then computer science class.	Physics class is the first class among the three.
+entailment	Peter has geology class then commerce class then french class.	Geology class is the first class among the three.
+entailment	Kathleen has literature class then economics class then chemistry class.	Literature class is the first class among the three.
+entailment	Louise has geography class then music class then latin class.	Geography class is the first class among the three.
+entailment	Alexander has history class then commerce class then literature class.	History class is the first class among the three.
+entailment	Michael has literature class then chemistry class then political science class.	Literature class is the first class among the three.
+entailment	Ian has geography class then biology class then french class.	Geography class is the first class among the three.
+entailment	Bob has latin class then mathematics class then chemistry class.	Latin class is the first class among the three.
+entailment	Catherine has political science class then commerce class then art class.	Political science class is the first class among the three.
+entailment	Katherine has geography class then mathematics class then geology class.	Geography class is the first class among the three.
+entailment	Amanda has biology class then geography class then art class.	Biology class is the first class among the three.
+entailment	Lucy has art class then economics class then latin class.	Art class is the first class among the three.
+entailment	Charlie has latin class then geography class then literature class.	Latin class is the first class among the three.
+entailment	Annie has literature class then french class then art class.	Literature class is the first class among the three.
+entailment	Gary has latin class then economics class then history class.	Latin class is the first class among the three.
+entailment	Susan has geology class then economics class then political science class.	Geology class is the first class among the three.
+entailment	Betty has french class then latin class then commerce class.	French class is the first class among the three.
+entailment	Kate has art class then mathematics class then geography class.	Art class is the first class among the three.
+entailment	Frederick has music class then mathematics class then latin class.	Music class is the first class among the three.
+entailment	Catherine has economics class then geography class then political science class.	Economics class is the first class among the three.
+entailment	Tony has physics class then commerce class then geology class.	Physics class is the first class among the three.
+entailment	Diane has french class then commerce class then geography class.	French class is the first class among the three.
+entailment	Emily has french class then literature class then physics class.	French class is the first class among the three.
+entailment	Lynn has music class then history class then computer science class.	Music class is the first class among the three.
+entailment	Melissa has physics class then political science class then commerce class.	Physics class is the first class among the three.
+entailment	Richard has geography class then geology class then political science class.	Geography class is the first class among the three.
+entailment	Harold has biology class then chemistry class then mathematics class.	Biology class is the first class among the three.
+entailment	Elizabeth has mathematics class then french class then biology class.	Mathematics class is the first class among the three.
+entailment	Samuel has computer science class then biology class then physics class.	Computer science class is the first class among the three.
+entailment	Elizabeth has commerce class then geography class then geology class.	Commerce class is the first class among the three.
+entailment	Thomas has commerce class then latin class then chemistry class.	Commerce class is the first class among the three.
+entailment	Sarah has chemistry class then physics class then computer science class.	Chemistry class is the first class among the three.
+entailment	Robert has biology class then art class then latin class.	Biology class is the first class among the three.
+entailment	Leslie has geology class then geography class then political science class.	Geology class is the first class among the three.
+entailment	Ed has latin class then commerce class then political science class.	Latin class is the first class among the three.
+entailment	Fiona has geography class then geology class then music class.	Geography class is the first class among the three.
+entailment	Sarah has economics class then geology class then art class.	Economics class is the first class among the three.
+entailment	Ken has mathematics class then geology class then economics class.	Mathematics class is the first class among the three.
+entailment	Amanda has political science class then latin class then literature class.	Political science class is the first class among the three.
+entailment	John has history class then music class then mathematics class.	History class is the first class among the three.
+entailment	Tim has geography class then commerce class then french class.	Geography class is the first class among the three.
+entailment	Alexander has political science class then geology class then economics class.	Political science class is the first class among the three.
+entailment	Keith has physics class then economics class then art class.	Physics class is the first class among the three.
+entailment	Mike has geography class then history class then music class.	Geography class is the first class among the three.
+entailment	Kate has music class then physics class then geography class.	Music class is the first class among the three.
+entailment	Hugh has french class then political science class then biology class.	French class is the first class among the three.
+entailment	Mary has chemistry class then latin class then mathematics class.	Chemistry class is the first class among the three.
+entailment	Alexandra has mathematics class then history class then commerce class.	Mathematics class is the first class among the three.
+entailment	Christopher has biology class then geology class then music class.	Biology class is the first class among the three.
+entailment	Louis has physics class then computer science class then literature class.	Physics class is the first class among the three.
+entailment	Louise has literature class then physics class then music class.	Literature class is the first class among the three.
+entailment	Kim has geology class then political science class then literature class.	Geology class is the first class among the three.
+entailment	Simon has biology class then political science class then commerce class.	Biology class is the first class among the three.
+entailment	Lucy has literature class then french class then geology class.	Literature class is the first class among the three.
+entailment	Lisa has physics class then geography class then chemistry class.	Physics class is the first class among the three.
+entailment	Leslie has commerce class then economics class then literature class.	Commerce class is the first class among the three.
+entailment	Caroline has commerce class then french class then physics class.	Commerce class is the first class among the three.
+entailment	Ron has history class then music class then art class.	History class is the first class among the three.
+entailment	Simon has economics class then physics class then computer science class.	Economics class is the first class among the three.
+entailment	Melissa has physics class then political science class then chemistry class.	Physics class is the first class among the three.
+entailment	Frances has latin class then art class then french class.	Latin class is the first class among the three.
+entailment	Sam has biology class then commerce class then physics class.	Biology class is the first class among the three.
+entailment	Katie has history class then chemistry class then physics class.	History class is the first class among the three.
+entailment	Jerry has art class then physics class then chemistry class.	Art class is the first class among the three.
+entailment	Rebecca has computer science class then geography class then history class.	Computer science class is the first class among the three.
+entailment	Charles has geology class then physics class then latin class.	Geology class is the first class among the three.
+entailment	Catherine has latin class then chemistry class then art class.	Latin class is the first class among the three.
+entailment	Daniel has geology class then chemistry class then literature class.	Geology class is the first class among the three.
+entailment	Nicole has geography class then literature class then economics class.	Geography class is the first class among the three.
+entailment	Carl has music class then geology class then economics class.	Music class is the first class among the three.
+entailment	Jonathan has economics class then latin class then literature class.	Economics class is the first class among the three.
+entailment	Alice has geography class then geology class then economics class.	Geography class is the first class among the three.
+entailment	Lisa has latin class then physics class then biology class.	Latin class is the first class among the three.
+entailment	Richard has art class then biology class then mathematics class.	Art class is the first class among the three.
+entailment	Alan has geology class then commerce class then music class.	Geology class is the first class among the three.
+entailment	Michael has commerce class then music class then literature class.	Commerce class is the first class among the three.
+entailment	William has biology class then latin class then music class.	Biology class is the first class among the three.
+entailment	Roger has political science class then economics class then computer science class.	Political science class is the first class among the three.
+entailment	Catherine has physics class then french class then latin class.	Physics class is the first class among the three.
+entailment	Ruth has economics class then computer science class then art class.	Economics class is the first class among the three.
+entailment	Ryan has latin class then physics class then art class.	Latin class is the first class among the three.
+entailment	Alice has mathematics class then commerce class then french class.	Mathematics class is the first class among the three.
+entailment	James has physics class then history class then french class.	Physics class is the first class among the three.
+entailment	Kathleen has political science class then mathematics class then biology class.	Political science class is the first class among the three.
+entailment	Adam has literature class then french class then geography class.	Literature class is the first class among the three.
+entailment	Steve has geography class then art class then geology class.	Geography class is the first class among the three.
+entailment	Jack has geography class then physics class then mathematics class.	Geography class is the first class among the three.
+entailment	Louise has commerce class then computer science class then geology class.	Commerce class is the first class among the three.
+entailment	Angela has history class then geology class then music class.	History class is the first class among the three.
+entailment	Frank has biology class then political science class then geography class.	Biology class is the first class among the three.
+entailment	Arthur has geology class then commerce class then mathematics class.	Geology class is the first class among the three.
+entailment	Sara has chemistry class then geology class then physics class.	Chemistry class is the first class among the three.
+entailment	Patrick has history class then chemistry class then commerce class.	History class is the first class among the three.
+entailment	Ryan has political science class then commerce class then economics class.	Political science class is the first class among the three.
+entailment	Daniel has commerce class then history class then physics class.	Commerce class is the first class among the three.
+entailment	Eric has mathematics class then latin class then biology class.	Mathematics class is the first class among the three.
+entailment	Albert has political science class then geography class then art class.	Political science class is the first class among the three.
+entailment	William has political science class then history class then economics class.	Political science class is the first class among the three.
+entailment	Christopher has history class then geology class then commerce class.	History class is the first class among the three.
+entailment	Harriet has geology class then computer science class then economics class.	Geology class is the first class among the three.
+entailment	Michael has history class then art class then biology class.	History class is the first class among the three.
+entailment	Kathleen has geography class then french class then physics class.	Geography class is the first class among the three.
+entailment	Sandra has chemistry class then history class then french class.	Chemistry class is the first class among the three.
+entailment	Joan has economics class then geology class then french class.	Economics class is the first class among the three.
+entailment	Nicole has french class then latin class then music class.	French class is the first class among the three.
+entailment	Florence has biology class then latin class then geology class.	Biology class is the first class among the three.
+entailment	Andrew has geography class then latin class then chemistry class.	Geography class is the first class among the three.
+entailment	Harry has french class then political science class then music class.	French class is the first class among the three.
+entailment	Sara has geography class then economics class then commerce class.	Geography class is the first class among the three.

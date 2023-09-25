@@ -1,0 +1,1000 @@
+entailment	Boston is located between Illinois and Madison.	Madison is nearer to Boston than Madison is to Illinois.
+entailment	Hartford is located between Oklahoma and Columbia.	Columbia is nearer to Hartford than Columbia is to Oklahoma.
+entailment	New York is located between Tulsa and Albany.	Albany is nearer to New York than Albany is to Tulsa.
+entailment	Illinois is located between Chicago and Rochester.	Rochester is nearer to Illinois than Rochester is to Chicago.
+entailment	Oklahoma is located between Sacramento and Los Angeles.	Los Angeles is nearer to Oklahoma than Los Angeles is to Sacramento.
+entailment	Detroit is located between Tempe and Irvine.	Irvine is nearer to Detroit than Irvine is to Tempe.
+entailment	Detroit is located between Las Vegas and Tulsa.	Tulsa is nearer to Detroit than Tulsa is to Las Vegas.
+entailment	Kansas is located between Dallas and Frankfurt.	Frankfurt is nearer to Kansas than Frankfurt is to Dallas.
+entailment	Frankfurt is located between Houston and Albany.	Albany is nearer to Frankfurt than Albany is to Houston.
+entailment	Las Vegas is located between Manchester and Springfield.	Springfield is nearer to Las Vegas than Springfield is to Manchester.
+entailment	Irvine is located between Boston and Albany.	Albany is nearer to Irvine than Albany is to Boston.
+entailment	Albany is located between Manchester and Detroit.	Detroit is nearer to Albany than Detroit is to Manchester.
+entailment	Dallas is located between Rochester and Springfield.	Springfield is nearer to Dallas than Springfield is to Rochester.
+entailment	Irvine is located between Miami and Houston.	Houston is nearer to Irvine than Houston is to Miami.
+entailment	Las Vegas is located between Buffalo and Oklahoma.	Oklahoma is nearer to Las Vegas than Oklahoma is to Buffalo.
+entailment	Sacramento is located between New York and Chicago.	Chicago is nearer to Sacramento than Chicago is to New York.
+entailment	Hartford is located between Richmond and Rochester.	Rochester is nearer to Hartford than Rochester is to Richmond.
+entailment	Los Angeles is located between Hampton and Manchester.	Manchester is nearer to Los Angeles than Manchester is to Hampton.
+entailment	Hartford is located between Madison and Dallas.	Dallas is nearer to Hartford than Dallas is to Madison.
+entailment	Hampton is located between Detroit and Dallas.	Dallas is nearer to Hampton than Dallas is to Detroit.
+entailment	Philadelphia is located between Oklahoma and New York.	New York is nearer to Philadelphia than New York is to Oklahoma.
+entailment	Las Vegas is located between Olympia and Frankfurt.	Frankfurt is nearer to Las Vegas than Frankfurt is to Olympia.
+entailment	Hampton is located between Manchester and Kansas.	Kansas is nearer to Hampton than Kansas is to Manchester.
+entailment	Boston is located between Hartford and Minneapolis.	Minneapolis is nearer to Boston than Minneapolis is to Hartford.
+entailment	Frankfurt is located between Illinois and Detroit.	Detroit is nearer to Frankfurt than Detroit is to Illinois.
+entailment	Hampton is located between Boston and Springfield.	Springfield is nearer to Hampton than Springfield is to Boston.
+entailment	Oklahoma is located between Houston and Pittsburg.	Pittsburg is nearer to Oklahoma than Pittsburg is to Houston.
+entailment	Frankfurt is located between Ontario and Washington.	Washington is nearer to Frankfurt than Washington is to Ontario.
+entailment	San Jose is located between Albany and Washington.	Washington is nearer to San Jose than Washington is to Albany.
+entailment	Detroit is located between Hampton and Santa Barbara.	Santa Barbara is nearer to Detroit than Santa Barbara is to Hampton.
+entailment	Buffalo is located between Hartford and Tulsa.	Tulsa is nearer to Buffalo than Tulsa is to Hartford.
+entailment	Boston is located between Frankfurt and Richmond.	Richmond is nearer to Boston than Richmond is to Frankfurt.
+entailment	San Jose is located between Olympia and Houston.	Houston is nearer to San Jose than Houston is to Olympia.
+entailment	Tempe is located between Albany and Houston.	Houston is nearer to Tempe than Houston is to Albany.
+entailment	Ontario is located between New York and Pittsburg.	Pittsburg is nearer to Ontario than Pittsburg is to New York.
+entailment	Hartford is located between Kansas and Houston.	Houston is nearer to Hartford than Houston is to Kansas.
+entailment	Boston is located between Las Vegas and Tempe.	Tempe is nearer to Boston than Tempe is to Las Vegas.
+entailment	Rochester is located between Frankfurt and Miami.	Miami is nearer to Rochester than Miami is to Frankfurt.
+entailment	Hartford is located between Kansas and Philadelphia.	Philadelphia is nearer to Hartford than Philadelphia is to Kansas.
+entailment	New York is located between Albany and Phoenix.	Phoenix is nearer to New York than Phoenix is to Albany.
+entailment	Columbia is located between Miami and Manchester.	Manchester is nearer to Columbia than Manchester is to Miami.
+entailment	Detroit is located between Richmond and Ontario.	Ontario is nearer to Detroit than Ontario is to Richmond.
+entailment	Pittsburg is located between New York and Miami.	Miami is nearer to Pittsburg than Miami is to New York.
+entailment	Washington is located between Las Vegas and Albany.	Albany is nearer to Washington than Albany is to Las Vegas.
+entailment	Philadelphia is located between Irvine and Olympia.	Olympia is nearer to Philadelphia than Olympia is to Irvine.
+entailment	Dallas is located between Illinois and Irvine.	Irvine is nearer to Dallas than Irvine is to Illinois.
+entailment	Oklahoma is located between Hampton and Houston.	Houston is nearer to Oklahoma than Houston is to Hampton.
+entailment	San Francisco is located between Sacramento and Philadelphia.	Philadelphia is nearer to San Francisco than Philadelphia is to Sacramento.
+entailment	Hampton is located between Tulsa and Rochester.	Rochester is nearer to Hampton than Rochester is to Tulsa.
+entailment	Illinois is located between Washington and Frankfurt.	Frankfurt is nearer to Illinois than Frankfurt is to Washington.
+entailment	Irvine is located between Illinois and Sacramento.	Sacramento is nearer to Irvine than Sacramento is to Illinois.
+entailment	Washington is located between Springfield and Boston.	Boston is nearer to Washington than Boston is to Springfield.
+entailment	Ontario is located between San Jose and Miami.	Miami is nearer to Ontario than Miami is to San Jose.
+entailment	Kansas is located between Columbia and Chicago.	Chicago is nearer to Kansas than Chicago is to Columbia.
+entailment	Hampton is located between Phoenix and Richmond.	Richmond is nearer to Hampton than Richmond is to Phoenix.
+entailment	San Jose is located between Detroit and Minneapolis.	Minneapolis is nearer to San Jose than Minneapolis is to Detroit.
+entailment	Phoenix is located between Sacramento and Washington.	Washington is nearer to Phoenix than Washington is to Sacramento.
+entailment	Minneapolis is located between Irvine and Albany.	Albany is nearer to Minneapolis than Albany is to Irvine.
+entailment	Phoenix is located between Sacramento and Illinois.	Illinois is nearer to Phoenix than Illinois is to Sacramento.
+entailment	Washington is located between Houston and Manchester.	Manchester is nearer to Washington than Manchester is to Houston.
+entailment	Manchester is located between Olympia and Frankfurt.	Frankfurt is nearer to Manchester than Frankfurt is to Olympia.
+entailment	Columbia is located between Ontario and San Diego.	San Diego is nearer to Columbia than San Diego is to Ontario.
+entailment	Rochester is located between Phoenix and Irving.	Irving is nearer to Rochester than Irving is to Phoenix.
+entailment	Columbia is located between San Jose and Chicago.	Chicago is nearer to Columbia than Chicago is to San Jose.
+entailment	Madison is located between San Diego and Manchester.	Manchester is nearer to Madison than Manchester is to San Diego.
+entailment	Minneapolis is located between Santa Barbara and San Jose.	San Jose is nearer to Minneapolis than San Jose is to Santa Barbara.
+entailment	San Francisco is located between San Jose and Madison.	Madison is nearer to San Francisco than Madison is to San Jose.
+entailment	Madison is located between Boston and Frankfurt.	Frankfurt is nearer to Madison than Frankfurt is to Boston.
+entailment	Boston is located between Hartford and Albany.	Albany is nearer to Boston than Albany is to Hartford.
+entailment	Oklahoma is located between Miami and Ontario.	Ontario is nearer to Oklahoma than Ontario is to Miami.
+entailment	Madison is located between San Diego and New York.	New York is nearer to Madison than New York is to San Diego.
+entailment	Los Angeles is located between Tulsa and Miami.	Miami is nearer to Los Angeles than Miami is to Tulsa.
+entailment	Manchester is located between Philadelphia and Santa Barbara.	Santa Barbara is nearer to Manchester than Santa Barbara is to Philadelphia.
+entailment	Phoenix is located between Manchester and Richmond.	Richmond is nearer to Phoenix than Richmond is to Manchester.
+entailment	San Jose is located between Los Angeles and Madison.	Madison is nearer to San Jose than Madison is to Los Angeles.
+entailment	Manchester is located between Boston and Olympia.	Olympia is nearer to Manchester than Olympia is to Boston.
+entailment	Manchester is located between Dallas and New York.	New York is nearer to Manchester than New York is to Dallas.
+entailment	Madison is located between Albany and Illinois.	Illinois is nearer to Madison than Illinois is to Albany.
+entailment	New York is located between Pittsburg and Kansas.	Kansas is nearer to New York than Kansas is to Pittsburg.
+entailment	Oklahoma is located between Illinois and Ontario.	Ontario is nearer to Oklahoma than Ontario is to Illinois.
+entailment	Richmond is located between Albany and Illinois.	Illinois is nearer to Richmond than Illinois is to Albany.
+entailment	Madison is located between Sacramento and Illinois.	Illinois is nearer to Madison than Illinois is to Sacramento.
+entailment	Detroit is located between Olympia and Buffalo.	Buffalo is nearer to Detroit than Buffalo is to Olympia.
+entailment	Los Angeles is located between Tempe and Columbia.	Columbia is nearer to Los Angeles than Columbia is to Tempe.
+entailment	Illinois is located between Buffalo and Manchester.	Manchester is nearer to Illinois than Manchester is to Buffalo.
+entailment	Tempe is located between Philadelphia and Dallas.	Dallas is nearer to Tempe than Dallas is to Philadelphia.
+entailment	Frankfurt is located between Olympia and Illinois.	Illinois is nearer to Frankfurt than Illinois is to Olympia.
+entailment	Illinois is located between Richmond and Los Angeles.	Los Angeles is nearer to Illinois than Los Angeles is to Richmond.
+entailment	Hampton is located between Oklahoma and Boston.	Boston is nearer to Hampton than Boston is to Oklahoma.
+entailment	Philadelphia is located between Tempe and Sacramento.	Sacramento is nearer to Philadelphia than Sacramento is to Tempe.
+entailment	Detroit is located between Springfield and Manchester.	Manchester is nearer to Detroit than Manchester is to Springfield.
+entailment	San Francisco is located between Kansas and Richmond.	Richmond is nearer to San Francisco than Richmond is to Kansas.
+entailment	Minneapolis is located between Las Vegas and Ontario.	Ontario is nearer to Minneapolis than Ontario is to Las Vegas.
+entailment	Pittsburg is located between New York and Kansas.	Kansas is nearer to Pittsburg than Kansas is to New York.
+entailment	San Diego is located between Albany and Sacramento.	Sacramento is nearer to San Diego than Sacramento is to Albany.
+entailment	Washington is located between San Diego and Detroit.	Detroit is nearer to Washington than Detroit is to San Diego.
+entailment	Richmond is located between Hampton and New York.	New York is nearer to Richmond than New York is to Hampton.
+entailment	Madison is located between New York and Detroit.	Detroit is nearer to Madison than Detroit is to New York.
+entailment	Olympia is located between Illinois and Ontario.	Ontario is nearer to Olympia than Ontario is to Illinois.
+entailment	Albany is located between Hartford and Kansas.	Kansas is nearer to Albany than Kansas is to Hartford.
+entailment	Madison is located between Richmond and Olympia.	Olympia is nearer to Madison than Olympia is to Richmond.
+entailment	Manchester is located between Springfield and Washington.	Washington is nearer to Manchester than Washington is to Springfield.
+entailment	Hartford is located between Irvine and Phoenix.	Phoenix is nearer to Hartford than Phoenix is to Irvine.
+entailment	Richmond is located between Madison and Phoenix.	Phoenix is nearer to Richmond than Phoenix is to Madison.
+entailment	Dallas is located between Kansas and Springfield.	Springfield is nearer to Dallas than Springfield is to Kansas.
+entailment	Phoenix is located between Madison and Tulsa.	Tulsa is nearer to Phoenix than Tulsa is to Madison.
+entailment	Hartford is located between Phoenix and Springfield.	Springfield is nearer to Hartford than Springfield is to Phoenix.
+entailment	Philadelphia is located between Frankfurt and Kansas.	Kansas is nearer to Philadelphia than Kansas is to Frankfurt.
+entailment	Irving is located between Chicago and New York.	New York is nearer to Irving than New York is to Chicago.
+entailment	Manchester is located between Boston and San Francisco.	San Francisco is nearer to Manchester than San Francisco is to Boston.
+entailment	Sacramento is located between Buffalo and Houston.	Houston is nearer to Sacramento than Houston is to Buffalo.
+entailment	Rochester is located between Madison and Ontario.	Ontario is nearer to Rochester than Ontario is to Madison.
+entailment	Boston is located between Frankfurt and Miami.	Miami is nearer to Boston than Miami is to Frankfurt.
+entailment	Dallas is located between Houston and Phoenix.	Phoenix is nearer to Dallas than Phoenix is to Houston.
+entailment	Oklahoma is located between Manchester and Springfield.	Springfield is nearer to Oklahoma than Springfield is to Manchester.
+entailment	Minneapolis is located between Dallas and Hampton.	Hampton is nearer to Minneapolis than Hampton is to Dallas.
+entailment	Kansas is located between Las Vegas and Detroit.	Detroit is nearer to Kansas than Detroit is to Las Vegas.
+entailment	Minneapolis is located between Chicago and Philadelphia.	Philadelphia is nearer to Minneapolis than Philadelphia is to Chicago.
+entailment	Washington is located between Minneapolis and Manchester.	Manchester is nearer to Washington than Manchester is to Minneapolis.
+entailment	Hartford is located between Houston and New York.	New York is nearer to Hartford than New York is to Houston.
+entailment	Irvine is located between Hartford and Springfield.	Springfield is nearer to Irvine than Springfield is to Hartford.
+entailment	Houston is located between San Diego and Los Angeles.	Los Angeles is nearer to Houston than Los Angeles is to San Diego.
+entailment	Manchester is located between Madison and Buffalo.	Buffalo is nearer to Manchester than Buffalo is to Madison.
+entailment	Illinois is located between San Jose and Hartford.	Hartford is nearer to Illinois than Hartford is to San Jose.
+entailment	Detroit is located between Phoenix and Philadelphia.	Philadelphia is nearer to Detroit than Philadelphia is to Phoenix.
+entailment	Manchester is located between Tulsa and Springfield.	Springfield is nearer to Manchester than Springfield is to Tulsa.
+entailment	Oklahoma is located between Los Angeles and Buffalo.	Buffalo is nearer to Oklahoma than Buffalo is to Los Angeles.
+entailment	New York is located between Buffalo and Irving.	Irving is nearer to New York than Irving is to Buffalo.
+entailment	Illinois is located between Springfield and Miami.	Miami is nearer to Illinois than Miami is to Springfield.
+entailment	Houston is located between Hartford and San Jose.	San Jose is nearer to Houston than San Jose is to Hartford.
+entailment	Olympia is located between Houston and Irvine.	Irvine is nearer to Olympia than Irvine is to Houston.
+entailment	Los Angeles is located between Irvine and Frankfurt.	Frankfurt is nearer to Los Angeles than Frankfurt is to Irvine.
+entailment	Las Vegas is located between Illinois and Columbia.	Columbia is nearer to Las Vegas than Columbia is to Illinois.
+entailment	Miami is located between Houston and Phoenix.	Phoenix is nearer to Miami than Phoenix is to Houston.
+entailment	Buffalo is located between San Diego and Washington.	Washington is nearer to Buffalo than Washington is to San Diego.
+entailment	New York is located between Hampton and Pittsburg.	Pittsburg is nearer to New York than Pittsburg is to Hampton.
+entailment	Columbia is located between Kansas and Hartford.	Hartford is nearer to Columbia than Hartford is to Kansas.
+entailment	Frankfurt is located between Tempe and Tulsa.	Tulsa is nearer to Frankfurt than Tulsa is to Tempe.
+entailment	San Diego is located between Las Vegas and Philadelphia.	Philadelphia is nearer to San Diego than Philadelphia is to Las Vegas.
+entailment	Pittsburg is located between San Francisco and Madison.	Madison is nearer to Pittsburg than Madison is to San Francisco.
+entailment	Hartford is located between Philadelphia and Phoenix.	Phoenix is nearer to Hartford than Phoenix is to Philadelphia.
+entailment	San Francisco is located between Madison and Miami.	Miami is nearer to San Francisco than Miami is to Madison.
+entailment	Miami is located between Frankfurt and Detroit.	Detroit is nearer to Miami than Detroit is to Frankfurt.
+entailment	Philadelphia is located between Oklahoma and Pittsburg.	Pittsburg is nearer to Philadelphia than Pittsburg is to Oklahoma.
+entailment	Chicago is located between Dallas and Richmond.	Richmond is nearer to Chicago than Richmond is to Dallas.
+entailment	Kansas is located between Dallas and Tulsa.	Tulsa is nearer to Kansas than Tulsa is to Dallas.
+entailment	Sacramento is located between Dallas and Columbia.	Columbia is nearer to Sacramento than Columbia is to Dallas.
+entailment	Tulsa is located between Houston and Pittsburg.	Pittsburg is nearer to Tulsa than Pittsburg is to Houston.
+entailment	Illinois is located between Irvine and San Francisco.	San Francisco is nearer to Illinois than San Francisco is to Irvine.
+entailment	Olympia is located between Madison and Detroit.	Detroit is nearer to Olympia than Detroit is to Madison.
+entailment	Illinois is located between Kansas and Pittsburg.	Pittsburg is nearer to Illinois than Pittsburg is to Kansas.
+entailment	San Diego is located between Hampton and Pittsburg.	Pittsburg is nearer to San Diego than Pittsburg is to Hampton.
+entailment	Oklahoma is located between Boston and Hartford.	Hartford is nearer to Oklahoma than Hartford is to Boston.
+entailment	Richmond is located between San Francisco and Santa Barbara.	Santa Barbara is nearer to Richmond than Santa Barbara is to San Francisco.
+entailment	Hartford is located between Tempe and San Jose.	San Jose is nearer to Hartford than San Jose is to Tempe.
+entailment	Ontario is located between Oklahoma and Kansas.	Kansas is nearer to Ontario than Kansas is to Oklahoma.
+entailment	Houston is located between Los Angeles and Frankfurt.	Frankfurt is nearer to Houston than Frankfurt is to Los Angeles.
+entailment	Oklahoma is located between Washington and Houston.	Houston is nearer to Oklahoma than Houston is to Washington.
+entailment	Olympia is located between Los Angeles and Hartford.	Hartford is nearer to Olympia than Hartford is to Los Angeles.
+entailment	Olympia is located between Washington and Rochester.	Rochester is nearer to Olympia than Rochester is to Washington.
+entailment	Phoenix is located between Las Vegas and Albany.	Albany is nearer to Phoenix than Albany is to Las Vegas.
+entailment	Los Angeles is located between Santa Barbara and Pittsburg.	Pittsburg is nearer to Los Angeles than Pittsburg is to Santa Barbara.
+entailment	Illinois is located between New York and Detroit.	Detroit is nearer to Illinois than Detroit is to New York.
+entailment	Kansas is located between Minneapolis and Miami.	Miami is nearer to Kansas than Miami is to Minneapolis.
+entailment	Las Vegas is located between San Jose and San Diego.	San Diego is nearer to Las Vegas than San Diego is to San Jose.
+entailment	Chicago is located between Houston and Hartford.	Hartford is nearer to Chicago than Hartford is to Houston.
+entailment	Washington is located between Albany and San Jose.	San Jose is nearer to Washington than San Jose is to Albany.
+entailment	Minneapolis is located between Detroit and Chicago.	Chicago is nearer to Minneapolis than Chicago is to Detroit.
+entailment	Las Vegas is located between Olympia and Tulsa.	Tulsa is nearer to Las Vegas than Tulsa is to Olympia.
+entailment	Oklahoma is located between San Francisco and Frankfurt.	Frankfurt is nearer to Oklahoma than Frankfurt is to San Francisco.
+entailment	Irvine is located between Chicago and Oklahoma.	Oklahoma is nearer to Irvine than Oklahoma is to Chicago.
+entailment	Dallas is located between Tulsa and Pittsburg.	Pittsburg is nearer to Dallas than Pittsburg is to Tulsa.
+entailment	San Jose is located between Boston and Olympia.	Olympia is nearer to San Jose than Olympia is to Boston.
+entailment	Phoenix is located between Pittsburg and Boston.	Boston is nearer to Phoenix than Boston is to Pittsburg.
+entailment	Irvine is located between San Jose and Los Angeles.	Los Angeles is nearer to Irvine than Los Angeles is to San Jose.
+entailment	Las Vegas is located between Hampton and Dallas.	Dallas is nearer to Las Vegas than Dallas is to Hampton.
+entailment	Buffalo is located between Oklahoma and Illinois.	Illinois is nearer to Buffalo than Illinois is to Oklahoma.
+entailment	Houston is located between Phoenix and Tulsa.	Tulsa is nearer to Houston than Tulsa is to Phoenix.
+entailment	Buffalo is located between Madison and Santa Barbara.	Santa Barbara is nearer to Buffalo than Santa Barbara is to Madison.
+entailment	Madison is located between Tulsa and Miami.	Miami is nearer to Madison than Miami is to Tulsa.
+entailment	Sacramento is located between Philadelphia and Tempe.	Tempe is nearer to Sacramento than Tempe is to Philadelphia.
+entailment	Santa Barbara is located between Springfield and Hampton.	Hampton is nearer to Santa Barbara than Hampton is to Springfield.
+entailment	Irving is located between Miami and Los Angeles.	Los Angeles is nearer to Irving than Los Angeles is to Miami.
+entailment	Tulsa is located between San Francisco and Boston.	Boston is nearer to Tulsa than Boston is to San Francisco.
+entailment	Miami is located between Washington and Springfield.	Springfield is nearer to Miami than Springfield is to Washington.
+entailment	Minneapolis is located between Olympia and Washington.	Washington is nearer to Minneapolis than Washington is to Olympia.
+entailment	Los Angeles is located between San Diego and Phoenix.	Phoenix is nearer to Los Angeles than Phoenix is to San Diego.
+entailment	Manchester is located between Hampton and Miami.	Miami is nearer to Manchester than Miami is to Hampton.
+entailment	Boston is located between Madison and Detroit.	Detroit is nearer to Boston than Detroit is to Madison.
+entailment	Springfield is located between San Diego and Santa Barbara.	Santa Barbara is nearer to Springfield than Santa Barbara is to San Diego.
+entailment	Columbia is located between Tulsa and Santa Barbara.	Santa Barbara is nearer to Columbia than Santa Barbara is to Tulsa.
+entailment	Dallas is located between Hartford and Hampton.	Hampton is nearer to Dallas than Hampton is to Hartford.
+entailment	Boston is located between Miami and Santa Barbara.	Santa Barbara is nearer to Boston than Santa Barbara is to Miami.
+entailment	Rochester is located between Richmond and Pittsburg.	Pittsburg is nearer to Rochester than Pittsburg is to Richmond.
+entailment	Columbia is located between Los Angeles and Sacramento.	Sacramento is nearer to Columbia than Sacramento is to Los Angeles.
+entailment	San Jose is located between Illinois and Kansas.	Kansas is nearer to San Jose than Kansas is to Illinois.
+entailment	Irving is located between Pittsburg and Columbia.	Columbia is nearer to Irving than Columbia is to Pittsburg.
+entailment	Minneapolis is located between Oklahoma and Hampton.	Hampton is nearer to Minneapolis than Hampton is to Oklahoma.
+entailment	Las Vegas is located between Tulsa and Chicago.	Chicago is nearer to Las Vegas than Chicago is to Tulsa.
+entailment	Illinois is located between Philadelphia and Kansas.	Kansas is nearer to Illinois than Kansas is to Philadelphia.
+entailment	Oklahoma is located between Kansas and Richmond.	Richmond is nearer to Oklahoma than Richmond is to Kansas.
+entailment	Rochester is located between Buffalo and Los Angeles.	Los Angeles is nearer to Rochester than Los Angeles is to Buffalo.
+entailment	Phoenix is located between Tulsa and Pittsburg.	Pittsburg is nearer to Phoenix than Pittsburg is to Tulsa.
+entailment	Tulsa is located between Olympia and Washington.	Washington is nearer to Tulsa than Washington is to Olympia.
+entailment	Oklahoma is located between Rochester and Irving.	Irving is nearer to Oklahoma than Irving is to Rochester.
+entailment	Chicago is located between New York and Frankfurt.	Frankfurt is nearer to Chicago than Frankfurt is to New York.
+entailment	Detroit is located between Washington and Illinois.	Illinois is nearer to Detroit than Illinois is to Washington.
+entailment	Hampton is located between Los Angeles and Manchester.	Manchester is nearer to Hampton than Manchester is to Los Angeles.
+entailment	Hampton is located between Tulsa and Kansas.	Kansas is nearer to Hampton than Kansas is to Tulsa.
+entailment	Phoenix is located between Boston and Frankfurt.	Frankfurt is nearer to Phoenix than Frankfurt is to Boston.
+entailment	Richmond is located between Hampton and Detroit.	Detroit is nearer to Richmond than Detroit is to Hampton.
+entailment	Minneapolis is located between Tempe and Manchester.	Manchester is nearer to Minneapolis than Manchester is to Tempe.
+entailment	Phoenix is located between Tempe and Los Angeles.	Los Angeles is nearer to Phoenix than Los Angeles is to Tempe.
+entailment	Madison is located between Irving and Tulsa.	Tulsa is nearer to Madison than Tulsa is to Irving.
+entailment	Los Angeles is located between Tempe and Dallas.	Dallas is nearer to Los Angeles than Dallas is to Tempe.
+entailment	Illinois is located between Sacramento and Tulsa.	Tulsa is nearer to Illinois than Tulsa is to Sacramento.
+entailment	San Francisco is located between Irving and Philadelphia.	Philadelphia is nearer to San Francisco than Philadelphia is to Irving.
+entailment	Kansas is located between Los Angeles and Pittsburg.	Pittsburg is nearer to Kansas than Pittsburg is to Los Angeles.
+entailment	Irvine is located between Tulsa and Rochester.	Rochester is nearer to Irvine than Rochester is to Tulsa.
+entailment	Illinois is located between Manchester and Washington.	Washington is nearer to Illinois than Washington is to Manchester.
+entailment	Boston is located between Chicago and San Francisco.	San Francisco is nearer to Boston than San Francisco is to Chicago.
+entailment	Chicago is located between Albany and Pittsburg.	Pittsburg is nearer to Chicago than Pittsburg is to Albany.
+entailment	Irvine is located between Oklahoma and Illinois.	Illinois is nearer to Irvine than Illinois is to Oklahoma.
+entailment	Minneapolis is located between Ontario and Irving.	Irving is nearer to Minneapolis than Irving is to Ontario.
+entailment	Sacramento is located between Madison and Dallas.	Dallas is nearer to Sacramento than Dallas is to Madison.
+entailment	Olympia is located between San Jose and Houston.	Houston is nearer to Olympia than Houston is to San Jose.
+entailment	Detroit is located between Miami and Manchester.	Manchester is nearer to Detroit than Manchester is to Miami.
+entailment	Rochester is located between San Diego and Albany.	Albany is nearer to Rochester than Albany is to San Diego.
+entailment	Boston is located between Irvine and Phoenix.	Phoenix is nearer to Boston than Phoenix is to Irvine.
+entailment	Albany is located between San Diego and Kansas.	Kansas is nearer to Albany than Kansas is to San Diego.
+entailment	Tulsa is located between Illinois and Detroit.	Detroit is nearer to Tulsa than Detroit is to Illinois.
+entailment	San Diego is located between Hampton and Detroit.	Detroit is nearer to San Diego than Detroit is to Hampton.
+entailment	Chicago is located between Las Vegas and San Francisco.	San Francisco is nearer to Chicago than San Francisco is to Las Vegas.
+entailment	Manchester is located between Chicago and Washington.	Washington is nearer to Manchester than Washington is to Chicago.
+entailment	Minneapolis is located between Dallas and Boston.	Boston is nearer to Minneapolis than Boston is to Dallas.
+entailment	Minneapolis is located between Manchester and Hartford.	Hartford is nearer to Minneapolis than Hartford is to Manchester.
+entailment	San Diego is located between Madison and Pittsburg.	Pittsburg is nearer to San Diego than Pittsburg is to Madison.
+entailment	Chicago is located between Frankfurt and Ontario.	Ontario is nearer to Chicago than Ontario is to Frankfurt.
+entailment	San Francisco is located between Buffalo and Kansas.	Kansas is nearer to San Francisco than Kansas is to Buffalo.
+entailment	San Diego is located between San Francisco and Irvine.	Irvine is nearer to San Diego than Irvine is to San Francisco.
+entailment	Tempe is located between Kansas and Minneapolis.	Minneapolis is nearer to Tempe than Minneapolis is to Kansas.
+entailment	Columbia is located between Las Vegas and Detroit.	Detroit is nearer to Columbia than Detroit is to Las Vegas.
+entailment	Irving is located between Detroit and San Jose.	San Jose is nearer to Irving than San Jose is to Detroit.
+entailment	Chicago is located between Columbia and Buffalo.	Buffalo is nearer to Chicago than Buffalo is to Columbia.
+entailment	Irving is located between Hampton and Philadelphia.	Philadelphia is nearer to Irving than Philadelphia is to Hampton.
+entailment	Hartford is located between Columbia and Pittsburg.	Pittsburg is nearer to Hartford than Pittsburg is to Columbia.
+entailment	San Francisco is located between Columbia and Irvine.	Irvine is nearer to San Francisco than Irvine is to Columbia.
+entailment	Irving is located between Springfield and Pittsburg.	Pittsburg is nearer to Irving than Pittsburg is to Springfield.
+entailment	Oklahoma is located between Philadelphia and Irvine.	Irvine is nearer to Oklahoma than Irvine is to Philadelphia.
+entailment	Frankfurt is located between Hampton and Las Vegas.	Las Vegas is nearer to Frankfurt than Las Vegas is to Hampton.
+entailment	Rochester is located between Irvine and Illinois.	Illinois is nearer to Rochester than Illinois is to Irvine.
+entailment	Rochester is located between Irvine and New York.	New York is nearer to Rochester than New York is to Irvine.
+entailment	Olympia is located between Madison and Tulsa.	Tulsa is nearer to Olympia than Tulsa is to Madison.
+entailment	Houston is located between Frankfurt and San Diego.	San Diego is nearer to Houston than San Diego is to Frankfurt.
+entailment	Minneapolis is located between Boston and Pittsburg.	Pittsburg is nearer to Minneapolis than Pittsburg is to Boston.
+entailment	Albany is located between Buffalo and Boston.	Boston is nearer to Albany than Boston is to Buffalo.
+entailment	Santa Barbara is located between Sacramento and Springfield.	Springfield is nearer to Santa Barbara than Springfield is to Sacramento.
+entailment	Ontario is located between Detroit and Buffalo.	Buffalo is nearer to Ontario than Buffalo is to Detroit.
+entailment	Philadelphia is located between Springfield and San Diego.	San Diego is nearer to Philadelphia than San Diego is to Springfield.
+entailment	Richmond is located between Santa Barbara and Philadelphia.	Philadelphia is nearer to Richmond than Philadelphia is to Santa Barbara.
+entailment	Madison is located between Dallas and Frankfurt.	Frankfurt is nearer to Madison than Frankfurt is to Dallas.
+entailment	Madison is located between Oklahoma and Manchester.	Manchester is nearer to Madison than Manchester is to Oklahoma.
+entailment	Illinois is located between Irvine and Springfield.	Springfield is nearer to Illinois than Springfield is to Irvine.
+entailment	Tulsa is located between Rochester and Santa Barbara.	Santa Barbara is nearer to Tulsa than Santa Barbara is to Rochester.
+entailment	Oklahoma is located between Springfield and Minneapolis.	Minneapolis is nearer to Oklahoma than Minneapolis is to Springfield.
+entailment	San Jose is located between Washington and New York.	New York is nearer to San Jose than New York is to Washington.
+entailment	Miami is located between Springfield and Manchester.	Manchester is nearer to Miami than Manchester is to Springfield.
+entailment	Richmond is located between San Francisco and Las Vegas.	Las Vegas is nearer to Richmond than Las Vegas is to San Francisco.
+entailment	Richmond is located between Manchester and Philadelphia.	Philadelphia is nearer to Richmond than Philadelphia is to Manchester.
+entailment	San Jose is located between Frankfurt and Kansas.	Kansas is nearer to San Jose than Kansas is to Frankfurt.
+entailment	Los Angeles is located between Ontario and Santa Barbara.	Santa Barbara is nearer to Los Angeles than Santa Barbara is to Ontario.
+entailment	Boston is located between San Jose and Chicago.	Chicago is nearer to Boston than Chicago is to San Jose.
+entailment	Kansas is located between Detroit and Philadelphia.	Philadelphia is nearer to Kansas than Philadelphia is to Detroit.
+entailment	Minneapolis is located between Boston and Ontario.	Ontario is nearer to Minneapolis than Ontario is to Boston.
+entailment	Springfield is located between Sacramento and Chicago.	Chicago is nearer to Springfield than Chicago is to Sacramento.
+entailment	Houston is located between Phoenix and Philadelphia.	Philadelphia is nearer to Houston than Philadelphia is to Phoenix.
+entailment	Philadelphia is located between San Francisco and Columbia.	Columbia is nearer to Philadelphia than Columbia is to San Francisco.
+entailment	Ontario is located between Olympia and Buffalo.	Buffalo is nearer to Ontario than Buffalo is to Olympia.
+entailment	Kansas is located between Manchester and Frankfurt.	Frankfurt is nearer to Kansas than Frankfurt is to Manchester.
+entailment	Hartford is located between Las Vegas and New York.	New York is nearer to Hartford than New York is to Las Vegas.
+entailment	Olympia is located between Frankfurt and Washington.	Washington is nearer to Olympia than Washington is to Frankfurt.
+entailment	San Jose is located between Los Angeles and Miami.	Miami is nearer to San Jose than Miami is to Los Angeles.
+entailment	Madison is located between Pittsburg and Houston.	Houston is nearer to Madison than Houston is to Pittsburg.
+entailment	Irving is located between Hartford and Tulsa.	Tulsa is nearer to Irving than Tulsa is to Hartford.
+entailment	Boston is located between Hartford and San Francisco.	San Francisco is nearer to Boston than San Francisco is to Hartford.
+entailment	Hartford is located between Chicago and Las Vegas.	Las Vegas is nearer to Hartford than Las Vegas is to Chicago.
+entailment	Hartford is located between Washington and Pittsburg.	Pittsburg is nearer to Hartford than Pittsburg is to Washington.
+entailment	Buffalo is located between Ontario and Springfield.	Springfield is nearer to Buffalo than Springfield is to Ontario.
+entailment	Springfield is located between Kansas and New York.	New York is nearer to Springfield than New York is to Kansas.
+entailment	Manchester is located between Richmond and Santa Barbara.	Santa Barbara is nearer to Manchester than Santa Barbara is to Richmond.
+entailment	Madison is located between Las Vegas and Detroit.	Detroit is nearer to Madison than Detroit is to Las Vegas.
+entailment	Los Angeles is located between Miami and Boston.	Boston is nearer to Los Angeles than Boston is to Miami.
+entailment	Las Vegas is located between San Jose and Richmond.	Richmond is nearer to Las Vegas than Richmond is to San Jose.
+entailment	New York is located between Irving and Chicago.	Chicago is nearer to New York than Chicago is to Irving.
+entailment	Houston is located between Philadelphia and Buffalo.	Buffalo is nearer to Houston than Buffalo is to Philadelphia.
+entailment	Madison is located between Kansas and Detroit.	Detroit is nearer to Madison than Detroit is to Kansas.
+entailment	Tulsa is located between San Jose and Olympia.	Olympia is nearer to Tulsa than Olympia is to San Jose.
+entailment	Dallas is located between Santa Barbara and Rochester.	Rochester is nearer to Dallas than Rochester is to Santa Barbara.
+entailment	Richmond is located between San Diego and Springfield.	Springfield is nearer to Richmond than Springfield is to San Diego.
+entailment	Albany is located between Kansas and Rochester.	Rochester is nearer to Albany than Rochester is to Kansas.
+entailment	Los Angeles is located between San Diego and Pittsburg.	Pittsburg is nearer to Los Angeles than Pittsburg is to San Diego.
+entailment	Boston is located between Hampton and San Francisco.	San Francisco is nearer to Boston than San Francisco is to Hampton.
+entailment	Detroit is located between Irving and Houston.	Houston is nearer to Detroit than Houston is to Irving.
+entailment	Rochester is located between Phoenix and Illinois.	Illinois is nearer to Rochester than Illinois is to Phoenix.
+entailment	Illinois is located between Detroit and Manchester.	Manchester is nearer to Illinois than Manchester is to Detroit.
+entailment	Chicago is located between Phoenix and San Jose.	San Jose is nearer to Chicago than San Jose is to Phoenix.
+entailment	San Jose is located between Springfield and Madison.	Madison is nearer to San Jose than Madison is to Springfield.
+entailment	Houston is located between Pittsburg and Detroit.	Detroit is nearer to Houston than Detroit is to Pittsburg.
+entailment	Springfield is located between Olympia and Miami.	Miami is nearer to Springfield than Miami is to Olympia.
+entailment	Phoenix is located between Philadelphia and Washington.	Washington is nearer to Phoenix than Washington is to Philadelphia.
+entailment	Dallas is located between Olympia and Santa Barbara.	Santa Barbara is nearer to Dallas than Santa Barbara is to Olympia.
+entailment	Irving is located between Minneapolis and Oklahoma.	Oklahoma is nearer to Irving than Oklahoma is to Minneapolis.
+entailment	Illinois is located between Richmond and Kansas.	Kansas is nearer to Illinois than Kansas is to Richmond.
+entailment	Oklahoma is located between Hampton and Columbia.	Columbia is nearer to Oklahoma than Columbia is to Hampton.
+entailment	Rochester is located between Hampton and Sacramento.	Sacramento is nearer to Rochester than Sacramento is to Hampton.
+entailment	Chicago is located between Los Angeles and Houston.	Houston is nearer to Chicago than Houston is to Los Angeles.
+entailment	San Jose is located between Hampton and Phoenix.	Phoenix is nearer to San Jose than Phoenix is to Hampton.
+entailment	Los Angeles is located between Buffalo and Madison.	Madison is nearer to Los Angeles than Madison is to Buffalo.
+entailment	Houston is located between Illinois and Santa Barbara.	Santa Barbara is nearer to Houston than Santa Barbara is to Illinois.
+entailment	Ontario is located between Frankfurt and Springfield.	Springfield is nearer to Ontario than Springfield is to Frankfurt.
+entailment	Rochester is located between Chicago and Dallas.	Dallas is nearer to Rochester than Dallas is to Chicago.
+entailment	Washington is located between Las Vegas and Manchester.	Manchester is nearer to Washington than Manchester is to Las Vegas.
+entailment	Olympia is located between Las Vegas and Oklahoma.	Oklahoma is nearer to Olympia than Oklahoma is to Las Vegas.
+entailment	Miami is located between Sacramento and Hartford.	Hartford is nearer to Miami than Hartford is to Sacramento.
+entailment	Detroit is located between Hampton and Buffalo.	Buffalo is nearer to Detroit than Buffalo is to Hampton.
+entailment	Kansas is located between Hartford and Rochester.	Rochester is nearer to Kansas than Rochester is to Hartford.
+entailment	Albany is located between Hampton and Chicago.	Chicago is nearer to Albany than Chicago is to Hampton.
+entailment	Los Angeles is located between Madison and Illinois.	Illinois is nearer to Los Angeles than Illinois is to Madison.
+entailment	Boston is located between Philadelphia and Minneapolis.	Minneapolis is nearer to Boston than Minneapolis is to Philadelphia.
+entailment	Miami is located between Illinois and Phoenix.	Phoenix is nearer to Miami than Phoenix is to Illinois.
+entailment	Los Angeles is located between Illinois and Hampton.	Hampton is nearer to Los Angeles than Hampton is to Illinois.
+entailment	Irving is located between Richmond and Kansas.	Kansas is nearer to Irving than Kansas is to Richmond.
+entailment	Tempe is located between Dallas and Minneapolis.	Minneapolis is nearer to Tempe than Minneapolis is to Dallas.
+entailment	San Francisco is located between Chicago and Miami.	Miami is nearer to San Francisco than Miami is to Chicago.
+entailment	Los Angeles is located between San Francisco and Santa Barbara.	Santa Barbara is nearer to Los Angeles than Santa Barbara is to San Francisco.
+entailment	Rochester is located between Phoenix and Kansas.	Kansas is nearer to Rochester than Kansas is to Phoenix.
+entailment	Tempe is located between San Diego and Buffalo.	Buffalo is nearer to Tempe than Buffalo is to San Diego.
+entailment	Illinois is located between Santa Barbara and Houston.	Houston is nearer to Illinois than Houston is to Santa Barbara.
+entailment	San Francisco is located between Phoenix and Buffalo.	Buffalo is nearer to San Francisco than Buffalo is to Phoenix.
+entailment	Irving is located between Olympia and Boston.	Boston is nearer to Irving than Boston is to Olympia.
+entailment	Las Vegas is located between Sacramento and Illinois.	Illinois is nearer to Las Vegas than Illinois is to Sacramento.
+entailment	Irving is located between Detroit and San Diego.	San Diego is nearer to Irving than San Diego is to Detroit.
+entailment	Irving is located between Boston and Washington.	Washington is nearer to Irving than Washington is to Boston.
+entailment	Chicago is located between Phoenix and Irvine.	Irvine is nearer to Chicago than Irvine is to Phoenix.
+entailment	San Francisco is located between Columbia and Richmond.	Richmond is nearer to San Francisco than Richmond is to Columbia.
+entailment	San Jose is located between Las Vegas and Olympia.	Olympia is nearer to San Jose than Olympia is to Las Vegas.
+entailment	Ontario is located between Houston and San Diego.	San Diego is nearer to Ontario than San Diego is to Houston.
+entailment	Illinois is located between Detroit and Santa Barbara.	Santa Barbara is nearer to Illinois than Santa Barbara is to Detroit.
+entailment	Dallas is located between Las Vegas and Frankfurt.	Frankfurt is nearer to Dallas than Frankfurt is to Las Vegas.
+entailment	Detroit is located between Kansas and Manchester.	Manchester is nearer to Detroit than Manchester is to Kansas.
+entailment	Frankfurt is located between Pittsburg and Los Angeles.	Los Angeles is nearer to Frankfurt than Los Angeles is to Pittsburg.
+entailment	Washington is located between Frankfurt and Detroit.	Detroit is nearer to Washington than Detroit is to Frankfurt.
+entailment	San Francisco is located between Irving and Frankfurt.	Frankfurt is nearer to San Francisco than Frankfurt is to Irving.
+entailment	Minneapolis is located between Frankfurt and Philadelphia.	Philadelphia is nearer to Minneapolis than Philadelphia is to Frankfurt.
+entailment	Oklahoma is located between Kansas and San Diego.	San Diego is nearer to Oklahoma than San Diego is to Kansas.
+entailment	Oklahoma is located between San Francisco and Illinois.	Illinois is nearer to Oklahoma than Illinois is to San Francisco.
+entailment	Manchester is located between Phoenix and Frankfurt.	Frankfurt is nearer to Manchester than Frankfurt is to Phoenix.
+entailment	Miami is located between Phoenix and Los Angeles.	Los Angeles is nearer to Miami than Los Angeles is to Phoenix.
+entailment	Rochester is located between Phoenix and Santa Barbara.	Santa Barbara is nearer to Rochester than Santa Barbara is to Phoenix.
+entailment	San Francisco is located between Oklahoma and Hartford.	Hartford is nearer to San Francisco than Hartford is to Oklahoma.
+entailment	Kansas is located between Pittsburg and Illinois.	Illinois is nearer to Kansas than Illinois is to Pittsburg.
+entailment	Detroit is located between Washington and Madison.	Madison is nearer to Detroit than Madison is to Washington.
+entailment	Frankfurt is located between Phoenix and Detroit.	Detroit is nearer to Frankfurt than Detroit is to Phoenix.
+entailment	Miami is located between Madison and San Francisco.	San Francisco is nearer to Miami than San Francisco is to Madison.
+entailment	Chicago is located between Manchester and Irvine.	Irvine is nearer to Chicago than Irvine is to Manchester.
+entailment	Sacramento is located between Springfield and Los Angeles.	Los Angeles is nearer to Sacramento than Los Angeles is to Springfield.
+entailment	Boston is located between Miami and Minneapolis.	Minneapolis is nearer to Boston than Minneapolis is to Miami.
+entailment	Dallas is located between Tulsa and Albany.	Albany is nearer to Dallas than Albany is to Tulsa.
+entailment	Rochester is located between Oklahoma and Madison.	Madison is nearer to Rochester than Madison is to Oklahoma.
+entailment	Ontario is located between Kansas and Olympia.	Olympia is nearer to Ontario than Olympia is to Kansas.
+entailment	Albany is located between Hartford and San Diego.	San Diego is nearer to Albany than San Diego is to Hartford.
+entailment	Columbia is located between San Francisco and Tulsa.	Tulsa is nearer to Columbia than Tulsa is to San Francisco.
+entailment	Sacramento is located between Dallas and Olympia.	Olympia is nearer to Sacramento than Olympia is to Dallas.
+entailment	Olympia is located between Pittsburg and Springfield.	Springfield is nearer to Olympia than Springfield is to Pittsburg.
+entailment	Santa Barbara is located between Los Angeles and Rochester.	Rochester is nearer to Santa Barbara than Rochester is to Los Angeles.
+entailment	Hartford is located between Madison and San Diego.	San Diego is nearer to Hartford than San Diego is to Madison.
+entailment	Buffalo is located between Pittsburg and Rochester.	Rochester is nearer to Buffalo than Rochester is to Pittsburg.
+entailment	Sacramento is located between Oklahoma and Frankfurt.	Frankfurt is nearer to Sacramento than Frankfurt is to Oklahoma.
+entailment	Olympia is located between San Diego and Manchester.	Manchester is nearer to Olympia than Manchester is to San Diego.
+entailment	Las Vegas is located between Olympia and Buffalo.	Buffalo is nearer to Las Vegas than Buffalo is to Olympia.
+entailment	Tulsa is located between San Jose and Oklahoma.	Oklahoma is nearer to Tulsa than Oklahoma is to San Jose.
+entailment	Kansas is located between Philadelphia and Irvine.	Irvine is nearer to Kansas than Irvine is to Philadelphia.
+entailment	Irvine is located between San Diego and Santa Barbara.	Santa Barbara is nearer to Irvine than Santa Barbara is to San Diego.
+entailment	Ontario is located between Chicago and Albany.	Albany is nearer to Ontario than Albany is to Chicago.
+entailment	Boston is located between Richmond and Oklahoma.	Oklahoma is nearer to Boston than Oklahoma is to Richmond.
+entailment	Phoenix is located between Houston and Detroit.	Detroit is nearer to Phoenix than Detroit is to Houston.
+entailment	Frankfurt is located between Santa Barbara and Tulsa.	Tulsa is nearer to Frankfurt than Tulsa is to Santa Barbara.
+entailment	Tulsa is located between Minneapolis and Albany.	Albany is nearer to Tulsa than Albany is to Minneapolis.
+entailment	Santa Barbara is located between Ontario and San Jose.	San Jose is nearer to Santa Barbara than San Jose is to Ontario.
+entailment	Tulsa is located between Los Angeles and Irvine.	Irvine is nearer to Tulsa than Irvine is to Los Angeles.
+entailment	Detroit is located between San Diego and Sacramento.	Sacramento is nearer to Detroit than Sacramento is to San Diego.
+entailment	Illinois is located between Minneapolis and Rochester.	Rochester is nearer to Illinois than Rochester is to Minneapolis.
+entailment	Rochester is located between Chicago and San Jose.	San Jose is nearer to Rochester than San Jose is to Chicago.
+entailment	Las Vegas is located between Manchester and Phoenix.	Phoenix is nearer to Las Vegas than Phoenix is to Manchester.
+entailment	Ontario is located between Tempe and San Jose.	San Jose is nearer to Ontario than San Jose is to Tempe.
+entailment	Philadelphia is located between Boston and New York.	New York is nearer to Philadelphia than New York is to Boston.
+entailment	Madison is located between Illinois and San Jose.	San Jose is nearer to Madison than San Jose is to Illinois.
+entailment	Albany is located between Illinois and Boston.	Boston is nearer to Albany than Boston is to Illinois.
+entailment	Phoenix is located between Boston and Detroit.	Detroit is nearer to Phoenix than Detroit is to Boston.
+entailment	Las Vegas is located between Los Angeles and San Francisco.	San Francisco is nearer to Las Vegas than San Francisco is to Los Angeles.
+entailment	Washington is located between Hartford and Miami.	Miami is nearer to Washington than Miami is to Hartford.
+entailment	Dallas is located between Las Vegas and Buffalo.	Buffalo is nearer to Dallas than Buffalo is to Las Vegas.
+entailment	San Diego is located between Phoenix and New York.	New York is nearer to San Diego than New York is to Phoenix.
+entailment	Richmond is located between Las Vegas and Santa Barbara.	Santa Barbara is nearer to Richmond than Santa Barbara is to Las Vegas.
+entailment	Tempe is located between Frankfurt and Los Angeles.	Los Angeles is nearer to Tempe than Los Angeles is to Frankfurt.
+entailment	Kansas is located between Washington and Detroit.	Detroit is nearer to Kansas than Detroit is to Washington.
+entailment	Tempe is located between Chicago and Buffalo.	Buffalo is nearer to Tempe than Buffalo is to Chicago.
+entailment	Dallas is located between Los Angeles and Kansas.	Kansas is nearer to Dallas than Kansas is to Los Angeles.
+entailment	Frankfurt is located between San Jose and Tulsa.	Tulsa is nearer to Frankfurt than Tulsa is to San Jose.
+entailment	Hampton is located between Springfield and Minneapolis.	Minneapolis is nearer to Hampton than Minneapolis is to Springfield.
+entailment	Phoenix is located between Hartford and Madison.	Madison is nearer to Phoenix than Madison is to Hartford.
+entailment	Albany is located between Washington and Chicago.	Chicago is nearer to Albany than Chicago is to Washington.
+entailment	Rochester is located between Albany and Los Angeles.	Los Angeles is nearer to Rochester than Los Angeles is to Albany.
+entailment	Madison is located between Washington and Olympia.	Olympia is nearer to Madison than Olympia is to Washington.
+entailment	Dallas is located between Washington and Manchester.	Manchester is nearer to Dallas than Manchester is to Washington.
+entailment	San Jose is located between Albany and Los Angeles.	Los Angeles is nearer to San Jose than Los Angeles is to Albany.
+entailment	Richmond is located between Boston and Hampton.	Hampton is nearer to Richmond than Hampton is to Boston.
+entailment	Tulsa is located between Detroit and Santa Barbara.	Santa Barbara is nearer to Tulsa than Santa Barbara is to Detroit.
+entailment	New York is located between Boston and Ontario.	Ontario is nearer to New York than Ontario is to Boston.
+entailment	Chicago is located between Frankfurt and Illinois.	Illinois is nearer to Chicago than Illinois is to Frankfurt.
+entailment	Irving is located between Dallas and San Diego.	San Diego is nearer to Irving than San Diego is to Dallas.
+entailment	Los Angeles is located between New York and San Jose.	San Jose is nearer to Los Angeles than San Jose is to New York.
+entailment	Washington is located between Rochester and New York.	New York is nearer to Washington than New York is to Rochester.
+entailment	Irvine is located between Rochester and Sacramento.	Sacramento is nearer to Irvine than Sacramento is to Rochester.
+entailment	Houston is located between Las Vegas and Frankfurt.	Frankfurt is nearer to Houston than Frankfurt is to Las Vegas.
+entailment	Tulsa is located between San Diego and Columbia.	Columbia is nearer to Tulsa than Columbia is to San Diego.
+entailment	Pittsburg is located between New York and Hampton.	Hampton is nearer to Pittsburg than Hampton is to New York.
+entailment	Irving is located between Chicago and Richmond.	Richmond is nearer to Irving than Richmond is to Chicago.
+entailment	Buffalo is located between Oklahoma and Olympia.	Olympia is nearer to Buffalo than Olympia is to Oklahoma.
+entailment	New York is located between Manchester and Buffalo.	Buffalo is nearer to New York than Buffalo is to Manchester.
+entailment	Pittsburg is located between Manchester and Boston.	Boston is nearer to Pittsburg than Boston is to Manchester.
+entailment	Tulsa is located between Washington and Hampton.	Hampton is nearer to Tulsa than Hampton is to Washington.
+entailment	New York is located between Buffalo and Albany.	Albany is nearer to New York than Albany is to Buffalo.
+entailment	Columbia is located between Philadelphia and Houston.	Houston is nearer to Columbia than Houston is to Philadelphia.
+entailment	Columbia is located between Buffalo and Washington.	Washington is nearer to Columbia than Washington is to Buffalo.
+entailment	Irving is located between Frankfurt and Chicago.	Chicago is nearer to Irving than Chicago is to Frankfurt.
+entailment	Dallas is located between New York and Sacramento.	Sacramento is nearer to Dallas than Sacramento is to New York.
+entailment	Buffalo is located between Santa Barbara and Phoenix.	Phoenix is nearer to Buffalo than Phoenix is to Santa Barbara.
+entailment	Los Angeles is located between Manchester and Buffalo.	Buffalo is nearer to Los Angeles than Buffalo is to Manchester.
+entailment	Las Vegas is located between Springfield and Rochester.	Rochester is nearer to Las Vegas than Rochester is to Springfield.
+entailment	Olympia is located between Madison and Pittsburg.	Pittsburg is nearer to Olympia than Pittsburg is to Madison.
+entailment	Madison is located between Santa Barbara and Detroit.	Detroit is nearer to Madison than Detroit is to Santa Barbara.
+entailment	Philadelphia is located between Hartford and Boston.	Boston is nearer to Philadelphia than Boston is to Hartford.
+entailment	Frankfurt is located between Tulsa and Pittsburg.	Pittsburg is nearer to Frankfurt than Pittsburg is to Tulsa.
+entailment	New York is located between Albany and Detroit.	Detroit is nearer to New York than Detroit is to Albany.
+entailment	Boston is located between Las Vegas and Kansas.	Kansas is nearer to Boston than Kansas is to Las Vegas.
+entailment	Ontario is located between Hampton and San Francisco.	San Francisco is nearer to Ontario than San Francisco is to Hampton.
+entailment	Springfield is located between Pittsburg and Los Angeles.	Los Angeles is nearer to Springfield than Los Angeles is to Pittsburg.
+entailment	Las Vegas is located between Rochester and Boston.	Boston is nearer to Las Vegas than Boston is to Rochester.
+entailment	Sacramento is located between Philadelphia and Miami.	Miami is nearer to Sacramento than Miami is to Philadelphia.
+entailment	Rochester is located between Pittsburg and Hartford.	Hartford is nearer to Rochester than Hartford is to Pittsburg.
+entailment	Columbia is located between Oklahoma and Irving.	Irving is nearer to Columbia than Irving is to Oklahoma.
+entailment	Miami is located between Manchester and Richmond.	Richmond is nearer to Miami than Richmond is to Manchester.
+entailment	Richmond is located between Hartford and Ontario.	Ontario is nearer to Richmond than Ontario is to Hartford.
+entailment	Pittsburg is located between Richmond and Buffalo.	Buffalo is nearer to Pittsburg than Buffalo is to Richmond.
+entailment	Manchester is located between Ontario and Kansas.	Kansas is nearer to Manchester than Kansas is to Ontario.
+entailment	Frankfurt is located between Rochester and Santa Barbara.	Santa Barbara is nearer to Frankfurt than Santa Barbara is to Rochester.
+entailment	Philadelphia is located between Pittsburg and Rochester.	Rochester is nearer to Philadelphia than Rochester is to Pittsburg.
+entailment	San Jose is located between Oklahoma and Kansas.	Kansas is nearer to San Jose than Kansas is to Oklahoma.
+entailment	Olympia is located between Detroit and Buffalo.	Buffalo is nearer to Olympia than Buffalo is to Detroit.
+entailment	Houston is located between Irving and Boston.	Boston is nearer to Houston than Boston is to Irving.
+entailment	Boston is located between Oklahoma and Detroit.	Detroit is nearer to Boston than Detroit is to Oklahoma.
+entailment	Pittsburg is located between Minneapolis and Washington.	Washington is nearer to Pittsburg than Washington is to Minneapolis.
+entailment	Philadelphia is located between Richmond and Los Angeles.	Los Angeles is nearer to Philadelphia than Los Angeles is to Richmond.
+entailment	Phoenix is located between Olympia and Springfield.	Springfield is nearer to Phoenix than Springfield is to Olympia.
+entailment	Santa Barbara is located between San Francisco and Rochester.	Rochester is nearer to Santa Barbara than Rochester is to San Francisco.
+entailment	Santa Barbara is located between Kansas and Ontario.	Ontario is nearer to Santa Barbara than Ontario is to Kansas.
+entailment	Phoenix is located between Rochester and Irvine.	Irvine is nearer to Phoenix than Irvine is to Rochester.
+entailment	Dallas is located between Pittsburg and Madison.	Madison is nearer to Dallas than Madison is to Pittsburg.
+entailment	Kansas is located between Phoenix and Boston.	Boston is nearer to Kansas than Boston is to Phoenix.
+entailment	Oklahoma is located between New York and Las Vegas.	Las Vegas is nearer to Oklahoma than Las Vegas is to New York.
+entailment	San Diego is located between Kansas and Chicago.	Chicago is nearer to San Diego than Chicago is to Kansas.
+entailment	Frankfurt is located between Richmond and Springfield.	Springfield is nearer to Frankfurt than Springfield is to Richmond.
+entailment	Hampton is located between Illinois and Las Vegas.	Las Vegas is nearer to Hampton than Las Vegas is to Illinois.
+entailment	Miami is located between Kansas and Buffalo.	Buffalo is nearer to Miami than Buffalo is to Kansas.
+entailment	Kansas is located between Buffalo and San Francisco.	San Francisco is nearer to Kansas than San Francisco is to Buffalo.
+entailment	Sacramento is located between Illinois and Minneapolis.	Minneapolis is nearer to Sacramento than Minneapolis is to Illinois.
+entailment	Los Angeles is located between Buffalo and Houston.	Houston is nearer to Los Angeles than Houston is to Buffalo.
+entailment	Buffalo is located between San Jose and Santa Barbara.	Santa Barbara is nearer to Buffalo than Santa Barbara is to San Jose.
+entailment	Hartford is located between San Jose and Springfield.	Springfield is nearer to Hartford than Springfield is to San Jose.
+entailment	Rochester is located between Boston and Minneapolis.	Minneapolis is nearer to Rochester than Minneapolis is to Boston.
+entailment	Los Angeles is located between Santa Barbara and Miami.	Miami is nearer to Los Angeles than Miami is to Santa Barbara.
+entailment	Tempe is located between Phoenix and Kansas.	Kansas is nearer to Tempe than Kansas is to Phoenix.
+entailment	Phoenix is located between Hampton and Dallas.	Dallas is nearer to Phoenix than Dallas is to Hampton.
+entailment	Santa Barbara is located between Washington and San Francisco.	San Francisco is nearer to Santa Barbara than San Francisco is to Washington.
+entailment	Minneapolis is located between Columbia and Boston.	Boston is nearer to Minneapolis than Boston is to Columbia.
+entailment	Albany is located between Boston and Ontario.	Ontario is nearer to Albany than Ontario is to Boston.
+entailment	Washington is located between Oklahoma and Minneapolis.	Minneapolis is nearer to Washington than Minneapolis is to Oklahoma.
+entailment	San Diego is located between Phoenix and Tempe.	Tempe is nearer to San Diego than Tempe is to Phoenix.
+entailment	Oklahoma is located between Tulsa and Frankfurt.	Frankfurt is nearer to Oklahoma than Frankfurt is to Tulsa.
+entailment	Irvine is located between Springfield and Philadelphia.	Philadelphia is nearer to Irvine than Philadelphia is to Springfield.
+entailment	Las Vegas is located between Phoenix and Dallas.	Dallas is nearer to Las Vegas than Dallas is to Phoenix.
+entailment	Washington is located between Los Angeles and Hampton.	Hampton is nearer to Washington than Hampton is to Los Angeles.
+entailment	Dallas is located between Illinois and Philadelphia.	Philadelphia is nearer to Dallas than Philadelphia is to Illinois.
+entailment	Hampton is located between New York and Miami.	Miami is nearer to Hampton than Miami is to New York.
+entailment	Rochester is located between New York and San Jose.	San Jose is nearer to Rochester than San Jose is to New York.
+entailment	Santa Barbara is located between Detroit and Tulsa.	Tulsa is nearer to Santa Barbara than Tulsa is to Detroit.
+entailment	San Diego is located between Springfield and Pittsburg.	Pittsburg is nearer to San Diego than Pittsburg is to Springfield.
+entailment	Frankfurt is located between Madison and Los Angeles.	Los Angeles is nearer to Frankfurt than Los Angeles is to Madison.
+entailment	Washington is located between Madison and Olympia.	Olympia is nearer to Washington than Olympia is to Madison.
+entailment	Pittsburg is located between Columbia and Sacramento.	Sacramento is nearer to Pittsburg than Sacramento is to Columbia.
+entailment	Buffalo is located between Columbia and Washington.	Washington is nearer to Buffalo than Washington is to Columbia.
+entailment	Kansas is located between Minneapolis and San Diego.	San Diego is nearer to Kansas than San Diego is to Minneapolis.
+entailment	Philadelphia is located between Irving and Houston.	Houston is nearer to Philadelphia than Houston is to Irving.
+entailment	Illinois is located between Boston and Ontario.	Ontario is nearer to Illinois than Ontario is to Boston.
+entailment	Tulsa is located between Boston and Olympia.	Olympia is nearer to Tulsa than Olympia is to Boston.
+entailment	Ontario is located between Albany and Philadelphia.	Philadelphia is nearer to Ontario than Philadelphia is to Albany.
+entailment	Madison is located between Washington and Pittsburg.	Pittsburg is nearer to Madison than Pittsburg is to Washington.
+entailment	Richmond is located between Minneapolis and Chicago.	Chicago is nearer to Richmond than Chicago is to Minneapolis.
+entailment	Houston is located between Springfield and Kansas.	Kansas is nearer to Houston than Kansas is to Springfield.
+entailment	Houston is located between San Diego and Albany.	Albany is nearer to Houston than Albany is to San Diego.
+entailment	Rochester is located between Madison and Illinois.	Illinois is nearer to Rochester than Illinois is to Madison.
+entailment	Houston is located between Miami and Santa Barbara.	Santa Barbara is nearer to Houston than Santa Barbara is to Miami.
+entailment	Irvine is located between Miami and Detroit.	Detroit is nearer to Irvine than Detroit is to Miami.
+entailment	Irving is located between Washington and Illinois.	Illinois is nearer to Irving than Illinois is to Washington.
+entailment	Los Angeles is located between Dallas and Manchester.	Manchester is nearer to Los Angeles than Manchester is to Dallas.
+entailment	Detroit is located between Manchester and Columbia.	Columbia is nearer to Detroit than Columbia is to Manchester.
+entailment	Madison is located between Buffalo and Kansas.	Kansas is nearer to Madison than Kansas is to Buffalo.
+entailment	Minneapolis is located between Irvine and Washington.	Washington is nearer to Minneapolis than Washington is to Irvine.
+entailment	Sacramento is located between Manchester and Albany.	Albany is nearer to Sacramento than Albany is to Manchester.
+entailment	Hampton is located between Los Angeles and Kansas.	Kansas is nearer to Hampton than Kansas is to Los Angeles.
+entailment	Springfield is located between Chicago and Boston.	Boston is nearer to Springfield than Boston is to Chicago.
+entailment	Los Angeles is located between Albany and Houston.	Houston is nearer to Los Angeles than Houston is to Albany.
+entailment	Miami is located between San Diego and Philadelphia.	Philadelphia is nearer to Miami than Philadelphia is to San Diego.
+entailment	Buffalo is located between Hampton and Ontario.	Ontario is nearer to Buffalo than Ontario is to Hampton.
+entailment	Miami is located between Frankfurt and Hampton.	Hampton is nearer to Miami than Hampton is to Frankfurt.
+entailment	Las Vegas is located between Rochester and Hartford.	Hartford is nearer to Las Vegas than Hartford is to Rochester.
+entailment	Irving is located between New York and Detroit.	Detroit is nearer to Irving than Detroit is to New York.
+entailment	Irvine is located between Manchester and San Francisco.	San Francisco is nearer to Irvine than San Francisco is to Manchester.
+entailment	Santa Barbara is located between Manchester and Las Vegas.	Las Vegas is nearer to Santa Barbara than Las Vegas is to Manchester.
+entailment	Chicago is located between Hartford and Hampton.	Hampton is nearer to Chicago than Hampton is to Hartford.
+entailment	Columbia is located between Irvine and San Francisco.	San Francisco is nearer to Columbia than San Francisco is to Irvine.
+entailment	Albany is located between Irving and San Diego.	San Diego is nearer to Albany than San Diego is to Irving.
+entailment	Sacramento is located between Washington and Columbia.	Columbia is nearer to Sacramento than Columbia is to Washington.
+entailment	Boston is located between Irving and Houston.	Houston is nearer to Boston than Houston is to Irving.
+entailment	Pittsburg is located between Frankfurt and Houston.	Houston is nearer to Pittsburg than Houston is to Frankfurt.
+entailment	Columbia is located between Irvine and Oklahoma.	Oklahoma is nearer to Columbia than Oklahoma is to Irvine.
+entailment	Hartford is located between Boston and Frankfurt.	Frankfurt is nearer to Hartford than Frankfurt is to Boston.
+entailment	Rochester is located between Richmond and San Jose.	San Jose is nearer to Rochester than San Jose is to Richmond.
+entailment	Hartford is located between Chicago and Houston.	Houston is nearer to Hartford than Houston is to Chicago.
+entailment	Chicago is located between Phoenix and Minneapolis.	Minneapolis is nearer to Chicago than Minneapolis is to Phoenix.
+entailment	Olympia is located between Hartford and Albany.	Albany is nearer to Olympia than Albany is to Hartford.
+entailment	Columbia is located between Buffalo and Ontario.	Ontario is nearer to Columbia than Ontario is to Buffalo.
+entailment	Irving is located between Oklahoma and Frankfurt.	Frankfurt is nearer to Irving than Frankfurt is to Oklahoma.
+entailment	Sacramento is located between Rochester and Miami.	Miami is nearer to Sacramento than Miami is to Rochester.
+entailment	Chicago is located between Sacramento and Madison.	Madison is nearer to Chicago than Madison is to Sacramento.
+entailment	Minneapolis is located between New York and Chicago.	Chicago is nearer to Minneapolis than Chicago is to New York.
+entailment	Minneapolis is located between New York and Dallas.	Dallas is nearer to Minneapolis than Dallas is to New York.
+entailment	Olympia is located between Madison and Phoenix.	Phoenix is nearer to Olympia than Phoenix is to Madison.
+entailment	Sacramento is located between New York and San Francisco.	San Francisco is nearer to Sacramento than San Francisco is to New York.
+entailment	Las Vegas is located between Illinois and Columbia.	Columbia is nearer to Las Vegas than Columbia is to Illinois.
+entailment	Oklahoma is located between Buffalo and Dallas.	Dallas is nearer to Oklahoma than Dallas is to Buffalo.
+entailment	Chicago is located between Phoenix and Richmond.	Richmond is nearer to Chicago than Richmond is to Phoenix.
+entailment	Pittsburg is located between Houston and Miami.	Miami is nearer to Pittsburg than Miami is to Houston.
+entailment	Madison is located between Tulsa and Irving.	Irving is nearer to Madison than Irving is to Tulsa.
+entailment	Oklahoma is located between Santa Barbara and Los Angeles.	Los Angeles is nearer to Oklahoma than Los Angeles is to Santa Barbara.
+entailment	Dallas is located between Santa Barbara and Phoenix.	Phoenix is nearer to Dallas than Phoenix is to Santa Barbara.
+entailment	San Francisco is located between Olympia and Houston.	Houston is nearer to San Francisco than Houston is to Olympia.
+entailment	Chicago is located between Irvine and Buffalo.	Buffalo is nearer to Chicago than Buffalo is to Irvine.
+entailment	Santa Barbara is located between Chicago and Sacramento.	Sacramento is nearer to Santa Barbara than Sacramento is to Chicago.
+entailment	Illinois is located between Miami and San Diego.	San Diego is nearer to Illinois than San Diego is to Miami.
+entailment	Kansas is located between Phoenix and Rochester.	Rochester is nearer to Kansas than Rochester is to Phoenix.
+entailment	Irving is located between Houston and San Francisco.	San Francisco is nearer to Irving than San Francisco is to Houston.
+entailment	Minneapolis is located between Madison and Oklahoma.	Oklahoma is nearer to Minneapolis than Oklahoma is to Madison.
+entailment	Oklahoma is located between San Diego and Santa Barbara.	Santa Barbara is nearer to Oklahoma than Santa Barbara is to San Diego.
+entailment	Albany is located between Phoenix and Richmond.	Richmond is nearer to Albany than Richmond is to Phoenix.
+entailment	San Diego is located between Boston and Richmond.	Richmond is nearer to San Diego than Richmond is to Boston.
+entailment	Sacramento is located between Irving and Irvine.	Irvine is nearer to Sacramento than Irvine is to Irving.
+entailment	Frankfurt is located between Ontario and Los Angeles.	Los Angeles is nearer to Frankfurt than Los Angeles is to Ontario.
+entailment	Olympia is located between Minneapolis and Chicago.	Chicago is nearer to Olympia than Chicago is to Minneapolis.
+entailment	Madison is located between Minneapolis and Philadelphia.	Philadelphia is nearer to Madison than Philadelphia is to Minneapolis.
+entailment	Frankfurt is located between Ontario and Tulsa.	Tulsa is nearer to Frankfurt than Tulsa is to Ontario.
+entailment	Tulsa is located between Illinois and Rochester.	Rochester is nearer to Tulsa than Rochester is to Illinois.
+entailment	Illinois is located between Santa Barbara and Columbia.	Columbia is nearer to Illinois than Columbia is to Santa Barbara.
+entailment	Columbia is located between Houston and Richmond.	Richmond is nearer to Columbia than Richmond is to Houston.
+entailment	Columbia is located between Detroit and Manchester.	Manchester is nearer to Columbia than Manchester is to Detroit.
+entailment	Philadelphia is located between Las Vegas and Dallas.	Dallas is nearer to Philadelphia than Dallas is to Las Vegas.
+entailment	Philadelphia is located between Sacramento and Tulsa.	Tulsa is nearer to Philadelphia than Tulsa is to Sacramento.
+entailment	Springfield is located between Tulsa and Phoenix.	Phoenix is nearer to Springfield than Phoenix is to Tulsa.
+entailment	Madison is located between Phoenix and Miami.	Miami is nearer to Madison than Miami is to Phoenix.
+entailment	Olympia is located between Manchester and Columbia.	Columbia is nearer to Olympia than Columbia is to Manchester.
+entailment	Houston is located between Irvine and Madison.	Madison is nearer to Houston than Madison is to Irvine.
+entailment	San Diego is located between Irving and Irvine.	Irvine is nearer to San Diego than Irvine is to Irving.
+entailment	San Francisco is located between Chicago and Las Vegas.	Las Vegas is nearer to San Francisco than Las Vegas is to Chicago.
+entailment	Tulsa is located between Madison and Albany.	Albany is nearer to Tulsa than Albany is to Madison.
+entailment	Hartford is located between Detroit and Hampton.	Hampton is nearer to Hartford than Hampton is to Detroit.
+entailment	Madison is located between San Diego and Albany.	Albany is nearer to Madison than Albany is to San Diego.
+entailment	Hampton is located between Rochester and Phoenix.	Phoenix is nearer to Hampton than Phoenix is to Rochester.
+entailment	Tulsa is located between New York and Irving.	Irving is nearer to Tulsa than Irving is to New York.
+entailment	Dallas is located between Minneapolis and Madison.	Madison is nearer to Dallas than Madison is to Minneapolis.
+entailment	Hartford is located between Irvine and Chicago.	Chicago is nearer to Hartford than Chicago is to Irvine.
+entailment	San Diego is located between Dallas and Detroit.	Detroit is nearer to San Diego than Detroit is to Dallas.
+entailment	Frankfurt is located between Irvine and Tempe.	Tempe is nearer to Frankfurt than Tempe is to Irvine.
+entailment	Columbia is located between Hampton and Olympia.	Olympia is nearer to Columbia than Olympia is to Hampton.
+entailment	Pittsburg is located between Detroit and San Francisco.	San Francisco is nearer to Pittsburg than San Francisco is to Detroit.
+entailment	Sacramento is located between Chicago and Houston.	Houston is nearer to Sacramento than Houston is to Chicago.
+entailment	Hampton is located between Washington and Philadelphia.	Philadelphia is nearer to Hampton than Philadelphia is to Washington.
+entailment	Dallas is located between Minneapolis and Frankfurt.	Frankfurt is nearer to Dallas than Frankfurt is to Minneapolis.
+entailment	San Diego is located between Frankfurt and Tulsa.	Tulsa is nearer to San Diego than Tulsa is to Frankfurt.
+entailment	Madison is located between Pittsburg and San Diego.	San Diego is nearer to Madison than San Diego is to Pittsburg.
+entailment	Olympia is located between Springfield and Boston.	Boston is nearer to Olympia than Boston is to Springfield.
+entailment	Houston is located between New York and Albany.	Albany is nearer to Houston than Albany is to New York.
+entailment	San Diego is located between New York and Irving.	Irving is nearer to San Diego than Irving is to New York.
+entailment	Minneapolis is located between Phoenix and Philadelphia.	Philadelphia is nearer to Minneapolis than Philadelphia is to Phoenix.
+entailment	Sacramento is located between Washington and Illinois.	Illinois is nearer to Sacramento than Illinois is to Washington.
+entailment	Irving is located between San Jose and Irvine.	Irvine is nearer to Irving than Irvine is to San Jose.
+entailment	New York is located between Kansas and Springfield.	Springfield is nearer to New York than Springfield is to Kansas.
+entailment	Springfield is located between Madison and Boston.	Boston is nearer to Springfield than Boston is to Madison.
+entailment	Boston is located between Miami and Irving.	Irving is nearer to Boston than Irving is to Miami.
+entailment	Tempe is located between Springfield and San Diego.	San Diego is nearer to Tempe than San Diego is to Springfield.
+entailment	Dallas is located between Los Angeles and Miami.	Miami is nearer to Dallas than Miami is to Los Angeles.
+entailment	Minneapolis is located between Frankfurt and Pittsburg.	Pittsburg is nearer to Minneapolis than Pittsburg is to Frankfurt.
+entailment	Hampton is located between Manchester and Washington.	Washington is nearer to Hampton than Washington is to Manchester.
+entailment	Tulsa is located between Madison and Miami.	Miami is nearer to Tulsa than Miami is to Madison.
+entailment	Richmond is located between San Francisco and Santa Barbara.	Santa Barbara is nearer to Richmond than Santa Barbara is to San Francisco.
+entailment	Washington is located between Springfield and San Jose.	San Jose is nearer to Washington than San Jose is to Springfield.
+entailment	Chicago is located between Dallas and Tulsa.	Tulsa is nearer to Chicago than Tulsa is to Dallas.
+entailment	Ontario is located between Tempe and Kansas.	Kansas is nearer to Ontario than Kansas is to Tempe.
+entailment	Ontario is located between Tulsa and Manchester.	Manchester is nearer to Ontario than Manchester is to Tulsa.
+entailment	San Diego is located between Minneapolis and San Jose.	San Jose is nearer to San Diego than San Jose is to Minneapolis.
+entailment	Santa Barbara is located between Hartford and Illinois.	Illinois is nearer to Santa Barbara than Illinois is to Hartford.
+entailment	Tempe is located between Frankfurt and San Diego.	San Diego is nearer to Tempe than San Diego is to Frankfurt.
+entailment	Philadelphia is located between Sacramento and Los Angeles.	Los Angeles is nearer to Philadelphia than Los Angeles is to Sacramento.
+entailment	Richmond is located between Irvine and Pittsburg.	Pittsburg is nearer to Richmond than Pittsburg is to Irvine.
+entailment	Irvine is located between Las Vegas and Pittsburg.	Pittsburg is nearer to Irvine than Pittsburg is to Las Vegas.
+entailment	New York is located between Madison and Ontario.	Ontario is nearer to New York than Ontario is to Madison.
+entailment	Pittsburg is located between San Francisco and Tempe.	Tempe is nearer to Pittsburg than Tempe is to San Francisco.
+entailment	Albany is located between Phoenix and Los Angeles.	Los Angeles is nearer to Albany than Los Angeles is to Phoenix.
+entailment	Albany is located between Miami and Kansas.	Kansas is nearer to Albany than Kansas is to Miami.
+entailment	Buffalo is located between Detroit and Frankfurt.	Frankfurt is nearer to Buffalo than Frankfurt is to Detroit.
+entailment	Columbia is located between San Jose and Buffalo.	Buffalo is nearer to Columbia than Buffalo is to San Jose.
+entailment	Miami is located between Sacramento and New York.	New York is nearer to Miami than New York is to Sacramento.
+entailment	Las Vegas is located between Chicago and Oklahoma.	Oklahoma is nearer to Las Vegas than Oklahoma is to Chicago.
+entailment	Rochester is located between Santa Barbara and Madison.	Madison is nearer to Rochester than Madison is to Santa Barbara.
+entailment	Detroit is located between Hampton and Rochester.	Rochester is nearer to Detroit than Rochester is to Hampton.
+entailment	Chicago is located between Albany and Tulsa.	Tulsa is nearer to Chicago than Tulsa is to Albany.
+entailment	Springfield is located between Irvine and Dallas.	Dallas is nearer to Springfield than Dallas is to Irvine.
+entailment	Tulsa is located between Irvine and Phoenix.	Phoenix is nearer to Tulsa than Phoenix is to Irvine.
+entailment	New York is located between Los Angeles and Springfield.	Springfield is nearer to New York than Springfield is to Los Angeles.
+entailment	Detroit is located between Las Vegas and Phoenix.	Phoenix is nearer to Detroit than Phoenix is to Las Vegas.
+entailment	Manchester is located between Philadelphia and Miami.	Miami is nearer to Manchester than Miami is to Philadelphia.
+entailment	Manchester is located between New York and Los Angeles.	Los Angeles is nearer to Manchester than Los Angeles is to New York.
+entailment	Madison is located between Pittsburg and Albany.	Albany is nearer to Madison than Albany is to Pittsburg.
+entailment	Frankfurt is located between Madison and Oklahoma.	Oklahoma is nearer to Frankfurt than Oklahoma is to Madison.
+entailment	Oklahoma is located between Ontario and Richmond.	Richmond is nearer to Oklahoma than Richmond is to Ontario.
+entailment	Irving is located between Minneapolis and Miami.	Miami is nearer to Irving than Miami is to Minneapolis.
+entailment	Pittsburg is located between Boston and Richmond.	Richmond is nearer to Pittsburg than Richmond is to Boston.
+entailment	San Diego is located between Tempe and Frankfurt.	Frankfurt is nearer to San Diego than Frankfurt is to Tempe.
+entailment	Detroit is located between Sacramento and San Diego.	San Diego is nearer to Detroit than San Diego is to Sacramento.
+entailment	Miami is located between Ontario and San Diego.	San Diego is nearer to Miami than San Diego is to Ontario.
+entailment	Santa Barbara is located between Manchester and Madison.	Madison is nearer to Santa Barbara than Madison is to Manchester.
+entailment	Kansas is located between Chicago and Philadelphia.	Philadelphia is nearer to Kansas than Philadelphia is to Chicago.
+entailment	Los Angeles is located between Irvine and Oklahoma.	Oklahoma is nearer to Los Angeles than Oklahoma is to Irvine.
+entailment	Dallas is located between Santa Barbara and San Jose.	San Jose is nearer to Dallas than San Jose is to Santa Barbara.
+entailment	Irvine is located between Irving and Los Angeles.	Los Angeles is nearer to Irvine than Los Angeles is to Irving.
+entailment	Manchester is located between Albany and San Jose.	San Jose is nearer to Manchester than San Jose is to Albany.
+entailment	Los Angeles is located between Tulsa and Oklahoma.	Oklahoma is nearer to Los Angeles than Oklahoma is to Tulsa.
+entailment	Irving is located between Frankfurt and Detroit.	Detroit is nearer to Irving than Detroit is to Frankfurt.
+entailment	Manchester is located between Frankfurt and Illinois.	Illinois is nearer to Manchester than Illinois is to Frankfurt.
+entailment	San Diego is located between Chicago and Oklahoma.	Oklahoma is nearer to San Diego than Oklahoma is to Chicago.
+entailment	Tempe is located between Madison and Philadelphia.	Philadelphia is nearer to Tempe than Philadelphia is to Madison.
+entailment	Buffalo is located between Washington and Minneapolis.	Minneapolis is nearer to Buffalo than Minneapolis is to Washington.
+entailment	Buffalo is located between Frankfurt and New York.	New York is nearer to Buffalo than New York is to Frankfurt.
+entailment	Phoenix is located between Kansas and Washington.	Washington is nearer to Phoenix than Washington is to Kansas.
+entailment	Miami is located between Minneapolis and Hampton.	Hampton is nearer to Miami than Hampton is to Minneapolis.
+entailment	Ontario is located between Olympia and Manchester.	Manchester is nearer to Ontario than Manchester is to Olympia.
+entailment	Las Vegas is located between Tempe and Minneapolis.	Minneapolis is nearer to Las Vegas than Minneapolis is to Tempe.
+entailment	Santa Barbara is located between Frankfurt and Kansas.	Kansas is nearer to Santa Barbara than Kansas is to Frankfurt.
+entailment	Irving is located between Los Angeles and San Francisco.	San Francisco is nearer to Irving than San Francisco is to Los Angeles.
+entailment	Phoenix is located between Los Angeles and Rochester.	Rochester is nearer to Phoenix than Rochester is to Los Angeles.
+entailment	Detroit is located between Hampton and Springfield.	Springfield is nearer to Detroit than Springfield is to Hampton.
+entailment	Kansas is located between San Francisco and Boston.	Boston is nearer to Kansas than Boston is to San Francisco.
+entailment	New York is located between Hartford and Washington.	Washington is nearer to New York than Washington is to Hartford.
+entailment	Irvine is located between San Jose and Madison.	Madison is nearer to Irvine than Madison is to San Jose.
+entailment	Hampton is located between Manchester and Minneapolis.	Minneapolis is nearer to Hampton than Minneapolis is to Manchester.
+entailment	Frankfurt is located between Richmond and Pittsburg.	Pittsburg is nearer to Frankfurt than Pittsburg is to Richmond.
+entailment	Buffalo is located between Las Vegas and Oklahoma.	Oklahoma is nearer to Buffalo than Oklahoma is to Las Vegas.
+entailment	San Jose is located between San Francisco and Las Vegas.	Las Vegas is nearer to San Jose than Las Vegas is to San Francisco.
+entailment	Dallas is located between Richmond and Buffalo.	Buffalo is nearer to Dallas than Buffalo is to Richmond.
+entailment	Ontario is located between Madison and Dallas.	Dallas is nearer to Ontario than Dallas is to Madison.
+entailment	Pittsburg is located between Las Vegas and San Diego.	San Diego is nearer to Pittsburg than San Diego is to Las Vegas.
+entailment	Washington is located between Rochester and San Francisco.	San Francisco is nearer to Washington than San Francisco is to Rochester.
+entailment	Irving is located between Boston and Olympia.	Olympia is nearer to Irving than Olympia is to Boston.
+entailment	Irving is located between Olympia and Madison.	Madison is nearer to Irving than Madison is to Olympia.
+entailment	Detroit is located between Oklahoma and New York.	New York is nearer to Detroit than New York is to Oklahoma.
+entailment	Chicago is located between Richmond and Miami.	Miami is nearer to Chicago than Miami is to Richmond.
+entailment	Frankfurt is located between Dallas and Pittsburg.	Pittsburg is nearer to Frankfurt than Pittsburg is to Dallas.
+entailment	New York is located between Miami and Minneapolis.	Minneapolis is nearer to New York than Minneapolis is to Miami.
+entailment	Hartford is located between Frankfurt and Springfield.	Springfield is nearer to Hartford than Springfield is to Frankfurt.
+entailment	Frankfurt is located between Chicago and Boston.	Boston is nearer to Frankfurt than Boston is to Chicago.
+entailment	Ontario is located between Los Angeles and Santa Barbara.	Santa Barbara is nearer to Ontario than Santa Barbara is to Los Angeles.
+entailment	Houston is located between Kansas and Detroit.	Detroit is nearer to Houston than Detroit is to Kansas.
+entailment	Detroit is located between San Francisco and Miami.	Miami is nearer to Detroit than Miami is to San Francisco.
+entailment	Hartford is located between Albany and Pittsburg.	Pittsburg is nearer to Hartford than Pittsburg is to Albany.
+entailment	Los Angeles is located between Irving and Richmond.	Richmond is nearer to Los Angeles than Richmond is to Irving.
+entailment	Hampton is located between San Jose and Chicago.	Chicago is nearer to Hampton than Chicago is to San Jose.
+entailment	Illinois is located between San Jose and Houston.	Houston is nearer to Illinois than Houston is to San Jose.
+entailment	Columbia is located between Oklahoma and Boston.	Boston is nearer to Columbia than Boston is to Oklahoma.
+entailment	Madison is located between Miami and Las Vegas.	Las Vegas is nearer to Madison than Las Vegas is to Miami.
+entailment	Manchester is located between Albany and Tempe.	Tempe is nearer to Manchester than Tempe is to Albany.
+entailment	Buffalo is located between Rochester and Kansas.	Kansas is nearer to Buffalo than Kansas is to Rochester.
+entailment	Detroit is located between Hartford and Boston.	Boston is nearer to Detroit than Boston is to Hartford.
+entailment	Springfield is located between Rochester and Las Vegas.	Las Vegas is nearer to Springfield than Las Vegas is to Rochester.
+entailment	Phoenix is located between Philadelphia and Detroit.	Detroit is nearer to Phoenix than Detroit is to Philadelphia.
+entailment	Ontario is located between San Francisco and Detroit.	Detroit is nearer to Ontario than Detroit is to San Francisco.
+entailment	Albany is located between Richmond and Columbia.	Columbia is nearer to Albany than Columbia is to Richmond.
+entailment	Phoenix is located between San Jose and Detroit.	Detroit is nearer to Phoenix than Detroit is to San Jose.
+entailment	Philadelphia is located between Hampton and Los Angeles.	Los Angeles is nearer to Philadelphia than Los Angeles is to Hampton.
+entailment	Olympia is located between Hampton and Rochester.	Rochester is nearer to Olympia than Rochester is to Hampton.
+entailment	Irving is located between Buffalo and Kansas.	Kansas is nearer to Irving than Kansas is to Buffalo.
+entailment	Irving is located between Columbia and Sacramento.	Sacramento is nearer to Irving than Sacramento is to Columbia.
+entailment	Rochester is located between Manchester and Phoenix.	Phoenix is nearer to Rochester than Phoenix is to Manchester.
+entailment	Santa Barbara is located between Oklahoma and Rochester.	Rochester is nearer to Santa Barbara than Rochester is to Oklahoma.
+entailment	Boston is located between Oklahoma and Tulsa.	Tulsa is nearer to Boston than Tulsa is to Oklahoma.
+entailment	Las Vegas is located between Columbia and Tulsa.	Tulsa is nearer to Las Vegas than Tulsa is to Columbia.
+entailment	Chicago is located between Tempe and Rochester.	Rochester is nearer to Chicago than Rochester is to Tempe.
+entailment	Springfield is located between Irvine and Boston.	Boston is nearer to Springfield than Boston is to Irvine.
+entailment	Pittsburg is located between Madison and San Francisco.	San Francisco is nearer to Pittsburg than San Francisco is to Madison.
+entailment	Santa Barbara is located between Manchester and Richmond.	Richmond is nearer to Santa Barbara than Richmond is to Manchester.
+entailment	Philadelphia is located between Madison and Hartford.	Hartford is nearer to Philadelphia than Hartford is to Madison.
+entailment	Irvine is located between Olympia and Boston.	Boston is nearer to Irvine than Boston is to Olympia.
+entailment	Pittsburg is located between San Francisco and Olympia.	Olympia is nearer to Pittsburg than Olympia is to San Francisco.
+entailment	Irvine is located between Rochester and Los Angeles.	Los Angeles is nearer to Irvine than Los Angeles is to Rochester.
+entailment	Phoenix is located between Albany and Columbia.	Columbia is nearer to Phoenix than Columbia is to Albany.
+entailment	Santa Barbara is located between Buffalo and Richmond.	Richmond is nearer to Santa Barbara than Richmond is to Buffalo.
+entailment	Columbia is located between New York and Washington.	Washington is nearer to Columbia than Washington is to New York.
+entailment	Tulsa is located between Illinois and Chicago.	Chicago is nearer to Tulsa than Chicago is to Illinois.
+entailment	Buffalo is located between New York and San Jose.	San Jose is nearer to Buffalo than San Jose is to New York.
+entailment	Pittsburg is located between Los Angeles and Sacramento.	Sacramento is nearer to Pittsburg than Sacramento is to Los Angeles.
+entailment	Las Vegas is located between Dallas and Illinois.	Illinois is nearer to Las Vegas than Illinois is to Dallas.
+entailment	Boston is located between Olympia and Springfield.	Springfield is nearer to Boston than Springfield is to Olympia.
+entailment	Tulsa is located between Kansas and Madison.	Madison is nearer to Tulsa than Madison is to Kansas.
+entailment	San Francisco is located between Rochester and Irvine.	Irvine is nearer to San Francisco than Irvine is to Rochester.
+entailment	Tempe is located between Phoenix and Minneapolis.	Minneapolis is nearer to Tempe than Minneapolis is to Phoenix.
+entailment	Irvine is located between Dallas and Tulsa.	Tulsa is nearer to Irvine than Tulsa is to Dallas.
+entailment	Rochester is located between Irvine and Dallas.	Dallas is nearer to Rochester than Dallas is to Irvine.
+entailment	San Jose is located between San Diego and Tempe.	Tempe is nearer to San Jose than Tempe is to San Diego.
+entailment	Buffalo is located between Hartford and Tulsa.	Tulsa is nearer to Buffalo than Tulsa is to Hartford.
+entailment	Philadelphia is located between Phoenix and Irving.	Irving is nearer to Philadelphia than Irving is to Phoenix.
+entailment	Oklahoma is located between Minneapolis and New York.	New York is nearer to Oklahoma than New York is to Minneapolis.
+entailment	Philadelphia is located between Irvine and San Jose.	San Jose is nearer to Philadelphia than San Jose is to Irvine.
+entailment	Houston is located between Olympia and San Jose.	San Jose is nearer to Houston than San Jose is to Olympia.
+entailment	Richmond is located between Miami and Philadelphia.	Philadelphia is nearer to Richmond than Philadelphia is to Miami.
+entailment	Detroit is located between Ontario and Hartford.	Hartford is nearer to Detroit than Hartford is to Ontario.
+entailment	Columbia is located between Ontario and Oklahoma.	Oklahoma is nearer to Columbia than Oklahoma is to Ontario.
+entailment	Irving is located between New York and Ontario.	Ontario is nearer to Irving than Ontario is to New York.
+entailment	Columbia is located between Miami and Minneapolis.	Minneapolis is nearer to Columbia than Minneapolis is to Miami.
+entailment	Dallas is located between Washington and Frankfurt.	Frankfurt is nearer to Dallas than Frankfurt is to Washington.
+entailment	Buffalo is located between Dallas and Washington.	Washington is nearer to Buffalo than Washington is to Dallas.
+entailment	Rochester is located between Kansas and Columbia.	Columbia is nearer to Rochester than Columbia is to Kansas.
+entailment	New York is located between Oklahoma and San Diego.	San Diego is nearer to New York than San Diego is to Oklahoma.
+entailment	Buffalo is located between Frankfurt and Ontario.	Ontario is nearer to Buffalo than Ontario is to Frankfurt.
+entailment	Chicago is located between Hampton and Illinois.	Illinois is nearer to Chicago than Illinois is to Hampton.
+entailment	Santa Barbara is located between Hartford and Detroit.	Detroit is nearer to Santa Barbara than Detroit is to Hartford.
+entailment	Kansas is located between Los Angeles and Olympia.	Olympia is nearer to Kansas than Olympia is to Los Angeles.
+entailment	Philadelphia is located between San Jose and Albany.	Albany is nearer to Philadelphia than Albany is to San Jose.
+entailment	Ontario is located between Manchester and San Diego.	San Diego is nearer to Ontario than San Diego is to Manchester.
+entailment	Minneapolis is located between Illinois and Irving.	Irving is nearer to Minneapolis than Irving is to Illinois.
+entailment	Madison is located between Springfield and Irvine.	Irvine is nearer to Madison than Irvine is to Springfield.
+entailment	Richmond is located between Tempe and Phoenix.	Phoenix is nearer to Richmond than Phoenix is to Tempe.
+entailment	Irving is located between Irvine and San Diego.	San Diego is nearer to Irving than San Diego is to Irvine.
+entailment	Irving is located between Tulsa and Madison.	Madison is nearer to Irving than Madison is to Tulsa.
+entailment	Irvine is located between Rochester and Richmond.	Richmond is nearer to Irvine than Richmond is to Rochester.
+entailment	New York is located between Columbia and Irving.	Irving is nearer to New York than Irving is to Columbia.
+entailment	Madison is located between Hartford and Richmond.	Richmond is nearer to Madison than Richmond is to Hartford.
+entailment	Chicago is located between Philadelphia and Houston.	Houston is nearer to Chicago than Houston is to Philadelphia.
+entailment	Springfield is located between Las Vegas and Richmond.	Richmond is nearer to Springfield than Richmond is to Las Vegas.
+entailment	Illinois is located between Pittsburg and Rochester.	Rochester is nearer to Illinois than Rochester is to Pittsburg.
+entailment	Miami is located between Buffalo and Tulsa.	Tulsa is nearer to Miami than Tulsa is to Buffalo.
+entailment	San Francisco is located between Sacramento and Buffalo.	Buffalo is nearer to San Francisco than Buffalo is to Sacramento.
+entailment	Ontario is located between Oklahoma and Rochester.	Rochester is nearer to Ontario than Rochester is to Oklahoma.
+entailment	Albany is located between Phoenix and Ontario.	Ontario is nearer to Albany than Ontario is to Phoenix.
+entailment	Illinois is located between Oklahoma and Las Vegas.	Las Vegas is nearer to Illinois than Las Vegas is to Oklahoma.
+entailment	Houston is located between Miami and Buffalo.	Buffalo is nearer to Houston than Buffalo is to Miami.
+entailment	Rochester is located between Albany and Tempe.	Tempe is nearer to Rochester than Tempe is to Albany.
+entailment	Boston is located between Houston and Detroit.	Detroit is nearer to Boston than Detroit is to Houston.
+entailment	Pittsburg is located between Irving and San Jose.	San Jose is nearer to Pittsburg than San Jose is to Irving.
+entailment	Madison is located between Detroit and Miami.	Miami is nearer to Madison than Miami is to Detroit.
+entailment	Sacramento is located between Columbia and Pittsburg.	Pittsburg is nearer to Sacramento than Pittsburg is to Columbia.
+entailment	Richmond is located between Ontario and San Diego.	San Diego is nearer to Richmond than San Diego is to Ontario.
+entailment	Hartford is located between Los Angeles and Houston.	Houston is nearer to Hartford than Houston is to Los Angeles.
+entailment	Miami is located between Albany and Illinois.	Illinois is nearer to Miami than Illinois is to Albany.
+entailment	Springfield is located between San Francisco and Manchester.	Manchester is nearer to Springfield than Manchester is to San Francisco.
+entailment	Oklahoma is located between Santa Barbara and Madison.	Madison is nearer to Oklahoma than Madison is to Santa Barbara.
+entailment	Tempe is located between Phoenix and Oklahoma.	Oklahoma is nearer to Tempe than Oklahoma is to Phoenix.
+entailment	Phoenix is located between Rochester and Richmond.	Richmond is nearer to Phoenix than Richmond is to Rochester.
+entailment	Los Angeles is located between Detroit and Irvine.	Irvine is nearer to Los Angeles than Irvine is to Detroit.
+entailment	Hampton is located between Springfield and Kansas.	Kansas is nearer to Hampton than Kansas is to Springfield.
+entailment	Los Angeles is located between Buffalo and Hartford.	Hartford is nearer to Los Angeles than Hartford is to Buffalo.
+entailment	Albany is located between Tempe and Washington.	Washington is nearer to Albany than Washington is to Tempe.
+entailment	Rochester is located between Washington and Minneapolis.	Minneapolis is nearer to Rochester than Minneapolis is to Washington.
+entailment	Miami is located between Philadelphia and Springfield.	Springfield is nearer to Miami than Springfield is to Philadelphia.
+entailment	Washington is located between Hampton and Columbia.	Columbia is nearer to Washington than Columbia is to Hampton.
+entailment	Tempe is located between Detroit and Pittsburg.	Pittsburg is nearer to Tempe than Pittsburg is to Detroit.
+entailment	San Jose is located between Pittsburg and Ontario.	Ontario is nearer to San Jose than Ontario is to Pittsburg.
+entailment	New York is located between Dallas and Phoenix.	Phoenix is nearer to New York than Phoenix is to Dallas.
+entailment	Las Vegas is located between Chicago and Miami.	Miami is nearer to Las Vegas than Miami is to Chicago.
+entailment	Irvine is located between Frankfurt and Tulsa.	Tulsa is nearer to Irvine than Tulsa is to Frankfurt.
+entailment	Detroit is located between Minneapolis and Richmond.	Richmond is nearer to Detroit than Richmond is to Minneapolis.
+entailment	Santa Barbara is located between Los Angeles and Sacramento.	Sacramento is nearer to Santa Barbara than Sacramento is to Los Angeles.
+entailment	Kansas is located between Los Angeles and Las Vegas.	Las Vegas is nearer to Kansas than Las Vegas is to Los Angeles.
+entailment	Washington is located between Philadelphia and Detroit.	Detroit is nearer to Washington than Detroit is to Philadelphia.
+entailment	Pittsburg is located between Richmond and Phoenix.	Phoenix is nearer to Pittsburg than Phoenix is to Richmond.
+entailment	Albany is located between Oklahoma and Boston.	Boston is nearer to Albany than Boston is to Oklahoma.
+entailment	Miami is located between Albany and Kansas.	Kansas is nearer to Miami than Kansas is to Albany.
+entailment	Pittsburg is located between Phoenix and Columbia.	Columbia is nearer to Pittsburg than Columbia is to Phoenix.
+entailment	Las Vegas is located between Boston and Miami.	Miami is nearer to Las Vegas than Miami is to Boston.
+entailment	Miami is located between Pittsburg and Irving.	Irving is nearer to Miami than Irving is to Pittsburg.
+entailment	Irvine is located between Kansas and San Jose.	San Jose is nearer to Irvine than San Jose is to Kansas.
+entailment	Ontario is located between Philadelphia and Detroit.	Detroit is nearer to Ontario than Detroit is to Philadelphia.
+entailment	Minneapolis is located between Manchester and Ontario.	Ontario is nearer to Minneapolis than Ontario is to Manchester.
+entailment	Hartford is located between Houston and Irving.	Irving is nearer to Hartford than Irving is to Houston.
+entailment	Minneapolis is located between New York and Tempe.	Tempe is nearer to Minneapolis than Tempe is to New York.
+entailment	Detroit is located between Minneapolis and Albany.	Albany is nearer to Detroit than Albany is to Minneapolis.
+entailment	Las Vegas is located between Houston and Phoenix.	Phoenix is nearer to Las Vegas than Phoenix is to Houston.
+entailment	Irving is located between Rochester and Washington.	Washington is nearer to Irving than Washington is to Rochester.
+entailment	Boston is located between Dallas and Hampton.	Hampton is nearer to Boston than Hampton is to Dallas.
+entailment	Minneapolis is located between Hartford and Phoenix.	Phoenix is nearer to Minneapolis than Phoenix is to Hartford.
+entailment	Frankfurt is located between Phoenix and Las Vegas.	Las Vegas is nearer to Frankfurt than Las Vegas is to Phoenix.
+entailment	Kansas is located between New York and Manchester.	Manchester is nearer to Kansas than Manchester is to New York.
+entailment	Olympia is located between Houston and Santa Barbara.	Santa Barbara is nearer to Olympia than Santa Barbara is to Houston.
+entailment	Buffalo is located between Miami and Los Angeles.	Los Angeles is nearer to Buffalo than Los Angeles is to Miami.
+entailment	Hampton is located between Tulsa and Dallas.	Dallas is nearer to Hampton than Dallas is to Tulsa.
+entailment	Tulsa is located between Frankfurt and Springfield.	Springfield is nearer to Tulsa than Springfield is to Frankfurt.
+entailment	Oklahoma is located between Las Vegas and Rochester.	Rochester is nearer to Oklahoma than Rochester is to Las Vegas.
+entailment	Kansas is located between Tempe and Irvine.	Irvine is nearer to Kansas than Irvine is to Tempe.
+entailment	Rochester is located between Tempe and Miami.	Miami is nearer to Rochester than Miami is to Tempe.
+entailment	Detroit is located between San Diego and San Francisco.	San Francisco is nearer to Detroit than San Francisco is to San Diego.
+entailment	Minneapolis is located between Philadelphia and Santa Barbara.	Santa Barbara is nearer to Minneapolis than Santa Barbara is to Philadelphia.
+entailment	New York is located between Philadelphia and Illinois.	Illinois is nearer to New York than Illinois is to Philadelphia.
+entailment	San Jose is located between Irving and Frankfurt.	Frankfurt is nearer to San Jose than Frankfurt is to Irving.
+entailment	Rochester is located between Illinois and Washington.	Washington is nearer to Rochester than Washington is to Illinois.
+entailment	Oklahoma is located between Buffalo and San Diego.	San Diego is nearer to Oklahoma than San Diego is to Buffalo.
+entailment	Oklahoma is located between San Diego and Detroit.	Detroit is nearer to Oklahoma than Detroit is to San Diego.
+entailment	San Francisco is located between Irvine and Buffalo.	Buffalo is nearer to San Francisco than Buffalo is to Irvine.
+entailment	Hartford is located between Irving and Irvine.	Irvine is nearer to Hartford than Irvine is to Irving.
+entailment	Irvine is located between Kansas and Philadelphia.	Philadelphia is nearer to Irvine than Philadelphia is to Kansas.
+entailment	Hampton is located between Dallas and Tempe.	Tempe is nearer to Hampton than Tempe is to Dallas.
+entailment	Madison is located between Boston and Rochester.	Rochester is nearer to Madison than Rochester is to Boston.
+entailment	Buffalo is located between Richmond and Oklahoma.	Oklahoma is nearer to Buffalo than Oklahoma is to Richmond.
+entailment	Washington is located between Richmond and New York.	New York is nearer to Washington than New York is to Richmond.
+entailment	San Jose is located between Tulsa and Miami.	Miami is nearer to San Jose than Miami is to Tulsa.
+entailment	Los Angeles is located between San Jose and Irving.	Irving is nearer to Los Angeles than Irving is to San Jose.
+entailment	Kansas is located between Phoenix and Illinois.	Illinois is nearer to Kansas than Illinois is to Phoenix.
+entailment	Richmond is located between Irvine and Phoenix.	Phoenix is nearer to Richmond than Phoenix is to Irvine.
+entailment	Albany is located between Las Vegas and Tulsa.	Tulsa is nearer to Albany than Tulsa is to Las Vegas.
+entailment	Oklahoma is located between Las Vegas and Richmond.	Richmond is nearer to Oklahoma than Richmond is to Las Vegas.
+entailment	Tulsa is located between San Francisco and Tempe.	Tempe is nearer to Tulsa than Tempe is to San Francisco.
+entailment	Chicago is located between Tulsa and Irving.	Irving is nearer to Chicago than Irving is to Tulsa.
+entailment	Columbia is located between San Jose and Kansas.	Kansas is nearer to Columbia than Kansas is to San Jose.
+entailment	Oklahoma is located between Illinois and Albany.	Albany is nearer to Oklahoma than Albany is to Illinois.
+entailment	Madison is located between San Francisco and New York.	New York is nearer to Madison than New York is to San Francisco.
+entailment	Philadelphia is located between Frankfurt and Richmond.	Richmond is nearer to Philadelphia than Richmond is to Frankfurt.
+entailment	Pittsburg is located between Illinois and San Diego.	San Diego is nearer to Pittsburg than San Diego is to Illinois.
+entailment	Manchester is located between Miami and Tempe.	Tempe is nearer to Manchester than Tempe is to Miami.
+entailment	Los Angeles is located between Frankfurt and Columbia.	Columbia is nearer to Los Angeles than Columbia is to Frankfurt.
+entailment	San Jose is located between Buffalo and Kansas.	Kansas is nearer to San Jose than Kansas is to Buffalo.
+entailment	Los Angeles is located between San Diego and Santa Barbara.	Santa Barbara is nearer to Los Angeles than Santa Barbara is to San Diego.
+entailment	Detroit is located between Pittsburg and Irving.	Irving is nearer to Detroit than Irving is to Pittsburg.
+entailment	Oklahoma is located between Phoenix and Sacramento.	Sacramento is nearer to Oklahoma than Sacramento is to Phoenix.
+entailment	Miami is located between Frankfurt and Minneapolis.	Minneapolis is nearer to Miami than Minneapolis is to Frankfurt.
+entailment	Philadelphia is located between San Diego and Tempe.	Tempe is nearer to Philadelphia than Tempe is to San Diego.
+entailment	Washington is located between Phoenix and Ontario.	Ontario is nearer to Washington than Ontario is to Phoenix.
+entailment	Phoenix is located between Richmond and San Jose.	San Jose is nearer to Phoenix than San Jose is to Richmond.
+entailment	Hampton is located between Dallas and Oklahoma.	Oklahoma is nearer to Hampton than Oklahoma is to Dallas.
+entailment	San Jose is located between Albany and Hampton.	Hampton is nearer to San Jose than Hampton is to Albany.
+entailment	Madison is located between Illinois and Richmond.	Richmond is nearer to Madison than Richmond is to Illinois.
+entailment	Philadelphia is located between Tempe and Madison.	Madison is nearer to Philadelphia than Madison is to Tempe.
+entailment	Hampton is located between Phoenix and Olympia.	Olympia is nearer to Hampton than Olympia is to Phoenix.
+entailment	Columbia is located between Buffalo and Oklahoma.	Oklahoma is nearer to Columbia than Oklahoma is to Buffalo.
+entailment	Tempe is located between Illinois and Phoenix.	Phoenix is nearer to Tempe than Phoenix is to Illinois.
+entailment	Illinois is located between Boston and Phoenix.	Phoenix is nearer to Illinois than Phoenix is to Boston.
+entailment	Santa Barbara is located between Rochester and Madison.	Madison is nearer to Santa Barbara than Madison is to Rochester.
+entailment	Detroit is located between Springfield and Richmond.	Richmond is nearer to Detroit than Richmond is to Springfield.
+entailment	San Diego is located between Tulsa and Tempe.	Tempe is nearer to San Diego than Tempe is to Tulsa.
+entailment	Illinois is located between Santa Barbara and Phoenix.	Phoenix is nearer to Illinois than Phoenix is to Santa Barbara.
+entailment	Detroit is located between Pittsburg and Sacramento.	Sacramento is nearer to Detroit than Sacramento is to Pittsburg.
+entailment	Tempe is located between Olympia and New York.	New York is nearer to Tempe than New York is to Olympia.
+entailment	Irvine is located between Columbia and Hartford.	Hartford is nearer to Irvine than Hartford is to Columbia.
+entailment	Chicago is located between Irvine and San Jose.	San Jose is nearer to Chicago than San Jose is to Irvine.
+entailment	New York is located between San Diego and Sacramento.	Sacramento is nearer to New York than Sacramento is to San Diego.
+entailment	Pittsburg is located between Hartford and San Jose.	San Jose is nearer to Pittsburg than San Jose is to Hartford.
+entailment	Tulsa is located between Ontario and Washington.	Washington is nearer to Tulsa than Washington is to Ontario.
+entailment	Hampton is located between Springfield and Boston.	Boston is nearer to Hampton than Boston is to Springfield.
+entailment	Washington is located between Hartford and Ontario.	Ontario is nearer to Washington than Ontario is to Hartford.
+entailment	Philadelphia is located between Dallas and Pittsburg.	Pittsburg is nearer to Philadelphia than Pittsburg is to Dallas.
+entailment	San Diego is located between Albany and Chicago.	Chicago is nearer to San Diego than Chicago is to Albany.
+entailment	Chicago is located between Sacramento and Illinois.	Illinois is nearer to Chicago than Illinois is to Sacramento.
+entailment	Boston is located between Detroit and Rochester.	Rochester is nearer to Boston than Rochester is to Detroit.
+entailment	Boston is located between San Francisco and Phoenix.	Phoenix is nearer to Boston than Phoenix is to San Francisco.
+entailment	Miami is located between Pittsburg and Frankfurt.	Frankfurt is nearer to Miami than Frankfurt is to Pittsburg.
+entailment	Sacramento is located between Dallas and Olympia.	Olympia is nearer to Sacramento than Olympia is to Dallas.
+entailment	Olympia is located between Dallas and Hartford.	Hartford is nearer to Olympia than Hartford is to Dallas.
+entailment	Irving is located between Santa Barbara and Hampton.	Hampton is nearer to Irving than Hampton is to Santa Barbara.
+entailment	Richmond is located between Columbia and Houston.	Houston is nearer to Richmond than Houston is to Columbia.
+entailment	Tempe is located between Buffalo and Las Vegas.	Las Vegas is nearer to Tempe than Las Vegas is to Buffalo.
+entailment	Boston is located between Columbia and Richmond.	Richmond is nearer to Boston than Richmond is to Columbia.
+entailment	Philadelphia is located between Chicago and New York.	New York is nearer to Philadelphia than New York is to Chicago.
+entailment	Los Angeles is located between Las Vegas and Madison.	Madison is nearer to Los Angeles than Madison is to Las Vegas.
+entailment	Sacramento is located between Tempe and Manchester.	Manchester is nearer to Sacramento than Manchester is to Tempe.
+entailment	Buffalo is located between San Diego and Olympia.	Olympia is nearer to Buffalo than Olympia is to San Diego.
+entailment	Washington is located between Madison and Las Vegas.	Las Vegas is nearer to Washington than Las Vegas is to Madison.
+entailment	Ontario is located between Columbia and Oklahoma.	Oklahoma is nearer to Ontario than Oklahoma is to Columbia.
+entailment	Pittsburg is located between Richmond and Minneapolis.	Minneapolis is nearer to Pittsburg than Minneapolis is to Richmond.
+entailment	Columbia is located between Phoenix and San Francisco.	San Francisco is nearer to Columbia than San Francisco is to Phoenix.
+entailment	Chicago is located between Richmond and San Francisco.	San Francisco is nearer to Chicago than San Francisco is to Richmond.
+entailment	Springfield is located between Hartford and Tempe.	Tempe is nearer to Springfield than Tempe is to Hartford.
+entailment	Manchester is located between Las Vegas and Hampton.	Hampton is nearer to Manchester than Hampton is to Las Vegas.
+entailment	Frankfurt is located between Los Angeles and Madison.	Madison is nearer to Frankfurt than Madison is to Los Angeles.
+entailment	Kansas is located between Tempe and Frankfurt.	Frankfurt is nearer to Kansas than Frankfurt is to Tempe.
+entailment	New York is located between Richmond and Springfield.	Springfield is nearer to New York than Springfield is to Richmond.
+entailment	Springfield is located between Dallas and Las Vegas.	Las Vegas is nearer to Springfield than Las Vegas is to Dallas.
+entailment	Buffalo is located between San Francisco and Manchester.	Manchester is nearer to Buffalo than Manchester is to San Francisco.
+entailment	Las Vegas is located between Oklahoma and Minneapolis.	Minneapolis is nearer to Las Vegas than Minneapolis is to Oklahoma.
+entailment	Albany is located between Las Vegas and Rochester.	Rochester is nearer to Albany than Rochester is to Las Vegas.
+entailment	Oklahoma is located between Tempe and Boston.	Boston is nearer to Oklahoma than Boston is to Tempe.
+entailment	Hampton is located between Hartford and Springfield.	Springfield is nearer to Hampton than Springfield is to Hartford.
+entailment	Dallas is located between Houston and Sacramento.	Sacramento is nearer to Dallas than Sacramento is to Houston.
+entailment	Madison is located between Albany and Irvine.	Irvine is nearer to Madison than Irvine is to Albany.
+entailment	Illinois is located between Springfield and New York.	New York is nearer to Illinois than New York is to Springfield.
+entailment	Frankfurt is located between Philadelphia and Pittsburg.	Pittsburg is nearer to Frankfurt than Pittsburg is to Philadelphia.
+entailment	Illinois is located between Tempe and Rochester.	Rochester is nearer to Illinois than Rochester is to Tempe.
+entailment	Ontario is located between San Jose and Philadelphia.	Philadelphia is nearer to Ontario than Philadelphia is to San Jose.
+entailment	Albany is located between Oklahoma and Dallas.	Dallas is nearer to Albany than Dallas is to Oklahoma.
+entailment	Rochester is located between San Jose and Sacramento.	Sacramento is nearer to Rochester than Sacramento is to San Jose.
+entailment	Olympia is located between Buffalo and Los Angeles.	Los Angeles is nearer to Olympia than Los Angeles is to Buffalo.
+entailment	Pittsburg is located between Detroit and San Francisco.	San Francisco is nearer to Pittsburg than San Francisco is to Detroit.
+entailment	Las Vegas is located between Albany and Detroit.	Detroit is nearer to Las Vegas than Detroit is to Albany.
+entailment	Detroit is located between Sacramento and Rochester.	Rochester is nearer to Detroit than Rochester is to Sacramento.
+entailment	Kansas is located between Dallas and Santa Barbara.	Santa Barbara is nearer to Kansas than Santa Barbara is to Dallas.
+entailment	Los Angeles is located between Tulsa and Olympia.	Olympia is nearer to Los Angeles than Olympia is to Tulsa.
+entailment	San Francisco is located between Los Angeles and Oklahoma.	Oklahoma is nearer to San Francisco than Oklahoma is to Los Angeles.
+entailment	Madison is located between Pittsburg and Buffalo.	Buffalo is nearer to Madison than Buffalo is to Pittsburg.
+entailment	Oklahoma is located between San Jose and Phoenix.	Phoenix is nearer to Oklahoma than Phoenix is to San Jose.
+entailment	Rochester is located between San Diego and Sacramento.	Sacramento is nearer to Rochester than Sacramento is to San Diego.
+entailment	Springfield is located between Madison and Frankfurt.	Frankfurt is nearer to Springfield than Frankfurt is to Madison.
+entailment	Kansas is located between Hartford and Los Angeles.	Los Angeles is nearer to Kansas than Los Angeles is to Hartford.
+entailment	Hampton is located between San Diego and Sacramento.	Sacramento is nearer to Hampton than Sacramento is to San Diego.
+entailment	Phoenix is located between Washington and Kansas.	Kansas is nearer to Phoenix than Kansas is to Washington.
+entailment	Richmond is located between Olympia and Sacramento.	Sacramento is nearer to Richmond than Sacramento is to Olympia.
+entailment	Frankfurt is located between San Diego and Tempe.	Tempe is nearer to Frankfurt than Tempe is to San Diego.
+entailment	Sacramento is located between Tempe and Manchester.	Manchester is nearer to Sacramento than Manchester is to Tempe.
+entailment	Hartford is located between Santa Barbara and Irvine.	Irvine is nearer to Hartford than Irvine is to Santa Barbara.
+entailment	San Francisco is located between Richmond and Hartford.	Hartford is nearer to San Francisco than Hartford is to Richmond.
+entailment	Dallas is located between Boston and Los Angeles.	Los Angeles is nearer to Dallas than Los Angeles is to Boston.
+entailment	Boston is located between Philadelphia and Tempe.	Tempe is nearer to Boston than Tempe is to Philadelphia.
+entailment	Sacramento is located between New York and Miami.	Miami is nearer to Sacramento than Miami is to New York.
+entailment	Philadelphia is located between Houston and Albany.	Albany is nearer to Philadelphia than Albany is to Houston.
+entailment	Hampton is located between Oklahoma and San Diego.	San Diego is nearer to Hampton than San Diego is to Oklahoma.
+entailment	Tulsa is located between San Jose and Philadelphia.	Philadelphia is nearer to Tulsa than Philadelphia is to San Jose.
+entailment	Tempe is located between Rochester and Hartford.	Hartford is nearer to Tempe than Hartford is to Rochester.
+entailment	Sacramento is located between Tempe and Columbia.	Columbia is nearer to Sacramento than Columbia is to Tempe.
+entailment	Rochester is located between Madison and Miami.	Miami is nearer to Rochester than Miami is to Madison.
+entailment	Columbia is located between Buffalo and Philadelphia.	Philadelphia is nearer to Columbia than Philadelphia is to Buffalo.
+entailment	Los Angeles is located between Columbia and Dallas.	Dallas is nearer to Los Angeles than Dallas is to Columbia.
+entailment	Tempe is located between Springfield and Frankfurt.	Frankfurt is nearer to Tempe than Frankfurt is to Springfield.
+entailment	Buffalo is located between San Diego and Washington.	Washington is nearer to Buffalo than Washington is to San Diego.
+entailment	Washington is located between Hartford and Boston.	Boston is nearer to Washington than Boston is to Hartford.
+entailment	Chicago is located between Pittsburg and Albany.	Albany is nearer to Chicago than Albany is to Pittsburg.
+entailment	Springfield is located between Kansas and Tulsa.	Tulsa is nearer to Springfield than Tulsa is to Kansas.
+entailment	Buffalo is located between Manchester and San Francisco.	San Francisco is nearer to Buffalo than San Francisco is to Manchester.
+entailment	Richmond is located between San Diego and Tempe.	Tempe is nearer to Richmond than Tempe is to San Diego.
+entailment	Dallas is located between Las Vegas and Phoenix.	Phoenix is nearer to Dallas than Phoenix is to Las Vegas.
+entailment	Albany is located between San Francisco and Washington.	Washington is nearer to Albany than Washington is to San Francisco.
+entailment	Rochester is located between Oklahoma and Santa Barbara.	Santa Barbara is nearer to Rochester than Santa Barbara is to Oklahoma.
+entailment	Manchester is located between San Francisco and Olympia.	Olympia is nearer to Manchester than Olympia is to San Francisco.
+entailment	Richmond is located between Kansas and Hampton.	Hampton is nearer to Richmond than Hampton is to Kansas.
+entailment	Albany is located between Hampton and Hartford.	Hartford is nearer to Albany than Hartford is to Hampton.
+entailment	Springfield is located between Tulsa and Hampton.	Hampton is nearer to Springfield than Hampton is to Tulsa.
+entailment	Washington is located between Oklahoma and Rochester.	Rochester is nearer to Washington than Rochester is to Oklahoma.
+entailment	Chicago is located between Phoenix and San Jose.	San Jose is nearer to Chicago than San Jose is to Phoenix.
+entailment	Philadelphia is located between New York and Tulsa.	Tulsa is nearer to Philadelphia than Tulsa is to New York.
+entailment	San Francisco is located between Santa Barbara and Buffalo.	Buffalo is nearer to San Francisco than Buffalo is to Santa Barbara.
+entailment	San Diego is located between Tulsa and Minneapolis.	Minneapolis is nearer to San Diego than Minneapolis is to Tulsa.
+entailment	Dallas is located between Miami and Phoenix.	Phoenix is nearer to Dallas than Phoenix is to Miami.
+entailment	Manchester is located between Springfield and Dallas.	Dallas is nearer to Manchester than Dallas is to Springfield.
+entailment	Columbia is located between Rochester and Sacramento.	Sacramento is nearer to Columbia than Sacramento is to Rochester.
+entailment	Tempe is located between Oklahoma and Columbia.	Columbia is nearer to Tempe than Columbia is to Oklahoma.
+entailment	Sacramento is located between New York and Dallas.	Dallas is nearer to Sacramento than Dallas is to New York.
+entailment	Houston is located between Albany and San Diego.	San Diego is nearer to Houston than San Diego is to Albany.
+entailment	Irvine is located between Los Angeles and Pittsburg.	Pittsburg is nearer to Irvine than Pittsburg is to Los Angeles.
+entailment	Richmond is located between San Diego and Houston.	Houston is nearer to Richmond than Houston is to San Diego.
+entailment	Hartford is located between Boston and Santa Barbara.	Santa Barbara is nearer to Hartford than Santa Barbara is to Boston.
+entailment	Phoenix is located between Sacramento and Illinois.	Illinois is nearer to Phoenix than Illinois is to Sacramento.
+entailment	Minneapolis is located between Santa Barbara and San Jose.	San Jose is nearer to Minneapolis than San Jose is to Santa Barbara.
+entailment	Philadelphia is located between Dallas and Houston.	Houston is nearer to Philadelphia than Houston is to Dallas.
+entailment	Dallas is located between Madison and Oklahoma.	Oklahoma is nearer to Dallas than Oklahoma is to Madison.
+entailment	Frankfurt is located between Dallas and Philadelphia.	Philadelphia is nearer to Frankfurt than Philadelphia is to Dallas.
+entailment	Ontario is located between Houston and Tulsa.	Tulsa is nearer to Ontario than Tulsa is to Houston.
+entailment	Illinois is located between Tulsa and Hartford.	Hartford is nearer to Illinois than Hartford is to Tulsa.
+entailment	Richmond is located between Rochester and San Jose.	San Jose is nearer to Richmond than San Jose is to Rochester.
+entailment	Hartford is located between Springfield and Illinois.	Illinois is nearer to Hartford than Illinois is to Springfield.
+entailment	Irvine is located between Miami and Ontario.	Ontario is nearer to Irvine than Ontario is to Miami.
+entailment	Hartford is located between Irving and Olympia.	Olympia is nearer to Hartford than Olympia is to Irving.
+entailment	San Francisco is located between Las Vegas and Boston.	Boston is nearer to San Francisco than Boston is to Las Vegas.
+entailment	Las Vegas is located between Rochester and Kansas.	Kansas is nearer to Las Vegas than Kansas is to Rochester.
+entailment	Pittsburg is located between Oklahoma and Frankfurt.	Frankfurt is nearer to Pittsburg than Frankfurt is to Oklahoma.
+entailment	Minneapolis is located between Kansas and Columbia.	Columbia is nearer to Minneapolis than Columbia is to Kansas.
+entailment	Washington is located between Los Angeles and Miami.	Miami is nearer to Washington than Miami is to Los Angeles.
+entailment	New York is located between Boston and Philadelphia.	Philadelphia is nearer to New York than Philadelphia is to Boston.

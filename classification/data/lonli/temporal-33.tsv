@@ -1,0 +1,1000 @@
+entailment	Elaine has physics class followed by music class.	Physics class is before music class.
+entailment	Alison has computer science class followed by political science class.	Computer science class is before political science class.
+entailment	Benjamin has commerce class followed by mathematics class.	Commerce class is before mathematics class.
+entailment	Bobby has chemistry class followed by music class.	Chemistry class is before music class.
+entailment	Colin has computer science class followed by geology class.	Computer science class is before geology class.
+entailment	Alice has art class followed by latin class.	Art class is before latin class.
+entailment	Karen has geology class followed by physics class.	Geology class is before physics class.
+entailment	Victoria has geography class followed by political science class.	Geography class is before political science class.
+entailment	Colin has economics class followed by biology class.	Economics class is before biology class.
+entailment	Tim has computer science class followed by economics class.	Computer science class is before economics class.
+entailment	Marilyn has biology class followed by commerce class.	Biology class is before commerce class.
+entailment	Karen has latin class followed by physics class.	Latin class is before physics class.
+entailment	Hugh has french class followed by geography class.	French class is before geography class.
+entailment	Alex has economics class followed by french class.	Economics class is before french class.
+entailment	Lynn has art class followed by political science class.	Art class is before political science class.
+entailment	Stephen has literature class followed by geography class.	Literature class is before geography class.
+entailment	Francis has commerce class followed by economics class.	Commerce class is before economics class.
+entailment	Ed has biology class followed by literature class.	Biology class is before literature class.
+entailment	James has geology class followed by physics class.	Geology class is before physics class.
+entailment	Charles has physics class followed by chemistry class.	Physics class is before chemistry class.
+entailment	Andrew has art class followed by geology class.	Art class is before geology class.
+entailment	Don has political science class followed by physics class.	Political science class is before physics class.
+entailment	Robert has art class followed by geography class.	Art class is before geography class.
+entailment	Alice has geology class followed by commerce class.	Geology class is before commerce class.
+entailment	Joe has literature class followed by latin class.	Literature class is before latin class.
+entailment	Nick has physics class followed by chemistry class.	Physics class is before chemistry class.
+entailment	Susan has computer science class followed by biology class.	Computer science class is before biology class.
+entailment	Bobby has history class followed by mathematics class.	History class is before mathematics class.
+entailment	Grace has chemistry class followed by mathematics class.	Chemistry class is before mathematics class.
+entailment	Lauren has history class followed by commerce class.	History class is before commerce class.
+entailment	Michelle has french class followed by economics class.	French class is before economics class.
+entailment	Kathleen has music class followed by french class.	Music class is before french class.
+entailment	Christopher has commerce class followed by political science class.	Commerce class is before political science class.
+entailment	Sharon has french class followed by mathematics class.	French class is before mathematics class.
+entailment	Judith has history class followed by physics class.	History class is before physics class.
+entailment	Sally has biology class followed by commerce class.	Biology class is before commerce class.
+entailment	Brian has physics class followed by computer science class.	Physics class is before computer science class.
+entailment	Matt has political science class followed by commerce class.	Political science class is before commerce class.
+entailment	Lawrence has history class followed by geology class.	History class is before geology class.
+entailment	Roy has history class followed by chemistry class.	History class is before chemistry class.
+entailment	Laura has history class followed by mathematics class.	History class is before mathematics class.
+entailment	Claire has economics class followed by computer science class.	Economics class is before computer science class.
+entailment	Jonathan has history class followed by french class.	History class is before french class.
+entailment	Chris has history class followed by physics class.	History class is before physics class.
+entailment	Albert has biology class followed by geology class.	Biology class is before geology class.
+entailment	Michelle has art class followed by french class.	Art class is before french class.
+entailment	Carolyn has computer science class followed by geography class.	Computer science class is before geography class.
+entailment	William has mathematics class followed by geology class.	Mathematics class is before geology class.
+entailment	Harriet has french class followed by mathematics class.	French class is before mathematics class.
+entailment	Joseph has biology class followed by economics class.	Biology class is before economics class.
+entailment	Sophie has computer science class followed by political science class.	Computer science class is before political science class.
+entailment	Kate has commerce class followed by biology class.	Commerce class is before biology class.
+entailment	Frank has geology class followed by art class.	Geology class is before art class.
+entailment	Bob has computer science class followed by economics class.	Computer science class is before economics class.
+entailment	Alison has french class followed by biology class.	French class is before biology class.
+entailment	Michelle has literature class followed by music class.	Literature class is before music class.
+entailment	Fred has computer science class followed by geography class.	Computer science class is before geography class.
+entailment	Marie has mathematics class followed by geography class.	Mathematics class is before geography class.
+entailment	Howard has biology class followed by geology class.	Biology class is before geology class.
+entailment	Ann has biology class followed by art class.	Biology class is before art class.
+entailment	Emma has commerce class followed by biology class.	Commerce class is before biology class.
+entailment	Benjamin has political science class followed by computer science class.	Political science class is before computer science class.
+entailment	Sally has commerce class followed by biology class.	Commerce class is before biology class.
+entailment	Carol has political science class followed by computer science class.	Political science class is before computer science class.
+entailment	Anne has political science class followed by french class.	Political science class is before french class.
+entailment	Barbara has latin class followed by political science class.	Latin class is before political science class.
+entailment	Caroline has computer science class followed by art class.	Computer science class is before art class.
+entailment	Alan has computer science class followed by history class.	Computer science class is before history class.
+entailment	Stephanie has latin class followed by economics class.	Latin class is before economics class.
+entailment	Lucy has chemistry class followed by french class.	Chemistry class is before french class.
+entailment	Rachel has political science class followed by literature class.	Political science class is before literature class.
+entailment	Kathleen has economics class followed by political science class.	Economics class is before political science class.
+entailment	Nicole has economics class followed by chemistry class.	Economics class is before chemistry class.
+entailment	Brian has music class followed by latin class.	Music class is before latin class.
+entailment	Ian has history class followed by economics class.	History class is before economics class.
+entailment	Sara has commerce class followed by chemistry class.	Commerce class is before chemistry class.
+entailment	Daniel has latin class followed by physics class.	Latin class is before physics class.
+entailment	James has political science class followed by latin class.	Political science class is before latin class.
+entailment	Don has commerce class followed by latin class.	Commerce class is before latin class.
+entailment	Lisa has latin class followed by music class.	Latin class is before music class.
+entailment	Jessica has literature class followed by french class.	Literature class is before french class.
+entailment	Patrick has biology class followed by art class.	Biology class is before art class.
+entailment	Dave has physics class followed by french class.	Physics class is before french class.
+entailment	Nick has music class followed by literature class.	Music class is before literature class.
+entailment	Ben has biology class followed by geography class.	Biology class is before geography class.
+entailment	Sharon has history class followed by french class.	History class is before french class.
+entailment	Carol has french class followed by chemistry class.	French class is before chemistry class.
+entailment	Carl has economics class followed by physics class.	Economics class is before physics class.
+entailment	Frances has political science class followed by french class.	Political science class is before french class.
+entailment	Benjamin has economics class followed by literature class.	Economics class is before literature class.
+entailment	Barbara has geology class followed by physics class.	Geology class is before physics class.
+entailment	Judy has literature class followed by history class.	Literature class is before history class.
+entailment	Robert has art class followed by mathematics class.	Art class is before mathematics class.
+entailment	Jimmy has physics class followed by commerce class.	Physics class is before commerce class.
+entailment	Katie has french class followed by geology class.	French class is before geology class.
+entailment	Harriet has biology class followed by mathematics class.	Biology class is before mathematics class.
+entailment	Barbara has music class followed by mathematics class.	Music class is before mathematics class.
+entailment	Jimmy has computer science class followed by music class.	Computer science class is before music class.
+entailment	Deborah has biology class followed by mathematics class.	Biology class is before mathematics class.
+entailment	Lauren has french class followed by mathematics class.	French class is before mathematics class.
+entailment	Arthur has physics class followed by history class.	Physics class is before history class.
+entailment	Bruce has political science class followed by economics class.	Political science class is before economics class.
+entailment	Bobby has commerce class followed by computer science class.	Commerce class is before computer science class.
+entailment	Nicole has commerce class followed by literature class.	Commerce class is before literature class.
+entailment	Susan has political science class followed by history class.	Political science class is before history class.
+entailment	Fiona has political science class followed by french class.	Political science class is before french class.
+entailment	Carol has mathematics class followed by political science class.	Mathematics class is before political science class.
+entailment	Andrea has history class followed by chemistry class.	History class is before chemistry class.
+entailment	Emily has french class followed by history class.	French class is before history class.
+entailment	Charles has physics class followed by biology class.	Physics class is before biology class.
+entailment	Sophie has computer science class followed by art class.	Computer science class is before art class.
+entailment	Joseph has art class followed by literature class.	Art class is before literature class.
+entailment	Nick has latin class followed by chemistry class.	Latin class is before chemistry class.
+entailment	Lisa has biology class followed by mathematics class.	Biology class is before mathematics class.
+entailment	Louise has art class followed by music class.	Art class is before music class.
+entailment	Ashley has chemistry class followed by latin class.	Chemistry class is before latin class.
+entailment	Adam has history class followed by computer science class.	History class is before computer science class.
+entailment	Cynthia has economics class followed by mathematics class.	Economics class is before mathematics class.
+entailment	Billy has geology class followed by literature class.	Geology class is before literature class.
+entailment	Amanda has history class followed by economics class.	History class is before economics class.
+entailment	Bob has mathematics class followed by chemistry class.	Mathematics class is before chemistry class.
+entailment	Billy has art class followed by french class.	Art class is before french class.
+entailment	Diane has economics class followed by commerce class.	Economics class is before commerce class.
+entailment	David has physics class followed by literature class.	Physics class is before literature class.
+entailment	Alexander has mathematics class followed by latin class.	Mathematics class is before latin class.
+entailment	Diane has economics class followed by commerce class.	Economics class is before commerce class.
+entailment	Eleanor has commerce class followed by geology class.	Commerce class is before geology class.
+entailment	Alex has mathematics class followed by latin class.	Mathematics class is before latin class.
+entailment	Alexander has latin class followed by biology class.	Latin class is before biology class.
+entailment	Alan has geography class followed by computer science class.	Geography class is before computer science class.
+entailment	Rebecca has computer science class followed by french class.	Computer science class is before french class.
+entailment	Linda has commerce class followed by art class.	Commerce class is before art class.
+entailment	Christopher has history class followed by art class.	History class is before art class.
+entailment	Don has chemistry class followed by economics class.	Chemistry class is before economics class.
+entailment	Frederick has economics class followed by physics class.	Economics class is before physics class.
+entailment	Frank has mathematics class followed by economics class.	Mathematics class is before economics class.
+entailment	Margaret has political science class followed by french class.	Political science class is before french class.
+entailment	Adam has geology class followed by commerce class.	Geology class is before commerce class.
+entailment	Janet has history class followed by physics class.	History class is before physics class.
+entailment	Elizabeth has french class followed by geography class.	French class is before geography class.
+entailment	Betty has geography class followed by mathematics class.	Geography class is before mathematics class.
+entailment	Marilyn has history class followed by geology class.	History class is before geology class.
+entailment	Karen has economics class followed by commerce class.	Economics class is before commerce class.
+entailment	Catherine has computer science class followed by physics class.	Computer science class is before physics class.
+entailment	Lawrence has art class followed by physics class.	Art class is before physics class.
+entailment	Fred has commerce class followed by geology class.	Commerce class is before geology class.
+entailment	Bill has commerce class followed by biology class.	Commerce class is before biology class.
+entailment	Samuel has geography class followed by economics class.	Geography class is before economics class.
+entailment	Adam has chemistry class followed by history class.	Chemistry class is before history class.
+entailment	Greg has biology class followed by chemistry class.	Biology class is before chemistry class.
+entailment	Michael has commerce class followed by geography class.	Commerce class is before geography class.
+entailment	Mary has history class followed by chemistry class.	History class is before chemistry class.
+entailment	Edith has mathematics class followed by geography class.	Mathematics class is before geography class.
+entailment	Patricia has physics class followed by economics class.	Physics class is before economics class.
+entailment	Tony has chemistry class followed by political science class.	Chemistry class is before political science class.
+entailment	Larry has french class followed by commerce class.	French class is before commerce class.
+entailment	Harold has latin class followed by geology class.	Latin class is before geology class.
+entailment	Samuel has political science class followed by geology class.	Political science class is before geology class.
+entailment	Lisa has political science class followed by music class.	Political science class is before music class.
+entailment	Melissa has physics class followed by economics class.	Physics class is before economics class.
+entailment	Tony has political science class followed by commerce class.	Political science class is before commerce class.
+entailment	Jean has latin class followed by economics class.	Latin class is before economics class.
+entailment	William has geology class followed by literature class.	Geology class is before literature class.
+entailment	Catherine has chemistry class followed by literature class.	Chemistry class is before literature class.
+entailment	Caroline has geology class followed by chemistry class.	Geology class is before chemistry class.
+entailment	Mike has art class followed by computer science class.	Art class is before computer science class.
+entailment	Matt has mathematics class followed by geography class.	Mathematics class is before geography class.
+entailment	Simon has economics class followed by history class.	Economics class is before history class.
+entailment	Thomas has geology class followed by physics class.	Geology class is before physics class.
+entailment	Nancy has mathematics class followed by music class.	Mathematics class is before music class.
+entailment	Larry has economics class followed by french class.	Economics class is before french class.
+entailment	Matt has economics class followed by chemistry class.	Economics class is before chemistry class.
+entailment	Susan has chemistry class followed by latin class.	Chemistry class is before latin class.
+entailment	Larry has latin class followed by french class.	Latin class is before french class.
+entailment	Andrew has commerce class followed by mathematics class.	Commerce class is before mathematics class.
+entailment	Andrea has music class followed by political science class.	Music class is before political science class.
+entailment	Brian has chemistry class followed by art class.	Chemistry class is before art class.
+entailment	Daniel has physics class followed by chemistry class.	Physics class is before chemistry class.
+entailment	Charlotte has geography class followed by art class.	Geography class is before art class.
+entailment	Joe has art class followed by geography class.	Art class is before geography class.
+entailment	Steve has mathematics class followed by computer science class.	Mathematics class is before computer science class.
+entailment	Janet has political science class followed by commerce class.	Political science class is before commerce class.
+entailment	Diana has history class followed by political science class.	History class is before political science class.
+entailment	Al has political science class followed by commerce class.	Political science class is before commerce class.
+entailment	Tim has literature class followed by history class.	Literature class is before history class.
+entailment	Ian has chemistry class followed by art class.	Chemistry class is before art class.
+entailment	Sharon has latin class followed by french class.	Latin class is before french class.
+entailment	Adam has french class followed by music class.	French class is before music class.
+entailment	Patrick has latin class followed by commerce class.	Latin class is before commerce class.
+entailment	Annie has music class followed by computer science class.	Music class is before computer science class.
+entailment	Anne has biology class followed by chemistry class.	Biology class is before chemistry class.
+entailment	Marie has physics class followed by mathematics class.	Physics class is before mathematics class.
+entailment	Ashley has biology class followed by geology class.	Biology class is before geology class.
+entailment	Pamela has commerce class followed by geology class.	Commerce class is before geology class.
+entailment	Kelly has commerce class followed by economics class.	Commerce class is before economics class.
+entailment	Colin has music class followed by geography class.	Music class is before geography class.
+entailment	Keith has art class followed by literature class.	Art class is before literature class.
+entailment	Cynthia has chemistry class followed by mathematics class.	Chemistry class is before mathematics class.
+entailment	Patrick has french class followed by computer science class.	French class is before computer science class.
+entailment	Johnny has geography class followed by economics class.	Geography class is before economics class.
+entailment	John has chemistry class followed by literature class.	Chemistry class is before literature class.
+entailment	Robin has history class followed by economics class.	History class is before economics class.
+entailment	Anthony has history class followed by political science class.	History class is before political science class.
+entailment	Colin has latin class followed by computer science class.	Latin class is before computer science class.
+entailment	Martha has commerce class followed by economics class.	Commerce class is before economics class.
+entailment	Joan has physics class followed by chemistry class.	Physics class is before chemistry class.
+entailment	Donna has computer science class followed by latin class.	Computer science class is before latin class.
+entailment	Marie has political science class followed by chemistry class.	Political science class is before chemistry class.
+entailment	Kelly has mathematics class followed by biology class.	Mathematics class is before biology class.
+entailment	Daniel has geography class followed by physics class.	Geography class is before physics class.
+entailment	Martha has latin class followed by political science class.	Latin class is before political science class.
+entailment	Roy has computer science class followed by music class.	Computer science class is before music class.
+entailment	Caroline has mathematics class followed by political science class.	Mathematics class is before political science class.
+entailment	Leslie has art class followed by french class.	Art class is before french class.
+entailment	Peter has latin class followed by computer science class.	Latin class is before computer science class.
+entailment	Johnny has mathematics class followed by computer science class.	Mathematics class is before computer science class.
+entailment	Catherine has physics class followed by music class.	Physics class is before music class.
+entailment	Matt has french class followed by geography class.	French class is before geography class.
+entailment	Alan has geology class followed by biology class.	Geology class is before biology class.
+entailment	Virginia has geology class followed by mathematics class.	Geology class is before mathematics class.
+entailment	Eric has mathematics class followed by geography class.	Mathematics class is before geography class.
+entailment	Jessica has commerce class followed by art class.	Commerce class is before art class.
+entailment	Charlotte has geography class followed by geology class.	Geography class is before geology class.
+entailment	Matthew has art class followed by music class.	Art class is before music class.
+entailment	Barbara has geology class followed by literature class.	Geology class is before literature class.
+entailment	Alice has literature class followed by biology class.	Literature class is before biology class.
+entailment	Melissa has physics class followed by chemistry class.	Physics class is before chemistry class.
+entailment	Chris has art class followed by literature class.	Art class is before literature class.
+entailment	Bruce has latin class followed by french class.	Latin class is before french class.
+entailment	Grace has latin class followed by chemistry class.	Latin class is before chemistry class.
+entailment	Janet has physics class followed by french class.	Physics class is before french class.
+entailment	Patricia has biology class followed by history class.	Biology class is before history class.
+entailment	Ryan has history class followed by literature class.	History class is before literature class.
+entailment	Jack has art class followed by geology class.	Art class is before geology class.
+entailment	Elaine has political science class followed by computer science class.	Political science class is before computer science class.
+entailment	Virginia has economics class followed by history class.	Economics class is before history class.
+entailment	Alison has chemistry class followed by latin class.	Chemistry class is before latin class.
+entailment	Angela has economics class followed by art class.	Economics class is before art class.
+entailment	Joseph has commerce class followed by geology class.	Commerce class is before geology class.
+entailment	Joseph has commerce class followed by economics class.	Commerce class is before economics class.
+entailment	Frances has commerce class followed by history class.	Commerce class is before history class.
+entailment	Sara has computer science class followed by music class.	Computer science class is before music class.
+entailment	Kevin has geography class followed by music class.	Geography class is before music class.
+entailment	Janet has geology class followed by computer science class.	Geology class is before computer science class.
+entailment	Ruth has french class followed by latin class.	French class is before latin class.
+entailment	Dave has history class followed by latin class.	History class is before latin class.
+entailment	Robert has art class followed by computer science class.	Art class is before computer science class.
+entailment	Ron has commerce class followed by biology class.	Commerce class is before biology class.
+entailment	Peter has chemistry class followed by economics class.	Chemistry class is before economics class.
+entailment	Alfred has computer science class followed by biology class.	Computer science class is before biology class.
+entailment	Michelle has economics class followed by music class.	Economics class is before music class.
+entailment	Michael has french class followed by political science class.	French class is before political science class.
+entailment	Amy has commerce class followed by geology class.	Commerce class is before geology class.
+entailment	Howard has mathematics class followed by geography class.	Mathematics class is before geography class.
+entailment	Patricia has mathematics class followed by literature class.	Mathematics class is before literature class.
+entailment	Donna has chemistry class followed by biology class.	Chemistry class is before biology class.
+entailment	Ruth has french class followed by mathematics class.	French class is before mathematics class.
+entailment	David has commerce class followed by computer science class.	Commerce class is before computer science class.
+entailment	James has computer science class followed by latin class.	Computer science class is before latin class.
+entailment	Nicole has economics class followed by art class.	Economics class is before art class.
+entailment	Susan has economics class followed by latin class.	Economics class is before latin class.
+entailment	Lucy has mathematics class followed by music class.	Mathematics class is before music class.
+entailment	Victoria has mathematics class followed by music class.	Mathematics class is before music class.
+entailment	Joe has art class followed by geography class.	Art class is before geography class.
+entailment	Ruth has mathematics class followed by physics class.	Mathematics class is before physics class.
+entailment	Donald has physics class followed by computer science class.	Physics class is before computer science class.
+entailment	Marie has commerce class followed by computer science class.	Commerce class is before computer science class.
+entailment	Nicole has art class followed by french class.	Art class is before french class.
+entailment	Sam has chemistry class followed by biology class.	Chemistry class is before biology class.
+entailment	Martin has history class followed by political science class.	History class is before political science class.
+entailment	Anne has art class followed by french class.	Art class is before french class.
+entailment	Rebecca has french class followed by biology class.	French class is before biology class.
+entailment	Katie has literature class followed by physics class.	Literature class is before physics class.
+entailment	Simon has biology class followed by commerce class.	Biology class is before commerce class.
+entailment	Ian has chemistry class followed by geography class.	Chemistry class is before geography class.
+entailment	Alex has art class followed by physics class.	Art class is before physics class.
+entailment	Kathy has french class followed by biology class.	French class is before biology class.
+entailment	Richard has literature class followed by mathematics class.	Literature class is before mathematics class.
+entailment	Kenneth has physics class followed by history class.	Physics class is before history class.
+entailment	Adam has latin class followed by geography class.	Latin class is before geography class.
+entailment	Matthew has geography class followed by history class.	Geography class is before history class.
+entailment	Billy has chemistry class followed by history class.	Chemistry class is before history class.
+entailment	Al has latin class followed by french class.	Latin class is before french class.
+entailment	Bobby has history class followed by commerce class.	History class is before commerce class.
+entailment	Jason has geography class followed by commerce class.	Geography class is before commerce class.
+entailment	Jean has mathematics class followed by geology class.	Mathematics class is before geology class.
+entailment	Sandra has economics class followed by history class.	Economics class is before history class.
+entailment	Elaine has history class followed by commerce class.	History class is before commerce class.
+entailment	Sara has french class followed by geography class.	French class is before geography class.
+entailment	Jessica has latin class followed by economics class.	Latin class is before economics class.
+entailment	Kevin has geography class followed by commerce class.	Geography class is before commerce class.
+entailment	Martha has political science class followed by biology class.	Political science class is before biology class.
+entailment	Tony has latin class followed by history class.	Latin class is before history class.
+entailment	Lucy has french class followed by biology class.	French class is before biology class.
+entailment	Stephanie has literature class followed by french class.	Literature class is before french class.
+entailment	Alexander has french class followed by chemistry class.	French class is before chemistry class.
+entailment	Carolyn has latin class followed by economics class.	Latin class is before economics class.
+entailment	Edith has latin class followed by computer science class.	Latin class is before computer science class.
+entailment	Ben has computer science class followed by art class.	Computer science class is before art class.
+entailment	Bob has computer science class followed by physics class.	Computer science class is before physics class.
+entailment	Maria has geography class followed by literature class.	Geography class is before literature class.
+entailment	Mary has political science class followed by latin class.	Political science class is before latin class.
+entailment	Joe has latin class followed by chemistry class.	Latin class is before chemistry class.
+entailment	Lucy has latin class followed by geology class.	Latin class is before geology class.
+entailment	Carolyn has french class followed by computer science class.	French class is before computer science class.
+entailment	Annie has art class followed by physics class.	Art class is before physics class.
+entailment	Kathleen has french class followed by computer science class.	French class is before computer science class.
+entailment	Amy has biology class followed by art class.	Biology class is before art class.
+entailment	Steven has music class followed by art class.	Music class is before art class.
+entailment	Florence has chemistry class followed by physics class.	Chemistry class is before physics class.
+entailment	Elizabeth has economics class followed by physics class.	Economics class is before physics class.
+entailment	Donald has art class followed by geography class.	Art class is before geography class.
+entailment	Amanda has chemistry class followed by art class.	Chemistry class is before art class.
+entailment	Colin has biology class followed by computer science class.	Biology class is before computer science class.
+entailment	Ellen has geography class followed by geology class.	Geography class is before geology class.
+entailment	Charles has chemistry class followed by commerce class.	Chemistry class is before commerce class.
+entailment	Alfred has commerce class followed by music class.	Commerce class is before music class.
+entailment	Eleanor has geology class followed by history class.	Geology class is before history class.
+entailment	Kelly has literature class followed by history class.	Literature class is before history class.
+entailment	Rebecca has commerce class followed by music class.	Commerce class is before music class.
+entailment	Kenneth has geology class followed by commerce class.	Geology class is before commerce class.
+entailment	Dick has economics class followed by computer science class.	Economics class is before computer science class.
+entailment	Dave has economics class followed by mathematics class.	Economics class is before mathematics class.
+entailment	Thomas has geology class followed by biology class.	Geology class is before biology class.
+entailment	Rebecca has geology class followed by music class.	Geology class is before music class.
+entailment	Jimmy has french class followed by chemistry class.	French class is before chemistry class.
+entailment	Eleanor has history class followed by economics class.	History class is before economics class.
+entailment	Lucy has history class followed by geography class.	History class is before geography class.
+entailment	Kathryn has commerce class followed by history class.	Commerce class is before history class.
+entailment	Lawrence has physics class followed by history class.	Physics class is before history class.
+entailment	Nancy has economics class followed by mathematics class.	Economics class is before mathematics class.
+entailment	Jennifer has computer science class followed by commerce class.	Computer science class is before commerce class.
+entailment	Grace has chemistry class followed by literature class.	Chemistry class is before literature class.
+entailment	Samuel has political science class followed by geography class.	Political science class is before geography class.
+entailment	Ralph has economics class followed by music class.	Economics class is before music class.
+entailment	Tim has latin class followed by physics class.	Latin class is before physics class.
+entailment	Michael has music class followed by political science class.	Music class is before political science class.
+entailment	Dorothy has geology class followed by latin class.	Geology class is before latin class.
+entailment	Gary has geology class followed by french class.	Geology class is before french class.
+entailment	Richard has chemistry class followed by latin class.	Chemistry class is before latin class.
+entailment	Diane has geography class followed by economics class.	Geography class is before economics class.
+entailment	Robin has geography class followed by mathematics class.	Geography class is before mathematics class.
+entailment	Fiona has biology class followed by art class.	Biology class is before art class.
+entailment	James has commerce class followed by geography class.	Commerce class is before geography class.
+entailment	Kevin has art class followed by biology class.	Art class is before biology class.
+entailment	Hugh has music class followed by latin class.	Music class is before latin class.
+entailment	Mike has latin class followed by french class.	Latin class is before french class.
+entailment	Jimmy has physics class followed by computer science class.	Physics class is before computer science class.
+entailment	Jason has chemistry class followed by geography class.	Chemistry class is before geography class.
+entailment	Jason has history class followed by art class.	History class is before art class.
+entailment	Karen has mathematics class followed by physics class.	Mathematics class is before physics class.
+entailment	Carol has geology class followed by biology class.	Geology class is before biology class.
+entailment	Brian has literature class followed by mathematics class.	Literature class is before mathematics class.
+entailment	Ron has political science class followed by physics class.	Political science class is before physics class.
+entailment	Rose has art class followed by chemistry class.	Art class is before chemistry class.
+entailment	Kenneth has literature class followed by biology class.	Literature class is before biology class.
+entailment	Angela has commerce class followed by biology class.	Commerce class is before biology class.
+entailment	Kate has physics class followed by french class.	Physics class is before french class.
+entailment	Diana has art class followed by computer science class.	Art class is before computer science class.
+entailment	Frederick has art class followed by history class.	Art class is before history class.
+entailment	Ann has commerce class followed by mathematics class.	Commerce class is before mathematics class.
+entailment	Claire has french class followed by chemistry class.	French class is before chemistry class.
+entailment	Walter has economics class followed by music class.	Economics class is before music class.
+entailment	Kathy has biology class followed by literature class.	Biology class is before literature class.
+entailment	Christopher has latin class followed by french class.	Latin class is before french class.
+entailment	Bobby has economics class followed by history class.	Economics class is before history class.
+entailment	Sara has french class followed by mathematics class.	French class is before mathematics class.
+entailment	Dave has physics class followed by music class.	Physics class is before music class.
+entailment	Anthony has physics class followed by music class.	Physics class is before music class.
+entailment	Kevin has economics class followed by computer science class.	Economics class is before computer science class.
+entailment	Julie has mathematics class followed by commerce class.	Mathematics class is before commerce class.
+entailment	Tom has commerce class followed by physics class.	Commerce class is before physics class.
+entailment	Ken has music class followed by history class.	Music class is before history class.
+entailment	Albert has economics class followed by history class.	Economics class is before history class.
+entailment	Melissa has political science class followed by economics class.	Political science class is before economics class.
+entailment	Johnny has biology class followed by geology class.	Biology class is before geology class.
+entailment	Albert has music class followed by mathematics class.	Music class is before mathematics class.
+entailment	Harry has biology class followed by geography class.	Biology class is before geography class.
+entailment	Joseph has physics class followed by latin class.	Physics class is before latin class.
+entailment	James has literature class followed by geography class.	Literature class is before geography class.
+entailment	Ray has french class followed by economics class.	French class is before economics class.
+entailment	Jeff has mathematics class followed by chemistry class.	Mathematics class is before chemistry class.
+entailment	Francis has geology class followed by literature class.	Geology class is before literature class.
+entailment	Billy has mathematics class followed by economics class.	Mathematics class is before economics class.
+entailment	Katie has computer science class followed by economics class.	Computer science class is before economics class.
+entailment	Edwin has political science class followed by music class.	Political science class is before music class.
+entailment	Dan has political science class followed by history class.	Political science class is before history class.
+entailment	Kate has french class followed by computer science class.	French class is before computer science class.
+entailment	Larry has music class followed by geology class.	Music class is before geology class.
+entailment	Dave has biology class followed by geography class.	Biology class is before geography class.
+entailment	Edith has biology class followed by geology class.	Biology class is before geology class.
+entailment	Jonathan has history class followed by art class.	History class is before art class.
+entailment	Joan has biology class followed by chemistry class.	Biology class is before chemistry class.
+entailment	Dan has history class followed by music class.	History class is before music class.
+entailment	Betty has french class followed by art class.	French class is before art class.
+entailment	Steven has french class followed by political science class.	French class is before political science class.
+entailment	Jonathan has geography class followed by economics class.	Geography class is before economics class.
+entailment	Lucy has commerce class followed by physics class.	Commerce class is before physics class.
+entailment	Mark has biology class followed by political science class.	Biology class is before political science class.
+entailment	Fred has french class followed by computer science class.	French class is before computer science class.
+entailment	Alex has history class followed by commerce class.	History class is before commerce class.
+entailment	Katherine has commerce class followed by chemistry class.	Commerce class is before chemistry class.
+entailment	Lucy has chemistry class followed by latin class.	Chemistry class is before latin class.
+entailment	Sara has latin class followed by commerce class.	Latin class is before commerce class.
+entailment	Kelly has literature class followed by geography class.	Literature class is before geography class.
+entailment	Rachel has literature class followed by political science class.	Literature class is before political science class.
+entailment	Henry has art class followed by geology class.	Art class is before geology class.
+entailment	Marilyn has history class followed by computer science class.	History class is before computer science class.
+entailment	Ben has geography class followed by geology class.	Geography class is before geology class.
+entailment	Catherine has french class followed by latin class.	French class is before latin class.
+entailment	Stephanie has physics class followed by computer science class.	Physics class is before computer science class.
+entailment	Adam has political science class followed by latin class.	Political science class is before latin class.
+entailment	Betty has economics class followed by history class.	Economics class is before history class.
+entailment	Dorothy has geography class followed by literature class.	Geography class is before literature class.
+entailment	Frederick has geology class followed by mathematics class.	Geology class is before mathematics class.
+entailment	Louis has french class followed by latin class.	French class is before latin class.
+entailment	Ian has mathematics class followed by art class.	Mathematics class is before art class.
+entailment	Samuel has geography class followed by mathematics class.	Geography class is before mathematics class.
+entailment	Gary has geography class followed by latin class.	Geography class is before latin class.
+entailment	Pamela has biology class followed by geography class.	Biology class is before geography class.
+entailment	Chris has chemistry class followed by geography class.	Chemistry class is before geography class.
+entailment	Johnny has biology class followed by geography class.	Biology class is before geography class.
+entailment	Kelly has computer science class followed by economics class.	Computer science class is before economics class.
+entailment	Al has history class followed by commerce class.	History class is before commerce class.
+entailment	Suzanne has computer science class followed by biology class.	Computer science class is before biology class.
+entailment	Francis has computer science class followed by latin class.	Computer science class is before latin class.
+entailment	Jeff has geography class followed by commerce class.	Geography class is before commerce class.
+entailment	Kate has history class followed by geography class.	History class is before geography class.
+entailment	Amanda has chemistry class followed by history class.	Chemistry class is before history class.
+entailment	Jennifer has french class followed by mathematics class.	French class is before mathematics class.
+entailment	Larry has history class followed by chemistry class.	History class is before chemistry class.
+entailment	Gary has chemistry class followed by political science class.	Chemistry class is before political science class.
+entailment	Michael has biology class followed by music class.	Biology class is before music class.
+entailment	Lauren has literature class followed by geography class.	Literature class is before geography class.
+entailment	Diane has latin class followed by chemistry class.	Latin class is before chemistry class.
+entailment	Patrick has french class followed by computer science class.	French class is before computer science class.
+entailment	Henry has political science class followed by geography class.	Political science class is before geography class.
+entailment	Roy has geography class followed by physics class.	Geography class is before physics class.
+entailment	Michael has mathematics class followed by political science class.	Mathematics class is before political science class.
+entailment	Steven has economics class followed by biology class.	Economics class is before biology class.
+entailment	Rose has computer science class followed by economics class.	Computer science class is before economics class.
+entailment	Jay has computer science class followed by commerce class.	Computer science class is before commerce class.
+entailment	Margaret has political science class followed by economics class.	Political science class is before economics class.
+entailment	Roger has french class followed by physics class.	French class is before physics class.
+entailment	Alex has chemistry class followed by mathematics class.	Chemistry class is before mathematics class.
+entailment	Anne has geography class followed by political science class.	Geography class is before political science class.
+entailment	Jerry has geology class followed by political science class.	Geology class is before political science class.
+entailment	Jim has political science class followed by mathematics class.	Political science class is before mathematics class.
+entailment	Susan has biology class followed by computer science class.	Biology class is before computer science class.
+entailment	Sam has latin class followed by computer science class.	Latin class is before computer science class.
+entailment	Sue has art class followed by political science class.	Art class is before political science class.
+entailment	Edwin has biology class followed by chemistry class.	Biology class is before chemistry class.
+entailment	Julie has literature class followed by geology class.	Literature class is before geology class.
+entailment	Catherine has commerce class followed by music class.	Commerce class is before music class.
+entailment	William has chemistry class followed by latin class.	Chemistry class is before latin class.
+entailment	George has physics class followed by geography class.	Physics class is before geography class.
+entailment	Elaine has french class followed by commerce class.	French class is before commerce class.
+entailment	Wendy has biology class followed by political science class.	Biology class is before political science class.
+entailment	Frank has literature class followed by physics class.	Literature class is before physics class.
+entailment	Florence has physics class followed by music class.	Physics class is before music class.
+entailment	Christopher has geography class followed by commerce class.	Geography class is before commerce class.
+entailment	Nicole has political science class followed by commerce class.	Political science class is before commerce class.
+entailment	Patricia has history class followed by commerce class.	History class is before commerce class.
+entailment	Anne has literature class followed by physics class.	Literature class is before physics class.
+entailment	Bob has chemistry class followed by french class.	Chemistry class is before french class.
+entailment	Jean has biology class followed by latin class.	Biology class is before latin class.
+entailment	Tim has physics class followed by commerce class.	Physics class is before commerce class.
+entailment	Maria has music class followed by political science class.	Music class is before political science class.
+entailment	James has mathematics class followed by chemistry class.	Mathematics class is before chemistry class.
+entailment	Kathy has commerce class followed by physics class.	Commerce class is before physics class.
+entailment	Jim has physics class followed by latin class.	Physics class is before latin class.
+entailment	Heather has mathematics class followed by literature class.	Mathematics class is before literature class.
+entailment	Scott has geology class followed by art class.	Geology class is before art class.
+entailment	Joe has mathematics class followed by history class.	Mathematics class is before history class.
+entailment	Melissa has literature class followed by latin class.	Literature class is before latin class.
+entailment	Evelyn has physics class followed by geography class.	Physics class is before geography class.
+entailment	Lynn has biology class followed by commerce class.	Biology class is before commerce class.
+entailment	Alexander has computer science class followed by latin class.	Computer science class is before latin class.
+entailment	Ann has art class followed by history class.	Art class is before history class.
+entailment	Katie has latin class followed by geography class.	Latin class is before geography class.
+entailment	Bob has music class followed by literature class.	Music class is before literature class.
+entailment	John has literature class followed by commerce class.	Literature class is before commerce class.
+entailment	Lucy has biology class followed by music class.	Biology class is before music class.
+entailment	Susan has mathematics class followed by computer science class.	Mathematics class is before computer science class.
+entailment	Martin has commerce class followed by latin class.	Commerce class is before latin class.
+entailment	Adam has art class followed by physics class.	Art class is before physics class.
+entailment	Scott has literature class followed by art class.	Literature class is before art class.
+entailment	Joan has geology class followed by geography class.	Geology class is before geography class.
+entailment	Rebecca has french class followed by history class.	French class is before history class.
+entailment	Jennifer has biology class followed by mathematics class.	Biology class is before mathematics class.
+entailment	Tony has art class followed by literature class.	Art class is before literature class.
+entailment	Tony has political science class followed by art class.	Political science class is before art class.
+entailment	Philip has latin class followed by history class.	Latin class is before history class.
+entailment	Ian has commerce class followed by biology class.	Commerce class is before biology class.
+entailment	John has geography class followed by political science class.	Geography class is before political science class.
+entailment	Andrew has literature class followed by latin class.	Literature class is before latin class.
+entailment	David has computer science class followed by geography class.	Computer science class is before geography class.
+entailment	Charles has french class followed by literature class.	French class is before literature class.
+entailment	Francis has geography class followed by political science class.	Geography class is before political science class.
+entailment	Catherine has biology class followed by art class.	Biology class is before art class.
+entailment	Benjamin has history class followed by commerce class.	History class is before commerce class.
+entailment	Lynn has commerce class followed by music class.	Commerce class is before music class.
+entailment	Jane has biology class followed by literature class.	Biology class is before literature class.
+entailment	Edwin has commerce class followed by political science class.	Commerce class is before political science class.
+entailment	Jean has art class followed by music class.	Art class is before music class.
+entailment	Caroline has latin class followed by economics class.	Latin class is before economics class.
+entailment	Ken has art class followed by computer science class.	Art class is before computer science class.
+entailment	Ashley has geology class followed by political science class.	Geology class is before political science class.
+entailment	Maria has latin class followed by french class.	Latin class is before french class.
+entailment	Dick has chemistry class followed by economics class.	Chemistry class is before economics class.
+entailment	Robert has computer science class followed by physics class.	Computer science class is before physics class.
+entailment	Bill has geology class followed by computer science class.	Geology class is before computer science class.
+entailment	Karen has political science class followed by geology class.	Political science class is before geology class.
+entailment	Billy has geography class followed by computer science class.	Geography class is before computer science class.
+entailment	Rachel has geography class followed by political science class.	Geography class is before political science class.
+entailment	Andrew has physics class followed by geology class.	Physics class is before geology class.
+entailment	Amanda has music class followed by computer science class.	Music class is before computer science class.
+entailment	Philip has music class followed by mathematics class.	Music class is before mathematics class.
+entailment	Robert has history class followed by geology class.	History class is before geology class.
+entailment	Florence has economics class followed by french class.	Economics class is before french class.
+entailment	Michael has music class followed by mathematics class.	Music class is before mathematics class.
+entailment	Tom has economics class followed by history class.	Economics class is before history class.
+entailment	William has art class followed by history class.	Art class is before history class.
+entailment	Lauren has geology class followed by mathematics class.	Geology class is before mathematics class.
+entailment	Grace has geography class followed by history class.	Geography class is before history class.
+entailment	Jimmy has geography class followed by physics class.	Geography class is before physics class.
+entailment	Wendy has geology class followed by french class.	Geology class is before french class.
+entailment	Fiona has biology class followed by computer science class.	Biology class is before computer science class.
+entailment	Rose has geology class followed by political science class.	Geology class is before political science class.
+entailment	Anne has music class followed by history class.	Music class is before history class.
+entailment	Arthur has political science class followed by french class.	Political science class is before french class.
+entailment	Andrea has literature class followed by geology class.	Literature class is before geology class.
+entailment	Barbara has physics class followed by art class.	Physics class is before art class.
+entailment	Fred has commerce class followed by mathematics class.	Commerce class is before mathematics class.
+entailment	Richard has latin class followed by geology class.	Latin class is before geology class.
+entailment	Anna has chemistry class followed by commerce class.	Chemistry class is before commerce class.
+entailment	Louise has biology class followed by music class.	Biology class is before music class.
+entailment	Kate has biology class followed by geology class.	Biology class is before geology class.
+entailment	Rebecca has physics class followed by latin class.	Physics class is before latin class.
+entailment	Emma has physics class followed by latin class.	Physics class is before latin class.
+entailment	Jennifer has mathematics class followed by history class.	Mathematics class is before history class.
+entailment	Louise has physics class followed by literature class.	Physics class is before literature class.
+entailment	Ellen has chemistry class followed by biology class.	Chemistry class is before biology class.
+entailment	Frederick has political science class followed by chemistry class.	Political science class is before chemistry class.
+entailment	Ellen has latin class followed by geography class.	Latin class is before geography class.
+entailment	Suzanne has latin class followed by literature class.	Latin class is before literature class.
+entailment	Francis has history class followed by literature class.	History class is before literature class.
+entailment	Christine has political science class followed by chemistry class.	Political science class is before chemistry class.
+entailment	Alison has biology class followed by economics class.	Biology class is before economics class.
+entailment	Tony has biology class followed by music class.	Biology class is before music class.
+entailment	Bob has music class followed by history class.	Music class is before history class.
+entailment	Sam has geology class followed by art class.	Geology class is before art class.
+entailment	Samuel has history class followed by latin class.	History class is before latin class.
+entailment	Don has latin class followed by computer science class.	Latin class is before computer science class.
+entailment	Judith has mathematics class followed by literature class.	Mathematics class is before literature class.
+entailment	Harold has biology class followed by latin class.	Biology class is before latin class.
+entailment	Ellen has mathematics class followed by art class.	Mathematics class is before art class.
+entailment	Jennifer has physics class followed by geology class.	Physics class is before geology class.
+entailment	Leslie has physics class followed by political science class.	Physics class is before political science class.
+entailment	Dick has history class followed by physics class.	History class is before physics class.
+entailment	Edwin has economics class followed by music class.	Economics class is before music class.
+entailment	Francis has physics class followed by biology class.	Physics class is before biology class.
+entailment	Ellen has physics class followed by economics class.	Physics class is before economics class.
+entailment	Martha has history class followed by mathematics class.	History class is before mathematics class.
+entailment	Barbara has history class followed by economics class.	History class is before economics class.
+entailment	Ashley has economics class followed by geography class.	Economics class is before geography class.
+entailment	Christopher has french class followed by economics class.	French class is before economics class.
+entailment	Harriet has literature class followed by geography class.	Literature class is before geography class.
+entailment	Jonathan has mathematics class followed by commerce class.	Mathematics class is before commerce class.
+entailment	Howard has economics class followed by art class.	Economics class is before art class.
+entailment	Suzanne has geography class followed by chemistry class.	Geography class is before chemistry class.
+entailment	Kathy has literature class followed by geography class.	Literature class is before geography class.
+entailment	Jay has history class followed by political science class.	History class is before political science class.
+entailment	Jeff has art class followed by history class.	Art class is before history class.
+entailment	Edward has chemistry class followed by commerce class.	Chemistry class is before commerce class.
+entailment	Sally has latin class followed by physics class.	Latin class is before physics class.
+entailment	Edward has geology class followed by french class.	Geology class is before french class.
+entailment	Jack has commerce class followed by history class.	Commerce class is before history class.
+entailment	Leslie has music class followed by literature class.	Music class is before literature class.
+entailment	Philip has mathematics class followed by economics class.	Mathematics class is before economics class.
+entailment	Edwin has french class followed by geology class.	French class is before geology class.
+entailment	Alfred has music class followed by economics class.	Music class is before economics class.
+entailment	Kevin has economics class followed by art class.	Economics class is before art class.
+entailment	Keith has latin class followed by physics class.	Latin class is before physics class.
+entailment	Amanda has computer science class followed by history class.	Computer science class is before history class.
+entailment	Jack has art class followed by latin class.	Art class is before latin class.
+entailment	Kenneth has geology class followed by history class.	Geology class is before history class.
+entailment	Donald has geography class followed by computer science class.	Geography class is before computer science class.
+entailment	Colin has art class followed by mathematics class.	Art class is before mathematics class.
+entailment	Rachel has literature class followed by biology class.	Literature class is before biology class.
+entailment	Lisa has literature class followed by biology class.	Literature class is before biology class.
+entailment	Charles has biology class followed by chemistry class.	Biology class is before chemistry class.
+entailment	Helen has french class followed by music class.	French class is before music class.
+entailment	Jerry has geography class followed by political science class.	Geography class is before political science class.
+entailment	Ben has music class followed by geology class.	Music class is before geology class.
+entailment	Philip has literature class followed by economics class.	Literature class is before economics class.
+entailment	Louis has music class followed by geology class.	Music class is before geology class.
+entailment	Sally has physics class followed by political science class.	Physics class is before political science class.
+entailment	Andrew has geography class followed by commerce class.	Geography class is before commerce class.
+entailment	Bruce has music class followed by mathematics class.	Music class is before mathematics class.
+entailment	Stephen has political science class followed by geography class.	Political science class is before geography class.
+entailment	Roy has biology class followed by literature class.	Biology class is before literature class.
+entailment	Lauren has literature class followed by biology class.	Literature class is before biology class.
+entailment	Scott has history class followed by biology class.	History class is before biology class.
+entailment	Donald has economics class followed by french class.	Economics class is before french class.
+entailment	Donna has geology class followed by economics class.	Geology class is before economics class.
+entailment	Virginia has geology class followed by mathematics class.	Geology class is before mathematics class.
+entailment	Jack has biology class followed by economics class.	Biology class is before economics class.
+entailment	Matthew has french class followed by commerce class.	French class is before commerce class.
+entailment	Jerry has biology class followed by chemistry class.	Biology class is before chemistry class.
+entailment	Kenneth has music class followed by commerce class.	Music class is before commerce class.
+entailment	Don has latin class followed by french class.	Latin class is before french class.
+entailment	Bruce has geology class followed by political science class.	Geology class is before political science class.
+entailment	Harriet has french class followed by mathematics class.	French class is before mathematics class.
+entailment	Jean has commerce class followed by literature class.	Commerce class is before literature class.
+entailment	Philip has geography class followed by physics class.	Geography class is before physics class.
+entailment	Kate has mathematics class followed by geography class.	Mathematics class is before geography class.
+entailment	Annie has political science class followed by latin class.	Political science class is before latin class.
+entailment	Donna has economics class followed by music class.	Economics class is before music class.
+entailment	Victoria has physics class followed by economics class.	Physics class is before economics class.
+entailment	Howard has french class followed by geography class.	French class is before geography class.
+entailment	Jimmy has music class followed by latin class.	Music class is before latin class.
+entailment	Bruce has biology class followed by latin class.	Biology class is before latin class.
+entailment	Matt has mathematics class followed by french class.	Mathematics class is before french class.
+entailment	Margaret has french class followed by mathematics class.	French class is before mathematics class.
+entailment	Rebecca has computer science class followed by history class.	Computer science class is before history class.
+entailment	Sophie has art class followed by french class.	Art class is before french class.
+entailment	Wendy has french class followed by political science class.	French class is before political science class.
+entailment	Frank has latin class followed by biology class.	Latin class is before biology class.
+entailment	Florence has political science class followed by geography class.	Political science class is before geography class.
+entailment	Bruce has computer science class followed by mathematics class.	Computer science class is before mathematics class.
+entailment	Jimmy has physics class followed by latin class.	Physics class is before latin class.
+entailment	Katie has mathematics class followed by music class.	Mathematics class is before music class.
+entailment	Janet has latin class followed by french class.	Latin class is before french class.
+entailment	Richard has biology class followed by art class.	Biology class is before art class.
+entailment	Ellen has mathematics class followed by latin class.	Mathematics class is before latin class.
+entailment	Angela has history class followed by french class.	History class is before french class.
+entailment	Lynn has history class followed by latin class.	History class is before latin class.
+entailment	Billy has geography class followed by biology class.	Geography class is before biology class.
+entailment	Jason has commerce class followed by geology class.	Commerce class is before geology class.
+entailment	Roy has art class followed by computer science class.	Art class is before computer science class.
+entailment	Julie has political science class followed by biology class.	Political science class is before biology class.
+entailment	Edith has geography class followed by geology class.	Geography class is before geology class.
+entailment	Sara has french class followed by commerce class.	French class is before commerce class.
+entailment	Marie has mathematics class followed by geology class.	Mathematics class is before geology class.
+entailment	Kathy has mathematics class followed by chemistry class.	Mathematics class is before chemistry class.
+entailment	Christine has french class followed by literature class.	French class is before literature class.
+entailment	Janet has commerce class followed by mathematics class.	Commerce class is before mathematics class.
+entailment	Samuel has literature class followed by latin class.	Literature class is before latin class.
+entailment	Bobby has geology class followed by literature class.	Geology class is before literature class.
+entailment	Eleanor has history class followed by computer science class.	History class is before computer science class.
+entailment	Ann has mathematics class followed by biology class.	Mathematics class is before biology class.
+entailment	Ben has art class followed by literature class.	Art class is before literature class.
+entailment	Maria has political science class followed by chemistry class.	Political science class is before chemistry class.
+entailment	Patricia has political science class followed by physics class.	Political science class is before physics class.
+entailment	Sally has economics class followed by music class.	Economics class is before music class.
+entailment	Angela has geography class followed by political science class.	Geography class is before political science class.
+entailment	Diana has physics class followed by geology class.	Physics class is before geology class.
+entailment	Harriet has geography class followed by chemistry class.	Geography class is before chemistry class.
+entailment	Arthur has literature class followed by geology class.	Literature class is before geology class.
+entailment	Edwin has french class followed by latin class.	French class is before latin class.
+entailment	Roger has physics class followed by chemistry class.	Physics class is before chemistry class.
+entailment	Katherine has economics class followed by commerce class.	Economics class is before commerce class.
+entailment	Kathy has art class followed by french class.	Art class is before french class.
+entailment	Sue has french class followed by mathematics class.	French class is before mathematics class.
+entailment	Harriet has commerce class followed by geography class.	Commerce class is before geography class.
+entailment	Alexander has music class followed by chemistry class.	Music class is before chemistry class.
+entailment	Judith has computer science class followed by music class.	Computer science class is before music class.
+entailment	Andrea has computer science class followed by music class.	Computer science class is before music class.
+entailment	Charlie has music class followed by political science class.	Music class is before political science class.
+entailment	Roger has geography class followed by french class.	Geography class is before french class.
+entailment	Andrew has commerce class followed by geology class.	Commerce class is before geology class.
+entailment	Samuel has chemistry class followed by geography class.	Chemistry class is before geography class.
+entailment	Mark has history class followed by commerce class.	History class is before commerce class.
+entailment	Carolyn has commerce class followed by french class.	Commerce class is before french class.
+entailment	Colin has commerce class followed by history class.	Commerce class is before history class.
+entailment	Louis has literature class followed by physics class.	Literature class is before physics class.
+entailment	Carol has history class followed by physics class.	History class is before physics class.
+entailment	Michael has chemistry class followed by mathematics class.	Chemistry class is before mathematics class.
+entailment	Sophie has commerce class followed by french class.	Commerce class is before french class.
+entailment	Adam has mathematics class followed by french class.	Mathematics class is before french class.
+entailment	Ann has mathematics class followed by economics class.	Mathematics class is before economics class.
+entailment	Diane has political science class followed by physics class.	Political science class is before physics class.
+entailment	Brian has literature class followed by music class.	Literature class is before music class.
+entailment	Melissa has geology class followed by mathematics class.	Geology class is before mathematics class.
+entailment	Ray has biology class followed by political science class.	Biology class is before political science class.
+entailment	Harold has computer science class followed by music class.	Computer science class is before music class.
+entailment	Johnny has biology class followed by history class.	Biology class is before history class.
+entailment	Florence has literature class followed by music class.	Literature class is before music class.
+entailment	Christopher has geography class followed by geology class.	Geography class is before geology class.
+entailment	Jason has chemistry class followed by mathematics class.	Chemistry class is before mathematics class.
+entailment	Michael has mathematics class followed by geography class.	Mathematics class is before geography class.
+entailment	Steven has geography class followed by french class.	Geography class is before french class.
+entailment	Keith has chemistry class followed by biology class.	Chemistry class is before biology class.
+entailment	Carol has biology class followed by economics class.	Biology class is before economics class.
+entailment	Martha has economics class followed by political science class.	Economics class is before political science class.
+entailment	Christine has mathematics class followed by history class.	Mathematics class is before history class.
+entailment	Elaine has geology class followed by economics class.	Geology class is before economics class.
+entailment	Jennifer has french class followed by political science class.	French class is before political science class.
+entailment	Kenneth has mathematics class followed by biology class.	Mathematics class is before biology class.
+entailment	Ralph has mathematics class followed by music class.	Mathematics class is before music class.
+entailment	Betty has mathematics class followed by french class.	Mathematics class is before french class.
+entailment	Walter has music class followed by geology class.	Music class is before geology class.
+entailment	Alan has physics class followed by geography class.	Physics class is before geography class.
+entailment	Kathryn has literature class followed by political science class.	Literature class is before political science class.
+entailment	Fiona has latin class followed by music class.	Latin class is before music class.
+entailment	Jean has physics class followed by music class.	Physics class is before music class.
+entailment	Matt has history class followed by economics class.	History class is before economics class.
+entailment	Robert has commerce class followed by french class.	Commerce class is before french class.
+entailment	Nicole has commerce class followed by biology class.	Commerce class is before biology class.
+entailment	Julie has biology class followed by physics class.	Biology class is before physics class.
+entailment	Daniel has commerce class followed by latin class.	Commerce class is before latin class.
+entailment	Kate has chemistry class followed by latin class.	Chemistry class is before latin class.
+entailment	Sara has commerce class followed by french class.	Commerce class is before french class.
+entailment	Suzanne has music class followed by political science class.	Music class is before political science class.
+entailment	Kelly has economics class followed by biology class.	Economics class is before biology class.
+entailment	Jean has history class followed by geology class.	History class is before geology class.
+entailment	Bruce has literature class followed by computer science class.	Literature class is before computer science class.
+entailment	Bruce has french class followed by biology class.	French class is before biology class.
+entailment	Jean has music class followed by biology class.	Music class is before biology class.
+entailment	Sue has physics class followed by computer science class.	Physics class is before computer science class.
+entailment	Martin has chemistry class followed by geology class.	Chemistry class is before geology class.
+entailment	Joseph has history class followed by computer science class.	History class is before computer science class.
+entailment	Jennifer has physics class followed by economics class.	Physics class is before economics class.
+entailment	Sue has computer science class followed by geography class.	Computer science class is before geography class.
+entailment	Anthony has mathematics class followed by chemistry class.	Mathematics class is before chemistry class.
+entailment	Thomas has french class followed by music class.	French class is before music class.
+entailment	Michelle has art class followed by literature class.	Art class is before literature class.
+entailment	Hugh has geology class followed by art class.	Geology class is before art class.
+entailment	Barbara has commerce class followed by geography class.	Commerce class is before geography class.
+entailment	Bobby has literature class followed by mathematics class.	Literature class is before mathematics class.
+entailment	Joseph has french class followed by political science class.	French class is before political science class.
+entailment	Laura has geology class followed by commerce class.	Geology class is before commerce class.
+entailment	Jonathan has mathematics class followed by geography class.	Mathematics class is before geography class.
+entailment	Kelly has literature class followed by chemistry class.	Literature class is before chemistry class.
+entailment	Stephanie has art class followed by literature class.	Art class is before literature class.
+entailment	Arthur has history class followed by geography class.	History class is before geography class.
+entailment	Matt has biology class followed by art class.	Biology class is before art class.
+entailment	Mark has political science class followed by literature class.	Political science class is before literature class.
+entailment	Matthew has commerce class followed by computer science class.	Commerce class is before computer science class.
+entailment	Carl has computer science class followed by history class.	Computer science class is before history class.
+entailment	Louis has biology class followed by chemistry class.	Biology class is before chemistry class.
+entailment	Edwin has economics class followed by art class.	Economics class is before art class.
+entailment	Alison has latin class followed by french class.	Latin class is before french class.
+entailment	Nicole has biology class followed by commerce class.	Biology class is before commerce class.
+entailment	Alexandra has chemistry class followed by geology class.	Chemistry class is before geology class.
+entailment	Judith has chemistry class followed by political science class.	Chemistry class is before political science class.
+entailment	Alexander has geology class followed by computer science class.	Geology class is before computer science class.
+entailment	Jerry has political science class followed by art class.	Political science class is before art class.
+entailment	Frances has geology class followed by music class.	Geology class is before music class.
+entailment	Jennifer has french class followed by biology class.	French class is before biology class.
+entailment	Sam has computer science class followed by music class.	Computer science class is before music class.
+entailment	Jerry has mathematics class followed by commerce class.	Mathematics class is before commerce class.
+entailment	Carl has economics class followed by geology class.	Economics class is before geology class.
+entailment	Andrea has economics class followed by literature class.	Economics class is before literature class.
+entailment	Bobby has biology class followed by history class.	Biology class is before history class.
+entailment	Jean has economics class followed by geology class.	Economics class is before geology class.
+entailment	Nick has literature class followed by computer science class.	Literature class is before computer science class.
+entailment	Emma has physics class followed by latin class.	Physics class is before latin class.
+entailment	Bill has physics class followed by political science class.	Physics class is before political science class.
+entailment	Joan has political science class followed by literature class.	Political science class is before literature class.
+entailment	Hugh has mathematics class followed by commerce class.	Mathematics class is before commerce class.
+entailment	Leslie has art class followed by literature class.	Art class is before literature class.
+entailment	Maria has music class followed by economics class.	Music class is before economics class.
+entailment	Roy has music class followed by computer science class.	Music class is before computer science class.
+entailment	Al has literature class followed by chemistry class.	Literature class is before chemistry class.
+entailment	Simon has literature class followed by geography class.	Literature class is before geography class.
+entailment	Marilyn has biology class followed by commerce class.	Biology class is before commerce class.
+entailment	Ryan has political science class followed by art class.	Political science class is before art class.
+entailment	Kevin has economics class followed by geography class.	Economics class is before geography class.
+entailment	Lynn has political science class followed by geology class.	Political science class is before geology class.
+entailment	Jeff has art class followed by physics class.	Art class is before physics class.
+entailment	Joseph has latin class followed by computer science class.	Latin class is before computer science class.
+entailment	Sandra has physics class followed by art class.	Physics class is before art class.
+entailment	Jimmy has physics class followed by geography class.	Physics class is before geography class.
+entailment	Gary has music class followed by literature class.	Music class is before literature class.
+entailment	Lisa has physics class followed by economics class.	Physics class is before economics class.
+entailment	Samuel has latin class followed by biology class.	Latin class is before biology class.
+entailment	Richard has art class followed by biology class.	Art class is before biology class.
+entailment	Michelle has literature class followed by commerce class.	Literature class is before commerce class.
+entailment	Charles has history class followed by literature class.	History class is before literature class.
+entailment	Frances has political science class followed by mathematics class.	Political science class is before mathematics class.
+entailment	Nicole has biology class followed by chemistry class.	Biology class is before chemistry class.
+entailment	Harriet has art class followed by computer science class.	Art class is before computer science class.
+entailment	Florence has geology class followed by art class.	Geology class is before art class.
+entailment	Kim has literature class followed by computer science class.	Literature class is before computer science class.
+entailment	Rachel has literature class followed by computer science class.	Literature class is before computer science class.
+entailment	Emma has computer science class followed by commerce class.	Computer science class is before commerce class.
+entailment	Scott has economics class followed by computer science class.	Economics class is before computer science class.
+entailment	Linda has history class followed by geography class.	History class is before geography class.
+entailment	Anne has physics class followed by literature class.	Physics class is before literature class.
+entailment	Kate has geography class followed by latin class.	Geography class is before latin class.
+entailment	Heather has physics class followed by chemistry class.	Physics class is before chemistry class.
+entailment	Nick has chemistry class followed by political science class.	Chemistry class is before political science class.
+entailment	Donald has french class followed by computer science class.	French class is before computer science class.
+entailment	Marie has history class followed by literature class.	History class is before literature class.
+entailment	Henry has physics class followed by mathematics class.	Physics class is before mathematics class.
+entailment	Tom has computer science class followed by mathematics class.	Computer science class is before mathematics class.
+entailment	Colin has art class followed by political science class.	Art class is before political science class.
+entailment	Maria has latin class followed by biology class.	Latin class is before biology class.
+entailment	Michelle has literature class followed by art class.	Literature class is before art class.
+entailment	Jason has chemistry class followed by history class.	Chemistry class is before history class.
+entailment	Ann has computer science class followed by economics class.	Computer science class is before economics class.
+entailment	Francis has economics class followed by music class.	Economics class is before music class.
+entailment	Lynn has biology class followed by geography class.	Biology class is before geography class.
+entailment	Anna has biology class followed by latin class.	Biology class is before latin class.
+entailment	Deborah has geology class followed by history class.	Geology class is before history class.
+entailment	Fiona has french class followed by physics class.	French class is before physics class.
+entailment	Judith has physics class followed by literature class.	Physics class is before literature class.
+entailment	Lucy has literature class followed by chemistry class.	Literature class is before chemistry class.
+entailment	Sally has latin class followed by mathematics class.	Latin class is before mathematics class.
+entailment	Elizabeth has music class followed by geography class.	Music class is before geography class.
+entailment	Daniel has biology class followed by geology class.	Biology class is before geology class.
+entailment	Michael has music class followed by computer science class.	Music class is before computer science class.
+entailment	Virginia has latin class followed by music class.	Latin class is before music class.
+entailment	Kathryn has biology class followed by mathematics class.	Biology class is before mathematics class.
+entailment	Eleanor has geology class followed by mathematics class.	Geology class is before mathematics class.
+entailment	Jane has chemistry class followed by geography class.	Chemistry class is before geography class.
+entailment	Frances has art class followed by geography class.	Art class is before geography class.
+entailment	Leslie has computer science class followed by biology class.	Computer science class is before biology class.
+entailment	Nancy has economics class followed by latin class.	Economics class is before latin class.
+entailment	George has computer science class followed by history class.	Computer science class is before history class.
+entailment	Roger has biology class followed by geography class.	Biology class is before geography class.
+entailment	Jennifer has political science class followed by economics class.	Political science class is before economics class.
+entailment	Peter has political science class followed by history class.	Political science class is before history class.
+entailment	Jennifer has commerce class followed by chemistry class.	Commerce class is before chemistry class.
+entailment	Alice has chemistry class followed by latin class.	Chemistry class is before latin class.
+entailment	Bruce has music class followed by literature class.	Music class is before literature class.
+entailment	Sam has music class followed by physics class.	Music class is before physics class.
+entailment	Robert has economics class followed by geology class.	Economics class is before geology class.
+entailment	Charlotte has history class followed by literature class.	History class is before literature class.
+entailment	Katie has chemistry class followed by commerce class.	Chemistry class is before commerce class.
+entailment	Kathryn has physics class followed by commerce class.	Physics class is before commerce class.
+entailment	Jason has art class followed by economics class.	Art class is before economics class.
+entailment	Michael has chemistry class followed by physics class.	Chemistry class is before physics class.
+entailment	Claire has history class followed by biology class.	History class is before biology class.
+entailment	Susan has computer science class followed by french class.	Computer science class is before french class.
+entailment	Deborah has chemistry class followed by latin class.	Chemistry class is before latin class.
+entailment	Anthony has geology class followed by music class.	Geology class is before music class.
+entailment	Linda has latin class followed by mathematics class.	Latin class is before mathematics class.
+entailment	Sarah has literature class followed by geography class.	Literature class is before geography class.
+entailment	Stephanie has biology class followed by physics class.	Biology class is before physics class.
+entailment	Angela has french class followed by chemistry class.	French class is before chemistry class.
+entailment	Diana has biology class followed by literature class.	Biology class is before literature class.
+entailment	Edwin has art class followed by chemistry class.	Art class is before chemistry class.
+entailment	Anna has french class followed by geography class.	French class is before geography class.
+entailment	Deborah has music class followed by mathematics class.	Music class is before mathematics class.
+entailment	Lauren has biology class followed by art class.	Biology class is before art class.
+entailment	Nicole has political science class followed by commerce class.	Political science class is before commerce class.
+entailment	Katherine has biology class followed by literature class.	Biology class is before literature class.
+entailment	Steven has literature class followed by computer science class.	Literature class is before computer science class.
+entailment	Louise has art class followed by economics class.	Art class is before economics class.
+entailment	Alex has economics class followed by art class.	Economics class is before art class.
+entailment	Julia has latin class followed by art class.	Latin class is before art class.
+entailment	Carol has biology class followed by art class.	Biology class is before art class.
+entailment	Stephen has geography class followed by physics class.	Geography class is before physics class.
+entailment	Nicole has latin class followed by chemistry class.	Latin class is before chemistry class.
+entailment	Paul has commerce class followed by latin class.	Commerce class is before latin class.
+entailment	Harry has literature class followed by latin class.	Literature class is before latin class.
+entailment	Lauren has french class followed by commerce class.	French class is before commerce class.
+entailment	Lisa has political science class followed by mathematics class.	Political science class is before mathematics class.
+entailment	Jimmy has mathematics class followed by art class.	Mathematics class is before art class.
+entailment	Alison has art class followed by commerce class.	Art class is before commerce class.
+entailment	Sarah has geology class followed by commerce class.	Geology class is before commerce class.
+entailment	Johnny has physics class followed by commerce class.	Physics class is before commerce class.
+entailment	Samuel has geology class followed by commerce class.	Geology class is before commerce class.
+entailment	John has economics class followed by mathematics class.	Economics class is before mathematics class.
+entailment	Marie has economics class followed by mathematics class.	Economics class is before mathematics class.
+entailment	Johnny has biology class followed by economics class.	Biology class is before economics class.
+entailment	Caroline has literature class followed by latin class.	Literature class is before latin class.
+entailment	Patricia has physics class followed by music class.	Physics class is before music class.
+entailment	Harriet has geography class followed by french class.	Geography class is before french class.
+entailment	Carolyn has economics class followed by music class.	Economics class is before music class.
+entailment	Tim has art class followed by latin class.	Art class is before latin class.
+entailment	Tim has literature class followed by biology class.	Literature class is before biology class.
+entailment	Jonathan has mathematics class followed by economics class.	Mathematics class is before economics class.
+entailment	Michelle has chemistry class followed by mathematics class.	Chemistry class is before mathematics class.
+entailment	Stephen has geology class followed by art class.	Geology class is before art class.
+entailment	Albert has commerce class followed by political science class.	Commerce class is before political science class.
+entailment	Janet has geography class followed by mathematics class.	Geography class is before mathematics class.
+entailment	Alice has computer science class followed by physics class.	Computer science class is before physics class.
+entailment	Marilyn has physics class followed by literature class.	Physics class is before literature class.
+entailment	Frederick has music class followed by history class.	Music class is before history class.
+entailment	Nick has political science class followed by art class.	Political science class is before art class.
+entailment	Deborah has latin class followed by literature class.	Latin class is before literature class.
+entailment	Matt has chemistry class followed by mathematics class.	Chemistry class is before mathematics class.
+entailment	Kathy has geography class followed by history class.	Geography class is before history class.
+entailment	Jeff has political science class followed by commerce class.	Political science class is before commerce class.
+entailment	Jerry has latin class followed by literature class.	Latin class is before literature class.
+entailment	Martha has mathematics class followed by economics class.	Mathematics class is before economics class.
+entailment	Philip has chemistry class followed by art class.	Chemistry class is before art class.
+entailment	Sophie has physics class followed by music class.	Physics class is before music class.
+entailment	Paul has history class followed by physics class.	History class is before physics class.
+entailment	Alison has geology class followed by mathematics class.	Geology class is before mathematics class.
+entailment	Lauren has physics class followed by mathematics class.	Physics class is before mathematics class.
+entailment	Johnny has commerce class followed by physics class.	Commerce class is before physics class.
+entailment	Steve has art class followed by latin class.	Art class is before latin class.
+entailment	Sam has physics class followed by literature class.	Physics class is before literature class.
+entailment	Sharon has music class followed by french class.	Music class is before french class.
+entailment	Fiona has biology class followed by physics class.	Biology class is before physics class.
+entailment	Kathy has mathematics class followed by art class.	Mathematics class is before art class.
+entailment	Virginia has political science class followed by geology class.	Political science class is before geology class.
+entailment	Steve has biology class followed by commerce class.	Biology class is before commerce class.
+entailment	Sharon has geography class followed by computer science class.	Geography class is before computer science class.
+entailment	Donna has art class followed by geology class.	Art class is before geology class.
+entailment	Thomas has economics class followed by computer science class.	Economics class is before computer science class.
+entailment	Frances has commerce class followed by french class.	Commerce class is before french class.
+entailment	Alice has literature class followed by art class.	Literature class is before art class.
+entailment	Catherine has geology class followed by political science class.	Geology class is before political science class.
+entailment	Carol has political science class followed by chemistry class.	Political science class is before chemistry class.
+entailment	Barbara has political science class followed by history class.	Political science class is before history class.
+entailment	Jerry has music class followed by art class.	Music class is before art class.
+entailment	Julie has geology class followed by mathematics class.	Geology class is before mathematics class.
+entailment	Elaine has physics class followed by computer science class.	Physics class is before computer science class.
+entailment	Patrick has geography class followed by latin class.	Geography class is before latin class.
+entailment	Philip has political science class followed by history class.	Political science class is before history class.
+entailment	Jonathan has music class followed by chemistry class.	Music class is before chemistry class.
+entailment	Carolyn has latin class followed by literature class.	Latin class is before literature class.
+entailment	Angela has geography class followed by political science class.	Geography class is before political science class.
+entailment	Julia has biology class followed by commerce class.	Biology class is before commerce class.
+entailment	Frederick has biology class followed by chemistry class.	Biology class is before chemistry class.
+entailment	Kelly has physics class followed by commerce class.	Physics class is before commerce class.
+entailment	Jerry has biology class followed by music class.	Biology class is before music class.
+entailment	Stephanie has geology class followed by literature class.	Geology class is before literature class.
+entailment	Jimmy has french class followed by geography class.	French class is before geography class.
+entailment	Kathleen has literature class followed by geography class.	Literature class is before geography class.
+entailment	Emma has economics class followed by latin class.	Economics class is before latin class.
+entailment	Bobby has geography class followed by computer science class.	Geography class is before computer science class.
+entailment	Julie has literature class followed by physics class.	Literature class is before physics class.
+entailment	Sue has physics class followed by latin class.	Physics class is before latin class.
+entailment	Fred has history class followed by biology class.	History class is before biology class.
+entailment	Tony has literature class followed by art class.	Literature class is before art class.
+entailment	Harold has chemistry class followed by latin class.	Chemistry class is before latin class.
+entailment	Andrea has computer science class followed by french class.	Computer science class is before french class.
+entailment	Alexandra has commerce class followed by physics class.	Commerce class is before physics class.
+entailment	Linda has french class followed by chemistry class.	French class is before chemistry class.
+entailment	Joe has latin class followed by literature class.	Latin class is before literature class.
+entailment	Paul has economics class followed by computer science class.	Economics class is before computer science class.
+entailment	Michelle has political science class followed by commerce class.	Political science class is before commerce class.
+entailment	Karen has music class followed by political science class.	Music class is before political science class.
+entailment	Heather has economics class followed by mathematics class.	Economics class is before mathematics class.
+entailment	Karen has music class followed by geography class.	Music class is before geography class.
+entailment	Kathryn has computer science class followed by history class.	Computer science class is before history class.
+entailment	Adam has latin class followed by mathematics class.	Latin class is before mathematics class.
+entailment	Philip has latin class followed by geology class.	Latin class is before geology class.
+entailment	Diana has music class followed by chemistry class.	Music class is before chemistry class.
+entailment	Edith has chemistry class followed by art class.	Chemistry class is before art class.
+entailment	Howard has history class followed by biology class.	History class is before biology class.
+entailment	Ruth has chemistry class followed by french class.	Chemistry class is before french class.
+entailment	Helen has geology class followed by history class.	Geology class is before history class.
+entailment	Marie has history class followed by computer science class.	History class is before computer science class.
+entailment	Amanda has political science class followed by music class.	Political science class is before music class.
+entailment	Patricia has computer science class followed by history class.	Computer science class is before history class.
+entailment	Melissa has art class followed by history class.	Art class is before history class.
+entailment	Anna has history class followed by computer science class.	History class is before computer science class.
+entailment	Jennifer has art class followed by chemistry class.	Art class is before chemistry class.
+entailment	Katie has commerce class followed by economics class.	Commerce class is before economics class.
+entailment	Donna has chemistry class followed by history class.	Chemistry class is before history class.
+entailment	Christopher has french class followed by chemistry class.	French class is before chemistry class.
+entailment	Rose has french class followed by chemistry class.	French class is before chemistry class.
+entailment	Henry has political science class followed by chemistry class.	Political science class is before chemistry class.
+entailment	Benjamin has commerce class followed by french class.	Commerce class is before french class.
+entailment	Sara has history class followed by political science class.	History class is before political science class.
+entailment	Sue has french class followed by geography class.	French class is before geography class.
+entailment	Greg has political science class followed by biology class.	Political science class is before biology class.
+entailment	Daniel has physics class followed by chemistry class.	Physics class is before chemistry class.
+entailment	Joe has french class followed by economics class.	French class is before economics class.
+entailment	Billy has literature class followed by geography class.	Literature class is before geography class.
+entailment	Jill has biology class followed by political science class.	Biology class is before political science class.
+entailment	Jason has computer science class followed by geology class.	Computer science class is before geology class.
+entailment	Jack has latin class followed by biology class.	Latin class is before biology class.
+entailment	Don has mathematics class followed by french class.	Mathematics class is before french class.
+entailment	Philip has french class followed by music class.	French class is before music class.
+entailment	Christine has economics class followed by computer science class.	Economics class is before computer science class.
+entailment	Linda has music class followed by mathematics class.	Music class is before mathematics class.
+entailment	Sarah has computer science class followed by physics class.	Computer science class is before physics class.
+entailment	Maria has computer science class followed by political science class.	Computer science class is before political science class.
+entailment	Diana has economics class followed by chemistry class.	Economics class is before chemistry class.
+entailment	Laura has geology class followed by mathematics class.	Geology class is before mathematics class.
+entailment	Patricia has physics class followed by geology class.	Physics class is before geology class.
+entailment	Ron has literature class followed by history class.	Literature class is before history class.
+entailment	Martin has chemistry class followed by geography class.	Chemistry class is before geography class.
+entailment	Sharon has french class followed by political science class.	French class is before political science class.
+entailment	Robin has music class followed by mathematics class.	Music class is before mathematics class.
+entailment	Kate has literature class followed by history class.	Literature class is before history class.
+entailment	Bruce has political science class followed by geology class.	Political science class is before geology class.
+entailment	Bob has political science class followed by geology class.	Political science class is before geology class.
+entailment	Gary has history class followed by french class.	History class is before french class.
+entailment	Elizabeth has physics class followed by art class.	Physics class is before art class.
+entailment	Tony has commerce class followed by geography class.	Commerce class is before geography class.
+entailment	Kevin has geology class followed by history class.	Geology class is before history class.
+entailment	Mary has computer science class followed by geography class.	Computer science class is before geography class.
+entailment	Harry has economics class followed by history class.	Economics class is before history class.
+entailment	Frederick has art class followed by french class.	Art class is before french class.
+entailment	Bill has physics class followed by latin class.	Physics class is before latin class.
+entailment	Frederick has economics class followed by physics class.	Economics class is before physics class.
+entailment	Tom has french class followed by art class.	French class is before art class.
+entailment	George has physics class followed by computer science class.	Physics class is before computer science class.
+entailment	Ken has physics class followed by biology class.	Physics class is before biology class.
+entailment	Nick has literature class followed by art class.	Literature class is before art class.

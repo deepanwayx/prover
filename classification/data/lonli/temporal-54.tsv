@@ -1,0 +1,1000 @@
+entailment	Bill has political science class then biology class then french class.	French class is the last class among the three.
+entailment	Annie has geography class then commerce class then art class.	Art class is the last class among the three.
+entailment	Grace has art class then latin class then mathematics class.	Mathematics class is the last class among the three.
+entailment	Stephen has geography class then chemistry class then computer science class.	Computer science class is the last class among the three.
+entailment	Francis has geology class then latin class then history class.	History class is the last class among the three.
+entailment	Barbara has computer science class then mathematics class then literature class.	Literature class is the last class among the three.
+entailment	Edith has geology class then commerce class then geography class.	Geography class is the last class among the three.
+entailment	Gary has geology class then music class then french class.	French class is the last class among the three.
+entailment	Anne has commerce class then literature class then french class.	French class is the last class among the three.
+entailment	Julie has economics class then political science class then chemistry class.	Chemistry class is the last class among the three.
+entailment	Julie has music class then geography class then french class.	French class is the last class among the three.
+entailment	Patricia has political science class then commerce class then economics class.	Economics class is the last class among the three.
+entailment	Bobby has latin class then political science class then french class.	French class is the last class among the three.
+entailment	Ralph has commerce class then physics class then biology class.	Biology class is the last class among the three.
+entailment	Chris has biology class then french class then music class.	Music class is the last class among the three.
+entailment	Joseph has history class then french class then music class.	Music class is the last class among the three.
+entailment	Harry has art class then music class then physics class.	Physics class is the last class among the three.
+entailment	Susan has latin class then geology class then mathematics class.	Mathematics class is the last class among the three.
+entailment	Richard has history class then geography class then biology class.	Biology class is the last class among the three.
+entailment	Sandra has french class then political science class then latin class.	Latin class is the last class among the three.
+entailment	Brian has geography class then history class then music class.	Music class is the last class among the three.
+entailment	Ruth has geology class then political science class then music class.	Music class is the last class among the three.
+entailment	Charlotte has music class then physics class then mathematics class.	Mathematics class is the last class among the three.
+entailment	Jeff has political science class then biology class then physics class.	Physics class is the last class among the three.
+entailment	Greg has commerce class then french class then physics class.	Physics class is the last class among the three.
+entailment	Sue has chemistry class then french class then history class.	History class is the last class among the three.
+entailment	Pamela has commerce class then latin class then art class.	Art class is the last class among the three.
+entailment	Bruce has latin class then political science class then chemistry class.	Chemistry class is the last class among the three.
+entailment	Melissa has mathematics class then political science class then geology class.	Geology class is the last class among the three.
+entailment	Marilyn has biology class then political science class then music class.	Music class is the last class among the three.
+entailment	Sara has art class then french class then geography class.	Geography class is the last class among the three.
+entailment	Thomas has commerce class then economics class then chemistry class.	Chemistry class is the last class among the three.
+entailment	Barbara has literature class then economics class then french class.	French class is the last class among the three.
+entailment	Claire has music class then political science class then geology class.	Geology class is the last class among the three.
+entailment	Jessica has commerce class then chemistry class then geology class.	Geology class is the last class among the three.
+entailment	Bill has political science class then geography class then chemistry class.	Chemistry class is the last class among the three.
+entailment	Fred has mathematics class then art class then geography class.	Geography class is the last class among the three.
+entailment	Edith has latin class then literature class then physics class.	Physics class is the last class among the three.
+entailment	Kevin has latin class then mathematics class then geography class.	Geography class is the last class among the three.
+entailment	Laura has geology class then music class then biology class.	Biology class is the last class among the three.
+entailment	Frederick has music class then french class then geography class.	Geography class is the last class among the three.
+entailment	Bruce has biology class then art class then french class.	French class is the last class among the three.
+entailment	Jill has geology class then art class then geography class.	Geography class is the last class among the three.
+entailment	Kenneth has computer science class then latin class then physics class.	Physics class is the last class among the three.
+entailment	Martha has latin class then commerce class then geography class.	Geography class is the last class among the three.
+entailment	Tony has geography class then commerce class then history class.	History class is the last class among the three.
+entailment	Richard has biology class then commerce class then economics class.	Economics class is the last class among the three.
+entailment	Katie has music class then mathematics class then french class.	French class is the last class among the three.
+entailment	Scott has computer science class then economics class then history class.	History class is the last class among the three.
+entailment	Harriet has political science class then music class then history class.	History class is the last class among the three.
+entailment	Ken has chemistry class then political science class then computer science class.	Computer science class is the last class among the three.
+entailment	Gary has literature class then political science class then latin class.	Latin class is the last class among the three.
+entailment	Cynthia has geology class then latin class then chemistry class.	Chemistry class is the last class among the three.
+entailment	Dave has computer science class then political science class then latin class.	Latin class is the last class among the three.
+entailment	Arthur has commerce class then history class then music class.	Music class is the last class among the three.
+entailment	Joseph has french class then physics class then political science class.	Political science class is the last class among the three.
+entailment	Edith has french class then biology class then mathematics class.	Mathematics class is the last class among the three.
+entailment	Louise has geography class then music class then computer science class.	Computer science class is the last class among the three.
+entailment	Jimmy has art class then biology class then computer science class.	Computer science class is the last class among the three.
+entailment	Nicole has geology class then music class then chemistry class.	Chemistry class is the last class among the three.
+entailment	Jay has history class then political science class then art class.	Art class is the last class among the three.
+entailment	Jean has economics class then geography class then computer science class.	Computer science class is the last class among the three.
+entailment	Elizabeth has mathematics class then geography class then literature class.	Literature class is the last class among the three.
+entailment	Michael has literature class then commerce class then latin class.	Latin class is the last class among the three.
+entailment	Sandra has latin class then economics class then political science class.	Political science class is the last class among the three.
+entailment	Jill has literature class then geography class then history class.	History class is the last class among the three.
+entailment	Keith has commerce class then music class then art class.	Art class is the last class among the three.
+entailment	Steven has music class then computer science class then chemistry class.	Chemistry class is the last class among the three.
+entailment	Michelle has political science class then biology class then commerce class.	Commerce class is the last class among the three.
+entailment	Claire has economics class then commerce class then geology class.	Geology class is the last class among the three.
+entailment	Nicole has geography class then history class then mathematics class.	Mathematics class is the last class among the three.
+entailment	Ann has commerce class then geology class then computer science class.	Computer science class is the last class among the three.
+entailment	Elizabeth has computer science class then geology class then economics class.	Economics class is the last class among the three.
+entailment	Chris has economics class then chemistry class then french class.	French class is the last class among the three.
+entailment	Melissa has chemistry class then geology class then physics class.	Physics class is the last class among the three.
+entailment	Sharon has mathematics class then literature class then economics class.	Economics class is the last class among the three.
+entailment	Mark has latin class then physics class then mathematics class.	Mathematics class is the last class among the three.
+entailment	Arthur has geography class then economics class then literature class.	Literature class is the last class among the three.
+entailment	Dorothy has history class then art class then political science class.	Political science class is the last class among the three.
+entailment	Joe has literature class then latin class then physics class.	Physics class is the last class among the three.
+entailment	Caroline has political science class then literature class then mathematics class.	Mathematics class is the last class among the three.
+entailment	Matt has music class then economics class then french class.	French class is the last class among the three.
+entailment	Helen has art class then geography class then latin class.	Latin class is the last class among the three.
+entailment	Cynthia has literature class then economics class then latin class.	Latin class is the last class among the three.
+entailment	Scott has economics class then mathematics class then french class.	French class is the last class among the three.
+entailment	Carl has computer science class then chemistry class then french class.	French class is the last class among the three.
+entailment	Sally has mathematics class then economics class then computer science class.	Computer science class is the last class among the three.
+entailment	Paul has economics class then history class then geography class.	Geography class is the last class among the three.
+entailment	Marilyn has geography class then latin class then french class.	French class is the last class among the three.
+entailment	Evelyn has physics class then geology class then commerce class.	Commerce class is the last class among the three.
+entailment	George has computer science class then french class then political science class.	Political science class is the last class among the three.
+entailment	Alan has music class then commerce class then chemistry class.	Chemistry class is the last class among the three.
+entailment	Alexander has music class then french class then political science class.	Political science class is the last class among the three.
+entailment	Harry has history class then geography class then latin class.	Latin class is the last class among the three.
+entailment	Amy has geology class then history class then political science class.	Political science class is the last class among the three.
+entailment	Tom has art class then geology class then literature class.	Literature class is the last class among the three.
+entailment	Albert has biology class then computer science class then french class.	French class is the last class among the three.
+entailment	Jane has geography class then chemistry class then commerce class.	Commerce class is the last class among the three.
+entailment	Richard has music class then history class then political science class.	Political science class is the last class among the three.
+entailment	Frank has political science class then biology class then history class.	History class is the last class among the three.
+entailment	Bob has chemistry class then commerce class then economics class.	Economics class is the last class among the three.
+entailment	Frederick has art class then chemistry class then literature class.	Literature class is the last class among the three.
+entailment	Katie has physics class then geography class then biology class.	Biology class is the last class among the three.
+entailment	Catherine has literature class then commerce class then physics class.	Physics class is the last class among the three.
+entailment	Kathryn has latin class then commerce class then french class.	French class is the last class among the three.
+entailment	Nancy has literature class then chemistry class then physics class.	Physics class is the last class among the three.
+entailment	Joan has physics class then geography class then commerce class.	Commerce class is the last class among the three.
+entailment	Benjamin has latin class then biology class then geography class.	Geography class is the last class among the three.
+entailment	Ben has history class then geology class then political science class.	Political science class is the last class among the three.
+entailment	Ray has commerce class then geography class then french class.	French class is the last class among the three.
+entailment	Donna has commerce class then computer science class then chemistry class.	Chemistry class is the last class among the three.
+entailment	Wendy has biology class then french class then computer science class.	Computer science class is the last class among the three.
+entailment	Sam has history class then latin class then french class.	French class is the last class among the three.
+entailment	Heather has commerce class then mathematics class then political science class.	Political science class is the last class among the three.
+entailment	Nancy has biology class then history class then literature class.	Literature class is the last class among the three.
+entailment	Carol has biology class then commerce class then physics class.	Physics class is the last class among the three.
+entailment	Nancy has literature class then geography class then history class.	History class is the last class among the three.
+entailment	Sam has computer science class then mathematics class then music class.	Music class is the last class among the three.
+entailment	Bruce has mathematics class then political science class then chemistry class.	Chemistry class is the last class among the three.
+entailment	Fred has music class then history class then computer science class.	Computer science class is the last class among the three.
+entailment	Janet has latin class then geography class then french class.	French class is the last class among the three.
+entailment	Judith has economics class then chemistry class then commerce class.	Commerce class is the last class among the three.
+entailment	Martin has french class then literature class then latin class.	Latin class is the last class among the three.
+entailment	Harold has geography class then political science class then physics class.	Physics class is the last class among the three.
+entailment	Patrick has commerce class then political science class then physics class.	Physics class is the last class among the three.
+entailment	Jessica has geology class then physics class then chemistry class.	Chemistry class is the last class among the three.
+entailment	Samuel has physics class then geology class then chemistry class.	Chemistry class is the last class among the three.
+entailment	Florence has economics class then computer science class then geography class.	Geography class is the last class among the three.
+entailment	Paul has art class then chemistry class then music class.	Music class is the last class among the three.
+entailment	Frank has political science class then french class then history class.	History class is the last class among the three.
+entailment	Kate has economics class then biology class then geology class.	Geology class is the last class among the three.
+entailment	Marie has geology class then economics class then history class.	History class is the last class among the three.
+entailment	Alan has mathematics class then physics class then literature class.	Literature class is the last class among the three.
+entailment	Emma has geology class then literature class then music class.	Music class is the last class among the three.
+entailment	Steve has political science class then computer science class then music class.	Music class is the last class among the three.
+entailment	Victoria has biology class then geography class then political science class.	Political science class is the last class among the three.
+entailment	Victoria has commerce class then history class then computer science class.	Computer science class is the last class among the three.
+entailment	Claire has mathematics class then geology class then french class.	French class is the last class among the three.
+entailment	Eric has art class then latin class then biology class.	Biology class is the last class among the three.
+entailment	Martin has art class then music class then economics class.	Economics class is the last class among the three.
+entailment	Harriet has chemistry class then latin class then history class.	History class is the last class among the three.
+entailment	Lynn has geology class then mathematics class then chemistry class.	Chemistry class is the last class among the three.
+entailment	Kim has french class then mathematics class then computer science class.	Computer science class is the last class among the three.
+entailment	Daniel has economics class then computer science class then political science class.	Political science class is the last class among the three.
+entailment	Harriet has history class then mathematics class then literature class.	Literature class is the last class among the three.
+entailment	Hugh has art class then music class then commerce class.	Commerce class is the last class among the three.
+entailment	Gary has french class then latin class then political science class.	Political science class is the last class among the three.
+entailment	Ian has computer science class then commerce class then physics class.	Physics class is the last class among the three.
+entailment	Jack has commerce class then literature class then mathematics class.	Mathematics class is the last class among the three.
+entailment	Keith has biology class then geology class then literature class.	Literature class is the last class among the three.
+entailment	Frances has political science class then literature class then music class.	Music class is the last class among the three.
+entailment	Nick has political science class then french class then computer science class.	Computer science class is the last class among the three.
+entailment	Billy has history class then music class then french class.	French class is the last class among the three.
+entailment	Walter has commerce class then literature class then latin class.	Latin class is the last class among the three.
+entailment	Tim has geology class then biology class then political science class.	Political science class is the last class among the three.
+entailment	Kenneth has physics class then computer science class then literature class.	Literature class is the last class among the three.
+entailment	Carol has geography class then commerce class then mathematics class.	Mathematics class is the last class among the three.
+entailment	Michelle has commerce class then chemistry class then geography class.	Geography class is the last class among the three.
+entailment	Bruce has commerce class then geography class then geology class.	Geology class is the last class among the three.
+entailment	Anna has biology class then art class then geology class.	Geology class is the last class among the three.
+entailment	Jennifer has computer science class then latin class then geography class.	Geography class is the last class among the three.
+entailment	Karen has music class then commerce class then art class.	Art class is the last class among the three.
+entailment	Evelyn has history class then chemistry class then music class.	Music class is the last class among the three.
+entailment	Dorothy has art class then chemistry class then commerce class.	Commerce class is the last class among the three.
+entailment	Nancy has biology class then computer science class then history class.	History class is the last class among the three.
+entailment	Emily has mathematics class then french class then latin class.	Latin class is the last class among the three.
+entailment	Gary has physics class then geography class then latin class.	Latin class is the last class among the three.
+entailment	Al has computer science class then mathematics class then geography class.	Geography class is the last class among the three.
+entailment	David has mathematics class then art class then history class.	History class is the last class among the three.
+entailment	Annie has geography class then latin class then literature class.	Literature class is the last class among the three.
+entailment	Al has biology class then chemistry class then geology class.	Geology class is the last class among the three.
+entailment	Jean has literature class then political science class then french class.	French class is the last class among the three.
+entailment	Charlotte has chemistry class then history class then literature class.	Literature class is the last class among the three.
+entailment	Al has latin class then geology class then political science class.	Political science class is the last class among the three.
+entailment	Sam has music class then latin class then history class.	History class is the last class among the three.
+entailment	Alison has economics class then literature class then french class.	French class is the last class among the three.
+entailment	Sandra has economics class then political science class then geography class.	Geography class is the last class among the three.
+entailment	Emily has political science class then art class then history class.	History class is the last class among the three.
+entailment	Angela has latin class then music class then economics class.	Economics class is the last class among the three.
+entailment	Eleanor has commerce class then music class then geology class.	Geology class is the last class among the three.
+entailment	Christopher has geography class then computer science class then chemistry class.	Chemistry class is the last class among the three.
+entailment	Howard has chemistry class then commerce class then history class.	History class is the last class among the three.
+entailment	Caroline has art class then french class then biology class.	Biology class is the last class among the three.
+entailment	Jane has art class then mathematics class then latin class.	Latin class is the last class among the three.
+entailment	Frederick has economics class then music class then literature class.	Literature class is the last class among the three.
+entailment	Annie has literature class then art class then latin class.	Latin class is the last class among the three.
+entailment	Arthur has chemistry class then geology class then commerce class.	Commerce class is the last class among the three.
+entailment	James has computer science class then french class then geography class.	Geography class is the last class among the three.
+entailment	Rachel has computer science class then commerce class then biology class.	Biology class is the last class among the three.
+entailment	Edith has political science class then commerce class then history class.	History class is the last class among the three.
+entailment	Kathryn has art class then history class then computer science class.	Computer science class is the last class among the three.
+entailment	George has music class then computer science class then art class.	Art class is the last class among the three.
+entailment	Andrea has french class then chemistry class then computer science class.	Computer science class is the last class among the three.
+entailment	Donald has computer science class then political science class then french class.	French class is the last class among the three.
+entailment	Sharon has biology class then mathematics class then literature class.	Literature class is the last class among the three.
+entailment	Rose has history class then art class then latin class.	Latin class is the last class among the three.
+entailment	Jane has geography class then physics class then computer science class.	Computer science class is the last class among the three.
+entailment	Anne has biology class then literature class then physics class.	Physics class is the last class among the three.
+entailment	Joe has commerce class then computer science class then french class.	French class is the last class among the three.
+entailment	Mike has latin class then political science class then history class.	History class is the last class among the three.
+entailment	Ralph has history class then physics class then literature class.	Literature class is the last class among the three.
+entailment	Wendy has physics class then biology class then history class.	History class is the last class among the three.
+entailment	Ron has chemistry class then geography class then mathematics class.	Mathematics class is the last class among the three.
+entailment	Gary has french class then history class then music class.	Music class is the last class among the three.
+entailment	Paul has history class then physics class then geography class.	Geography class is the last class among the three.
+entailment	Jay has economics class then art class then geography class.	Geography class is the last class among the three.
+entailment	Karen has music class then political science class then biology class.	Biology class is the last class among the three.
+entailment	Robin has biology class then music class then computer science class.	Computer science class is the last class among the three.
+entailment	Ellen has physics class then computer science class then biology class.	Biology class is the last class among the three.
+entailment	Charlotte has commerce class then mathematics class then latin class.	Latin class is the last class among the three.
+entailment	Diana has commerce class then computer science class then physics class.	Physics class is the last class among the three.
+entailment	Alexander has computer science class then physics class then political science class.	Political science class is the last class among the three.
+entailment	Christine has latin class then geology class then geography class.	Geography class is the last class among the three.
+entailment	Sophie has commerce class then literature class then biology class.	Biology class is the last class among the three.
+entailment	Carl has music class then computer science class then commerce class.	Commerce class is the last class among the three.
+entailment	Evelyn has economics class then art class then political science class.	Political science class is the last class among the three.
+entailment	Frances has commerce class then political science class then music class.	Music class is the last class among the three.
+entailment	Andrew has economics class then chemistry class then art class.	Art class is the last class among the three.
+entailment	Frances has literature class then computer science class then mathematics class.	Mathematics class is the last class among the three.
+entailment	Mary has history class then computer science class then commerce class.	Commerce class is the last class among the three.
+entailment	Emily has computer science class then french class then music class.	Music class is the last class among the three.
+entailment	Angela has commerce class then geography class then mathematics class.	Mathematics class is the last class among the three.
+entailment	Dorothy has political science class then mathematics class then physics class.	Physics class is the last class among the three.
+entailment	Betty has geography class then political science class then literature class.	Literature class is the last class among the three.
+entailment	Victoria has latin class then music class then geology class.	Geology class is the last class among the three.
+entailment	Paul has mathematics class then computer science class then biology class.	Biology class is the last class among the three.
+entailment	Patricia has latin class then music class then literature class.	Literature class is the last class among the three.
+entailment	Sandra has french class then literature class then physics class.	Physics class is the last class among the three.
+entailment	Louis has art class then geography class then french class.	French class is the last class among the three.
+entailment	John has physics class then computer science class then biology class.	Biology class is the last class among the three.
+entailment	Anne has history class then physics class then computer science class.	Computer science class is the last class among the three.
+entailment	Sharon has physics class then geology class then literature class.	Literature class is the last class among the three.
+entailment	Helen has geography class then music class then latin class.	Latin class is the last class among the three.
+entailment	Kenneth has art class then history class then chemistry class.	Chemistry class is the last class among the three.
+entailment	Sam has history class then french class then art class.	Art class is the last class among the three.
+entailment	Ron has latin class then geography class then computer science class.	Computer science class is the last class among the three.
+entailment	Tim has geology class then geography class then art class.	Art class is the last class among the three.
+entailment	Rachel has biology class then computer science class then geography class.	Geography class is the last class among the three.
+entailment	John has commerce class then economics class then history class.	History class is the last class among the three.
+entailment	Ray has latin class then music class then mathematics class.	Mathematics class is the last class among the three.
+entailment	Jill has physics class then geology class then literature class.	Literature class is the last class among the three.
+entailment	Judy has history class then latin class then economics class.	Economics class is the last class among the three.
+entailment	Jeff has economics class then history class then art class.	Art class is the last class among the three.
+entailment	Arthur has art class then geography class then economics class.	Economics class is the last class among the three.
+entailment	Amanda has mathematics class then biology class then geology class.	Geology class is the last class among the three.
+entailment	Jerry has geology class then computer science class then geography class.	Geography class is the last class among the three.
+entailment	Brian has latin class then french class then political science class.	Political science class is the last class among the three.
+entailment	Joan has geology class then mathematics class then economics class.	Economics class is the last class among the three.
+entailment	Bob has music class then mathematics class then latin class.	Latin class is the last class among the three.
+entailment	Tom has music class then art class then biology class.	Biology class is the last class among the three.
+entailment	Jean has music class then geology class then commerce class.	Commerce class is the last class among the three.
+entailment	Deborah has economics class then geology class then history class.	History class is the last class among the three.
+entailment	Donna has geology class then art class then biology class.	Biology class is the last class among the three.
+entailment	Kim has computer science class then biology class then latin class.	Latin class is the last class among the three.
+entailment	Rose has literature class then commerce class then latin class.	Latin class is the last class among the three.
+entailment	Charles has computer science class then music class then geology class.	Geology class is the last class among the three.
+entailment	Andrea has history class then economics class then computer science class.	Computer science class is the last class among the three.
+entailment	Bruce has economics class then chemistry class then mathematics class.	Mathematics class is the last class among the three.
+entailment	Eleanor has political science class then french class then commerce class.	Commerce class is the last class among the three.
+entailment	Catherine has chemistry class then political science class then art class.	Art class is the last class among the three.
+entailment	Emma has chemistry class then physics class then art class.	Art class is the last class among the three.
+entailment	Kate has political science class then latin class then physics class.	Physics class is the last class among the three.
+entailment	Jennifer has latin class then economics class then mathematics class.	Mathematics class is the last class among the three.
+entailment	Pamela has latin class then computer science class then history class.	History class is the last class among the three.
+entailment	Stephen has commerce class then literature class then chemistry class.	Chemistry class is the last class among the three.
+entailment	Lauren has physics class then geology class then commerce class.	Commerce class is the last class among the three.
+entailment	Julia has music class then art class then economics class.	Economics class is the last class among the three.
+entailment	Carl has music class then commerce class then geography class.	Geography class is the last class among the three.
+entailment	Wendy has art class then political science class then physics class.	Physics class is the last class among the three.
+entailment	Elizabeth has commerce class then geology class then literature class.	Literature class is the last class among the three.
+entailment	Caroline has mathematics class then computer science class then biology class.	Biology class is the last class among the three.
+entailment	Alex has literature class then history class then computer science class.	Computer science class is the last class among the three.
+entailment	Virginia has french class then biology class then music class.	Music class is the last class among the three.
+entailment	David has literature class then music class then physics class.	Physics class is the last class among the three.
+entailment	Julie has geology class then commerce class then physics class.	Physics class is the last class among the three.
+entailment	Harry has french class then literature class then geography class.	Geography class is the last class among the three.
+entailment	Joan has geology class then geography class then music class.	Music class is the last class among the three.
+entailment	Albert has french class then music class then geology class.	Geology class is the last class among the three.
+entailment	Daniel has music class then art class then computer science class.	Computer science class is the last class among the three.
+entailment	Joe has economics class then literature class then computer science class.	Computer science class is the last class among the three.
+entailment	Ann has political science class then computer science class then commerce class.	Commerce class is the last class among the three.
+entailment	Ann has art class then biology class then history class.	History class is the last class among the three.
+entailment	Mark has geography class then geology class then art class.	Art class is the last class among the three.
+entailment	Harriet has computer science class then latin class then history class.	History class is the last class among the three.
+entailment	Brian has literature class then commerce class then geology class.	Geology class is the last class among the three.
+entailment	James has physics class then music class then economics class.	Economics class is the last class among the three.
+entailment	Charlie has art class then geology class then biology class.	Biology class is the last class among the three.
+entailment	Hugh has economics class then physics class then mathematics class.	Mathematics class is the last class among the three.
+entailment	Helen has chemistry class then history class then physics class.	Physics class is the last class among the three.
+entailment	Louis has french class then latin class then economics class.	Economics class is the last class among the three.
+entailment	Anna has computer science class then literature class then chemistry class.	Chemistry class is the last class among the three.
+entailment	Alex has political science class then french class then commerce class.	Commerce class is the last class among the three.
+entailment	Jimmy has mathematics class then physics class then music class.	Music class is the last class among the three.
+entailment	David has french class then physics class then commerce class.	Commerce class is the last class among the three.
+entailment	Mark has physics class then political science class then commerce class.	Commerce class is the last class among the three.
+entailment	Sam has history class then political science class then french class.	French class is the last class among the three.
+entailment	Lucy has chemistry class then art class then geography class.	Geography class is the last class among the three.
+entailment	Rose has latin class then history class then chemistry class.	Chemistry class is the last class among the three.
+entailment	Frank has music class then literature class then latin class.	Latin class is the last class among the three.
+entailment	Betty has economics class then literature class then geography class.	Geography class is the last class among the three.
+entailment	Lynn has physics class then mathematics class then music class.	Music class is the last class among the three.
+entailment	Caroline has french class then political science class then computer science class.	Computer science class is the last class among the three.
+entailment	Ed has literature class then political science class then physics class.	Physics class is the last class among the three.
+entailment	Ron has literature class then art class then computer science class.	Computer science class is the last class among the three.
+entailment	Anthony has biology class then geography class then music class.	Music class is the last class among the three.
+entailment	Tim has geography class then chemistry class then biology class.	Biology class is the last class among the three.
+entailment	Johnny has mathematics class then latin class then music class.	Music class is the last class among the three.
+entailment	Sandra has physics class then art class then commerce class.	Commerce class is the last class among the three.
+entailment	Joseph has art class then commerce class then history class.	History class is the last class among the three.
+entailment	Melissa has mathematics class then economics class then political science class.	Political science class is the last class among the three.
+entailment	Grace has latin class then political science class then geography class.	Geography class is the last class among the three.
+entailment	Mike has geology class then commerce class then physics class.	Physics class is the last class among the three.
+entailment	Evelyn has art class then history class then mathematics class.	Mathematics class is the last class among the three.
+entailment	Alfred has physics class then biology class then music class.	Music class is the last class among the three.
+entailment	Harry has biology class then chemistry class then mathematics class.	Mathematics class is the last class among the three.
+entailment	Helen has commerce class then biology class then chemistry class.	Chemistry class is the last class among the three.
+entailment	Evelyn has geography class then computer science class then literature class.	Literature class is the last class among the three.
+entailment	Kathleen has economics class then geology class then mathematics class.	Mathematics class is the last class among the three.
+entailment	Gary has biology class then art class then mathematics class.	Mathematics class is the last class among the three.
+entailment	James has literature class then latin class then music class.	Music class is the last class among the three.
+entailment	Jessica has literature class then history class then mathematics class.	Mathematics class is the last class among the three.
+entailment	Joan has physics class then geology class then computer science class.	Computer science class is the last class among the three.
+entailment	Colin has literature class then commerce class then computer science class.	Computer science class is the last class among the three.
+entailment	Michael has economics class then literature class then mathematics class.	Mathematics class is the last class among the three.
+entailment	Suzanne has computer science class then art class then latin class.	Latin class is the last class among the three.
+entailment	Donna has literature class then geology class then biology class.	Biology class is the last class among the three.
+entailment	Mark has commerce class then political science class then geology class.	Geology class is the last class among the three.
+entailment	Tony has chemistry class then music class then computer science class.	Computer science class is the last class among the three.
+entailment	Virginia has biology class then geography class then chemistry class.	Chemistry class is the last class among the three.
+entailment	Alison has chemistry class then biology class then economics class.	Economics class is the last class among the three.
+entailment	Ellen has history class then latin class then economics class.	Economics class is the last class among the three.
+entailment	Marilyn has economics class then physics class then commerce class.	Commerce class is the last class among the three.
+entailment	Chris has music class then geography class then art class.	Art class is the last class among the three.
+entailment	Billy has literature class then mathematics class then commerce class.	Commerce class is the last class among the three.
+entailment	Carolyn has geology class then commerce class then mathematics class.	Mathematics class is the last class among the three.
+entailment	Mike has physics class then computer science class then mathematics class.	Mathematics class is the last class among the three.
+entailment	Elaine has geology class then history class then biology class.	Biology class is the last class among the three.
+entailment	Donna has geography class then french class then physics class.	Physics class is the last class among the three.
+entailment	Betty has geology class then computer science class then history class.	History class is the last class among the three.
+entailment	Annie has physics class then commerce class then biology class.	Biology class is the last class among the three.
+entailment	Al has biology class then music class then literature class.	Literature class is the last class among the three.
+entailment	Ashley has political science class then biology class then commerce class.	Commerce class is the last class among the three.
+entailment	Lawrence has history class then computer science class then geology class.	Geology class is the last class among the three.
+entailment	Colin has art class then geology class then commerce class.	Commerce class is the last class among the three.
+entailment	Simon has mathematics class then latin class then computer science class.	Computer science class is the last class among the three.
+entailment	Ron has music class then economics class then biology class.	Biology class is the last class among the three.
+entailment	Don has history class then music class then biology class.	Biology class is the last class among the three.
+entailment	Laura has geography class then french class then computer science class.	Computer science class is the last class among the three.
+entailment	Joan has mathematics class then computer science class then political science class.	Political science class is the last class among the three.
+entailment	Alexander has art class then biology class then french class.	French class is the last class among the three.
+entailment	Charlie has music class then economics class then chemistry class.	Chemistry class is the last class among the three.
+entailment	Louise has art class then biology class then geology class.	Geology class is the last class among the three.
+entailment	Jay has chemistry class then geography class then physics class.	Physics class is the last class among the three.
+entailment	Barbara has mathematics class then economics class then physics class.	Physics class is the last class among the three.
+entailment	Sara has political science class then chemistry class then physics class.	Physics class is the last class among the three.
+entailment	Chris has music class then physics class then latin class.	Latin class is the last class among the three.
+entailment	Sue has music class then history class then literature class.	Literature class is the last class among the three.
+entailment	Ed has mathematics class then commerce class then political science class.	Political science class is the last class among the three.
+entailment	Elaine has french class then physics class then chemistry class.	Chemistry class is the last class among the three.
+entailment	Kim has art class then literature class then chemistry class.	Chemistry class is the last class among the three.
+entailment	Donald has mathematics class then biology class then political science class.	Political science class is the last class among the three.
+entailment	Eric has french class then mathematics class then biology class.	Biology class is the last class among the three.
+entailment	Alexandra has geography class then chemistry class then physics class.	Physics class is the last class among the three.
+entailment	Helen has biology class then music class then chemistry class.	Chemistry class is the last class among the three.
+entailment	Tim has chemistry class then biology class then geology class.	Geology class is the last class among the three.
+entailment	Simon has geology class then geography class then literature class.	Literature class is the last class among the three.
+entailment	Leslie has mathematics class then computer science class then latin class.	Latin class is the last class among the three.
+entailment	Samuel has latin class then music class then art class.	Art class is the last class among the three.
+entailment	Kim has physics class then geography class then french class.	French class is the last class among the three.
+entailment	Evelyn has mathematics class then commerce class then political science class.	Political science class is the last class among the three.
+entailment	Louis has economics class then music class then literature class.	Literature class is the last class among the three.
+entailment	Kathy has latin class then history class then economics class.	Economics class is the last class among the three.
+entailment	James has geology class then latin class then geography class.	Geography class is the last class among the three.
+entailment	Annie has chemistry class then political science class then art class.	Art class is the last class among the three.
+entailment	Marie has history class then computer science class then geography class.	Geography class is the last class among the three.
+entailment	Steven has art class then history class then french class.	French class is the last class among the three.
+entailment	Paul has history class then political science class then economics class.	Economics class is the last class among the three.
+entailment	Rachel has literature class then computer science class then geology class.	Geology class is the last class among the three.
+entailment	Evelyn has music class then commerce class then physics class.	Physics class is the last class among the three.
+entailment	Frances has music class then biology class then economics class.	Economics class is the last class among the three.
+entailment	Ashley has biology class then commerce class then french class.	French class is the last class among the three.
+entailment	Betty has music class then geology class then art class.	Art class is the last class among the three.
+entailment	Joe has art class then french class then geology class.	Geology class is the last class among the three.
+entailment	Lawrence has geology class then commerce class then physics class.	Physics class is the last class among the three.
+entailment	Henry has commerce class then french class then history class.	History class is the last class among the three.
+entailment	Carolyn has commerce class then physics class then geology class.	Geology class is the last class among the three.
+entailment	Matthew has geology class then political science class then physics class.	Physics class is the last class among the three.
+entailment	Bob has economics class then political science class then latin class.	Latin class is the last class among the three.
+entailment	Victoria has mathematics class then history class then economics class.	Economics class is the last class among the three.
+entailment	Billy has commerce class then chemistry class then latin class.	Latin class is the last class among the three.
+entailment	Rose has art class then french class then commerce class.	Commerce class is the last class among the three.
+entailment	Bobby has biology class then geography class then commerce class.	Commerce class is the last class among the three.
+entailment	Charles has music class then commerce class then french class.	French class is the last class among the three.
+entailment	Jason has music class then economics class then political science class.	Political science class is the last class among the three.
+entailment	Jane has literature class then physics class then political science class.	Political science class is the last class among the three.
+entailment	Mary has biology class then chemistry class then commerce class.	Commerce class is the last class among the three.
+entailment	Kathryn has latin class then french class then geography class.	Geography class is the last class among the three.
+entailment	Hugh has music class then literature class then geology class.	Geology class is the last class among the three.
+entailment	Roy has latin class then computer science class then french class.	French class is the last class among the three.
+entailment	Jane has french class then computer science class then music class.	Music class is the last class among the three.
+entailment	Harriet has computer science class then literature class then physics class.	Physics class is the last class among the three.
+entailment	Robin has french class then literature class then computer science class.	Computer science class is the last class among the three.
+entailment	Roger has latin class then geography class then chemistry class.	Chemistry class is the last class among the three.
+entailment	Angela has mathematics class then geology class then biology class.	Biology class is the last class among the three.
+entailment	Jay has commerce class then latin class then mathematics class.	Mathematics class is the last class among the three.
+entailment	Andrew has physics class then art class then latin class.	Latin class is the last class among the three.
+entailment	Andrea has chemistry class then geography class then political science class.	Political science class is the last class among the three.
+entailment	Bill has literature class then history class then latin class.	Latin class is the last class among the three.
+entailment	Dorothy has french class then biology class then chemistry class.	Chemistry class is the last class among the three.
+entailment	Ann has geography class then geology class then music class.	Music class is the last class among the three.
+entailment	Christopher has economics class then geography class then latin class.	Latin class is the last class among the three.
+entailment	Anna has biology class then physics class then economics class.	Economics class is the last class among the three.
+entailment	Dan has biology class then geography class then music class.	Music class is the last class among the three.
+entailment	Walter has physics class then biology class then mathematics class.	Mathematics class is the last class among the three.
+entailment	Marilyn has french class then latin class then literature class.	Literature class is the last class among the three.
+entailment	Fred has commerce class then art class then history class.	History class is the last class among the three.
+entailment	Billy has biology class then music class then commerce class.	Commerce class is the last class among the three.
+entailment	Rachel has chemistry class then history class then commerce class.	Commerce class is the last class among the three.
+entailment	Anne has art class then biology class then music class.	Music class is the last class among the three.
+entailment	Cynthia has political science class then art class then literature class.	Literature class is the last class among the three.
+entailment	Steven has french class then latin class then music class.	Music class is the last class among the three.
+entailment	Johnny has latin class then french class then mathematics class.	Mathematics class is the last class among the three.
+entailment	Annie has physics class then music class then art class.	Art class is the last class among the three.
+entailment	Mike has political science class then chemistry class then computer science class.	Computer science class is the last class among the three.
+entailment	Sam has history class then literature class then political science class.	Political science class is the last class among the three.
+entailment	Tony has physics class then mathematics class then literature class.	Literature class is the last class among the three.
+entailment	Jay has art class then physics class then biology class.	Biology class is the last class among the three.
+entailment	Anna has art class then geography class then mathematics class.	Mathematics class is the last class among the three.
+entailment	Dick has geography class then physics class then history class.	History class is the last class among the three.
+entailment	Andrew has economics class then french class then latin class.	Latin class is the last class among the three.
+entailment	Jim has geography class then political science class then geology class.	Geology class is the last class among the three.
+entailment	Nicole has geology class then economics class then latin class.	Latin class is the last class among the three.
+entailment	Lisa has economics class then commerce class then mathematics class.	Mathematics class is the last class among the three.
+entailment	Anna has art class then history class then chemistry class.	Chemistry class is the last class among the three.
+entailment	Alison has history class then french class then biology class.	Biology class is the last class among the three.
+entailment	Mark has computer science class then literature class then physics class.	Physics class is the last class among the three.
+entailment	Roy has computer science class then french class then mathematics class.	Mathematics class is the last class among the three.
+entailment	Bruce has art class then chemistry class then history class.	History class is the last class among the three.
+entailment	Roy has music class then geography class then latin class.	Latin class is the last class among the three.
+entailment	Tim has literature class then geography class then history class.	History class is the last class among the three.
+entailment	Anthony has physics class then french class then economics class.	Economics class is the last class among the three.
+entailment	Scott has literature class then chemistry class then music class.	Music class is the last class among the three.
+entailment	Chris has physics class then music class then mathematics class.	Mathematics class is the last class among the three.
+entailment	Ralph has art class then computer science class then mathematics class.	Mathematics class is the last class among the three.
+entailment	Kelly has computer science class then political science class then geography class.	Geography class is the last class among the three.
+entailment	Emily has mathematics class then chemistry class then french class.	French class is the last class among the three.
+entailment	Carl has physics class then geology class then economics class.	Economics class is the last class among the three.
+entailment	Patricia has art class then music class then geography class.	Geography class is the last class among the three.
+entailment	Jessica has art class then chemistry class then geology class.	Geology class is the last class among the three.
+entailment	William has economics class then music class then mathematics class.	Mathematics class is the last class among the three.
+entailment	Steven has chemistry class then geography class then computer science class.	Computer science class is the last class among the three.
+entailment	Edwin has latin class then commerce class then music class.	Music class is the last class among the three.
+entailment	Ellen has latin class then music class then mathematics class.	Mathematics class is the last class among the three.
+entailment	Edward has french class then political science class then latin class.	Latin class is the last class among the three.
+entailment	Sandra has literature class then chemistry class then commerce class.	Commerce class is the last class among the three.
+entailment	David has music class then commerce class then geography class.	Geography class is the last class among the three.
+entailment	Mike has mathematics class then computer science class then literature class.	Literature class is the last class among the three.
+entailment	Adam has history class then geology class then music class.	Music class is the last class among the three.
+entailment	Paul has french class then computer science class then biology class.	Biology class is the last class among the three.
+entailment	Alice has geography class then literature class then computer science class.	Computer science class is the last class among the three.
+entailment	Kim has mathematics class then french class then economics class.	Economics class is the last class among the three.
+entailment	Margaret has chemistry class then geography class then history class.	History class is the last class among the three.
+entailment	Tom has geography class then mathematics class then french class.	French class is the last class among the three.
+entailment	Jill has history class then art class then mathematics class.	Mathematics class is the last class among the three.
+entailment	Bruce has history class then political science class then biology class.	Biology class is the last class among the three.
+entailment	Kim has political science class then economics class then french class.	French class is the last class among the three.
+entailment	Ray has biology class then geology class then literature class.	Literature class is the last class among the three.
+entailment	Jeff has computer science class then physics class then latin class.	Latin class is the last class among the three.
+entailment	Matt has geography class then music class then computer science class.	Computer science class is the last class among the three.
+entailment	Jay has biology class then latin class then mathematics class.	Mathematics class is the last class among the three.
+entailment	Ian has french class then commerce class then geology class.	Geology class is the last class among the three.
+entailment	Ruth has history class then biology class then political science class.	Political science class is the last class among the three.
+entailment	Tom has geology class then biology class then history class.	History class is the last class among the three.
+entailment	Bruce has art class then mathematics class then computer science class.	Computer science class is the last class among the three.
+entailment	Jennifer has biology class then physics class then computer science class.	Computer science class is the last class among the three.
+entailment	Jessica has chemistry class then mathematics class then literature class.	Literature class is the last class among the three.
+entailment	Thomas has latin class then french class then political science class.	Political science class is the last class among the three.
+entailment	Laura has chemistry class then political science class then french class.	French class is the last class among the three.
+entailment	Martha has music class then art class then geology class.	Geology class is the last class among the three.
+entailment	Louis has geography class then history class then french class.	French class is the last class among the three.
+entailment	Kim has economics class then literature class then chemistry class.	Chemistry class is the last class among the three.
+entailment	Joseph has physics class then french class then biology class.	Biology class is the last class among the three.
+entailment	Michael has political science class then commerce class then latin class.	Latin class is the last class among the three.
+entailment	Janet has geology class then history class then computer science class.	Computer science class is the last class among the three.
+entailment	Jane has physics class then latin class then computer science class.	Computer science class is the last class among the three.
+entailment	Christopher has latin class then literature class then art class.	Art class is the last class among the three.
+entailment	Ron has art class then music class then computer science class.	Computer science class is the last class among the three.
+entailment	Diana has literature class then art class then music class.	Music class is the last class among the three.
+entailment	Christine has music class then mathematics class then commerce class.	Commerce class is the last class among the three.
+entailment	Patrick has music class then commerce class then literature class.	Literature class is the last class among the three.
+entailment	Donald has chemistry class then physics class then mathematics class.	Mathematics class is the last class among the three.
+entailment	Suzanne has latin class then geology class then literature class.	Literature class is the last class among the three.
+entailment	Melissa has chemistry class then geology class then biology class.	Biology class is the last class among the three.
+entailment	Richard has political science class then chemistry class then latin class.	Latin class is the last class among the three.
+entailment	Sara has physics class then geography class then latin class.	Latin class is the last class among the three.
+entailment	Scott has political science class then computer science class then physics class.	Physics class is the last class among the three.
+entailment	Karen has geography class then art class then economics class.	Economics class is the last class among the three.
+entailment	Deborah has economics class then art class then mathematics class.	Mathematics class is the last class among the three.
+entailment	Harry has computer science class then art class then geology class.	Geology class is the last class among the three.
+entailment	Eric has music class then political science class then biology class.	Biology class is the last class among the three.
+entailment	Jennifer has physics class then mathematics class then french class.	French class is the last class among the three.
+entailment	Frederick has literature class then biology class then computer science class.	Computer science class is the last class among the three.
+entailment	Christine has music class then french class then biology class.	Biology class is the last class among the three.
+entailment	Judy has chemistry class then art class then commerce class.	Commerce class is the last class among the three.
+entailment	Kelly has political science class then physics class then commerce class.	Commerce class is the last class among the three.
+entailment	Suzanne has economics class then biology class then geology class.	Geology class is the last class among the three.
+entailment	Nicole has music class then commerce class then geography class.	Geography class is the last class among the three.
+entailment	Tony has computer science class then physics class then geography class.	Geography class is the last class among the three.
+entailment	Michael has art class then geography class then history class.	History class is the last class among the three.
+entailment	Katherine has history class then art class then literature class.	Literature class is the last class among the three.
+entailment	Alex has computer science class then economics class then geology class.	Geology class is the last class among the three.
+entailment	Jane has commerce class then economics class then history class.	History class is the last class among the three.
+entailment	Thomas has physics class then political science class then history class.	History class is the last class among the three.
+entailment	Dan has economics class then french class then physics class.	Physics class is the last class among the three.
+entailment	Jean has literature class then mathematics class then political science class.	Political science class is the last class among the three.
+entailment	Julie has economics class then music class then commerce class.	Commerce class is the last class among the three.
+entailment	Kathryn has economics class then art class then chemistry class.	Chemistry class is the last class among the three.
+entailment	Joan has history class then mathematics class then geology class.	Geology class is the last class among the three.
+entailment	Diana has french class then biology class then history class.	History class is the last class among the three.
+entailment	Julia has geography class then mathematics class then latin class.	Latin class is the last class among the three.
+entailment	Carolyn has geology class then music class then political science class.	Political science class is the last class among the three.
+entailment	Howard has economics class then art class then literature class.	Literature class is the last class among the three.
+entailment	Jimmy has political science class then literature class then music class.	Music class is the last class among the three.
+entailment	Alison has biology class then political science class then geography class.	Geography class is the last class among the three.
+entailment	Frank has literature class then computer science class then biology class.	Biology class is the last class among the three.
+entailment	Joseph has literature class then biology class then chemistry class.	Chemistry class is the last class among the three.
+entailment	George has music class then biology class then chemistry class.	Chemistry class is the last class among the three.
+entailment	Ed has latin class then geography class then art class.	Art class is the last class among the three.
+entailment	Chris has literature class then latin class then computer science class.	Computer science class is the last class among the three.
+entailment	Kathy has latin class then mathematics class then literature class.	Literature class is the last class among the three.
+entailment	Ryan has political science class then latin class then history class.	History class is the last class among the three.
+entailment	Caroline has physics class then economics class then literature class.	Literature class is the last class among the three.
+entailment	Nick has economics class then mathematics class then computer science class.	Computer science class is the last class among the three.
+entailment	Jill has geography class then economics class then biology class.	Biology class is the last class among the three.
+entailment	Sam has economics class then political science class then commerce class.	Commerce class is the last class among the three.
+entailment	Bob has commerce class then political science class then latin class.	Latin class is the last class among the three.
+entailment	Harriet has biology class then computer science class then chemistry class.	Chemistry class is the last class among the three.
+entailment	Patrick has art class then geology class then french class.	French class is the last class among the three.
+entailment	Christopher has economics class then french class then geography class.	Geography class is the last class among the three.
+entailment	Christopher has history class then computer science class then biology class.	Biology class is the last class among the three.
+entailment	Albert has latin class then chemistry class then computer science class.	Computer science class is the last class among the three.
+entailment	Jack has physics class then biology class then music class.	Music class is the last class among the three.
+entailment	Wendy has french class then commerce class then chemistry class.	Chemistry class is the last class among the three.
+entailment	Sharon has literature class then biology class then latin class.	Latin class is the last class among the three.
+entailment	Jonathan has economics class then computer science class then geography class.	Geography class is the last class among the three.
+entailment	Roy has commerce class then physics class then chemistry class.	Chemistry class is the last class among the three.
+entailment	Matt has geology class then french class then commerce class.	Commerce class is the last class among the three.
+entailment	Al has geography class then commerce class then economics class.	Economics class is the last class among the three.
+entailment	Maria has literature class then commerce class then french class.	French class is the last class among the three.
+entailment	Elizabeth has physics class then geology class then commerce class.	Commerce class is the last class among the three.
+entailment	Joe has chemistry class then literature class then geography class.	Geography class is the last class among the three.
+entailment	Edwin has commerce class then latin class then literature class.	Literature class is the last class among the three.
+entailment	Annie has economics class then latin class then french class.	French class is the last class among the three.
+entailment	Bobby has geography class then history class then commerce class.	Commerce class is the last class among the three.
+entailment	Kathy has mathematics class then french class then commerce class.	Commerce class is the last class among the three.
+entailment	Ken has literature class then geology class then economics class.	Economics class is the last class among the three.
+entailment	Lucy has geography class then art class then economics class.	Economics class is the last class among the three.
+entailment	Jane has physics class then political science class then economics class.	Economics class is the last class among the three.
+entailment	Katherine has computer science class then economics class then art class.	Art class is the last class among the three.
+entailment	Claire has physics class then geology class then geography class.	Geography class is the last class among the three.
+entailment	Larry has biology class then music class then chemistry class.	Chemistry class is the last class among the three.
+entailment	Angela has latin class then economics class then geology class.	Geology class is the last class among the three.
+entailment	Daniel has literature class then mathematics class then economics class.	Economics class is the last class among the three.
+entailment	Donna has biology class then literature class then art class.	Art class is the last class among the three.
+entailment	Mike has political science class then geography class then french class.	French class is the last class among the three.
+entailment	Rebecca has geology class then geography class then biology class.	Biology class is the last class among the three.
+entailment	Sue has biology class then french class then economics class.	Economics class is the last class among the three.
+entailment	Bruce has geography class then art class then political science class.	Political science class is the last class among the three.
+entailment	Kenneth has french class then computer science class then geology class.	Geology class is the last class among the three.
+entailment	Elaine has literature class then economics class then biology class.	Biology class is the last class among the three.
+entailment	Samuel has music class then latin class then commerce class.	Commerce class is the last class among the three.
+entailment	Hugh has geography class then chemistry class then music class.	Music class is the last class among the three.
+entailment	Billy has commerce class then biology class then french class.	French class is the last class among the three.
+entailment	Benjamin has latin class then music class then geography class.	Geography class is the last class among the three.
+entailment	Caroline has chemistry class then political science class then music class.	Music class is the last class among the three.
+entailment	Lauren has geography class then geology class then biology class.	Biology class is the last class among the three.
+entailment	Christopher has geology class then french class then computer science class.	Computer science class is the last class among the three.
+entailment	Joan has french class then biology class then political science class.	Political science class is the last class among the three.
+entailment	Fiona has music class then art class then french class.	French class is the last class among the three.
+entailment	Mark has art class then economics class then physics class.	Physics class is the last class among the three.
+entailment	Betty has political science class then literature class then music class.	Music class is the last class among the three.
+entailment	Leslie has chemistry class then geology class then computer science class.	Computer science class is the last class among the three.
+entailment	Heather has economics class then political science class then commerce class.	Commerce class is the last class among the three.
+entailment	Brian has geography class then history class then french class.	French class is the last class among the three.
+entailment	Jay has commerce class then french class then computer science class.	Computer science class is the last class among the three.
+entailment	Harold has french class then economics class then chemistry class.	Chemistry class is the last class among the three.
+entailment	Francis has chemistry class then commerce class then physics class.	Physics class is the last class among the three.
+entailment	Billy has commerce class then latin class then art class.	Art class is the last class among the three.
+entailment	Thomas has chemistry class then physics class then latin class.	Latin class is the last class among the three.
+entailment	Dick has history class then biology class then computer science class.	Computer science class is the last class among the three.
+entailment	Grace has latin class then biology class then geology class.	Geology class is the last class among the three.
+entailment	Louise has french class then art class then commerce class.	Commerce class is the last class among the three.
+entailment	Jane has music class then mathematics class then biology class.	Biology class is the last class among the three.
+entailment	Al has geology class then political science class then physics class.	Physics class is the last class among the three.
+entailment	Janet has chemistry class then literature class then biology class.	Biology class is the last class among the three.
+entailment	Frederick has french class then history class then biology class.	Biology class is the last class among the three.
+entailment	Bill has chemistry class then literature class then geology class.	Geology class is the last class among the three.
+entailment	Pamela has mathematics class then geology class then commerce class.	Commerce class is the last class among the three.
+entailment	Kathryn has mathematics class then history class then political science class.	Political science class is the last class among the three.
+entailment	Ken has art class then political science class then geography class.	Geography class is the last class among the three.
+entailment	Keith has mathematics class then literature class then history class.	History class is the last class among the three.
+entailment	Dan has commerce class then geography class then geology class.	Geology class is the last class among the three.
+entailment	Sue has literature class then latin class then chemistry class.	Chemistry class is the last class among the three.
+entailment	Daniel has biology class then art class then political science class.	Political science class is the last class among the three.
+entailment	Jane has economics class then literature class then art class.	Art class is the last class among the three.
+entailment	Ellen has geology class then physics class then computer science class.	Computer science class is the last class among the three.
+entailment	Ashley has art class then geology class then chemistry class.	Chemistry class is the last class among the three.
+entailment	Scott has commerce class then french class then biology class.	Biology class is the last class among the three.
+entailment	Leslie has geology class then chemistry class then art class.	Art class is the last class among the three.
+entailment	Robert has literature class then geology class then biology class.	Biology class is the last class among the three.
+entailment	Edwin has music class then history class then latin class.	Latin class is the last class among the three.
+entailment	Marie has art class then economics class then music class.	Music class is the last class among the three.
+entailment	Donald has french class then art class then biology class.	Biology class is the last class among the three.
+entailment	Michael has latin class then music class then geography class.	Geography class is the last class among the three.
+entailment	Lynn has computer science class then chemistry class then french class.	French class is the last class among the three.
+entailment	Jack has political science class then art class then chemistry class.	Chemistry class is the last class among the three.
+entailment	Barbara has mathematics class then history class then physics class.	Physics class is the last class among the three.
+entailment	Grace has geography class then history class then mathematics class.	Mathematics class is the last class among the three.
+entailment	Alan has art class then geography class then physics class.	Physics class is the last class among the three.
+entailment	Andrew has chemistry class then music class then physics class.	Physics class is the last class among the three.
+entailment	Angela has biology class then chemistry class then political science class.	Political science class is the last class among the three.
+entailment	Thomas has history class then biology class then chemistry class.	Chemistry class is the last class among the three.
+entailment	Anna has music class then commerce class then french class.	French class is the last class among the three.
+entailment	Christopher has chemistry class then latin class then french class.	French class is the last class among the three.
+entailment	Benjamin has art class then literature class then biology class.	Biology class is the last class among the three.
+entailment	Amy has political science class then music class then history class.	History class is the last class among the three.
+entailment	Colin has commerce class then computer science class then geology class.	Geology class is the last class among the three.
+entailment	Martha has political science class then music class then geology class.	Geology class is the last class among the three.
+entailment	Alan has biology class then french class then literature class.	Literature class is the last class among the three.
+entailment	Emily has computer science class then commerce class then literature class.	Literature class is the last class among the three.
+entailment	Ralph has latin class then literature class then biology class.	Biology class is the last class among the three.
+entailment	Betty has literature class then latin class then geology class.	Geology class is the last class among the three.
+entailment	Ray has political science class then geology class then latin class.	Latin class is the last class among the three.
+entailment	Kathleen has literature class then chemistry class then geology class.	Geology class is the last class among the three.
+entailment	Al has economics class then geography class then commerce class.	Commerce class is the last class among the three.
+entailment	Howard has history class then chemistry class then commerce class.	Commerce class is the last class among the three.
+entailment	Virginia has latin class then geography class then computer science class.	Computer science class is the last class among the three.
+entailment	Annie has mathematics class then history class then latin class.	Latin class is the last class among the three.
+entailment	Cynthia has computer science class then literature class then commerce class.	Commerce class is the last class among the three.
+entailment	Janet has latin class then commerce class then physics class.	Physics class is the last class among the three.
+entailment	Rachel has geography class then art class then french class.	French class is the last class among the three.
+entailment	Alice has literature class then computer science class then physics class.	Physics class is the last class among the three.
+entailment	Fred has economics class then french class then music class.	Music class is the last class among the three.
+entailment	Lawrence has biology class then history class then geography class.	Geography class is the last class among the three.
+entailment	Ann has geology class then computer science class then history class.	History class is the last class among the three.
+entailment	Angela has commerce class then art class then political science class.	Political science class is the last class among the three.
+entailment	Ryan has physics class then computer science class then music class.	Music class is the last class among the three.
+entailment	Adam has economics class then history class then literature class.	Literature class is the last class among the three.
+entailment	Margaret has music class then commerce class then political science class.	Political science class is the last class among the three.
+entailment	Colin has commerce class then chemistry class then latin class.	Latin class is the last class among the three.
+entailment	Judith has mathematics class then geography class then history class.	History class is the last class among the three.
+entailment	Caroline has history class then mathematics class then music class.	Music class is the last class among the three.
+entailment	Linda has music class then computer science class then physics class.	Physics class is the last class among the three.
+entailment	Jason has economics class then geography class then art class.	Art class is the last class among the three.
+entailment	Kathryn has literature class then history class then geography class.	Geography class is the last class among the three.
+entailment	Ed has biology class then political science class then art class.	Art class is the last class among the three.
+entailment	Julie has commerce class then chemistry class then latin class.	Latin class is the last class among the three.
+entailment	Laura has music class then geography class then literature class.	Literature class is the last class among the three.
+entailment	Sandra has computer science class then biology class then chemistry class.	Chemistry class is the last class among the three.
+entailment	Alex has biology class then french class then mathematics class.	Mathematics class is the last class among the three.
+entailment	Katherine has music class then physics class then chemistry class.	Chemistry class is the last class among the three.
+entailment	Peter has art class then economics class then history class.	History class is the last class among the three.
+entailment	Matt has biology class then latin class then history class.	History class is the last class among the three.
+entailment	Melissa has computer science class then french class then art class.	Art class is the last class among the three.
+entailment	Julia has biology class then geology class then computer science class.	Computer science class is the last class among the three.
+entailment	Donna has economics class then political science class then geography class.	Geography class is the last class among the three.
+entailment	Angela has chemistry class then computer science class then biology class.	Biology class is the last class among the three.
+entailment	Anna has commerce class then political science class then literature class.	Literature class is the last class among the three.
+entailment	Scott has history class then literature class then art class.	Art class is the last class among the three.
+entailment	Ken has art class then literature class then political science class.	Political science class is the last class among the three.
+entailment	Anna has commerce class then mathematics class then latin class.	Latin class is the last class among the three.
+entailment	Lynn has literature class then political science class then geography class.	Geography class is the last class among the three.
+entailment	Gary has literature class then political science class then mathematics class.	Mathematics class is the last class among the three.
+entailment	Lucy has latin class then music class then geography class.	Geography class is the last class among the three.
+entailment	Sandra has history class then art class then political science class.	Political science class is the last class among the three.
+entailment	Samuel has chemistry class then art class then french class.	French class is the last class among the three.
+entailment	Greg has french class then history class then economics class.	Economics class is the last class among the three.
+entailment	Simon has geography class then geology class then music class.	Music class is the last class among the three.
+entailment	Patricia has biology class then geology class then french class.	French class is the last class among the three.
+entailment	Carol has geography class then history class then literature class.	Literature class is the last class among the three.
+entailment	Joseph has latin class then political science class then geology class.	Geology class is the last class among the three.
+entailment	Thomas has art class then latin class then mathematics class.	Mathematics class is the last class among the three.
+entailment	Kim has music class then commerce class then art class.	Art class is the last class among the three.
+entailment	Katherine has commerce class then computer science class then literature class.	Literature class is the last class among the three.
+entailment	Charlie has geology class then history class then chemistry class.	Chemistry class is the last class among the three.
+entailment	Mary has physics class then commerce class then latin class.	Latin class is the last class among the three.
+entailment	Philip has literature class then art class then economics class.	Economics class is the last class among the three.
+entailment	Kate has geology class then biology class then literature class.	Literature class is the last class among the three.
+entailment	Christopher has latin class then political science class then mathematics class.	Mathematics class is the last class among the three.
+entailment	Patricia has chemistry class then commerce class then political science class.	Political science class is the last class among the three.
+entailment	Rose has geology class then chemistry class then music class.	Music class is the last class among the three.
+entailment	Jennifer has economics class then literature class then geography class.	Geography class is the last class among the three.
+entailment	Melissa has political science class then music class then art class.	Art class is the last class among the three.
+entailment	Diana has history class then literature class then geography class.	Geography class is the last class among the three.
+entailment	Jerry has art class then history class then geology class.	Geology class is the last class among the three.
+entailment	Heather has history class then biology class then political science class.	Political science class is the last class among the three.
+entailment	Edith has chemistry class then art class then latin class.	Latin class is the last class among the three.
+entailment	Edwin has commerce class then latin class then biology class.	Biology class is the last class among the three.
+entailment	Adam has history class then physics class then latin class.	Latin class is the last class among the three.
+entailment	Gary has biology class then literature class then economics class.	Economics class is the last class among the three.
+entailment	Dorothy has music class then french class then art class.	Art class is the last class among the three.
+entailment	Bill has physics class then biology class then latin class.	Latin class is the last class among the three.
+entailment	Frank has geography class then history class then economics class.	Economics class is the last class among the three.
+entailment	Albert has music class then history class then geology class.	Geology class is the last class among the three.
+entailment	Suzanne has commerce class then latin class then music class.	Music class is the last class among the three.
+entailment	Harry has biology class then commerce class then music class.	Music class is the last class among the three.
+entailment	Susan has commerce class then history class then chemistry class.	Chemistry class is the last class among the three.
+entailment	Arthur has computer science class then geology class then literature class.	Literature class is the last class among the three.
+entailment	Emily has latin class then history class then art class.	Art class is the last class among the three.
+entailment	Robert has chemistry class then geography class then literature class.	Literature class is the last class among the three.
+entailment	Amanda has chemistry class then literature class then latin class.	Latin class is the last class among the three.
+entailment	Lucy has commerce class then biology class then physics class.	Physics class is the last class among the three.
+entailment	Nicole has economics class then computer science class then history class.	History class is the last class among the three.
+entailment	Carol has geology class then history class then computer science class.	Computer science class is the last class among the three.
+entailment	Brian has art class then geology class then french class.	French class is the last class among the three.
+entailment	Andrea has music class then commerce class then geology class.	Geology class is the last class among the three.
+entailment	Patrick has latin class then history class then computer science class.	Computer science class is the last class among the three.
+entailment	Laura has mathematics class then chemistry class then computer science class.	Computer science class is the last class among the three.
+entailment	Sue has music class then commerce class then literature class.	Literature class is the last class among the three.
+entailment	Carolyn has economics class then political science class then french class.	French class is the last class among the three.
+entailment	Greg has computer science class then geography class then history class.	History class is the last class among the three.
+entailment	David has geography class then mathematics class then biology class.	Biology class is the last class among the three.
+entailment	Thomas has physics class then art class then french class.	French class is the last class among the three.
+entailment	Nicole has economics class then music class then biology class.	Biology class is the last class among the three.
+entailment	Benjamin has geology class then economics class then computer science class.	Computer science class is the last class among the three.
+entailment	Adam has french class then art class then geology class.	Geology class is the last class among the three.
+entailment	Andrea has latin class then art class then geology class.	Geology class is the last class among the three.
+entailment	Hugh has art class then geology class then commerce class.	Commerce class is the last class among the three.
+entailment	Judy has geology class then french class then political science class.	Political science class is the last class among the three.
+entailment	Martha has latin class then chemistry class then geology class.	Geology class is the last class among the three.
+entailment	Jeff has geology class then commerce class then computer science class.	Computer science class is the last class among the three.
+entailment	Sam has literature class then political science class then computer science class.	Computer science class is the last class among the three.
+entailment	Jeff has geography class then economics class then history class.	History class is the last class among the three.
+entailment	Charlotte has economics class then mathematics class then chemistry class.	Chemistry class is the last class among the three.
+entailment	Linda has computer science class then history class then political science class.	Political science class is the last class among the three.
+entailment	Charlotte has chemistry class then music class then commerce class.	Commerce class is the last class among the three.
+entailment	Benjamin has geography class then history class then mathematics class.	Mathematics class is the last class among the three.
+entailment	Annie has physics class then economics class then latin class.	Latin class is the last class among the three.
+entailment	Mary has chemistry class then french class then geology class.	Geology class is the last class among the three.
+entailment	Mary has geography class then economics class then chemistry class.	Chemistry class is the last class among the three.
+entailment	Frances has computer science class then latin class then mathematics class.	Mathematics class is the last class among the three.
+entailment	Karen has economics class then music class then geography class.	Geography class is the last class among the three.
+entailment	Colin has physics class then latin class then literature class.	Literature class is the last class among the three.
+entailment	Marilyn has french class then computer science class then physics class.	Physics class is the last class among the three.
+entailment	Eleanor has art class then computer science class then biology class.	Biology class is the last class among the three.
+entailment	Ben has latin class then geology class then chemistry class.	Chemistry class is the last class among the three.
+entailment	Leslie has music class then computer science class then literature class.	Literature class is the last class among the three.
+entailment	Matthew has chemistry class then art class then computer science class.	Computer science class is the last class among the three.
+entailment	Marilyn has economics class then mathematics class then commerce class.	Commerce class is the last class among the three.
+entailment	Al has history class then mathematics class then commerce class.	Commerce class is the last class among the three.
+entailment	Sam has commerce class then history class then political science class.	Political science class is the last class among the three.
+entailment	Linda has economics class then french class then political science class.	Political science class is the last class among the three.
+entailment	Anthony has latin class then computer science class then geology class.	Geology class is the last class among the three.
+entailment	Mary has art class then mathematics class then economics class.	Economics class is the last class among the three.
+entailment	Evelyn has geography class then literature class then chemistry class.	Chemistry class is the last class among the three.
+entailment	Kevin has computer science class then latin class then economics class.	Economics class is the last class among the three.
+entailment	Ralph has chemistry class then geography class then history class.	History class is the last class among the three.
+entailment	Richard has physics class then economics class then french class.	French class is the last class among the three.
+entailment	Virginia has chemistry class then history class then geology class.	Geology class is the last class among the three.
+entailment	Jill has french class then physics class then chemistry class.	Chemistry class is the last class among the three.
+entailment	Fred has literature class then music class then history class.	History class is the last class among the three.
+entailment	Dave has computer science class then chemistry class then geology class.	Geology class is the last class among the three.
+entailment	Jimmy has literature class then political science class then art class.	Art class is the last class among the three.
+entailment	Anthony has literature class then music class then chemistry class.	Chemistry class is the last class among the three.
+entailment	Eleanor has computer science class then commerce class then biology class.	Biology class is the last class among the three.
+entailment	Steven has political science class then commerce class then biology class.	Biology class is the last class among the three.
+entailment	Dorothy has economics class then computer science class then latin class.	Latin class is the last class among the three.
+entailment	Michael has art class then economics class then history class.	History class is the last class among the three.
+entailment	Alexander has literature class then computer science class then history class.	History class is the last class among the three.
+entailment	Virginia has art class then chemistry class then latin class.	Latin class is the last class among the three.
+entailment	Michael has biology class then literature class then physics class.	Physics class is the last class among the three.
+entailment	Angela has french class then economics class then geology class.	Geology class is the last class among the three.
+entailment	Donald has computer science class then physics class then biology class.	Biology class is the last class among the three.
+entailment	Diana has computer science class then chemistry class then mathematics class.	Mathematics class is the last class among the three.
+entailment	Ed has political science class then art class then geography class.	Geography class is the last class among the three.
+entailment	Carl has art class then mathematics class then music class.	Music class is the last class among the three.
+entailment	Mike has biology class then mathematics class then physics class.	Physics class is the last class among the three.
+entailment	Jane has geography class then french class then chemistry class.	Chemistry class is the last class among the three.
+entailment	Christopher has french class then political science class then literature class.	Literature class is the last class among the three.
+entailment	Katherine has economics class then political science class then french class.	French class is the last class among the three.
+entailment	Johnny has geology class then biology class then mathematics class.	Mathematics class is the last class among the three.
+entailment	Alison has physics class then art class then french class.	French class is the last class among the three.
+entailment	Judy has literature class then latin class then geography class.	Geography class is the last class among the three.
+entailment	George has chemistry class then art class then economics class.	Economics class is the last class among the three.
+entailment	Dave has commerce class then geography class then computer science class.	Computer science class is the last class among the three.
+entailment	Anna has chemistry class then mathematics class then french class.	French class is the last class among the three.
+entailment	Mike has history class then computer science class then latin class.	Latin class is the last class among the three.
+entailment	Jeff has computer science class then french class then biology class.	Biology class is the last class among the three.
+entailment	Mary has mathematics class then economics class then literature class.	Literature class is the last class among the three.
+entailment	Wendy has mathematics class then music class then french class.	French class is the last class among the three.
+entailment	Jack has art class then literature class then commerce class.	Commerce class is the last class among the three.
+entailment	Matthew has art class then biology class then economics class.	Economics class is the last class among the three.
+entailment	Sally has french class then geography class then latin class.	Latin class is the last class among the three.
+entailment	Dave has latin class then geology class then chemistry class.	Chemistry class is the last class among the three.
+entailment	Edwin has latin class then mathematics class then biology class.	Biology class is the last class among the three.
+entailment	Fiona has geography class then economics class then physics class.	Physics class is the last class among the three.
+entailment	Karen has geology class then economics class then physics class.	Physics class is the last class among the three.
+entailment	Rachel has physics class then latin class then mathematics class.	Mathematics class is the last class among the three.
+entailment	Patricia has history class then computer science class then music class.	Music class is the last class among the three.
+entailment	Joan has biology class then literature class then commerce class.	Commerce class is the last class among the three.
+entailment	Julie has political science class then commerce class then music class.	Music class is the last class among the three.
+entailment	Philip has computer science class then history class then latin class.	Latin class is the last class among the three.
+entailment	Emily has geology class then chemistry class then economics class.	Economics class is the last class among the three.
+entailment	Sharon has history class then geography class then mathematics class.	Mathematics class is the last class among the three.
+entailment	Larry has literature class then art class then biology class.	Biology class is the last class among the three.
+entailment	Catherine has biology class then commerce class then literature class.	Literature class is the last class among the three.
+entailment	Adam has geology class then physics class then commerce class.	Commerce class is the last class among the three.
+entailment	Andrew has chemistry class then political science class then literature class.	Literature class is the last class among the three.
+entailment	Caroline has art class then geology class then literature class.	Literature class is the last class among the three.
+entailment	Mary has chemistry class then history class then physics class.	Physics class is the last class among the three.
+entailment	Louis has computer science class then latin class then economics class.	Economics class is the last class among the three.
+entailment	William has chemistry class then literature class then geography class.	Geography class is the last class among the three.
+entailment	Ian has geology class then economics class then latin class.	Latin class is the last class among the three.
+entailment	Mark has french class then history class then commerce class.	Commerce class is the last class among the three.
+entailment	Annie has geology class then latin class then chemistry class.	Chemistry class is the last class among the three.
+entailment	Henry has mathematics class then latin class then biology class.	Biology class is the last class among the three.
+entailment	Ellen has chemistry class then computer science class then literature class.	Literature class is the last class among the three.
+entailment	Melissa has history class then latin class then art class.	Art class is the last class among the three.
+entailment	Charlie has literature class then french class then geology class.	Geology class is the last class among the three.
+entailment	Jean has political science class then computer science class then french class.	French class is the last class among the three.
+entailment	James has chemistry class then commerce class then physics class.	Physics class is the last class among the three.
+entailment	Brian has french class then computer science class then history class.	History class is the last class among the three.
+entailment	Simon has chemistry class then biology class then physics class.	Physics class is the last class among the three.
+entailment	Charles has mathematics class then literature class then history class.	History class is the last class among the three.
+entailment	Nick has music class then economics class then history class.	History class is the last class among the three.
+entailment	Ryan has music class then latin class then literature class.	Literature class is the last class among the three.
+entailment	Jennifer has art class then geography class then french class.	French class is the last class among the three.
+entailment	Lisa has mathematics class then biology class then physics class.	Physics class is the last class among the three.
+entailment	Andrea has chemistry class then economics class then geography class.	Geography class is the last class among the three.
+entailment	Diana has latin class then literature class then art class.	Art class is the last class among the three.
+entailment	Bruce has biology class then chemistry class then music class.	Music class is the last class among the three.
+entailment	Charles has chemistry class then french class then geography class.	Geography class is the last class among the three.
+entailment	George has music class then latin class then physics class.	Physics class is the last class among the three.
+entailment	Michael has mathematics class then geology class then music class.	Music class is the last class among the three.
+entailment	Larry has economics class then mathematics class then chemistry class.	Chemistry class is the last class among the three.
+entailment	Marilyn has literature class then music class then geography class.	Geography class is the last class among the three.
+entailment	Judy has physics class then mathematics class then latin class.	Latin class is the last class among the three.
+entailment	Scott has chemistry class then economics class then political science class.	Political science class is the last class among the three.
+entailment	Adam has french class then history class then economics class.	Economics class is the last class among the three.
+entailment	Jerry has biology class then music class then physics class.	Physics class is the last class among the three.
+entailment	Bob has art class then latin class then literature class.	Literature class is the last class among the three.
+entailment	Anna has french class then geology class then geography class.	Geography class is the last class among the three.
+entailment	Tom has history class then computer science class then literature class.	Literature class is the last class among the three.
+entailment	Tom has history class then geography class then mathematics class.	Mathematics class is the last class among the three.
+entailment	Marilyn has computer science class then literature class then french class.	French class is the last class among the three.
+entailment	Patrick has economics class then chemistry class then physics class.	Physics class is the last class among the three.
+entailment	Keith has geology class then economics class then history class.	History class is the last class among the three.
+entailment	Kathleen has chemistry class then geography class then political science class.	Political science class is the last class among the three.
+entailment	Marilyn has french class then geography class then physics class.	Physics class is the last class among the three.
+entailment	Kathryn has mathematics class then economics class then chemistry class.	Chemistry class is the last class among the three.
+entailment	William has latin class then literature class then history class.	History class is the last class among the three.
+entailment	Donna has political science class then history class then music class.	Music class is the last class among the three.
+entailment	Judith has biology class then geology class then history class.	History class is the last class among the three.
+entailment	Pamela has french class then history class then biology class.	Biology class is the last class among the three.
+entailment	Kathy has latin class then economics class then mathematics class.	Mathematics class is the last class among the three.
+entailment	Tim has physics class then biology class then music class.	Music class is the last class among the three.
+entailment	Al has art class then economics class then commerce class.	Commerce class is the last class among the three.
+entailment	Frances has economics class then history class then biology class.	Biology class is the last class among the three.
+entailment	Al has music class then biology class then history class.	History class is the last class among the three.
+entailment	Bob has geography class then latin class then literature class.	Literature class is the last class among the three.
+entailment	Alexandra has political science class then commerce class then music class.	Music class is the last class among the three.
+entailment	Jason has political science class then art class then biology class.	Biology class is the last class among the three.
+entailment	Arthur has computer science class then mathematics class then music class.	Music class is the last class among the three.
+entailment	Fred has music class then computer science class then french class.	French class is the last class among the three.
+entailment	Samuel has chemistry class then economics class then french class.	French class is the last class among the three.
+entailment	Edwin has art class then literature class then commerce class.	Commerce class is the last class among the three.
+entailment	Daniel has french class then geography class then art class.	Art class is the last class among the three.
+entailment	Harold has latin class then physics class then political science class.	Political science class is the last class among the three.
+entailment	Leslie has political science class then mathematics class then history class.	History class is the last class among the three.
+entailment	Carl has computer science class then political science class then geology class.	Geology class is the last class among the three.
+entailment	Mike has geology class then history class then computer science class.	Computer science class is the last class among the three.
+entailment	Martin has mathematics class then music class then physics class.	Physics class is the last class among the three.
+entailment	Harry has political science class then literature class then art class.	Art class is the last class among the three.
+entailment	Karen has commerce class then geography class then literature class.	Literature class is the last class among the three.
+entailment	William has physics class then latin class then computer science class.	Computer science class is the last class among the three.
+entailment	Keith has latin class then commerce class then geology class.	Geology class is the last class among the three.
+entailment	Leslie has art class then biology class then geography class.	Geography class is the last class among the three.
+entailment	Matthew has computer science class then physics class then political science class.	Political science class is the last class among the three.
+entailment	Ashley has art class then history class then latin class.	Latin class is the last class among the three.
+entailment	Ann has latin class then french class then physics class.	Physics class is the last class among the three.
+entailment	Billy has chemistry class then commerce class then music class.	Music class is the last class among the three.
+entailment	Jennifer has economics class then art class then literature class.	Literature class is the last class among the three.
+entailment	Joan has literature class then geology class then economics class.	Economics class is the last class among the three.
+entailment	Samuel has biology class then mathematics class then commerce class.	Commerce class is the last class among the three.
+entailment	Philip has physics class then literature class then chemistry class.	Chemistry class is the last class among the three.
+entailment	Gary has biology class then computer science class then mathematics class.	Mathematics class is the last class among the three.
+entailment	Victoria has biology class then literature class then computer science class.	Computer science class is the last class among the three.
+entailment	Thomas has french class then latin class then economics class.	Economics class is the last class among the three.
+entailment	Sara has economics class then french class then mathematics class.	Mathematics class is the last class among the three.
+entailment	Ken has chemistry class then literature class then music class.	Music class is the last class among the three.
+entailment	Fiona has biology class then literature class then history class.	History class is the last class among the three.
+entailment	Stephanie has physics class then political science class then computer science class.	Computer science class is the last class among the three.
+entailment	Mark has french class then music class then chemistry class.	Chemistry class is the last class among the three.
+entailment	Caroline has economics class then history class then commerce class.	Commerce class is the last class among the three.
+entailment	Andrew has political science class then physics class then chemistry class.	Chemistry class is the last class among the three.
+entailment	Carolyn has mathematics class then music class then physics class.	Physics class is the last class among the three.
+entailment	Dave has computer science class then political science class then literature class.	Literature class is the last class among the three.
+entailment	Frank has computer science class then literature class then economics class.	Economics class is the last class among the three.
+entailment	Tony has political science class then biology class then latin class.	Latin class is the last class among the three.
+entailment	Stephen has mathematics class then music class then history class.	History class is the last class among the three.
+entailment	Claire has art class then music class then biology class.	Biology class is the last class among the three.
+entailment	Lynn has literature class then biology class then political science class.	Political science class is the last class among the three.
+entailment	James has geography class then art class then chemistry class.	Chemistry class is the last class among the three.
+entailment	Janet has french class then literature class then computer science class.	Computer science class is the last class among the three.
+entailment	Judith has computer science class then latin class then art class.	Art class is the last class among the three.
+entailment	Dan has mathematics class then art class then biology class.	Biology class is the last class among the three.
+entailment	Joseph has geology class then commerce class then geography class.	Geography class is the last class among the three.
+entailment	Melissa has geology class then literature class then political science class.	Political science class is the last class among the three.
+entailment	Harold has history class then economics class then computer science class.	Computer science class is the last class among the three.
+entailment	Robert has french class then commerce class then music class.	Music class is the last class among the three.
+entailment	Elizabeth has geology class then mathematics class then art class.	Art class is the last class among the three.
+entailment	Keith has biology class then music class then computer science class.	Computer science class is the last class among the three.
+entailment	Sue has economics class then history class then chemistry class.	Chemistry class is the last class among the three.
+entailment	Walter has geography class then french class then mathematics class.	Mathematics class is the last class among the three.
+entailment	Colin has literature class then french class then chemistry class.	Chemistry class is the last class among the three.
+entailment	Evelyn has political science class then latin class then economics class.	Economics class is the last class among the three.
+entailment	Lisa has geology class then computer science class then biology class.	Biology class is the last class among the three.
+entailment	Julia has geology class then political science class then computer science class.	Computer science class is the last class among the three.
+entailment	Virginia has art class then political science class then geography class.	Geography class is the last class among the three.
+entailment	Donna has literature class then music class then art class.	Art class is the last class among the three.
+entailment	Christine has literature class then art class then latin class.	Latin class is the last class among the three.
+entailment	Steven has computer science class then french class then history class.	History class is the last class among the three.
+entailment	Ian has biology class then history class then economics class.	Economics class is the last class among the three.
+entailment	Nancy has physics class then computer science class then music class.	Music class is the last class among the three.
+entailment	Karen has latin class then mathematics class then physics class.	Physics class is the last class among the three.
+entailment	Scott has geography class then latin class then french class.	French class is the last class among the three.
+entailment	Stephen has mathematics class then literature class then economics class.	Economics class is the last class among the three.
+entailment	Jimmy has french class then chemistry class then music class.	Music class is the last class among the three.
+entailment	Charles has literature class then physics class then chemistry class.	Chemistry class is the last class among the three.
+entailment	Ken has computer science class then literature class then political science class.	Political science class is the last class among the three.
+entailment	Sharon has art class then computer science class then geography class.	Geography class is the last class among the three.
+entailment	Rebecca has music class then literature class then mathematics class.	Mathematics class is the last class among the three.
+entailment	Cynthia has mathematics class then music class then geography class.	Geography class is the last class among the three.
+entailment	Charles has french class then computer science class then music class.	Music class is the last class among the three.
+entailment	Ray has literature class then political science class then computer science class.	Computer science class is the last class among the three.
+entailment	Melissa has geography class then computer science class then french class.	French class is the last class among the three.
+entailment	Kevin has latin class then mathematics class then commerce class.	Commerce class is the last class among the three.
+entailment	Ryan has commerce class then mathematics class then computer science class.	Computer science class is the last class among the three.
+entailment	Amanda has mathematics class then chemistry class then computer science class.	Computer science class is the last class among the three.
+entailment	Elaine has economics class then political science class then history class.	History class is the last class among the three.
+entailment	Sarah has latin class then literature class then computer science class.	Computer science class is the last class among the three.
+entailment	Patricia has political science class then latin class then geology class.	Geology class is the last class among the three.
+entailment	Katie has geology class then economics class then history class.	History class is the last class among the three.
+entailment	Maria has commerce class then computer science class then biology class.	Biology class is the last class among the three.
+entailment	Leslie has art class then physics class then biology class.	Biology class is the last class among the three.
+entailment	Adam has physics class then geography class then music class.	Music class is the last class among the three.
+entailment	Lisa has latin class then biology class then geology class.	Geology class is the last class among the three.
+entailment	Sara has music class then chemistry class then latin class.	Latin class is the last class among the three.
+entailment	Al has french class then chemistry class then geology class.	Geology class is the last class among the three.
+entailment	Louis has literature class then commerce class then geology class.	Geology class is the last class among the three.
+entailment	Robin has biology class then french class then commerce class.	Commerce class is the last class among the three.
+entailment	Michelle has art class then french class then literature class.	Literature class is the last class among the three.
+entailment	Kathryn has computer science class then french class then geography class.	Geography class is the last class among the three.
+entailment	Sue has history class then mathematics class then literature class.	Literature class is the last class among the three.
+entailment	Kate has history class then geology class then biology class.	Biology class is the last class among the three.
+entailment	Fiona has literature class then geography class then biology class.	Biology class is the last class among the three.
+entailment	Leslie has physics class then music class then literature class.	Literature class is the last class among the three.
+entailment	Scott has art class then literature class then geography class.	Geography class is the last class among the three.
+entailment	Greg has chemistry class then economics class then computer science class.	Computer science class is the last class among the three.
+entailment	Frank has art class then computer science class then latin class.	Latin class is the last class among the three.
+entailment	Sandra has art class then history class then mathematics class.	Mathematics class is the last class among the three.
+entailment	James has history class then latin class then computer science class.	Computer science class is the last class among the three.
+entailment	Frank has geology class then literature class then economics class.	Economics class is the last class among the three.
+entailment	Ian has geography class then economics class then geology class.	Geology class is the last class among the three.
+entailment	Bobby has economics class then computer science class then chemistry class.	Chemistry class is the last class among the three.
+entailment	Carolyn has biology class then french class then history class.	History class is the last class among the three.
+entailment	Elizabeth has literature class then chemistry class then political science class.	Political science class is the last class among the three.
+entailment	Jennifer has biology class then computer science class then physics class.	Physics class is the last class among the three.
+entailment	Scott has computer science class then latin class then music class.	Music class is the last class among the three.
+entailment	Billy has mathematics class then physics class then geography class.	Geography class is the last class among the three.
+entailment	Florence has economics class then computer science class then physics class.	Physics class is the last class among the three.
+entailment	Lynn has french class then literature class then physics class.	Physics class is the last class among the three.
+entailment	Lawrence has chemistry class then commerce class then mathematics class.	Mathematics class is the last class among the three.
+entailment	Alan has music class then geography class then mathematics class.	Mathematics class is the last class among the three.
+entailment	Heather has economics class then latin class then geography class.	Geography class is the last class among the three.
+entailment	Frances has geography class then latin class then chemistry class.	Chemistry class is the last class among the three.
+entailment	Wendy has geology class then mathematics class then commerce class.	Commerce class is the last class among the three.
+entailment	Carol has mathematics class then literature class then political science class.	Political science class is the last class among the three.
+entailment	Ruth has political science class then music class then mathematics class.	Mathematics class is the last class among the three.
+entailment	Tom has latin class then art class then french class.	French class is the last class among the three.
+entailment	Louis has history class then latin class then mathematics class.	Mathematics class is the last class among the three.
+entailment	Harold has chemistry class then latin class then commerce class.	Commerce class is the last class among the three.
+entailment	Laura has computer science class then biology class then geology class.	Geology class is the last class among the three.
+entailment	Dick has latin class then geology class then mathematics class.	Mathematics class is the last class among the three.
+entailment	Marie has commerce class then music class then chemistry class.	Chemistry class is the last class among the three.
+entailment	Edith has geology class then chemistry class then geography class.	Geography class is the last class among the three.
+entailment	Diana has french class then chemistry class then latin class.	Latin class is the last class among the three.
+entailment	Ed has music class then chemistry class then economics class.	Economics class is the last class among the three.
+entailment	Marie has mathematics class then art class then french class.	French class is the last class among the three.
+entailment	Bobby has economics class then mathematics class then music class.	Music class is the last class among the three.
+entailment	Lauren has latin class then literature class then history class.	History class is the last class among the three.
+entailment	Linda has mathematics class then chemistry class then economics class.	Economics class is the last class among the three.
+entailment	Laura has physics class then french class then history class.	History class is the last class among the three.
+entailment	Joan has french class then political science class then art class.	Art class is the last class among the three.
+entailment	Margaret has art class then physics class then political science class.	Political science class is the last class among the three.
+entailment	Catherine has biology class then history class then french class.	French class is the last class among the three.
+entailment	Julia has mathematics class then political science class then art class.	Art class is the last class among the three.
+entailment	Fiona has chemistry class then biology class then commerce class.	Commerce class is the last class among the three.
+entailment	Kevin has biology class then literature class then history class.	History class is the last class among the three.
+entailment	Leslie has political science class then commerce class then latin class.	Latin class is the last class among the three.

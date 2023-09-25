@@ -1,0 +1,1000 @@
+contradiction	Miami is located between Illinois and Phoenix.	Phoenix is nearer to Illinois than Phoenix is to Miami.
+contradiction	Frankfurt is located between Irving and Irvine.	Irvine is nearer to Irving than Irvine is to Frankfurt.
+contradiction	Chicago is located between Boston and Olympia.	Olympia is nearer to Boston than Olympia is to Chicago.
+contradiction	Olympia is located between Las Vegas and Irvine.	Irvine is nearer to Las Vegas than Irvine is to Olympia.
+contradiction	Miami is located between Columbia and Las Vegas.	Las Vegas is nearer to Columbia than Las Vegas is to Miami.
+contradiction	New York is located between Philadelphia and Tulsa.	Tulsa is nearer to Philadelphia than Tulsa is to New York.
+contradiction	Sacramento is located between Illinois and Philadelphia.	Philadelphia is nearer to Illinois than Philadelphia is to Sacramento.
+contradiction	San Francisco is located between Olympia and Tempe.	Tempe is nearer to Olympia than Tempe is to San Francisco.
+contradiction	Boston is located between Las Vegas and Hartford.	Hartford is nearer to Las Vegas than Hartford is to Boston.
+contradiction	Oklahoma is located between Irvine and Tempe.	Tempe is nearer to Irvine than Tempe is to Oklahoma.
+contradiction	Philadelphia is located between Los Angeles and Manchester.	Manchester is nearer to Los Angeles than Manchester is to Philadelphia.
+contradiction	Phoenix is located between Albany and Ontario.	Ontario is nearer to Albany than Ontario is to Phoenix.
+contradiction	Springfield is located between Dallas and Sacramento.	Sacramento is nearer to Dallas than Sacramento is to Springfield.
+contradiction	Tempe is located between Rochester and Dallas.	Dallas is nearer to Rochester than Dallas is to Tempe.
+contradiction	Tempe is located between Sacramento and Santa Barbara.	Santa Barbara is nearer to Sacramento than Santa Barbara is to Tempe.
+contradiction	Hampton is located between San Diego and Philadelphia.	Philadelphia is nearer to San Diego than Philadelphia is to Hampton.
+contradiction	Manchester is located between Tempe and San Francisco.	San Francisco is nearer to Tempe than San Francisco is to Manchester.
+contradiction	San Jose is located between Hartford and Irvine.	Irvine is nearer to Hartford than Irvine is to San Jose.
+contradiction	Washington is located between Irvine and Dallas.	Dallas is nearer to Irvine than Dallas is to Washington.
+contradiction	Rochester is located between Sacramento and Oklahoma.	Oklahoma is nearer to Sacramento than Oklahoma is to Rochester.
+contradiction	Phoenix is located between Olympia and Columbia.	Columbia is nearer to Olympia than Columbia is to Phoenix.
+contradiction	New York is located between Kansas and Frankfurt.	Frankfurt is nearer to Kansas than Frankfurt is to New York.
+contradiction	Frankfurt is located between Los Angeles and Dallas.	Dallas is nearer to Los Angeles than Dallas is to Frankfurt.
+contradiction	Springfield is located between Chicago and Columbia.	Columbia is nearer to Chicago than Columbia is to Springfield.
+contradiction	Dallas is located between San Jose and Albany.	Albany is nearer to San Jose than Albany is to Dallas.
+contradiction	Miami is located between Pittsburg and Minneapolis.	Minneapolis is nearer to Pittsburg than Minneapolis is to Miami.
+contradiction	Dallas is located between Detroit and Irvine.	Irvine is nearer to Detroit than Irvine is to Dallas.
+contradiction	Olympia is located between Boston and Tempe.	Tempe is nearer to Boston than Tempe is to Olympia.
+contradiction	Illinois is located between Tempe and Springfield.	Springfield is nearer to Tempe than Springfield is to Illinois.
+contradiction	Los Angeles is located between Chicago and Illinois.	Illinois is nearer to Chicago than Illinois is to Los Angeles.
+contradiction	Manchester is located between Miami and Irvine.	Irvine is nearer to Miami than Irvine is to Manchester.
+contradiction	Minneapolis is located between Washington and Manchester.	Manchester is nearer to Washington than Manchester is to Minneapolis.
+contradiction	Springfield is located between Irvine and Frankfurt.	Frankfurt is nearer to Irvine than Frankfurt is to Springfield.
+contradiction	New York is located between Columbia and Sacramento.	Sacramento is nearer to Columbia than Sacramento is to New York.
+contradiction	San Diego is located between Springfield and Philadelphia.	Philadelphia is nearer to Springfield than Philadelphia is to San Diego.
+contradiction	Springfield is located between Chicago and Tulsa.	Tulsa is nearer to Chicago than Tulsa is to Springfield.
+contradiction	Los Angeles is located between Miami and Albany.	Albany is nearer to Miami than Albany is to Los Angeles.
+contradiction	Los Angeles is located between Chicago and San Francisco.	San Francisco is nearer to Chicago than San Francisco is to Los Angeles.
+contradiction	Santa Barbara is located between Olympia and Albany.	Albany is nearer to Olympia than Albany is to Santa Barbara.
+contradiction	Santa Barbara is located between Irving and San Diego.	San Diego is nearer to Irving than San Diego is to Santa Barbara.
+contradiction	Dallas is located between Oklahoma and New York.	New York is nearer to Oklahoma than New York is to Dallas.
+contradiction	Irving is located between San Diego and Boston.	Boston is nearer to San Diego than Boston is to Irving.
+contradiction	Philadelphia is located between San Diego and Houston.	Houston is nearer to San Diego than Houston is to Philadelphia.
+contradiction	Detroit is located between Manchester and Olympia.	Olympia is nearer to Manchester than Olympia is to Detroit.
+contradiction	Buffalo is located between Hampton and Kansas.	Kansas is nearer to Hampton than Kansas is to Buffalo.
+contradiction	Springfield is located between Kansas and Dallas.	Dallas is nearer to Kansas than Dallas is to Springfield.
+contradiction	Illinois is located between Hampton and Houston.	Houston is nearer to Hampton than Houston is to Illinois.
+contradiction	Philadelphia is located between Washington and Kansas.	Kansas is nearer to Washington than Kansas is to Philadelphia.
+contradiction	Philadelphia is located between Richmond and Boston.	Boston is nearer to Richmond than Boston is to Philadelphia.
+contradiction	Manchester is located between Miami and San Diego.	San Diego is nearer to Miami than San Diego is to Manchester.
+contradiction	Irvine is located between Washington and Irving.	Irving is nearer to Washington than Irving is to Irvine.
+contradiction	Richmond is located between Pittsburg and Illinois.	Illinois is nearer to Pittsburg than Illinois is to Richmond.
+contradiction	San Jose is located between Madison and New York.	New York is nearer to Madison than New York is to San Jose.
+contradiction	Hartford is located between Minneapolis and Hampton.	Hampton is nearer to Minneapolis than Hampton is to Hartford.
+contradiction	Pittsburg is located between Los Angeles and Frankfurt.	Frankfurt is nearer to Los Angeles than Frankfurt is to Pittsburg.
+contradiction	Irving is located between Frankfurt and Albany.	Albany is nearer to Frankfurt than Albany is to Irving.
+contradiction	Richmond is located between Tulsa and Las Vegas.	Las Vegas is nearer to Tulsa than Las Vegas is to Richmond.
+contradiction	Buffalo is located between San Diego and Santa Barbara.	Santa Barbara is nearer to San Diego than Santa Barbara is to Buffalo.
+contradiction	Olympia is located between Washington and San Jose.	San Jose is nearer to Washington than San Jose is to Olympia.
+contradiction	Philadelphia is located between Tulsa and Houston.	Houston is nearer to Tulsa than Houston is to Philadelphia.
+contradiction	Sacramento is located between San Francisco and Olympia.	Olympia is nearer to San Francisco than Olympia is to Sacramento.
+contradiction	Tulsa is located between Irvine and San Jose.	San Jose is nearer to Irvine than San Jose is to Tulsa.
+contradiction	Irving is located between Sacramento and Buffalo.	Buffalo is nearer to Sacramento than Buffalo is to Irving.
+contradiction	Pittsburg is located between Minneapolis and Illinois.	Illinois is nearer to Minneapolis than Illinois is to Pittsburg.
+contradiction	Oklahoma is located between Tempe and Hampton.	Hampton is nearer to Tempe than Hampton is to Oklahoma.
+contradiction	Hampton is located between Boston and Los Angeles.	Los Angeles is nearer to Boston than Los Angeles is to Hampton.
+contradiction	Olympia is located between Tulsa and San Francisco.	San Francisco is nearer to Tulsa than San Francisco is to Olympia.
+contradiction	Los Angeles is located between San Francisco and Madison.	Madison is nearer to San Francisco than Madison is to Los Angeles.
+contradiction	Richmond is located between Boston and Phoenix.	Phoenix is nearer to Boston than Phoenix is to Richmond.
+contradiction	Oklahoma is located between Richmond and Columbia.	Columbia is nearer to Richmond than Columbia is to Oklahoma.
+contradiction	Philadelphia is located between Rochester and New York.	New York is nearer to Rochester than New York is to Philadelphia.
+contradiction	Hampton is located between Columbia and Philadelphia.	Philadelphia is nearer to Columbia than Philadelphia is to Hampton.
+contradiction	Miami is located between New York and San Francisco.	San Francisco is nearer to New York than San Francisco is to Miami.
+contradiction	Albany is located between Chicago and San Diego.	San Diego is nearer to Chicago than San Diego is to Albany.
+contradiction	Frankfurt is located between Washington and Dallas.	Dallas is nearer to Washington than Dallas is to Frankfurt.
+contradiction	Manchester is located between Santa Barbara and Sacramento.	Sacramento is nearer to Santa Barbara than Sacramento is to Manchester.
+contradiction	Boston is located between San Diego and Houston.	Houston is nearer to San Diego than Houston is to Boston.
+contradiction	Olympia is located between Tulsa and Detroit.	Detroit is nearer to Tulsa than Detroit is to Olympia.
+contradiction	Hartford is located between San Francisco and Columbia.	Columbia is nearer to San Francisco than Columbia is to Hartford.
+contradiction	New York is located between Minneapolis and Boston.	Boston is nearer to Minneapolis than Boston is to New York.
+contradiction	Tulsa is located between Las Vegas and Philadelphia.	Philadelphia is nearer to Las Vegas than Philadelphia is to Tulsa.
+contradiction	Albany is located between San Diego and New York.	New York is nearer to San Diego than New York is to Albany.
+contradiction	Springfield is located between Rochester and Albany.	Albany is nearer to Rochester than Albany is to Springfield.
+contradiction	Springfield is located between Pittsburg and Irvine.	Irvine is nearer to Pittsburg than Irvine is to Springfield.
+contradiction	Pittsburg is located between Detroit and Santa Barbara.	Santa Barbara is nearer to Detroit than Santa Barbara is to Pittsburg.
+contradiction	San Jose is located between Albany and Manchester.	Manchester is nearer to Albany than Manchester is to San Jose.
+contradiction	Springfield is located between Las Vegas and Minneapolis.	Minneapolis is nearer to Las Vegas than Minneapolis is to Springfield.
+contradiction	Tempe is located between Frankfurt and San Francisco.	San Francisco is nearer to Frankfurt than San Francisco is to Tempe.
+contradiction	Springfield is located between San Jose and Rochester.	Rochester is nearer to San Jose than Rochester is to Springfield.
+contradiction	Dallas is located between Hampton and Boston.	Boston is nearer to Hampton than Boston is to Dallas.
+contradiction	Pittsburg is located between Houston and Irving.	Irving is nearer to Houston than Irving is to Pittsburg.
+contradiction	Tulsa is located between Sacramento and Madison.	Madison is nearer to Sacramento than Madison is to Tulsa.
+contradiction	Kansas is located between Boston and Oklahoma.	Oklahoma is nearer to Boston than Oklahoma is to Kansas.
+contradiction	Tempe is located between Richmond and Irvine.	Irvine is nearer to Richmond than Irvine is to Tempe.
+contradiction	Phoenix is located between Madison and Minneapolis.	Minneapolis is nearer to Madison than Minneapolis is to Phoenix.
+contradiction	Santa Barbara is located between Manchester and Illinois.	Illinois is nearer to Manchester than Illinois is to Santa Barbara.
+contradiction	San Francisco is located between Washington and Olympia.	Olympia is nearer to Washington than Olympia is to San Francisco.
+contradiction	Chicago is located between Rochester and Detroit.	Detroit is nearer to Rochester than Detroit is to Chicago.
+contradiction	Springfield is located between Boston and Irvine.	Irvine is nearer to Boston than Irvine is to Springfield.
+contradiction	Albany is located between San Jose and Richmond.	Richmond is nearer to San Jose than Richmond is to Albany.
+contradiction	Chicago is located between Dallas and Detroit.	Detroit is nearer to Dallas than Detroit is to Chicago.
+contradiction	Manchester is located between Hampton and Tulsa.	Tulsa is nearer to Hampton than Tulsa is to Manchester.
+contradiction	Las Vegas is located between Ontario and Philadelphia.	Philadelphia is nearer to Ontario than Philadelphia is to Las Vegas.
+contradiction	Springfield is located between Manchester and Olympia.	Olympia is nearer to Manchester than Olympia is to Springfield.
+contradiction	San Diego is located between Madison and Chicago.	Chicago is nearer to Madison than Chicago is to San Diego.
+contradiction	Houston is located between Richmond and Madison.	Madison is nearer to Richmond than Madison is to Houston.
+contradiction	San Jose is located between Columbia and San Diego.	San Diego is nearer to Columbia than San Diego is to San Jose.
+contradiction	Illinois is located between Hartford and Boston.	Boston is nearer to Hartford than Boston is to Illinois.
+contradiction	Columbia is located between Sacramento and Detroit.	Detroit is nearer to Sacramento than Detroit is to Columbia.
+contradiction	Irving is located between Columbia and Santa Barbara.	Santa Barbara is nearer to Columbia than Santa Barbara is to Irving.
+contradiction	Frankfurt is located between Hartford and Richmond.	Richmond is nearer to Hartford than Richmond is to Frankfurt.
+contradiction	Tempe is located between Boston and San Diego.	San Diego is nearer to Boston than San Diego is to Tempe.
+contradiction	Washington is located between San Jose and Oklahoma.	Oklahoma is nearer to San Jose than Oklahoma is to Washington.
+contradiction	San Jose is located between Kansas and Santa Barbara.	Santa Barbara is nearer to Kansas than Santa Barbara is to San Jose.
+contradiction	San Jose is located between Santa Barbara and Philadelphia.	Philadelphia is nearer to Santa Barbara than Philadelphia is to San Jose.
+contradiction	Philadelphia is located between Olympia and Oklahoma.	Oklahoma is nearer to Olympia than Oklahoma is to Philadelphia.
+contradiction	Kansas is located between Buffalo and Irvine.	Irvine is nearer to Buffalo than Irvine is to Kansas.
+contradiction	Manchester is located between Dallas and Minneapolis.	Minneapolis is nearer to Dallas than Minneapolis is to Manchester.
+contradiction	Rochester is located between Manchester and Santa Barbara.	Santa Barbara is nearer to Manchester than Santa Barbara is to Rochester.
+contradiction	San Jose is located between Hampton and Las Vegas.	Las Vegas is nearer to Hampton than Las Vegas is to San Jose.
+contradiction	San Jose is located between Philadelphia and Washington.	Washington is nearer to Philadelphia than Washington is to San Jose.
+contradiction	Manchester is located between Hartford and Minneapolis.	Minneapolis is nearer to Hartford than Minneapolis is to Manchester.
+contradiction	Richmond is located between Los Angeles and Ontario.	Ontario is nearer to Los Angeles than Ontario is to Richmond.
+contradiction	Manchester is located between Columbia and Springfield.	Springfield is nearer to Columbia than Springfield is to Manchester.
+contradiction	Albany is located between Hartford and Las Vegas.	Las Vegas is nearer to Hartford than Las Vegas is to Albany.
+contradiction	Rochester is located between Hampton and Olympia.	Olympia is nearer to Hampton than Olympia is to Rochester.
+contradiction	Ontario is located between Miami and Las Vegas.	Las Vegas is nearer to Miami than Las Vegas is to Ontario.
+contradiction	Olympia is located between San Diego and Phoenix.	Phoenix is nearer to San Diego than Phoenix is to Olympia.
+contradiction	Springfield is located between Ontario and Illinois.	Illinois is nearer to Ontario than Illinois is to Springfield.
+contradiction	Tulsa is located between Hartford and Hampton.	Hampton is nearer to Hartford than Hampton is to Tulsa.
+contradiction	Springfield is located between Manchester and Pittsburg.	Pittsburg is nearer to Manchester than Pittsburg is to Springfield.
+contradiction	Hampton is located between Santa Barbara and Oklahoma.	Oklahoma is nearer to Santa Barbara than Oklahoma is to Hampton.
+contradiction	Santa Barbara is located between Springfield and Pittsburg.	Pittsburg is nearer to Springfield than Pittsburg is to Santa Barbara.
+contradiction	Buffalo is located between Sacramento and Minneapolis.	Minneapolis is nearer to Sacramento than Minneapolis is to Buffalo.
+contradiction	Dallas is located between Olympia and Phoenix.	Phoenix is nearer to Olympia than Phoenix is to Dallas.
+contradiction	Dallas is located between Tulsa and Springfield.	Springfield is nearer to Tulsa than Springfield is to Dallas.
+contradiction	Irving is located between Irvine and Kansas.	Kansas is nearer to Irvine than Kansas is to Irving.
+contradiction	Oklahoma is located between Albany and Minneapolis.	Minneapolis is nearer to Albany than Minneapolis is to Oklahoma.
+contradiction	Chicago is located between Kansas and Springfield.	Springfield is nearer to Kansas than Springfield is to Chicago.
+contradiction	Richmond is located between Santa Barbara and Philadelphia.	Philadelphia is nearer to Santa Barbara than Philadelphia is to Richmond.
+contradiction	Washington is located between Sacramento and Olympia.	Olympia is nearer to Sacramento than Olympia is to Washington.
+contradiction	Tulsa is located between Rochester and Philadelphia.	Philadelphia is nearer to Rochester than Philadelphia is to Tulsa.
+contradiction	Detroit is located between Irving and Albany.	Albany is nearer to Irving than Albany is to Detroit.
+contradiction	Albany is located between Dallas and San Francisco.	San Francisco is nearer to Dallas than San Francisco is to Albany.
+contradiction	Chicago is located between Columbia and Dallas.	Dallas is nearer to Columbia than Dallas is to Chicago.
+contradiction	Buffalo is located between Illinois and Sacramento.	Sacramento is nearer to Illinois than Sacramento is to Buffalo.
+contradiction	Tempe is located between Washington and Irving.	Irving is nearer to Washington than Irving is to Tempe.
+contradiction	San Francisco is located between Dallas and Chicago.	Chicago is nearer to Dallas than Chicago is to San Francisco.
+contradiction	San Diego is located between Columbia and Detroit.	Detroit is nearer to Columbia than Detroit is to San Diego.
+contradiction	Richmond is located between Minneapolis and Ontario.	Ontario is nearer to Minneapolis than Ontario is to Richmond.
+contradiction	Pittsburg is located between New York and Irvine.	Irvine is nearer to New York than Irvine is to Pittsburg.
+contradiction	Buffalo is located between Tempe and Minneapolis.	Minneapolis is nearer to Tempe than Minneapolis is to Buffalo.
+contradiction	Hampton is located between Minneapolis and Boston.	Boston is nearer to Minneapolis than Boston is to Hampton.
+contradiction	Los Angeles is located between Houston and San Diego.	San Diego is nearer to Houston than San Diego is to Los Angeles.
+contradiction	San Jose is located between Detroit and Madison.	Madison is nearer to Detroit than Madison is to San Jose.
+contradiction	Hartford is located between Olympia and Dallas.	Dallas is nearer to Olympia than Dallas is to Hartford.
+contradiction	New York is located between Miami and San Diego.	San Diego is nearer to Miami than San Diego is to New York.
+contradiction	Phoenix is located between Kansas and Dallas.	Dallas is nearer to Kansas than Dallas is to Phoenix.
+contradiction	Frankfurt is located between Rochester and San Francisco.	San Francisco is nearer to Rochester than San Francisco is to Frankfurt.
+contradiction	Tempe is located between Frankfurt and Boston.	Boston is nearer to Frankfurt than Boston is to Tempe.
+contradiction	Chicago is located between Santa Barbara and Kansas.	Kansas is nearer to Santa Barbara than Kansas is to Chicago.
+contradiction	Albany is located between Sacramento and Richmond.	Richmond is nearer to Sacramento than Richmond is to Albany.
+contradiction	Miami is located between Oklahoma and Philadelphia.	Philadelphia is nearer to Oklahoma than Philadelphia is to Miami.
+contradiction	Hampton is located between Ontario and Rochester.	Rochester is nearer to Ontario than Rochester is to Hampton.
+contradiction	Oklahoma is located between Philadelphia and Pittsburg.	Pittsburg is nearer to Philadelphia than Pittsburg is to Oklahoma.
+contradiction	Phoenix is located between Ontario and Frankfurt.	Frankfurt is nearer to Ontario than Frankfurt is to Phoenix.
+contradiction	Philadelphia is located between Miami and San Francisco.	San Francisco is nearer to Miami than San Francisco is to Philadelphia.
+contradiction	Phoenix is located between San Jose and Santa Barbara.	Santa Barbara is nearer to San Jose than Santa Barbara is to Phoenix.
+contradiction	Albany is located between Irving and Frankfurt.	Frankfurt is nearer to Irving than Frankfurt is to Albany.
+contradiction	Phoenix is located between Miami and Los Angeles.	Los Angeles is nearer to Miami than Los Angeles is to Phoenix.
+contradiction	Hartford is located between Albany and Dallas.	Dallas is nearer to Albany than Dallas is to Hartford.
+contradiction	Boston is located between Washington and Las Vegas.	Las Vegas is nearer to Washington than Las Vegas is to Boston.
+contradiction	Kansas is located between Sacramento and Irving.	Irving is nearer to Sacramento than Irving is to Kansas.
+contradiction	Olympia is located between Oklahoma and San Diego.	San Diego is nearer to Oklahoma than San Diego is to Olympia.
+contradiction	San Diego is located between Santa Barbara and Hartford.	Hartford is nearer to Santa Barbara than Hartford is to San Diego.
+contradiction	Rochester is located between Madison and Las Vegas.	Las Vegas is nearer to Madison than Las Vegas is to Rochester.
+contradiction	Chicago is located between Columbia and Illinois.	Illinois is nearer to Columbia than Illinois is to Chicago.
+contradiction	Phoenix is located between Madison and Manchester.	Manchester is nearer to Madison than Manchester is to Phoenix.
+contradiction	Springfield is located between Las Vegas and Phoenix.	Phoenix is nearer to Las Vegas than Phoenix is to Springfield.
+contradiction	Springfield is located between Hartford and Sacramento.	Sacramento is nearer to Hartford than Sacramento is to Springfield.
+contradiction	Albany is located between Las Vegas and San Jose.	San Jose is nearer to Las Vegas than San Jose is to Albany.
+contradiction	Philadelphia is located between Albany and Las Vegas.	Las Vegas is nearer to Albany than Las Vegas is to Philadelphia.
+contradiction	Washington is located between Boston and Dallas.	Dallas is nearer to Boston than Dallas is to Washington.
+contradiction	Boston is located between San Jose and Miami.	Miami is nearer to San Jose than Miami is to Boston.
+contradiction	Buffalo is located between San Jose and Olympia.	Olympia is nearer to San Jose than Olympia is to Buffalo.
+contradiction	Oklahoma is located between Olympia and Phoenix.	Phoenix is nearer to Olympia than Phoenix is to Oklahoma.
+contradiction	Detroit is located between Los Angeles and Springfield.	Springfield is nearer to Los Angeles than Springfield is to Detroit.
+contradiction	San Jose is located between Ontario and Los Angeles.	Los Angeles is nearer to Ontario than Los Angeles is to San Jose.
+contradiction	Miami is located between Washington and San Diego.	San Diego is nearer to Washington than San Diego is to Miami.
+contradiction	New York is located between Buffalo and Rochester.	Rochester is nearer to Buffalo than Rochester is to New York.
+contradiction	Buffalo is located between San Jose and Illinois.	Illinois is nearer to San Jose than Illinois is to Buffalo.
+contradiction	Hartford is located between Madison and San Jose.	San Jose is nearer to Madison than San Jose is to Hartford.
+contradiction	San Jose is located between Ontario and San Diego.	San Diego is nearer to Ontario than San Diego is to San Jose.
+contradiction	New York is located between Ontario and Los Angeles.	Los Angeles is nearer to Ontario than Los Angeles is to New York.
+contradiction	Philadelphia is located between Illinois and Springfield.	Springfield is nearer to Illinois than Springfield is to Philadelphia.
+contradiction	Hampton is located between Richmond and Olympia.	Olympia is nearer to Richmond than Olympia is to Hampton.
+contradiction	Miami is located between Hampton and Columbia.	Columbia is nearer to Hampton than Columbia is to Miami.
+contradiction	Miami is located between San Francisco and Albany.	Albany is nearer to San Francisco than Albany is to Miami.
+contradiction	Detroit is located between Kansas and Tulsa.	Tulsa is nearer to Kansas than Tulsa is to Detroit.
+contradiction	Columbia is located between Houston and Washington.	Washington is nearer to Houston than Washington is to Columbia.
+contradiction	Irvine is located between Phoenix and Minneapolis.	Minneapolis is nearer to Phoenix than Minneapolis is to Irvine.
+contradiction	Hampton is located between Olympia and Columbia.	Columbia is nearer to Olympia than Columbia is to Hampton.
+contradiction	Tempe is located between Santa Barbara and San Diego.	San Diego is nearer to Santa Barbara than San Diego is to Tempe.
+contradiction	Phoenix is located between Hampton and Irving.	Irving is nearer to Hampton than Irving is to Phoenix.
+contradiction	Rochester is located between San Diego and Sacramento.	Sacramento is nearer to San Diego than Sacramento is to Rochester.
+contradiction	Manchester is located between Sacramento and San Francisco.	San Francisco is nearer to Sacramento than San Francisco is to Manchester.
+contradiction	Detroit is located between Hampton and Albany.	Albany is nearer to Hampton than Albany is to Detroit.
+contradiction	Washington is located between Sacramento and Hartford.	Hartford is nearer to Sacramento than Hartford is to Washington.
+contradiction	Minneapolis is located between Las Vegas and Tempe.	Tempe is nearer to Las Vegas than Tempe is to Minneapolis.
+contradiction	Ontario is located between Boston and Madison.	Madison is nearer to Boston than Madison is to Ontario.
+contradiction	Hampton is located between San Jose and Boston.	Boston is nearer to San Jose than Boston is to Hampton.
+contradiction	Irvine is located between Sacramento and Houston.	Houston is nearer to Sacramento than Houston is to Irvine.
+contradiction	Houston is located between Frankfurt and Minneapolis.	Minneapolis is nearer to Frankfurt than Minneapolis is to Houston.
+contradiction	Tulsa is located between Rochester and Detroit.	Detroit is nearer to Rochester than Detroit is to Tulsa.
+contradiction	Houston is located between Rochester and Hampton.	Hampton is nearer to Rochester than Hampton is to Houston.
+contradiction	Columbia is located between Detroit and Tulsa.	Tulsa is nearer to Detroit than Tulsa is to Columbia.
+contradiction	Las Vegas is located between Los Angeles and Sacramento.	Sacramento is nearer to Los Angeles than Sacramento is to Las Vegas.
+contradiction	Albany is located between Santa Barbara and Minneapolis.	Minneapolis is nearer to Santa Barbara than Minneapolis is to Albany.
+contradiction	Tulsa is located between San Jose and Santa Barbara.	Santa Barbara is nearer to San Jose than Santa Barbara is to Tulsa.
+contradiction	Columbia is located between Phoenix and Sacramento.	Sacramento is nearer to Phoenix than Sacramento is to Columbia.
+contradiction	Sacramento is located between Irving and Hartford.	Hartford is nearer to Irving than Hartford is to Sacramento.
+contradiction	Los Angeles is located between Hampton and New York.	New York is nearer to Hampton than New York is to Los Angeles.
+contradiction	Boston is located between Oklahoma and Hampton.	Hampton is nearer to Oklahoma than Hampton is to Boston.
+contradiction	Sacramento is located between Oklahoma and Los Angeles.	Los Angeles is nearer to Oklahoma than Los Angeles is to Sacramento.
+contradiction	Washington is located between Irving and Richmond.	Richmond is nearer to Irving than Richmond is to Washington.
+contradiction	Houston is located between Buffalo and Frankfurt.	Frankfurt is nearer to Buffalo than Frankfurt is to Houston.
+contradiction	Hampton is located between Olympia and Tulsa.	Tulsa is nearer to Olympia than Tulsa is to Hampton.
+contradiction	Buffalo is located between Miami and Hampton.	Hampton is nearer to Miami than Hampton is to Buffalo.
+contradiction	Detroit is located between Hartford and Las Vegas.	Las Vegas is nearer to Hartford than Las Vegas is to Detroit.
+contradiction	San Diego is located between Columbia and Illinois.	Illinois is nearer to Columbia than Illinois is to San Diego.
+contradiction	Tulsa is located between Rochester and Houston.	Houston is nearer to Rochester than Houston is to Tulsa.
+contradiction	Illinois is located between Phoenix and Tulsa.	Tulsa is nearer to Phoenix than Tulsa is to Illinois.
+contradiction	Rochester is located between Hartford and Miami.	Miami is nearer to Hartford than Miami is to Rochester.
+contradiction	Las Vegas is located between Illinois and Springfield.	Springfield is nearer to Illinois than Springfield is to Las Vegas.
+contradiction	Sacramento is located between Springfield and Detroit.	Detroit is nearer to Springfield than Detroit is to Sacramento.
+contradiction	San Francisco is located between Springfield and Detroit.	Detroit is nearer to Springfield than Detroit is to San Francisco.
+contradiction	Las Vegas is located between Albany and Philadelphia.	Philadelphia is nearer to Albany than Philadelphia is to Las Vegas.
+contradiction	Pittsburg is located between Hampton and Madison.	Madison is nearer to Hampton than Madison is to Pittsburg.
+contradiction	Richmond is located between Minneapolis and Washington.	Washington is nearer to Minneapolis than Washington is to Richmond.
+contradiction	Las Vegas is located between San Francisco and Miami.	Miami is nearer to San Francisco than Miami is to Las Vegas.
+contradiction	San Francisco is located between Madison and Miami.	Miami is nearer to Madison than Miami is to San Francisco.
+contradiction	Phoenix is located between Rochester and Minneapolis.	Minneapolis is nearer to Rochester than Minneapolis is to Phoenix.
+contradiction	San Francisco is located between Irvine and Illinois.	Illinois is nearer to Irvine than Illinois is to San Francisco.
+contradiction	Phoenix is located between Illinois and San Jose.	San Jose is nearer to Illinois than San Jose is to Phoenix.
+contradiction	Irving is located between Washington and Frankfurt.	Frankfurt is nearer to Washington than Frankfurt is to Irving.
+contradiction	Richmond is located between San Diego and Dallas.	Dallas is nearer to San Diego than Dallas is to Richmond.
+contradiction	Minneapolis is located between Tempe and Madison.	Madison is nearer to Tempe than Madison is to Minneapolis.
+contradiction	Boston is located between Tempe and San Diego.	San Diego is nearer to Tempe than San Diego is to Boston.
+contradiction	Irving is located between Manchester and Kansas.	Kansas is nearer to Manchester than Kansas is to Irving.
+contradiction	Tempe is located between Boston and Detroit.	Detroit is nearer to Boston than Detroit is to Tempe.
+contradiction	Hampton is located between New York and Kansas.	Kansas is nearer to New York than Kansas is to Hampton.
+contradiction	Minneapolis is located between Buffalo and Detroit.	Detroit is nearer to Buffalo than Detroit is to Minneapolis.
+contradiction	Columbia is located between Dallas and Philadelphia.	Philadelphia is nearer to Dallas than Philadelphia is to Columbia.
+contradiction	Rochester is located between Tulsa and Minneapolis.	Minneapolis is nearer to Tulsa than Minneapolis is to Rochester.
+contradiction	Irvine is located between Kansas and Las Vegas.	Las Vegas is nearer to Kansas than Las Vegas is to Irvine.
+contradiction	Madison is located between Hampton and Hartford.	Hartford is nearer to Hampton than Hartford is to Madison.
+contradiction	Miami is located between Pittsburg and Detroit.	Detroit is nearer to Pittsburg than Detroit is to Miami.
+contradiction	New York is located between Irvine and Phoenix.	Phoenix is nearer to Irvine than Phoenix is to New York.
+contradiction	Albany is located between Springfield and San Diego.	San Diego is nearer to Springfield than San Diego is to Albany.
+contradiction	Tulsa is located between Detroit and Columbia.	Columbia is nearer to Detroit than Columbia is to Tulsa.
+contradiction	Olympia is located between Detroit and Minneapolis.	Minneapolis is nearer to Detroit than Minneapolis is to Olympia.
+contradiction	Santa Barbara is located between Miami and Boston.	Boston is nearer to Miami than Boston is to Santa Barbara.
+contradiction	Manchester is located between San Jose and Dallas.	Dallas is nearer to San Jose than Dallas is to Manchester.
+contradiction	Hartford is located between Oklahoma and Phoenix.	Phoenix is nearer to Oklahoma than Phoenix is to Hartford.
+contradiction	San Jose is located between Philadelphia and Sacramento.	Sacramento is nearer to Philadelphia than Sacramento is to San Jose.
+contradiction	Chicago is located between Houston and Los Angeles.	Los Angeles is nearer to Houston than Los Angeles is to Chicago.
+contradiction	Oklahoma is located between Detroit and Ontario.	Ontario is nearer to Detroit than Ontario is to Oklahoma.
+contradiction	Washington is located between Los Angeles and Irving.	Irving is nearer to Los Angeles than Irving is to Washington.
+contradiction	Boston is located between Houston and San Diego.	San Diego is nearer to Houston than San Diego is to Boston.
+contradiction	Phoenix is located between Frankfurt and San Francisco.	San Francisco is nearer to Frankfurt than San Francisco is to Phoenix.
+contradiction	San Francisco is located between Buffalo and Tulsa.	Tulsa is nearer to Buffalo than Tulsa is to San Francisco.
+contradiction	Pittsburg is located between Chicago and Hartford.	Hartford is nearer to Chicago than Hartford is to Pittsburg.
+contradiction	Ontario is located between Irving and Hampton.	Hampton is nearer to Irving than Hampton is to Ontario.
+contradiction	Washington is located between Boston and Philadelphia.	Philadelphia is nearer to Boston than Philadelphia is to Washington.
+contradiction	Columbia is located between Sacramento and Illinois.	Illinois is nearer to Sacramento than Illinois is to Columbia.
+contradiction	Detroit is located between Buffalo and Dallas.	Dallas is nearer to Buffalo than Dallas is to Detroit.
+contradiction	Manchester is located between Miami and Dallas.	Dallas is nearer to Miami than Dallas is to Manchester.
+contradiction	Tempe is located between Los Angeles and Hampton.	Hampton is nearer to Los Angeles than Hampton is to Tempe.
+contradiction	Columbia is located between Oklahoma and Manchester.	Manchester is nearer to Oklahoma than Manchester is to Columbia.
+contradiction	Dallas is located between Los Angeles and Houston.	Houston is nearer to Los Angeles than Houston is to Dallas.
+contradiction	Illinois is located between Ontario and Albany.	Albany is nearer to Ontario than Albany is to Illinois.
+contradiction	Las Vegas is located between Hampton and Tempe.	Tempe is nearer to Hampton than Tempe is to Las Vegas.
+contradiction	Richmond is located between Springfield and Sacramento.	Sacramento is nearer to Springfield than Sacramento is to Richmond.
+contradiction	Minneapolis is located between Oklahoma and Hampton.	Hampton is nearer to Oklahoma than Hampton is to Minneapolis.
+contradiction	Columbia is located between Sacramento and Phoenix.	Phoenix is nearer to Sacramento than Phoenix is to Columbia.
+contradiction	Albany is located between Columbia and Los Angeles.	Los Angeles is nearer to Columbia than Los Angeles is to Albany.
+contradiction	Oklahoma is located between Olympia and Tempe.	Tempe is nearer to Olympia than Tempe is to Oklahoma.
+contradiction	Illinois is located between Sacramento and Madison.	Madison is nearer to Sacramento than Madison is to Illinois.
+contradiction	Dallas is located between Richmond and Washington.	Washington is nearer to Richmond than Washington is to Dallas.
+contradiction	Richmond is located between Frankfurt and Boston.	Boston is nearer to Frankfurt than Boston is to Richmond.
+contradiction	Hartford is located between Santa Barbara and Boston.	Boston is nearer to Santa Barbara than Boston is to Hartford.
+contradiction	Sacramento is located between Houston and Pittsburg.	Pittsburg is nearer to Houston than Pittsburg is to Sacramento.
+contradiction	Boston is located between Pittsburg and Columbia.	Columbia is nearer to Pittsburg than Columbia is to Boston.
+contradiction	Hampton is located between Boston and Detroit.	Detroit is nearer to Boston than Detroit is to Hampton.
+contradiction	Richmond is located between Kansas and Hampton.	Hampton is nearer to Kansas than Hampton is to Richmond.
+contradiction	Irvine is located between Minneapolis and Madison.	Madison is nearer to Minneapolis than Madison is to Irvine.
+contradiction	Oklahoma is located between San Francisco and Ontario.	Ontario is nearer to San Francisco than Ontario is to Oklahoma.
+contradiction	Chicago is located between Springfield and Minneapolis.	Minneapolis is nearer to Springfield than Minneapolis is to Chicago.
+contradiction	Phoenix is located between San Diego and Detroit.	Detroit is nearer to San Diego than Detroit is to Phoenix.
+contradiction	Springfield is located between Richmond and Phoenix.	Phoenix is nearer to Richmond than Phoenix is to Springfield.
+contradiction	Sacramento is located between Boston and San Francisco.	San Francisco is nearer to Boston than San Francisco is to Sacramento.
+contradiction	Miami is located between Pittsburg and Houston.	Houston is nearer to Pittsburg than Houston is to Miami.
+contradiction	Hartford is located between Olympia and Irvine.	Irvine is nearer to Olympia than Irvine is to Hartford.
+contradiction	Hartford is located between Hampton and Santa Barbara.	Santa Barbara is nearer to Hampton than Santa Barbara is to Hartford.
+contradiction	Hartford is located between Detroit and Houston.	Houston is nearer to Detroit than Houston is to Hartford.
+contradiction	San Jose is located between Irving and Olympia.	Olympia is nearer to Irving than Olympia is to San Jose.
+contradiction	Columbia is located between Tulsa and Detroit.	Detroit is nearer to Tulsa than Detroit is to Columbia.
+contradiction	San Francisco is located between Richmond and Boston.	Boston is nearer to Richmond than Boston is to San Francisco.
+contradiction	Olympia is located between Illinois and Ontario.	Ontario is nearer to Illinois than Ontario is to Olympia.
+contradiction	Frankfurt is located between New York and Dallas.	Dallas is nearer to New York than Dallas is to Frankfurt.
+contradiction	Illinois is located between Tempe and Hampton.	Hampton is nearer to Tempe than Hampton is to Illinois.
+contradiction	Tempe is located between Los Angeles and Houston.	Houston is nearer to Los Angeles than Houston is to Tempe.
+contradiction	Sacramento is located between Albany and Santa Barbara.	Santa Barbara is nearer to Albany than Santa Barbara is to Sacramento.
+contradiction	Phoenix is located between Irvine and Hampton.	Hampton is nearer to Irvine than Hampton is to Phoenix.
+contradiction	New York is located between Olympia and Irvine.	Irvine is nearer to Olympia than Irvine is to New York.
+contradiction	Manchester is located between Los Angeles and Washington.	Washington is nearer to Los Angeles than Washington is to Manchester.
+contradiction	San Jose is located between Los Angeles and Sacramento.	Sacramento is nearer to Los Angeles than Sacramento is to San Jose.
+contradiction	Houston is located between San Jose and Chicago.	Chicago is nearer to San Jose than Chicago is to Houston.
+contradiction	Minneapolis is located between Springfield and San Francisco.	San Francisco is nearer to Springfield than San Francisco is to Minneapolis.
+contradiction	Dallas is located between San Diego and Santa Barbara.	Santa Barbara is nearer to San Diego than Santa Barbara is to Dallas.
+contradiction	Pittsburg is located between Washington and Frankfurt.	Frankfurt is nearer to Washington than Frankfurt is to Pittsburg.
+contradiction	Pittsburg is located between Las Vegas and Kansas.	Kansas is nearer to Las Vegas than Kansas is to Pittsburg.
+contradiction	Buffalo is located between Albany and Dallas.	Dallas is nearer to Albany than Dallas is to Buffalo.
+contradiction	Olympia is located between Irving and Springfield.	Springfield is nearer to Irving than Springfield is to Olympia.
+contradiction	Irvine is located between Richmond and Hartford.	Hartford is nearer to Richmond than Hartford is to Irvine.
+contradiction	Hampton is located between New York and Irvine.	Irvine is nearer to New York than Irvine is to Hampton.
+contradiction	Boston is located between San Francisco and Illinois.	Illinois is nearer to San Francisco than Illinois is to Boston.
+contradiction	Pittsburg is located between Tempe and Hampton.	Hampton is nearer to Tempe than Hampton is to Pittsburg.
+contradiction	Phoenix is located between Springfield and Tempe.	Tempe is nearer to Springfield than Tempe is to Phoenix.
+contradiction	Chicago is located between Tulsa and Columbia.	Columbia is nearer to Tulsa than Columbia is to Chicago.
+contradiction	Illinois is located between Santa Barbara and Tulsa.	Tulsa is nearer to Santa Barbara than Tulsa is to Illinois.
+contradiction	Washington is located between Albany and Springfield.	Springfield is nearer to Albany than Springfield is to Washington.
+contradiction	San Francisco is located between Tempe and Minneapolis.	Minneapolis is nearer to Tempe than Minneapolis is to San Francisco.
+contradiction	Tulsa is located between Miami and Olympia.	Olympia is nearer to Miami than Olympia is to Tulsa.
+contradiction	Irving is located between Dallas and Kansas.	Kansas is nearer to Dallas than Kansas is to Irving.
+contradiction	New York is located between Boston and Irving.	Irving is nearer to Boston than Irving is to New York.
+contradiction	New York is located between Tempe and Las Vegas.	Las Vegas is nearer to Tempe than Las Vegas is to New York.
+contradiction	Houston is located between Miami and Detroit.	Detroit is nearer to Miami than Detroit is to Houston.
+contradiction	Pittsburg is located between Rochester and Boston.	Boston is nearer to Rochester than Boston is to Pittsburg.
+contradiction	Las Vegas is located between Santa Barbara and Hampton.	Hampton is nearer to Santa Barbara than Hampton is to Las Vegas.
+contradiction	Minneapolis is located between Irvine and Manchester.	Manchester is nearer to Irvine than Manchester is to Minneapolis.
+contradiction	Tulsa is located between Pittsburg and Minneapolis.	Minneapolis is nearer to Pittsburg than Minneapolis is to Tulsa.
+contradiction	Sacramento is located between Irvine and Miami.	Miami is nearer to Irvine than Miami is to Sacramento.
+contradiction	San Diego is located between San Jose and Richmond.	Richmond is nearer to San Jose than Richmond is to San Diego.
+contradiction	Ontario is located between Santa Barbara and Las Vegas.	Las Vegas is nearer to Santa Barbara than Las Vegas is to Ontario.
+contradiction	Oklahoma is located between Phoenix and San Jose.	San Jose is nearer to Phoenix than San Jose is to Oklahoma.
+contradiction	Las Vegas is located between Richmond and Rochester.	Rochester is nearer to Richmond than Rochester is to Las Vegas.
+contradiction	Chicago is located between Hartford and Tempe.	Tempe is nearer to Hartford than Tempe is to Chicago.
+contradiction	Santa Barbara is located between Tempe and Buffalo.	Buffalo is nearer to Tempe than Buffalo is to Santa Barbara.
+contradiction	Ontario is located between Las Vegas and Hartford.	Hartford is nearer to Las Vegas than Hartford is to Ontario.
+contradiction	Phoenix is located between Ontario and Madison.	Madison is nearer to Ontario than Madison is to Phoenix.
+contradiction	Kansas is located between Irvine and Tulsa.	Tulsa is nearer to Irvine than Tulsa is to Kansas.
+contradiction	Tempe is located between Springfield and Dallas.	Dallas is nearer to Springfield than Dallas is to Tempe.
+contradiction	Hampton is located between Philadelphia and Tulsa.	Tulsa is nearer to Philadelphia than Tulsa is to Hampton.
+contradiction	Boston is located between Richmond and Springfield.	Springfield is nearer to Richmond than Springfield is to Boston.
+contradiction	Phoenix is located between Ontario and Illinois.	Illinois is nearer to Ontario than Illinois is to Phoenix.
+contradiction	New York is located between San Jose and Albany.	Albany is nearer to San Jose than Albany is to New York.
+contradiction	Santa Barbara is located between Kansas and Buffalo.	Buffalo is nearer to Kansas than Buffalo is to Santa Barbara.
+contradiction	Chicago is located between San Jose and Los Angeles.	Los Angeles is nearer to San Jose than Los Angeles is to Chicago.
+contradiction	Springfield is located between Buffalo and Manchester.	Manchester is nearer to Buffalo than Manchester is to Springfield.
+contradiction	Columbia is located between Dallas and Richmond.	Richmond is nearer to Dallas than Richmond is to Columbia.
+contradiction	Los Angeles is located between Minneapolis and Sacramento.	Sacramento is nearer to Minneapolis than Sacramento is to Los Angeles.
+contradiction	Richmond is located between Detroit and Irvine.	Irvine is nearer to Detroit than Irvine is to Richmond.
+contradiction	Dallas is located between Detroit and Olympia.	Olympia is nearer to Detroit than Olympia is to Dallas.
+contradiction	Manchester is located between Hampton and Tempe.	Tempe is nearer to Hampton than Tempe is to Manchester.
+contradiction	San Francisco is located between Hampton and Washington.	Washington is nearer to Hampton than Washington is to San Francisco.
+contradiction	Tempe is located between Oklahoma and Olympia.	Olympia is nearer to Oklahoma than Olympia is to Tempe.
+contradiction	Pittsburg is located between Illinois and Olympia.	Olympia is nearer to Illinois than Olympia is to Pittsburg.
+contradiction	Houston is located between San Francisco and San Diego.	San Diego is nearer to San Francisco than San Diego is to Houston.
+contradiction	Detroit is located between Columbia and Las Vegas.	Las Vegas is nearer to Columbia than Las Vegas is to Detroit.
+contradiction	Rochester is located between Phoenix and Sacramento.	Sacramento is nearer to Phoenix than Sacramento is to Rochester.
+contradiction	San Jose is located between Ontario and Olympia.	Olympia is nearer to Ontario than Olympia is to San Jose.
+contradiction	Washington is located between Las Vegas and Boston.	Boston is nearer to Las Vegas than Boston is to Washington.
+contradiction	Richmond is located between Olympia and Ontario.	Ontario is nearer to Olympia than Ontario is to Richmond.
+contradiction	San Jose is located between Albany and Kansas.	Kansas is nearer to Albany than Kansas is to San Jose.
+contradiction	Washington is located between Hartford and Albany.	Albany is nearer to Hartford than Albany is to Washington.
+contradiction	Washington is located between San Jose and Tulsa.	Tulsa is nearer to San Jose than Tulsa is to Washington.
+contradiction	San Francisco is located between Phoenix and Manchester.	Manchester is nearer to Phoenix than Manchester is to San Francisco.
+contradiction	Dallas is located between Los Angeles and Olympia.	Olympia is nearer to Los Angeles than Olympia is to Dallas.
+contradiction	Albany is located between San Francisco and Madison.	Madison is nearer to San Francisco than Madison is to Albany.
+contradiction	Madison is located between Detroit and Washington.	Washington is nearer to Detroit than Washington is to Madison.
+contradiction	Los Angeles is located between Irvine and Tulsa.	Tulsa is nearer to Irvine than Tulsa is to Los Angeles.
+contradiction	Hampton is located between Irvine and Chicago.	Chicago is nearer to Irvine than Chicago is to Hampton.
+contradiction	Manchester is located between Illinois and Minneapolis.	Minneapolis is nearer to Illinois than Minneapolis is to Manchester.
+contradiction	Las Vegas is located between Dallas and Minneapolis.	Minneapolis is nearer to Dallas than Minneapolis is to Las Vegas.
+contradiction	Sacramento is located between Olympia and Irvine.	Irvine is nearer to Olympia than Irvine is to Sacramento.
+contradiction	Minneapolis is located between Irvine and Phoenix.	Phoenix is nearer to Irvine than Phoenix is to Minneapolis.
+contradiction	Frankfurt is located between Chicago and Ontario.	Ontario is nearer to Chicago than Ontario is to Frankfurt.
+contradiction	San Francisco is located between Frankfurt and Ontario.	Ontario is nearer to Frankfurt than Ontario is to San Francisco.
+contradiction	Buffalo is located between Hartford and Irvine.	Irvine is nearer to Hartford than Irvine is to Buffalo.
+contradiction	Las Vegas is located between Irving and Chicago.	Chicago is nearer to Irving than Chicago is to Las Vegas.
+contradiction	Olympia is located between Frankfurt and Dallas.	Dallas is nearer to Frankfurt than Dallas is to Olympia.
+contradiction	Irvine is located between Ontario and Pittsburg.	Pittsburg is nearer to Ontario than Pittsburg is to Irvine.
+contradiction	Oklahoma is located between Houston and New York.	New York is nearer to Houston than New York is to Oklahoma.
+contradiction	Philadelphia is located between Dallas and Irvine.	Irvine is nearer to Dallas than Irvine is to Philadelphia.
+contradiction	Rochester is located between Irvine and Detroit.	Detroit is nearer to Irvine than Detroit is to Rochester.
+contradiction	Chicago is located between Hartford and San Jose.	San Jose is nearer to Hartford than San Jose is to Chicago.
+contradiction	Detroit is located between Pittsburg and Dallas.	Dallas is nearer to Pittsburg than Dallas is to Detroit.
+contradiction	Pittsburg is located between Rochester and Springfield.	Springfield is nearer to Rochester than Springfield is to Pittsburg.
+contradiction	Hampton is located between Minneapolis and Santa Barbara.	Santa Barbara is nearer to Minneapolis than Santa Barbara is to Hampton.
+contradiction	Manchester is located between Sacramento and Phoenix.	Phoenix is nearer to Sacramento than Phoenix is to Manchester.
+contradiction	Madison is located between Tulsa and San Diego.	San Diego is nearer to Tulsa than San Diego is to Madison.
+contradiction	New York is located between Manchester and Ontario.	Ontario is nearer to Manchester than Ontario is to New York.
+contradiction	Phoenix is located between Tulsa and Chicago.	Chicago is nearer to Tulsa than Chicago is to Phoenix.
+contradiction	Rochester is located between Phoenix and Richmond.	Richmond is nearer to Phoenix than Richmond is to Rochester.
+contradiction	Oklahoma is located between Ontario and Sacramento.	Sacramento is nearer to Ontario than Sacramento is to Oklahoma.
+contradiction	Illinois is located between Manchester and Tulsa.	Tulsa is nearer to Manchester than Tulsa is to Illinois.
+contradiction	Detroit is located between Oklahoma and Tulsa.	Tulsa is nearer to Oklahoma than Tulsa is to Detroit.
+contradiction	San Jose is located between Buffalo and Houston.	Houston is nearer to Buffalo than Houston is to San Jose.
+contradiction	San Jose is located between San Francisco and Irvine.	Irvine is nearer to San Francisco than Irvine is to San Jose.
+contradiction	Olympia is located between Hampton and Buffalo.	Buffalo is nearer to Hampton than Buffalo is to Olympia.
+contradiction	Frankfurt is located between Irvine and Olympia.	Olympia is nearer to Irvine than Olympia is to Frankfurt.
+contradiction	Minneapolis is located between Ontario and Frankfurt.	Frankfurt is nearer to Ontario than Frankfurt is to Minneapolis.
+contradiction	Irvine is located between Madison and Irving.	Irving is nearer to Madison than Irving is to Irvine.
+contradiction	Chicago is located between Columbia and New York.	New York is nearer to Columbia than New York is to Chicago.
+contradiction	San Francisco is located between Kansas and Irving.	Irving is nearer to Kansas than Irving is to San Francisco.
+contradiction	Hartford is located between Boston and Houston.	Houston is nearer to Boston than Houston is to Hartford.
+contradiction	Buffalo is located between Houston and Madison.	Madison is nearer to Houston than Madison is to Buffalo.
+contradiction	Springfield is located between Manchester and Hampton.	Hampton is nearer to Manchester than Hampton is to Springfield.
+contradiction	Albany is located between Irvine and Illinois.	Illinois is nearer to Irvine than Illinois is to Albany.
+contradiction	Philadelphia is located between Tempe and Columbia.	Columbia is nearer to Tempe than Columbia is to Philadelphia.
+contradiction	Columbia is located between Hampton and San Jose.	San Jose is nearer to Hampton than San Jose is to Columbia.
+contradiction	Minneapolis is located between Rochester and Las Vegas.	Las Vegas is nearer to Rochester than Las Vegas is to Minneapolis.
+contradiction	Kansas is located between Manchester and Las Vegas.	Las Vegas is nearer to Manchester than Las Vegas is to Kansas.
+contradiction	Chicago is located between Santa Barbara and Ontario.	Ontario is nearer to Santa Barbara than Ontario is to Chicago.
+contradiction	Las Vegas is located between Chicago and Boston.	Boston is nearer to Chicago than Boston is to Las Vegas.
+contradiction	Hampton is located between Oklahoma and Sacramento.	Sacramento is nearer to Oklahoma than Sacramento is to Hampton.
+contradiction	Sacramento is located between Springfield and Miami.	Miami is nearer to Springfield than Miami is to Sacramento.
+contradiction	Detroit is located between Tulsa and Pittsburg.	Pittsburg is nearer to Tulsa than Pittsburg is to Detroit.
+contradiction	Dallas is located between Washington and Richmond.	Richmond is nearer to Washington than Richmond is to Dallas.
+contradiction	San Diego is located between Olympia and Illinois.	Illinois is nearer to Olympia than Illinois is to San Diego.
+contradiction	Dallas is located between Hartford and Boston.	Boston is nearer to Hartford than Boston is to Dallas.
+contradiction	Irving is located between Santa Barbara and San Jose.	San Jose is nearer to Santa Barbara than San Jose is to Irving.
+contradiction	San Francisco is located between Columbia and Tulsa.	Tulsa is nearer to Columbia than Tulsa is to San Francisco.
+contradiction	Springfield is located between Boston and Minneapolis.	Minneapolis is nearer to Boston than Minneapolis is to Springfield.
+contradiction	Frankfurt is located between Hampton and Richmond.	Richmond is nearer to Hampton than Richmond is to Frankfurt.
+contradiction	Madison is located between Houston and Tempe.	Tempe is nearer to Houston than Tempe is to Madison.
+contradiction	Hartford is located between Richmond and San Francisco.	San Francisco is nearer to Richmond than San Francisco is to Hartford.
+contradiction	Manchester is located between Irvine and Chicago.	Chicago is nearer to Irvine than Chicago is to Manchester.
+contradiction	Los Angeles is located between Pittsburg and Miami.	Miami is nearer to Pittsburg than Miami is to Los Angeles.
+contradiction	Phoenix is located between Buffalo and Albany.	Albany is nearer to Buffalo than Albany is to Phoenix.
+contradiction	Rochester is located between Sacramento and Washington.	Washington is nearer to Sacramento than Washington is to Rochester.
+contradiction	New York is located between Minneapolis and Ontario.	Ontario is nearer to Minneapolis than Ontario is to New York.
+contradiction	Santa Barbara is located between Sacramento and Buffalo.	Buffalo is nearer to Sacramento than Buffalo is to Santa Barbara.
+contradiction	Detroit is located between Frankfurt and New York.	New York is nearer to Frankfurt than New York is to Detroit.
+contradiction	Santa Barbara is located between Minneapolis and Tempe.	Tempe is nearer to Minneapolis than Tempe is to Santa Barbara.
+contradiction	Hampton is located between Olympia and New York.	New York is nearer to Olympia than New York is to Hampton.
+contradiction	Springfield is located between Manchester and San Jose.	San Jose is nearer to Manchester than San Jose is to Springfield.
+contradiction	Hartford is located between Ontario and Buffalo.	Buffalo is nearer to Ontario than Buffalo is to Hartford.
+contradiction	Irvine is located between Boston and Ontario.	Ontario is nearer to Boston than Ontario is to Irvine.
+contradiction	Illinois is located between Ontario and Rochester.	Rochester is nearer to Ontario than Rochester is to Illinois.
+contradiction	Illinois is located between Frankfurt and San Diego.	San Diego is nearer to Frankfurt than San Diego is to Illinois.
+contradiction	Hartford is located between Minneapolis and Boston.	Boston is nearer to Minneapolis than Boston is to Hartford.
+contradiction	San Jose is located between Boston and San Francisco.	San Francisco is nearer to Boston than San Francisco is to San Jose.
+contradiction	Columbia is located between Tempe and Ontario.	Ontario is nearer to Tempe than Ontario is to Columbia.
+contradiction	Dallas is located between Boston and Hartford.	Hartford is nearer to Boston than Hartford is to Dallas.
+contradiction	Hartford is located between Albany and Sacramento.	Sacramento is nearer to Albany than Sacramento is to Hartford.
+contradiction	Ontario is located between Chicago and Minneapolis.	Minneapolis is nearer to Chicago than Minneapolis is to Ontario.
+contradiction	Sacramento is located between Ontario and Manchester.	Manchester is nearer to Ontario than Manchester is to Sacramento.
+contradiction	Ontario is located between Oklahoma and Dallas.	Dallas is nearer to Oklahoma than Dallas is to Ontario.
+contradiction	Dallas is located between Boston and Oklahoma.	Oklahoma is nearer to Boston than Oklahoma is to Dallas.
+contradiction	Minneapolis is located between San Diego and Sacramento.	Sacramento is nearer to San Diego than Sacramento is to Minneapolis.
+contradiction	Irving is located between Tulsa and Madison.	Madison is nearer to Tulsa than Madison is to Irving.
+contradiction	Santa Barbara is located between Albany and Olympia.	Olympia is nearer to Albany than Olympia is to Santa Barbara.
+contradiction	Irvine is located between Phoenix and Irving.	Irving is nearer to Phoenix than Irving is to Irvine.
+contradiction	Buffalo is located between Houston and Dallas.	Dallas is nearer to Houston than Dallas is to Buffalo.
+contradiction	Rochester is located between Los Angeles and Ontario.	Ontario is nearer to Los Angeles than Ontario is to Rochester.
+contradiction	Buffalo is located between Olympia and Santa Barbara.	Santa Barbara is nearer to Olympia than Santa Barbara is to Buffalo.
+contradiction	Oklahoma is located between San Francisco and Miami.	Miami is nearer to San Francisco than Miami is to Oklahoma.
+contradiction	Hampton is located between Manchester and Irving.	Irving is nearer to Manchester than Irving is to Hampton.
+contradiction	Hampton is located between Tulsa and Buffalo.	Buffalo is nearer to Tulsa than Buffalo is to Hampton.
+contradiction	Olympia is located between San Francisco and Detroit.	Detroit is nearer to San Francisco than Detroit is to Olympia.
+contradiction	Detroit is located between Hampton and Las Vegas.	Las Vegas is nearer to Hampton than Las Vegas is to Detroit.
+contradiction	Manchester is located between Santa Barbara and San Jose.	San Jose is nearer to Santa Barbara than San Jose is to Manchester.
+contradiction	Illinois is located between Tulsa and Miami.	Miami is nearer to Tulsa than Miami is to Illinois.
+contradiction	Los Angeles is located between Buffalo and Dallas.	Dallas is nearer to Buffalo than Dallas is to Los Angeles.
+contradiction	Detroit is located between Ontario and Oklahoma.	Oklahoma is nearer to Ontario than Oklahoma is to Detroit.
+contradiction	Minneapolis is located between Olympia and Boston.	Boston is nearer to Olympia than Boston is to Minneapolis.
+contradiction	Ontario is located between Hartford and Buffalo.	Buffalo is nearer to Hartford than Buffalo is to Ontario.
+contradiction	Hartford is located between New York and Pittsburg.	Pittsburg is nearer to New York than Pittsburg is to Hartford.
+contradiction	Washington is located between Frankfurt and Irving.	Irving is nearer to Frankfurt than Irving is to Washington.
+contradiction	Ontario is located between Santa Barbara and Philadelphia.	Philadelphia is nearer to Santa Barbara than Philadelphia is to Ontario.
+contradiction	Houston is located between Albany and San Francisco.	San Francisco is nearer to Albany than San Francisco is to Houston.
+contradiction	Oklahoma is located between Frankfurt and Hampton.	Hampton is nearer to Frankfurt than Hampton is to Oklahoma.
+contradiction	San Diego is located between Frankfurt and Philadelphia.	Philadelphia is nearer to Frankfurt than Philadelphia is to San Diego.
+contradiction	Washington is located between Detroit and Frankfurt.	Frankfurt is nearer to Detroit than Frankfurt is to Washington.
+contradiction	New York is located between Buffalo and Madison.	Madison is nearer to Buffalo than Madison is to New York.
+contradiction	Columbia is located between Hartford and Oklahoma.	Oklahoma is nearer to Hartford than Oklahoma is to Columbia.
+contradiction	Pittsburg is located between Miami and Phoenix.	Phoenix is nearer to Miami than Phoenix is to Pittsburg.
+contradiction	Rochester is located between Irving and Richmond.	Richmond is nearer to Irving than Richmond is to Rochester.
+contradiction	Pittsburg is located between Rochester and Kansas.	Kansas is nearer to Rochester than Kansas is to Pittsburg.
+contradiction	Albany is located between Washington and San Jose.	San Jose is nearer to Washington than San Jose is to Albany.
+contradiction	Ontario is located between Rochester and Columbia.	Columbia is nearer to Rochester than Columbia is to Ontario.
+contradiction	Philadelphia is located between Illinois and Frankfurt.	Frankfurt is nearer to Illinois than Frankfurt is to Philadelphia.
+contradiction	Buffalo is located between Richmond and Hartford.	Hartford is nearer to Richmond than Hartford is to Buffalo.
+contradiction	Oklahoma is located between Richmond and Santa Barbara.	Santa Barbara is nearer to Richmond than Santa Barbara is to Oklahoma.
+contradiction	Tempe is located between Irving and Las Vegas.	Las Vegas is nearer to Irving than Las Vegas is to Tempe.
+contradiction	Columbia is located between Irvine and Springfield.	Springfield is nearer to Irvine than Springfield is to Columbia.
+contradiction	Sacramento is located between Phoenix and Hampton.	Hampton is nearer to Phoenix than Hampton is to Sacramento.
+contradiction	Miami is located between Washington and Kansas.	Kansas is nearer to Washington than Kansas is to Miami.
+contradiction	Houston is located between Santa Barbara and Detroit.	Detroit is nearer to Santa Barbara than Detroit is to Houston.
+contradiction	Minneapolis is located between Oklahoma and San Francisco.	San Francisco is nearer to Oklahoma than San Francisco is to Minneapolis.
+contradiction	Philadelphia is located between Madison and Las Vegas.	Las Vegas is nearer to Madison than Las Vegas is to Philadelphia.
+contradiction	Tempe is located between San Diego and Columbia.	Columbia is nearer to San Diego than Columbia is to Tempe.
+contradiction	Los Angeles is located between Olympia and Illinois.	Illinois is nearer to Olympia than Illinois is to Los Angeles.
+contradiction	Detroit is located between Columbia and Irving.	Irving is nearer to Columbia than Irving is to Detroit.
+contradiction	Rochester is located between Miami and Houston.	Houston is nearer to Miami than Houston is to Rochester.
+contradiction	Irving is located between Illinois and Irvine.	Irvine is nearer to Illinois than Irvine is to Irving.
+contradiction	Hampton is located between Tempe and Los Angeles.	Los Angeles is nearer to Tempe than Los Angeles is to Hampton.
+contradiction	Houston is located between Washington and Rochester.	Rochester is nearer to Washington than Rochester is to Houston.
+contradiction	Tulsa is located between Ontario and Olympia.	Olympia is nearer to Ontario than Olympia is to Tulsa.
+contradiction	Dallas is located between San Jose and Illinois.	Illinois is nearer to San Jose than Illinois is to Dallas.
+contradiction	Hartford is located between Richmond and Sacramento.	Sacramento is nearer to Richmond than Sacramento is to Hartford.
+contradiction	Philadelphia is located between Tempe and Irvine.	Irvine is nearer to Tempe than Irvine is to Philadelphia.
+contradiction	Pittsburg is located between Santa Barbara and Albany.	Albany is nearer to Santa Barbara than Albany is to Pittsburg.
+contradiction	Manchester is located between Columbia and Tempe.	Tempe is nearer to Columbia than Tempe is to Manchester.
+contradiction	Albany is located between Chicago and Ontario.	Ontario is nearer to Chicago than Ontario is to Albany.
+contradiction	Albany is located between Las Vegas and Detroit.	Detroit is nearer to Las Vegas than Detroit is to Albany.
+contradiction	San Jose is located between New York and Manchester.	Manchester is nearer to New York than Manchester is to San Jose.
+contradiction	Kansas is located between Phoenix and Hampton.	Hampton is nearer to Phoenix than Hampton is to Kansas.
+contradiction	Los Angeles is located between Las Vegas and Chicago.	Chicago is nearer to Las Vegas than Chicago is to Los Angeles.
+contradiction	San Francisco is located between Illinois and Olympia.	Olympia is nearer to Illinois than Olympia is to San Francisco.
+contradiction	Phoenix is located between Boston and Springfield.	Springfield is nearer to Boston than Springfield is to Phoenix.
+contradiction	Albany is located between Washington and Buffalo.	Buffalo is nearer to Washington than Buffalo is to Albany.
+contradiction	Illinois is located between San Francisco and Springfield.	Springfield is nearer to San Francisco than Springfield is to Illinois.
+contradiction	San Francisco is located between Irving and San Diego.	San Diego is nearer to Irving than San Diego is to San Francisco.
+contradiction	Madison is located between Ontario and Irvine.	Irvine is nearer to Ontario than Irvine is to Madison.
+contradiction	Tulsa is located between Albany and Ontario.	Ontario is nearer to Albany than Ontario is to Tulsa.
+contradiction	Boston is located between Hampton and Sacramento.	Sacramento is nearer to Hampton than Sacramento is to Boston.
+contradiction	Santa Barbara is located between Washington and Illinois.	Illinois is nearer to Washington than Illinois is to Santa Barbara.
+contradiction	Boston is located between Houston and Tempe.	Tempe is nearer to Houston than Tempe is to Boston.
+contradiction	Richmond is located between Columbia and Manchester.	Manchester is nearer to Columbia than Manchester is to Richmond.
+contradiction	Ontario is located between Olympia and San Francisco.	San Francisco is nearer to Olympia than San Francisco is to Ontario.
+contradiction	Oklahoma is located between Tulsa and Springfield.	Springfield is nearer to Tulsa than Springfield is to Oklahoma.
+contradiction	Frankfurt is located between Columbia and San Jose.	San Jose is nearer to Columbia than San Jose is to Frankfurt.
+contradiction	Detroit is located between Hartford and Irving.	Irving is nearer to Hartford than Irving is to Detroit.
+contradiction	Washington is located between Albany and Buffalo.	Buffalo is nearer to Albany than Buffalo is to Washington.
+contradiction	Tempe is located between Pittsburg and Irvine.	Irvine is nearer to Pittsburg than Irvine is to Tempe.
+contradiction	San Jose is located between Las Vegas and Irving.	Irving is nearer to Las Vegas than Irving is to San Jose.
+contradiction	Miami is located between Phoenix and Olympia.	Olympia is nearer to Phoenix than Olympia is to Miami.
+contradiction	Kansas is located between Phoenix and Los Angeles.	Los Angeles is nearer to Phoenix than Los Angeles is to Kansas.
+contradiction	Kansas is located between Ontario and Dallas.	Dallas is nearer to Ontario than Dallas is to Kansas.
+contradiction	Madison is located between Tulsa and Olympia.	Olympia is nearer to Tulsa than Olympia is to Madison.
+contradiction	Ontario is located between Dallas and Buffalo.	Buffalo is nearer to Dallas than Buffalo is to Ontario.
+contradiction	Rochester is located between Irvine and Santa Barbara.	Santa Barbara is nearer to Irvine than Santa Barbara is to Rochester.
+contradiction	Washington is located between Springfield and San Francisco.	San Francisco is nearer to Springfield than San Francisco is to Washington.
+contradiction	Minneapolis is located between Illinois and Phoenix.	Phoenix is nearer to Illinois than Phoenix is to Minneapolis.
+contradiction	Ontario is located between Houston and Columbia.	Columbia is nearer to Houston than Columbia is to Ontario.
+contradiction	Hampton is located between Dallas and Irvine.	Irvine is nearer to Dallas than Irvine is to Hampton.
+contradiction	Oklahoma is located between Illinois and Washington.	Washington is nearer to Illinois than Washington is to Oklahoma.
+contradiction	Illinois is located between San Francisco and San Diego.	San Diego is nearer to San Francisco than San Diego is to Illinois.
+contradiction	San Diego is located between Rochester and Pittsburg.	Pittsburg is nearer to Rochester than Pittsburg is to San Diego.
+contradiction	Minneapolis is located between Albany and Frankfurt.	Frankfurt is nearer to Albany than Frankfurt is to Minneapolis.
+contradiction	Pittsburg is located between Philadelphia and Rochester.	Rochester is nearer to Philadelphia than Rochester is to Pittsburg.
+contradiction	San Francisco is located between Hartford and Buffalo.	Buffalo is nearer to Hartford than Buffalo is to San Francisco.
+contradiction	San Diego is located between Tulsa and Philadelphia.	Philadelphia is nearer to Tulsa than Philadelphia is to San Diego.
+contradiction	Columbia is located between Washington and Pittsburg.	Pittsburg is nearer to Washington than Pittsburg is to Columbia.
+contradiction	San Jose is located between Albany and Springfield.	Springfield is nearer to Albany than Springfield is to San Jose.
+contradiction	Kansas is located between Washington and Columbia.	Columbia is nearer to Washington than Columbia is to Kansas.
+contradiction	Phoenix is located between Philadelphia and Dallas.	Dallas is nearer to Philadelphia than Dallas is to Phoenix.
+contradiction	Philadelphia is located between Olympia and Chicago.	Chicago is nearer to Olympia than Chicago is to Philadelphia.
+contradiction	Tempe is located between Columbia and Miami.	Miami is nearer to Columbia than Miami is to Tempe.
+contradiction	Irving is located between Illinois and Ontario.	Ontario is nearer to Illinois than Ontario is to Irving.
+contradiction	Springfield is located between Olympia and San Jose.	San Jose is nearer to Olympia than San Jose is to Springfield.
+contradiction	Richmond is located between Detroit and San Jose.	San Jose is nearer to Detroit than San Jose is to Richmond.
+contradiction	Houston is located between Washington and Rochester.	Rochester is nearer to Washington than Rochester is to Houston.
+contradiction	Pittsburg is located between Olympia and Washington.	Washington is nearer to Olympia than Washington is to Pittsburg.
+contradiction	Albany is located between San Jose and Boston.	Boston is nearer to San Jose than Boston is to Albany.
+contradiction	Frankfurt is located between Ontario and Olympia.	Olympia is nearer to Ontario than Olympia is to Frankfurt.
+contradiction	Columbia is located between Buffalo and Olympia.	Olympia is nearer to Buffalo than Olympia is to Columbia.
+contradiction	Springfield is located between Washington and Oklahoma.	Oklahoma is nearer to Washington than Oklahoma is to Springfield.
+contradiction	San Francisco is located between San Jose and Illinois.	Illinois is nearer to San Jose than Illinois is to San Francisco.
+contradiction	Frankfurt is located between Santa Barbara and New York.	New York is nearer to Santa Barbara than New York is to Frankfurt.
+contradiction	Irving is located between Frankfurt and Tulsa.	Tulsa is nearer to Frankfurt than Tulsa is to Irving.
+contradiction	Madison is located between San Diego and Pittsburg.	Pittsburg is nearer to San Diego than Pittsburg is to Madison.
+contradiction	Tulsa is located between Pittsburg and Manchester.	Manchester is nearer to Pittsburg than Manchester is to Tulsa.
+contradiction	Las Vegas is located between Springfield and Irving.	Irving is nearer to Springfield than Irving is to Las Vegas.
+contradiction	Hampton is located between Madison and Miami.	Miami is nearer to Madison than Miami is to Hampton.
+contradiction	Illinois is located between Irving and San Diego.	San Diego is nearer to Irving than San Diego is to Illinois.
+contradiction	Chicago is located between Phoenix and Columbia.	Columbia is nearer to Phoenix than Columbia is to Chicago.
+contradiction	Chicago is located between Olympia and Hartford.	Hartford is nearer to Olympia than Hartford is to Chicago.
+contradiction	Manchester is located between Santa Barbara and San Diego.	San Diego is nearer to Santa Barbara than San Diego is to Manchester.
+contradiction	San Diego is located between Frankfurt and Illinois.	Illinois is nearer to Frankfurt than Illinois is to San Diego.
+contradiction	Hampton is located between Las Vegas and Springfield.	Springfield is nearer to Las Vegas than Springfield is to Hampton.
+contradiction	Washington is located between Madison and Dallas.	Dallas is nearer to Madison than Dallas is to Washington.
+contradiction	San Francisco is located between Washington and Olympia.	Olympia is nearer to Washington than Olympia is to San Francisco.
+contradiction	Boston is located between Detroit and Phoenix.	Phoenix is nearer to Detroit than Phoenix is to Boston.
+contradiction	Rochester is located between Manchester and Buffalo.	Buffalo is nearer to Manchester than Buffalo is to Rochester.
+contradiction	Olympia is located between Tulsa and Illinois.	Illinois is nearer to Tulsa than Illinois is to Olympia.
+contradiction	Washington is located between San Diego and Oklahoma.	Oklahoma is nearer to San Diego than Oklahoma is to Washington.
+contradiction	Miami is located between San Diego and Tempe.	Tempe is nearer to San Diego than Tempe is to Miami.
+contradiction	Oklahoma is located between Miami and Rochester.	Rochester is nearer to Miami than Rochester is to Oklahoma.
+contradiction	Irvine is located between Chicago and Oklahoma.	Oklahoma is nearer to Chicago than Oklahoma is to Irvine.
+contradiction	Houston is located between Santa Barbara and Kansas.	Kansas is nearer to Santa Barbara than Kansas is to Houston.
+contradiction	Irvine is located between Las Vegas and Philadelphia.	Philadelphia is nearer to Las Vegas than Philadelphia is to Irvine.
+contradiction	Kansas is located between Tempe and Springfield.	Springfield is nearer to Tempe than Springfield is to Kansas.
+contradiction	Ontario is located between Madison and Las Vegas.	Las Vegas is nearer to Madison than Las Vegas is to Ontario.
+contradiction	Boston is located between Tempe and Albany.	Albany is nearer to Tempe than Albany is to Boston.
+contradiction	Phoenix is located between Santa Barbara and Illinois.	Illinois is nearer to Santa Barbara than Illinois is to Phoenix.
+contradiction	Santa Barbara is located between Manchester and Richmond.	Richmond is nearer to Manchester than Richmond is to Santa Barbara.
+contradiction	Houston is located between Washington and Columbia.	Columbia is nearer to Washington than Columbia is to Houston.
+contradiction	Madison is located between Los Angeles and New York.	New York is nearer to Los Angeles than New York is to Madison.
+contradiction	Dallas is located between Tempe and Olympia.	Olympia is nearer to Tempe than Olympia is to Dallas.
+contradiction	Olympia is located between Hartford and Hampton.	Hampton is nearer to Hartford than Hampton is to Olympia.
+contradiction	New York is located between Madison and Chicago.	Chicago is nearer to Madison than Chicago is to New York.
+contradiction	Irving is located between San Francisco and Irvine.	Irvine is nearer to San Francisco than Irvine is to Irving.
+contradiction	Irving is located between Frankfurt and Irvine.	Irvine is nearer to Frankfurt than Irvine is to Irving.
+contradiction	Ontario is located between Detroit and Irving.	Irving is nearer to Detroit than Irving is to Ontario.
+contradiction	Pittsburg is located between Chicago and Olympia.	Olympia is nearer to Chicago than Olympia is to Pittsburg.
+contradiction	San Diego is located between Richmond and New York.	New York is nearer to Richmond than New York is to San Diego.
+contradiction	Pittsburg is located between Philadelphia and Madison.	Madison is nearer to Philadelphia than Madison is to Pittsburg.
+contradiction	Manchester is located between Sacramento and Oklahoma.	Oklahoma is nearer to Sacramento than Oklahoma is to Manchester.
+contradiction	San Diego is located between San Francisco and Ontario.	Ontario is nearer to San Francisco than Ontario is to San Diego.
+contradiction	Philadelphia is located between Springfield and Chicago.	Chicago is nearer to Springfield than Chicago is to Philadelphia.
+contradiction	Oklahoma is located between Springfield and Pittsburg.	Pittsburg is nearer to Springfield than Pittsburg is to Oklahoma.
+contradiction	Pittsburg is located between Hartford and Boston.	Boston is nearer to Hartford than Boston is to Pittsburg.
+contradiction	Tulsa is located between Washington and New York.	New York is nearer to Washington than New York is to Tulsa.
+contradiction	Richmond is located between Los Angeles and Oklahoma.	Oklahoma is nearer to Los Angeles than Oklahoma is to Richmond.
+contradiction	New York is located between Minneapolis and Tulsa.	Tulsa is nearer to Minneapolis than Tulsa is to New York.
+contradiction	Washington is located between Las Vegas and Ontario.	Ontario is nearer to Las Vegas than Ontario is to Washington.
+contradiction	Manchester is located between San Diego and Oklahoma.	Oklahoma is nearer to San Diego than Oklahoma is to Manchester.
+contradiction	Washington is located between Tempe and Chicago.	Chicago is nearer to Tempe than Chicago is to Washington.
+contradiction	Houston is located between Irvine and Tempe.	Tempe is nearer to Irvine than Tempe is to Houston.
+contradiction	San Francisco is located between San Diego and Santa Barbara.	Santa Barbara is nearer to San Diego than Santa Barbara is to San Francisco.
+contradiction	Sacramento is located between Oklahoma and Pittsburg.	Pittsburg is nearer to Oklahoma than Pittsburg is to Sacramento.
+contradiction	San Diego is located between Chicago and Irvine.	Irvine is nearer to Chicago than Irvine is to San Diego.
+contradiction	Illinois is located between Phoenix and Dallas.	Dallas is nearer to Phoenix than Dallas is to Illinois.
+contradiction	Columbia is located between Hampton and Buffalo.	Buffalo is nearer to Hampton than Buffalo is to Columbia.
+contradiction	Pittsburg is located between Buffalo and Sacramento.	Sacramento is nearer to Buffalo than Sacramento is to Pittsburg.
+contradiction	Olympia is located between Springfield and Minneapolis.	Minneapolis is nearer to Springfield than Minneapolis is to Olympia.
+contradiction	Las Vegas is located between Buffalo and Detroit.	Detroit is nearer to Buffalo than Detroit is to Las Vegas.
+contradiction	Miami is located between Pittsburg and Hartford.	Hartford is nearer to Pittsburg than Hartford is to Miami.
+contradiction	Kansas is located between San Francisco and Tempe.	Tempe is nearer to San Francisco than Tempe is to Kansas.
+contradiction	Sacramento is located between Frankfurt and Washington.	Washington is nearer to Frankfurt than Washington is to Sacramento.
+contradiction	Detroit is located between Minneapolis and Hartford.	Hartford is nearer to Minneapolis than Hartford is to Detroit.
+contradiction	Santa Barbara is located between Chicago and Hartford.	Hartford is nearer to Chicago than Hartford is to Santa Barbara.
+contradiction	Springfield is located between Minneapolis and Phoenix.	Phoenix is nearer to Minneapolis than Phoenix is to Springfield.
+contradiction	Boston is located between Santa Barbara and Dallas.	Dallas is nearer to Santa Barbara than Dallas is to Boston.
+contradiction	Frankfurt is located between Buffalo and Washington.	Washington is nearer to Buffalo than Washington is to Frankfurt.
+contradiction	Minneapolis is located between Irvine and Madison.	Madison is nearer to Irvine than Madison is to Minneapolis.
+contradiction	Santa Barbara is located between Manchester and Las Vegas.	Las Vegas is nearer to Manchester than Las Vegas is to Santa Barbara.
+contradiction	Illinois is located between Chicago and Richmond.	Richmond is nearer to Chicago than Richmond is to Illinois.
+contradiction	Minneapolis is located between Los Angeles and San Jose.	San Jose is nearer to Los Angeles than San Jose is to Minneapolis.
+contradiction	Buffalo is located between Albany and Tempe.	Tempe is nearer to Albany than Tempe is to Buffalo.
+contradiction	Ontario is located between Chicago and Boston.	Boston is nearer to Chicago than Boston is to Ontario.
+contradiction	Ontario is located between Phoenix and San Jose.	San Jose is nearer to Phoenix than San Jose is to Ontario.
+contradiction	San Jose is located between Chicago and Springfield.	Springfield is nearer to Chicago than Springfield is to San Jose.
+contradiction	Irving is located between Rochester and Albany.	Albany is nearer to Rochester than Albany is to Irving.
+contradiction	Dallas is located between Irving and Washington.	Washington is nearer to Irving than Washington is to Dallas.
+contradiction	San Jose is located between Hartford and Tempe.	Tempe is nearer to Hartford than Tempe is to San Jose.
+contradiction	Philadelphia is located between Buffalo and Oklahoma.	Oklahoma is nearer to Buffalo than Oklahoma is to Philadelphia.
+contradiction	Albany is located between Detroit and Illinois.	Illinois is nearer to Detroit than Illinois is to Albany.
+contradiction	Frankfurt is located between Hampton and Dallas.	Dallas is nearer to Hampton than Dallas is to Frankfurt.
+contradiction	Houston is located between Sacramento and Boston.	Boston is nearer to Sacramento than Boston is to Houston.
+contradiction	Irvine is located between San Diego and Hartford.	Hartford is nearer to San Diego than Hartford is to Irvine.
+contradiction	Frankfurt is located between Albany and Richmond.	Richmond is nearer to Albany than Richmond is to Frankfurt.
+contradiction	Tulsa is located between Frankfurt and Houston.	Houston is nearer to Frankfurt than Houston is to Tulsa.
+contradiction	Miami is located between Columbia and Hampton.	Hampton is nearer to Columbia than Hampton is to Miami.
+contradiction	Columbia is located between Rochester and Irvine.	Irvine is nearer to Rochester than Irvine is to Columbia.
+contradiction	Rochester is located between Pittsburg and Manchester.	Manchester is nearer to Pittsburg than Manchester is to Rochester.
+contradiction	Buffalo is located between Hartford and Richmond.	Richmond is nearer to Hartford than Richmond is to Buffalo.
+contradiction	Detroit is located between Buffalo and Tempe.	Tempe is nearer to Buffalo than Tempe is to Detroit.
+contradiction	Sacramento is located between Dallas and San Jose.	San Jose is nearer to Dallas than San Jose is to Sacramento.
+contradiction	Phoenix is located between Sacramento and Irving.	Irving is nearer to Sacramento than Irving is to Phoenix.
+contradiction	Springfield is located between San Francisco and Columbia.	Columbia is nearer to San Francisco than Columbia is to Springfield.
+contradiction	New York is located between Detroit and Frankfurt.	Frankfurt is nearer to Detroit than Frankfurt is to New York.
+contradiction	Ontario is located between Frankfurt and Houston.	Houston is nearer to Frankfurt than Houston is to Ontario.
+contradiction	Olympia is located between Minneapolis and Boston.	Boston is nearer to Minneapolis than Boston is to Olympia.
+contradiction	Tempe is located between Kansas and Tulsa.	Tulsa is nearer to Kansas than Tulsa is to Tempe.
+contradiction	New York is located between Philadelphia and Rochester.	Rochester is nearer to Philadelphia than Rochester is to New York.
+contradiction	Olympia is located between Phoenix and Kansas.	Kansas is nearer to Phoenix than Kansas is to Olympia.
+contradiction	Phoenix is located between San Jose and Kansas.	Kansas is nearer to San Jose than Kansas is to Phoenix.
+contradiction	Irvine is located between Las Vegas and Ontario.	Ontario is nearer to Las Vegas than Ontario is to Irvine.
+contradiction	Columbia is located between Albany and Los Angeles.	Los Angeles is nearer to Albany than Los Angeles is to Columbia.
+contradiction	Oklahoma is located between New York and Dallas.	Dallas is nearer to New York than Dallas is to Oklahoma.
+contradiction	Irvine is located between Manchester and Pittsburg.	Pittsburg is nearer to Manchester than Pittsburg is to Irvine.
+contradiction	Irvine is located between Buffalo and Miami.	Miami is nearer to Buffalo than Miami is to Irvine.
+contradiction	Dallas is located between Tulsa and Sacramento.	Sacramento is nearer to Tulsa than Sacramento is to Dallas.
+contradiction	Los Angeles is located between Sacramento and Chicago.	Chicago is nearer to Sacramento than Chicago is to Los Angeles.
+contradiction	Dallas is located between Pittsburg and Detroit.	Detroit is nearer to Pittsburg than Detroit is to Dallas.
+contradiction	Columbia is located between Ontario and Detroit.	Detroit is nearer to Ontario than Detroit is to Columbia.
+contradiction	Pittsburg is located between San Francisco and Albany.	Albany is nearer to San Francisco than Albany is to Pittsburg.
+contradiction	Springfield is located between Washington and Houston.	Houston is nearer to Washington than Houston is to Springfield.
+contradiction	Chicago is located between Rochester and Hartford.	Hartford is nearer to Rochester than Hartford is to Chicago.
+contradiction	Los Angeles is located between Illinois and San Francisco.	San Francisco is nearer to Illinois than San Francisco is to Los Angeles.
+contradiction	Detroit is located between Manchester and Miami.	Miami is nearer to Manchester than Miami is to Detroit.
+contradiction	San Diego is located between San Francisco and Springfield.	Springfield is nearer to San Francisco than Springfield is to San Diego.
+contradiction	Washington is located between Oklahoma and Irvine.	Irvine is nearer to Oklahoma than Irvine is to Washington.
+contradiction	Rochester is located between Chicago and Sacramento.	Sacramento is nearer to Chicago than Sacramento is to Rochester.
+contradiction	Detroit is located between Phoenix and Frankfurt.	Frankfurt is nearer to Phoenix than Frankfurt is to Detroit.
+contradiction	Tulsa is located between Los Angeles and Hartford.	Hartford is nearer to Los Angeles than Hartford is to Tulsa.
+contradiction	Madison is located between Frankfurt and Oklahoma.	Oklahoma is nearer to Frankfurt than Oklahoma is to Madison.
+contradiction	Chicago is located between Detroit and Hampton.	Hampton is nearer to Detroit than Hampton is to Chicago.
+contradiction	Albany is located between Ontario and Oklahoma.	Oklahoma is nearer to Ontario than Oklahoma is to Albany.
+contradiction	Chicago is located between San Francisco and Sacramento.	Sacramento is nearer to San Francisco than Sacramento is to Chicago.
+contradiction	Madison is located between Albany and Ontario.	Ontario is nearer to Albany than Ontario is to Madison.
+contradiction	Phoenix is located between San Francisco and Ontario.	Ontario is nearer to San Francisco than Ontario is to Phoenix.
+contradiction	Sacramento is located between Madison and San Jose.	San Jose is nearer to Madison than San Jose is to Sacramento.
+contradiction	San Diego is located between Hartford and Oklahoma.	Oklahoma is nearer to Hartford than Oklahoma is to San Diego.
+contradiction	Frankfurt is located between Columbia and Phoenix.	Phoenix is nearer to Columbia than Phoenix is to Frankfurt.
+contradiction	Los Angeles is located between Miami and Hampton.	Hampton is nearer to Miami than Hampton is to Los Angeles.
+contradiction	Manchester is located between Dallas and Santa Barbara.	Santa Barbara is nearer to Dallas than Santa Barbara is to Manchester.
+contradiction	Rochester is located between Hartford and San Diego.	San Diego is nearer to Hartford than San Diego is to Rochester.
+contradiction	Buffalo is located between Minneapolis and Albany.	Albany is nearer to Minneapolis than Albany is to Buffalo.
+contradiction	Oklahoma is located between Houston and Manchester.	Manchester is nearer to Houston than Manchester is to Oklahoma.
+contradiction	Ontario is located between Phoenix and Sacramento.	Sacramento is nearer to Phoenix than Sacramento is to Ontario.
+contradiction	Albany is located between Manchester and Hartford.	Hartford is nearer to Manchester than Hartford is to Albany.
+contradiction	Santa Barbara is located between Frankfurt and Minneapolis.	Minneapolis is nearer to Frankfurt than Minneapolis is to Santa Barbara.
+contradiction	Sacramento is located between Philadelphia and Oklahoma.	Oklahoma is nearer to Philadelphia than Oklahoma is to Sacramento.
+contradiction	Springfield is located between Albany and Minneapolis.	Minneapolis is nearer to Albany than Minneapolis is to Springfield.
+contradiction	Irving is located between Washington and Richmond.	Richmond is nearer to Washington than Richmond is to Irving.
+contradiction	Springfield is located between New York and Buffalo.	Buffalo is nearer to New York than Buffalo is to Springfield.
+contradiction	Boston is located between Chicago and Tempe.	Tempe is nearer to Chicago than Tempe is to Boston.
+contradiction	Rochester is located between Hartford and Boston.	Boston is nearer to Hartford than Boston is to Rochester.
+contradiction	San Jose is located between Albany and Chicago.	Chicago is nearer to Albany than Chicago is to San Jose.
+contradiction	Illinois is located between Hampton and Washington.	Washington is nearer to Hampton than Washington is to Illinois.
+contradiction	Boston is located between Miami and Houston.	Houston is nearer to Miami than Houston is to Boston.
+contradiction	Dallas is located between San Francisco and Oklahoma.	Oklahoma is nearer to San Francisco than Oklahoma is to Dallas.
+contradiction	Oklahoma is located between Las Vegas and Manchester.	Manchester is nearer to Las Vegas than Manchester is to Oklahoma.
+contradiction	Detroit is located between Kansas and Minneapolis.	Minneapolis is nearer to Kansas than Minneapolis is to Detroit.
+contradiction	Illinois is located between Buffalo and Houston.	Houston is nearer to Buffalo than Houston is to Illinois.
+contradiction	Chicago is located between Los Angeles and Illinois.	Illinois is nearer to Los Angeles than Illinois is to Chicago.
+contradiction	Santa Barbara is located between Miami and Oklahoma.	Oklahoma is nearer to Miami than Oklahoma is to Santa Barbara.
+contradiction	Boston is located between Olympia and Miami.	Miami is nearer to Olympia than Miami is to Boston.
+contradiction	Pittsburg is located between Los Angeles and San Francisco.	San Francisco is nearer to Los Angeles than San Francisco is to Pittsburg.
+contradiction	Madison is located between Buffalo and Detroit.	Detroit is nearer to Buffalo than Detroit is to Madison.
+contradiction	Los Angeles is located between Washington and Ontario.	Ontario is nearer to Washington than Ontario is to Los Angeles.
+contradiction	Illinois is located between Columbia and Philadelphia.	Philadelphia is nearer to Columbia than Philadelphia is to Illinois.
+contradiction	Washington is located between San Diego and Kansas.	Kansas is nearer to San Diego than Kansas is to Washington.
+contradiction	Chicago is located between Minneapolis and Oklahoma.	Oklahoma is nearer to Minneapolis than Oklahoma is to Chicago.
+contradiction	Ontario is located between Hartford and Frankfurt.	Frankfurt is nearer to Hartford than Frankfurt is to Ontario.
+contradiction	Las Vegas is located between Buffalo and Tulsa.	Tulsa is nearer to Buffalo than Tulsa is to Las Vegas.
+contradiction	Ontario is located between Kansas and Minneapolis.	Minneapolis is nearer to Kansas than Minneapolis is to Ontario.
+contradiction	Richmond is located between Albany and Irvine.	Irvine is nearer to Albany than Irvine is to Richmond.
+contradiction	Tempe is located between New York and Detroit.	Detroit is nearer to New York than Detroit is to Tempe.
+contradiction	Houston is located between Las Vegas and Tulsa.	Tulsa is nearer to Las Vegas than Tulsa is to Houston.
+contradiction	Santa Barbara is located between Dallas and Richmond.	Richmond is nearer to Dallas than Richmond is to Santa Barbara.
+contradiction	Washington is located between Richmond and Detroit.	Detroit is nearer to Richmond than Detroit is to Washington.
+contradiction	Kansas is located between Rochester and Irving.	Irving is nearer to Rochester than Irving is to Kansas.
+contradiction	New York is located between Ontario and Philadelphia.	Philadelphia is nearer to Ontario than Philadelphia is to New York.
+contradiction	Illinois is located between Tempe and Richmond.	Richmond is nearer to Tempe than Richmond is to Illinois.
+contradiction	Phoenix is located between Irving and Buffalo.	Buffalo is nearer to Irving than Buffalo is to Phoenix.
+contradiction	Pittsburg is located between Springfield and Los Angeles.	Los Angeles is nearer to Springfield than Los Angeles is to Pittsburg.
+contradiction	Las Vegas is located between Madison and Tempe.	Tempe is nearer to Madison than Tempe is to Las Vegas.
+contradiction	Springfield is located between Oklahoma and Illinois.	Illinois is nearer to Oklahoma than Illinois is to Springfield.
+contradiction	Tempe is located between Los Angeles and Oklahoma.	Oklahoma is nearer to Los Angeles than Oklahoma is to Tempe.
+contradiction	Tempe is located between Irvine and Pittsburg.	Pittsburg is nearer to Irvine than Pittsburg is to Tempe.
+contradiction	Phoenix is located between Ontario and San Diego.	San Diego is nearer to Ontario than San Diego is to Phoenix.
+contradiction	Manchester is located between Kansas and Albany.	Albany is nearer to Kansas than Albany is to Manchester.
+contradiction	Kansas is located between Rochester and Minneapolis.	Minneapolis is nearer to Rochester than Minneapolis is to Kansas.
+contradiction	Dallas is located between Irving and Frankfurt.	Frankfurt is nearer to Irving than Frankfurt is to Dallas.
+contradiction	New York is located between Pittsburg and Miami.	Miami is nearer to Pittsburg than Miami is to New York.
+contradiction	Manchester is located between Hampton and Miami.	Miami is nearer to Hampton than Miami is to Manchester.
+contradiction	Madison is located between Tulsa and Manchester.	Manchester is nearer to Tulsa than Manchester is to Madison.
+contradiction	Richmond is located between Miami and Manchester.	Manchester is nearer to Miami than Manchester is to Richmond.
+contradiction	Dallas is located between Albany and San Jose.	San Jose is nearer to Albany than San Jose is to Dallas.
+contradiction	Madison is located between Tempe and Springfield.	Springfield is nearer to Tempe than Springfield is to Madison.
+contradiction	Oklahoma is located between Hampton and Chicago.	Chicago is nearer to Hampton than Chicago is to Oklahoma.
+contradiction	Washington is located between Albany and Frankfurt.	Frankfurt is nearer to Albany than Frankfurt is to Washington.
+contradiction	Illinois is located between Madison and Chicago.	Chicago is nearer to Madison than Chicago is to Illinois.
+contradiction	Hartford is located between Las Vegas and Santa Barbara.	Santa Barbara is nearer to Las Vegas than Santa Barbara is to Hartford.
+contradiction	Hampton is located between San Diego and Tempe.	Tempe is nearer to San Diego than Tempe is to Hampton.
+contradiction	Houston is located between Olympia and Miami.	Miami is nearer to Olympia than Miami is to Houston.
+contradiction	Miami is located between Rochester and Houston.	Houston is nearer to Rochester than Houston is to Miami.
+contradiction	San Diego is located between Richmond and Springfield.	Springfield is nearer to Richmond than Springfield is to San Diego.
+contradiction	Frankfurt is located between Kansas and Tulsa.	Tulsa is nearer to Kansas than Tulsa is to Frankfurt.
+contradiction	Kansas is located between Albany and San Diego.	San Diego is nearer to Albany than San Diego is to Kansas.
+contradiction	Detroit is located between Houston and Illinois.	Illinois is nearer to Houston than Illinois is to Detroit.
+contradiction	Hartford is located between Irving and San Jose.	San Jose is nearer to Irving than San Jose is to Hartford.
+contradiction	San Francisco is located between Illinois and Hampton.	Hampton is nearer to Illinois than Hampton is to San Francisco.
+contradiction	Albany is located between Washington and Frankfurt.	Frankfurt is nearer to Washington than Frankfurt is to Albany.
+contradiction	Rochester is located between Washington and Boston.	Boston is nearer to Washington than Boston is to Rochester.
+contradiction	Madison is located between Las Vegas and Detroit.	Detroit is nearer to Las Vegas than Detroit is to Madison.
+contradiction	Frankfurt is located between Columbia and Springfield.	Springfield is nearer to Columbia than Springfield is to Frankfurt.
+contradiction	Richmond is located between Illinois and Washington.	Washington is nearer to Illinois than Washington is to Richmond.
+contradiction	Houston is located between Los Angeles and Santa Barbara.	Santa Barbara is nearer to Los Angeles than Santa Barbara is to Houston.
+contradiction	Manchester is located between Columbia and Kansas.	Kansas is nearer to Columbia than Kansas is to Manchester.
+contradiction	Houston is located between Santa Barbara and Las Vegas.	Las Vegas is nearer to Santa Barbara than Las Vegas is to Houston.
+contradiction	Detroit is located between Chicago and Ontario.	Ontario is nearer to Chicago than Ontario is to Detroit.
+contradiction	Phoenix is located between Madison and Sacramento.	Sacramento is nearer to Madison than Sacramento is to Phoenix.
+contradiction	Las Vegas is located between Olympia and Chicago.	Chicago is nearer to Olympia than Chicago is to Las Vegas.
+contradiction	Albany is located between Philadelphia and Buffalo.	Buffalo is nearer to Philadelphia than Buffalo is to Albany.
+contradiction	Rochester is located between Madison and Richmond.	Richmond is nearer to Madison than Richmond is to Rochester.
+contradiction	Chicago is located between Sacramento and Buffalo.	Buffalo is nearer to Sacramento than Buffalo is to Chicago.
+contradiction	Philadelphia is located between Springfield and Detroit.	Detroit is nearer to Springfield than Detroit is to Philadelphia.
+contradiction	Santa Barbara is located between Manchester and Irvine.	Irvine is nearer to Manchester than Irvine is to Santa Barbara.
+contradiction	Columbia is located between Buffalo and Manchester.	Manchester is nearer to Buffalo than Manchester is to Columbia.
+contradiction	Oklahoma is located between Pittsburg and Illinois.	Illinois is nearer to Pittsburg than Illinois is to Oklahoma.
+contradiction	San Diego is located between Madison and Frankfurt.	Frankfurt is nearer to Madison than Frankfurt is to San Diego.
+contradiction	Irvine is located between Tulsa and Santa Barbara.	Santa Barbara is nearer to Tulsa than Santa Barbara is to Irvine.
+contradiction	Irving is located between Hampton and Hartford.	Hartford is nearer to Hampton than Hartford is to Irving.
+contradiction	Chicago is located between Illinois and San Jose.	San Jose is nearer to Illinois than San Jose is to Chicago.
+contradiction	Frankfurt is located between Minneapolis and Olympia.	Olympia is nearer to Minneapolis than Olympia is to Frankfurt.
+contradiction	Illinois is located between Tulsa and Chicago.	Chicago is nearer to Tulsa than Chicago is to Illinois.
+contradiction	Chicago is located between Kansas and Phoenix.	Phoenix is nearer to Kansas than Phoenix is to Chicago.
+contradiction	Houston is located between Tulsa and Buffalo.	Buffalo is nearer to Tulsa than Buffalo is to Houston.
+contradiction	Columbia is located between Oklahoma and Rochester.	Rochester is nearer to Oklahoma than Rochester is to Columbia.
+contradiction	Springfield is located between New York and Santa Barbara.	Santa Barbara is nearer to New York than Santa Barbara is to Springfield.
+contradiction	Chicago is located between Boston and Santa Barbara.	Santa Barbara is nearer to Boston than Santa Barbara is to Chicago.
+contradiction	Dallas is located between Chicago and Richmond.	Richmond is nearer to Chicago than Richmond is to Dallas.
+contradiction	Hampton is located between San Francisco and Santa Barbara.	Santa Barbara is nearer to San Francisco than Santa Barbara is to Hampton.
+contradiction	Springfield is located between Illinois and Hampton.	Hampton is nearer to Illinois than Hampton is to Springfield.
+contradiction	Las Vegas is located between Columbia and Kansas.	Kansas is nearer to Columbia than Kansas is to Las Vegas.
+contradiction	Columbia is located between Kansas and Pittsburg.	Pittsburg is nearer to Kansas than Pittsburg is to Columbia.
+contradiction	Irvine is located between New York and Phoenix.	Phoenix is nearer to New York than Phoenix is to Irvine.
+contradiction	Hampton is located between Washington and Dallas.	Dallas is nearer to Washington than Dallas is to Hampton.
+contradiction	Columbia is located between Madison and Manchester.	Manchester is nearer to Madison than Manchester is to Columbia.
+contradiction	Hartford is located between Houston and Madison.	Madison is nearer to Houston than Madison is to Hartford.
+contradiction	Hampton is located between Phoenix and Albany.	Albany is nearer to Phoenix than Albany is to Hampton.
+contradiction	Phoenix is located between Tulsa and Detroit.	Detroit is nearer to Tulsa than Detroit is to Phoenix.
+contradiction	Manchester is located between Hartford and Tempe.	Tempe is nearer to Hartford than Tempe is to Manchester.
+contradiction	Las Vegas is located between Phoenix and Pittsburg.	Pittsburg is nearer to Phoenix than Pittsburg is to Las Vegas.
+contradiction	Hampton is located between Richmond and Frankfurt.	Frankfurt is nearer to Richmond than Frankfurt is to Hampton.
+contradiction	Ontario is located between Frankfurt and Washington.	Washington is nearer to Frankfurt than Washington is to Ontario.
+contradiction	Tulsa is located between Phoenix and Houston.	Houston is nearer to Phoenix than Houston is to Tulsa.
+contradiction	Richmond is located between Washington and Santa Barbara.	Santa Barbara is nearer to Washington than Santa Barbara is to Richmond.
+contradiction	Houston is located between Sacramento and Los Angeles.	Los Angeles is nearer to Sacramento than Los Angeles is to Houston.
+contradiction	San Diego is located between Miami and Tulsa.	Tulsa is nearer to Miami than Tulsa is to San Diego.
+contradiction	Oklahoma is located between Irvine and Illinois.	Illinois is nearer to Irvine than Illinois is to Oklahoma.
+contradiction	Los Angeles is located between Oklahoma and Boston.	Boston is nearer to Oklahoma than Boston is to Los Angeles.
+contradiction	San Diego is located between Richmond and Tulsa.	Tulsa is nearer to Richmond than Tulsa is to San Diego.
+contradiction	Las Vegas is located between Olympia and Los Angeles.	Los Angeles is nearer to Olympia than Los Angeles is to Las Vegas.
+contradiction	Springfield is located between Las Vegas and Olympia.	Olympia is nearer to Las Vegas than Olympia is to Springfield.
+contradiction	Phoenix is located between Boston and Buffalo.	Buffalo is nearer to Boston than Buffalo is to Phoenix.
+contradiction	San Francisco is located between Buffalo and Tulsa.	Tulsa is nearer to Buffalo than Tulsa is to San Francisco.
+contradiction	Hartford is located between Buffalo and Los Angeles.	Los Angeles is nearer to Buffalo than Los Angeles is to Hartford.
+contradiction	Hartford is located between Tulsa and Tempe.	Tempe is nearer to Tulsa than Tempe is to Hartford.
+contradiction	Detroit is located between Sacramento and San Jose.	San Jose is nearer to Sacramento than San Jose is to Detroit.
+contradiction	Pittsburg is located between Dallas and Phoenix.	Phoenix is nearer to Dallas than Phoenix is to Pittsburg.
+contradiction	New York is located between Boston and Phoenix.	Phoenix is nearer to Boston than Phoenix is to New York.
+contradiction	Tulsa is located between Hartford and Oklahoma.	Oklahoma is nearer to Hartford than Oklahoma is to Tulsa.
+contradiction	Santa Barbara is located between Las Vegas and Frankfurt.	Frankfurt is nearer to Las Vegas than Frankfurt is to Santa Barbara.
+contradiction	Sacramento is located between Los Angeles and Oklahoma.	Oklahoma is nearer to Los Angeles than Oklahoma is to Sacramento.
+contradiction	Illinois is located between Hartford and Boston.	Boston is nearer to Hartford than Boston is to Illinois.
+contradiction	Phoenix is located between Irvine and Oklahoma.	Oklahoma is nearer to Irvine than Oklahoma is to Phoenix.
+contradiction	Kansas is located between Tulsa and San Diego.	San Diego is nearer to Tulsa than San Diego is to Kansas.
+contradiction	San Francisco is located between Santa Barbara and Washington.	Washington is nearer to Santa Barbara than Washington is to San Francisco.
+contradiction	Frankfurt is located between Kansas and Houston.	Houston is nearer to Kansas than Houston is to Frankfurt.
+contradiction	Kansas is located between Springfield and New York.	New York is nearer to Springfield than New York is to Kansas.
+contradiction	Ontario is located between Kansas and New York.	New York is nearer to Kansas than New York is to Ontario.
+contradiction	Houston is located between Hampton and Ontario.	Ontario is nearer to Hampton than Ontario is to Houston.
+contradiction	Boston is located between Hartford and Kansas.	Kansas is nearer to Hartford than Kansas is to Boston.
+contradiction	New York is located between Las Vegas and Pittsburg.	Pittsburg is nearer to Las Vegas than Pittsburg is to New York.
+contradiction	Philadelphia is located between Phoenix and Olympia.	Olympia is nearer to Phoenix than Olympia is to Philadelphia.
+contradiction	Madison is located between Sacramento and Albany.	Albany is nearer to Sacramento than Albany is to Madison.
+contradiction	San Jose is located between Detroit and Buffalo.	Buffalo is nearer to Detroit than Buffalo is to San Jose.
+contradiction	Los Angeles is located between Chicago and Oklahoma.	Oklahoma is nearer to Chicago than Oklahoma is to Los Angeles.
+contradiction	Ontario is located between Houston and Pittsburg.	Pittsburg is nearer to Houston than Pittsburg is to Ontario.
+contradiction	San Diego is located between Las Vegas and San Jose.	San Jose is nearer to Las Vegas than San Jose is to San Diego.
+contradiction	Miami is located between Buffalo and Illinois.	Illinois is nearer to Buffalo than Illinois is to Miami.
+contradiction	Richmond is located between Olympia and Illinois.	Illinois is nearer to Olympia than Illinois is to Richmond.
+contradiction	Hampton is located between Dallas and San Diego.	San Diego is nearer to Dallas than San Diego is to Hampton.
+contradiction	Illinois is located between Richmond and Detroit.	Detroit is nearer to Richmond than Detroit is to Illinois.
+contradiction	Buffalo is located between Columbia and San Jose.	San Jose is nearer to Columbia than San Jose is to Buffalo.
+contradiction	Las Vegas is located between Madison and Minneapolis.	Minneapolis is nearer to Madison than Minneapolis is to Las Vegas.
+contradiction	Houston is located between Illinois and Dallas.	Dallas is nearer to Illinois than Dallas is to Houston.
+contradiction	Phoenix is located between Frankfurt and Hampton.	Hampton is nearer to Frankfurt than Hampton is to Phoenix.
+contradiction	San Francisco is located between Minneapolis and Manchester.	Manchester is nearer to Minneapolis than Manchester is to San Francisco.
+contradiction	San Diego is located between Hartford and Oklahoma.	Oklahoma is nearer to Hartford than Oklahoma is to San Diego.
+contradiction	Ontario is located between Springfield and Madison.	Madison is nearer to Springfield than Madison is to Ontario.
+contradiction	Kansas is located between Ontario and Minneapolis.	Minneapolis is nearer to Ontario than Minneapolis is to Kansas.
+contradiction	Sacramento is located between Ontario and Phoenix.	Phoenix is nearer to Ontario than Phoenix is to Sacramento.
+contradiction	Washington is located between Philadelphia and Detroit.	Detroit is nearer to Philadelphia than Detroit is to Washington.
+contradiction	Washington is located between Houston and Rochester.	Rochester is nearer to Houston than Rochester is to Washington.
+contradiction	Oklahoma is located between Irvine and Boston.	Boston is nearer to Irvine than Boston is to Oklahoma.
+contradiction	Pittsburg is located between Madison and Miami.	Miami is nearer to Madison than Miami is to Pittsburg.
+contradiction	Illinois is located between Irvine and Detroit.	Detroit is nearer to Irvine than Detroit is to Illinois.
+contradiction	Richmond is located between Springfield and Los Angeles.	Los Angeles is nearer to Springfield than Los Angeles is to Richmond.
+contradiction	Rochester is located between Madison and Irving.	Irving is nearer to Madison than Irving is to Rochester.
+contradiction	Hampton is located between Santa Barbara and Philadelphia.	Philadelphia is nearer to Santa Barbara than Philadelphia is to Hampton.
+contradiction	Tulsa is located between Madison and Houston.	Houston is nearer to Madison than Houston is to Tulsa.
+contradiction	Illinois is located between Miami and Irving.	Irving is nearer to Miami than Irving is to Illinois.
+contradiction	Springfield is located between Buffalo and San Jose.	San Jose is nearer to Buffalo than San Jose is to Springfield.
+contradiction	Ontario is located between Madison and Detroit.	Detroit is nearer to Madison than Detroit is to Ontario.
+contradiction	Rochester is located between Olympia and Columbia.	Columbia is nearer to Olympia than Columbia is to Rochester.
+contradiction	San Jose is located between Los Angeles and Sacramento.	Sacramento is nearer to Los Angeles than Sacramento is to San Jose.
+contradiction	Chicago is located between Manchester and Illinois.	Illinois is nearer to Manchester than Illinois is to Chicago.
+contradiction	Detroit is located between Sacramento and Miami.	Miami is nearer to Sacramento than Miami is to Detroit.
+contradiction	Hampton is located between Dallas and Minneapolis.	Minneapolis is nearer to Dallas than Minneapolis is to Hampton.
+contradiction	Irvine is located between Washington and Manchester.	Manchester is nearer to Washington than Manchester is to Irvine.
+contradiction	Madison is located between Richmond and Frankfurt.	Frankfurt is nearer to Richmond than Frankfurt is to Madison.
+contradiction	Dallas is located between Phoenix and Irving.	Irving is nearer to Phoenix than Irving is to Dallas.
+contradiction	Las Vegas is located between Philadelphia and San Jose.	San Jose is nearer to Philadelphia than San Jose is to Las Vegas.
+contradiction	Chicago is located between Columbia and Pittsburg.	Pittsburg is nearer to Columbia than Pittsburg is to Chicago.
+contradiction	Madison is located between Olympia and Irving.	Irving is nearer to Olympia than Irving is to Madison.
+contradiction	New York is located between Boston and Sacramento.	Sacramento is nearer to Boston than Sacramento is to New York.
+contradiction	Minneapolis is located between Rochester and Buffalo.	Buffalo is nearer to Rochester than Buffalo is to Minneapolis.
+contradiction	Hartford is located between Santa Barbara and Frankfurt.	Frankfurt is nearer to Santa Barbara than Frankfurt is to Hartford.
+contradiction	Ontario is located between Richmond and Los Angeles.	Los Angeles is nearer to Richmond than Los Angeles is to Ontario.
+contradiction	Madison is located between Kansas and Rochester.	Rochester is nearer to Kansas than Rochester is to Madison.
+contradiction	Columbia is located between Rochester and New York.	New York is nearer to Rochester than New York is to Columbia.
+contradiction	New York is located between Columbia and Kansas.	Kansas is nearer to Columbia than Kansas is to New York.
+contradiction	Tempe is located between San Francisco and Kansas.	Kansas is nearer to San Francisco than Kansas is to Tempe.
+contradiction	Frankfurt is located between San Francisco and Tempe.	Tempe is nearer to San Francisco than Tempe is to Frankfurt.
+contradiction	Tulsa is located between Sacramento and Springfield.	Springfield is nearer to Sacramento than Springfield is to Tulsa.
+contradiction	Kansas is located between Madison and Frankfurt.	Frankfurt is nearer to Madison than Frankfurt is to Kansas.
+contradiction	Illinois is located between Los Angeles and San Diego.	San Diego is nearer to Los Angeles than San Diego is to Illinois.
+contradiction	Detroit is located between Pittsburg and Irvine.	Irvine is nearer to Pittsburg than Irvine is to Detroit.
+contradiction	Dallas is located between Las Vegas and Washington.	Washington is nearer to Las Vegas than Washington is to Dallas.
+contradiction	Pittsburg is located between Ontario and Richmond.	Richmond is nearer to Ontario than Richmond is to Pittsburg.
+contradiction	Hampton is located between Albany and Irving.	Irving is nearer to Albany than Irving is to Hampton.
+contradiction	New York is located between Santa Barbara and San Francisco.	San Francisco is nearer to Santa Barbara than San Francisco is to New York.
+contradiction	Madison is located between Pittsburg and Tulsa.	Tulsa is nearer to Pittsburg than Tulsa is to Madison.
+contradiction	San Jose is located between Santa Barbara and Frankfurt.	Frankfurt is nearer to Santa Barbara than Frankfurt is to San Jose.
+contradiction	Minneapolis is located between Houston and Tempe.	Tempe is nearer to Houston than Tempe is to Minneapolis.
+contradiction	Ontario is located between Dallas and Tempe.	Tempe is nearer to Dallas than Tempe is to Ontario.
+contradiction	Hampton is located between Frankfurt and Las Vegas.	Las Vegas is nearer to Frankfurt than Las Vegas is to Hampton.
+contradiction	Tempe is located between Springfield and Houston.	Houston is nearer to Springfield than Houston is to Tempe.
+contradiction	Detroit is located between Richmond and Philadelphia.	Philadelphia is nearer to Richmond than Philadelphia is to Detroit.
+contradiction	Illinois is located between Oklahoma and Detroit.	Detroit is nearer to Oklahoma than Detroit is to Illinois.
+contradiction	Ontario is located between Rochester and Albany.	Albany is nearer to Rochester than Albany is to Ontario.
+contradiction	Sacramento is located between Kansas and Boston.	Boston is nearer to Kansas than Boston is to Sacramento.
+contradiction	Sacramento is located between Chicago and Santa Barbara.	Santa Barbara is nearer to Chicago than Santa Barbara is to Sacramento.
+contradiction	Boston is located between Sacramento and Manchester.	Manchester is nearer to Sacramento than Manchester is to Boston.
+contradiction	Springfield is located between Albany and Madison.	Madison is nearer to Albany than Madison is to Springfield.
+contradiction	Springfield is located between Frankfurt and Olympia.	Olympia is nearer to Frankfurt than Olympia is to Springfield.
+contradiction	San Jose is located between Madison and San Diego.	San Diego is nearer to Madison than San Diego is to San Jose.
+contradiction	San Francisco is located between Hartford and Frankfurt.	Frankfurt is nearer to Hartford than Frankfurt is to San Francisco.
+contradiction	Houston is located between Hampton and Las Vegas.	Las Vegas is nearer to Hampton than Las Vegas is to Houston.
+contradiction	Ontario is located between Las Vegas and Springfield.	Springfield is nearer to Las Vegas than Springfield is to Ontario.
+contradiction	Rochester is located between Columbia and Richmond.	Richmond is nearer to Columbia than Richmond is to Rochester.
+contradiction	Buffalo is located between Tulsa and Manchester.	Manchester is nearer to Tulsa than Manchester is to Buffalo.
+contradiction	New York is located between Chicago and San Jose.	San Jose is nearer to Chicago than San Jose is to New York.
+contradiction	Manchester is located between Santa Barbara and Oklahoma.	Oklahoma is nearer to Santa Barbara than Oklahoma is to Manchester.
+contradiction	Albany is located between Madison and Illinois.	Illinois is nearer to Madison than Illinois is to Albany.
+contradiction	Hartford is located between San Diego and Irving.	Irving is nearer to San Diego than Irving is to Hartford.
+contradiction	Columbia is located between Tempe and Irving.	Irving is nearer to Tempe than Irving is to Columbia.
+contradiction	Houston is located between Detroit and Hartford.	Hartford is nearer to Detroit than Hartford is to Houston.
+contradiction	Tempe is located between Miami and Springfield.	Springfield is nearer to Miami than Springfield is to Tempe.
+contradiction	Irvine is located between Frankfurt and San Francisco.	San Francisco is nearer to Frankfurt than San Francisco is to Irvine.
+contradiction	Sacramento is located between Pittsburg and Manchester.	Manchester is nearer to Pittsburg than Manchester is to Sacramento.
+contradiction	New York is located between Rochester and Kansas.	Kansas is nearer to Rochester than Kansas is to New York.
+contradiction	Buffalo is located between Los Angeles and Tempe.	Tempe is nearer to Los Angeles than Tempe is to Buffalo.
+contradiction	Washington is located between Boston and San Francisco.	San Francisco is nearer to Boston than San Francisco is to Washington.
+contradiction	Irvine is located between Boston and Illinois.	Illinois is nearer to Boston than Illinois is to Irvine.
+contradiction	Dallas is located between Detroit and Springfield.	Springfield is nearer to Detroit than Springfield is to Dallas.
+contradiction	Frankfurt is located between Ontario and Springfield.	Springfield is nearer to Ontario than Springfield is to Frankfurt.
+contradiction	Detroit is located between Boston and Las Vegas.	Las Vegas is nearer to Boston than Las Vegas is to Detroit.
+contradiction	Boston is located between Columbia and Minneapolis.	Minneapolis is nearer to Columbia than Minneapolis is to Boston.
+contradiction	San Francisco is located between Kansas and Columbia.	Columbia is nearer to Kansas than Columbia is to San Francisco.
+contradiction	Manchester is located between Miami and Buffalo.	Buffalo is nearer to Miami than Buffalo is to Manchester.
+contradiction	Buffalo is located between Manchester and Hampton.	Hampton is nearer to Manchester than Hampton is to Buffalo.
+contradiction	Tempe is located between Pittsburg and Sacramento.	Sacramento is nearer to Pittsburg than Sacramento is to Tempe.
+contradiction	Frankfurt is located between Springfield and Albany.	Albany is nearer to Springfield than Albany is to Frankfurt.
+contradiction	Frankfurt is located between Chicago and Pittsburg.	Pittsburg is nearer to Chicago than Pittsburg is to Frankfurt.
+contradiction	Richmond is located between Ontario and Springfield.	Springfield is nearer to Ontario than Springfield is to Richmond.
+contradiction	Philadelphia is located between Hampton and Kansas.	Kansas is nearer to Hampton than Kansas is to Philadelphia.
+contradiction	Madison is located between Santa Barbara and Olympia.	Olympia is nearer to Santa Barbara than Olympia is to Madison.
+contradiction	Irvine is located between San Jose and Houston.	Houston is nearer to San Jose than Houston is to Irvine.
+contradiction	Rochester is located between Manchester and Miami.	Miami is nearer to Manchester than Miami is to Rochester.
+contradiction	Dallas is located between Illinois and Santa Barbara.	Santa Barbara is nearer to Illinois than Santa Barbara is to Dallas.
+contradiction	San Jose is located between Boston and Illinois.	Illinois is nearer to Boston than Illinois is to San Jose.
+contradiction	Miami is located between Madison and Kansas.	Kansas is nearer to Madison than Kansas is to Miami.
+contradiction	Houston is located between Dallas and Illinois.	Illinois is nearer to Dallas than Illinois is to Houston.
+contradiction	Richmond is located between Frankfurt and Columbia.	Columbia is nearer to Frankfurt than Columbia is to Richmond.
+contradiction	Minneapolis is located between Dallas and Boston.	Boston is nearer to Dallas than Boston is to Minneapolis.
+contradiction	Minneapolis is located between Dallas and Illinois.	Illinois is nearer to Dallas than Illinois is to Minneapolis.
+contradiction	Boston is located between Kansas and New York.	New York is nearer to Kansas than New York is to Boston.
+contradiction	Los Angeles is located between Illinois and Rochester.	Rochester is nearer to Illinois than Rochester is to Los Angeles.
+contradiction	San Jose is located between Phoenix and New York.	New York is nearer to Phoenix than New York is to San Jose.
+contradiction	Hampton is located between New York and San Jose.	San Jose is nearer to New York than San Jose is to Hampton.
+contradiction	Richmond is located between Ontario and Albany.	Albany is nearer to Ontario than Albany is to Richmond.
+contradiction	Ontario is located between Los Angeles and San Diego.	San Diego is nearer to Los Angeles than San Diego is to Ontario.
+contradiction	Philadelphia is located between Washington and Irving.	Irving is nearer to Washington than Irving is to Philadelphia.
+contradiction	Sacramento is located between Las Vegas and Miami.	Miami is nearer to Las Vegas than Miami is to Sacramento.
+contradiction	Buffalo is located between Phoenix and San Francisco.	San Francisco is nearer to Phoenix than San Francisco is to Buffalo.
+contradiction	Houston is located between Detroit and Columbia.	Columbia is nearer to Detroit than Columbia is to Houston.
+contradiction	Hampton is located between Dallas and Phoenix.	Phoenix is nearer to Dallas than Phoenix is to Hampton.
+contradiction	Manchester is located between Detroit and Madison.	Madison is nearer to Detroit than Madison is to Manchester.
+contradiction	Madison is located between Minneapolis and Phoenix.	Phoenix is nearer to Minneapolis than Phoenix is to Madison.
+contradiction	Detroit is located between Springfield and Minneapolis.	Minneapolis is nearer to Springfield than Minneapolis is to Detroit.
+contradiction	Washington is located between Rochester and Columbia.	Columbia is nearer to Rochester than Columbia is to Washington.
+contradiction	Springfield is located between Las Vegas and Hartford.	Hartford is nearer to Las Vegas than Hartford is to Springfield.
+contradiction	Houston is located between Madison and San Francisco.	San Francisco is nearer to Madison than San Francisco is to Houston.
+contradiction	Los Angeles is located between Tulsa and San Jose.	San Jose is nearer to Tulsa than San Jose is to Los Angeles.
+contradiction	Olympia is located between Buffalo and Albany.	Albany is nearer to Buffalo than Albany is to Olympia.
+contradiction	Pittsburg is located between New York and Buffalo.	Buffalo is nearer to New York than Buffalo is to Pittsburg.
+contradiction	Kansas is located between Los Angeles and Houston.	Houston is nearer to Los Angeles than Houston is to Kansas.
+contradiction	Oklahoma is located between Albany and San Jose.	San Jose is nearer to Albany than San Jose is to Oklahoma.
+contradiction	Los Angeles is located between Boston and Houston.	Houston is nearer to Boston than Houston is to Los Angeles.
+contradiction	Albany is located between Dallas and Miami.	Miami is nearer to Dallas than Miami is to Albany.
+contradiction	Philadelphia is located between Kansas and Hampton.	Hampton is nearer to Kansas than Hampton is to Philadelphia.
+contradiction	San Diego is located between Irving and Hampton.	Hampton is nearer to Irving than Hampton is to San Diego.
+contradiction	Kansas is located between Dallas and Springfield.	Springfield is nearer to Dallas than Springfield is to Kansas.
+contradiction	Ontario is located between Illinois and New York.	New York is nearer to Illinois than New York is to Ontario.
+contradiction	Detroit is located between Chicago and Santa Barbara.	Santa Barbara is nearer to Chicago than Santa Barbara is to Detroit.
+contradiction	Buffalo is located between Santa Barbara and Dallas.	Dallas is nearer to Santa Barbara than Dallas is to Buffalo.
+contradiction	Frankfurt is located between Houston and Hartford.	Hartford is nearer to Houston than Hartford is to Frankfurt.
+contradiction	Hartford is located between Sacramento and Columbia.	Columbia is nearer to Sacramento than Columbia is to Hartford.
+contradiction	Las Vegas is located between Hampton and Hartford.	Hartford is nearer to Hampton than Hartford is to Las Vegas.
+contradiction	San Diego is located between Houston and Manchester.	Manchester is nearer to Houston than Manchester is to San Diego.
+contradiction	Oklahoma is located between New York and Manchester.	Manchester is nearer to New York than Manchester is to Oklahoma.
+contradiction	Buffalo is located between Chicago and Rochester.	Rochester is nearer to Chicago than Rochester is to Buffalo.
+contradiction	Olympia is located between Madison and Columbia.	Columbia is nearer to Madison than Columbia is to Olympia.
+contradiction	Santa Barbara is located between Dallas and Irvine.	Irvine is nearer to Dallas than Irvine is to Santa Barbara.
+contradiction	Albany is located between Pittsburg and Tempe.	Tempe is nearer to Pittsburg than Tempe is to Albany.
+contradiction	Detroit is located between Boston and Santa Barbara.	Santa Barbara is nearer to Boston than Santa Barbara is to Detroit.
+contradiction	Oklahoma is located between Frankfurt and Miami.	Miami is nearer to Frankfurt than Miami is to Oklahoma.
+contradiction	Washington is located between Irvine and Olympia.	Olympia is nearer to Irvine than Olympia is to Washington.
+contradiction	Phoenix is located between Pittsburg and Manchester.	Manchester is nearer to Pittsburg than Manchester is to Phoenix.

@@ -1,0 +1,1000 @@
+entailment	Ken has french class then literature class then computer science class.	Computer science class is after literature class.
+entailment	Catherine has french class then history class then political science class.	Political science class is after history class.
+entailment	Ann has history class then geology class then music class.	Music class is after geology class.
+entailment	Andrea has latin class then mathematics class then geology class.	Geology class is after mathematics class.
+entailment	Francis has french class then computer science class then literature class.	Literature class is after computer science class.
+entailment	Ed has physics class then literature class then biology class.	Biology class is after literature class.
+entailment	Roy has chemistry class then economics class then music class.	Music class is after economics class.
+entailment	Johnny has biology class then latin class then geology class.	Geology class is after latin class.
+entailment	Emily has art class then french class then mathematics class.	Mathematics class is after french class.
+entailment	Harold has economics class then geology class then geography class.	Geography class is after geology class.
+entailment	Christine has music class then history class then latin class.	Latin class is after history class.
+entailment	Anthony has geology class then french class then art class.	Art class is after french class.
+entailment	Peter has physics class then french class then biology class.	Biology class is after french class.
+entailment	Patricia has french class then biology class then art class.	Art class is after biology class.
+entailment	Emma has political science class then literature class then history class.	History class is after literature class.
+entailment	Rachel has commerce class then geography class then french class.	French class is after geography class.
+entailment	Matthew has economics class then french class then biology class.	Biology class is after french class.
+entailment	William has literature class then commerce class then chemistry class.	Chemistry class is after commerce class.
+entailment	Catherine has history class then literature class then geography class.	Geography class is after literature class.
+entailment	Sophie has geography class then economics class then geology class.	Geology class is after economics class.
+entailment	Susan has political science class then commerce class then computer science class.	Computer science class is after commerce class.
+entailment	Victoria has mathematics class then geography class then chemistry class.	Chemistry class is after geography class.
+entailment	Dorothy has history class then literature class then geology class.	Geology class is after literature class.
+entailment	Kevin has economics class then biology class then geography class.	Geography class is after biology class.
+entailment	Ryan has commerce class then computer science class then economics class.	Economics class is after computer science class.
+entailment	Susan has latin class then geography class then physics class.	Physics class is after geography class.
+entailment	Alexandra has chemistry class then mathematics class then physics class.	Physics class is after mathematics class.
+entailment	Steven has latin class then computer science class then chemistry class.	Chemistry class is after computer science class.
+entailment	Martha has french class then computer science class then latin class.	Latin class is after computer science class.
+entailment	Alan has geography class then biology class then latin class.	Latin class is after biology class.
+entailment	Ralph has french class then art class then physics class.	Physics class is after art class.
+entailment	Betty has political science class then literature class then geography class.	Geography class is after literature class.
+entailment	Elizabeth has political science class then biology class then history class.	History class is after biology class.
+entailment	Ed has economics class then chemistry class then literature class.	Literature class is after chemistry class.
+entailment	Charles has latin class then commerce class then french class.	French class is after commerce class.
+entailment	Rebecca has french class then history class then latin class.	Latin class is after history class.
+entailment	Edith has history class then art class then biology class.	Biology class is after art class.
+entailment	Mike has economics class then political science class then computer science class.	Computer science class is after political science class.
+entailment	Sarah has geography class then literature class then chemistry class.	Chemistry class is after literature class.
+entailment	Amanda has chemistry class then geography class then political science class.	Political science class is after geography class.
+entailment	Harold has french class then political science class then music class.	Music class is after political science class.
+entailment	Alexander has biology class then mathematics class then commerce class.	Commerce class is after mathematics class.
+entailment	Harriet has physics class then music class then political science class.	Political science class is after music class.
+entailment	Ruth has economics class then geography class then latin class.	Latin class is after geography class.
+entailment	Linda has physics class then history class then art class.	Art class is after history class.
+entailment	Lisa has geography class then latin class then chemistry class.	Chemistry class is after latin class.
+entailment	Brian has physics class then biology class then computer science class.	Computer science class is after biology class.
+entailment	Larry has biology class then latin class then art class.	Art class is after latin class.
+entailment	Ralph has chemistry class then music class then literature class.	Literature class is after music class.
+entailment	Kelly has latin class then geology class then economics class.	Economics class is after geology class.
+entailment	Chris has art class then economics class then literature class.	Literature class is after economics class.
+entailment	George has french class then economics class then commerce class.	Commerce class is after economics class.
+entailment	Chris has history class then chemistry class then french class.	French class is after chemistry class.
+entailment	Frank has french class then chemistry class then economics class.	Economics class is after chemistry class.
+entailment	Helen has commerce class then french class then literature class.	Literature class is after french class.
+entailment	Sally has french class then art class then commerce class.	Commerce class is after art class.
+entailment	Ruth has history class then latin class then literature class.	Literature class is after latin class.
+entailment	Elizabeth has economics class then latin class then political science class.	Political science class is after latin class.
+entailment	Lawrence has mathematics class then chemistry class then commerce class.	Commerce class is after chemistry class.
+entailment	Frederick has physics class then mathematics class then economics class.	Economics class is after mathematics class.
+entailment	Ben has art class then history class then biology class.	Biology class is after history class.
+entailment	Nancy has geology class then music class then literature class.	Literature class is after music class.
+entailment	Alexandra has political science class then latin class then geology class.	Geology class is after latin class.
+entailment	Ann has chemistry class then geography class then biology class.	Biology class is after geography class.
+entailment	Joseph has chemistry class then political science class then music class.	Music class is after political science class.
+entailment	Diane has geology class then computer science class then music class.	Music class is after computer science class.
+entailment	Ellen has geology class then economics class then political science class.	Political science class is after economics class.
+entailment	Matthew has chemistry class then music class then economics class.	Economics class is after music class.
+entailment	Dan has physics class then chemistry class then political science class.	Political science class is after chemistry class.
+entailment	Samuel has political science class then geography class then chemistry class.	Chemistry class is after geography class.
+entailment	Louise has physics class then geography class then commerce class.	Commerce class is after geography class.
+entailment	Roger has commerce class then latin class then economics class.	Economics class is after latin class.
+entailment	Heather has french class then chemistry class then geology class.	Geology class is after chemistry class.
+entailment	Emily has biology class then mathematics class then political science class.	Political science class is after mathematics class.
+entailment	Richard has art class then geology class then chemistry class.	Chemistry class is after geology class.
+entailment	Scott has political science class then biology class then economics class.	Economics class is after biology class.
+entailment	Bob has biology class then mathematics class then commerce class.	Commerce class is after mathematics class.
+entailment	Susan has literature class then political science class then commerce class.	Commerce class is after political science class.
+entailment	Samuel has literature class then chemistry class then latin class.	Latin class is after chemistry class.
+entailment	Amy has chemistry class then geology class then french class.	French class is after geology class.
+entailment	Virginia has commerce class then geology class then history class.	History class is after geology class.
+entailment	Marilyn has latin class then geology class then mathematics class.	Mathematics class is after geology class.
+entailment	Paul has french class then literature class then economics class.	Economics class is after literature class.
+entailment	Martin has chemistry class then french class then economics class.	Economics class is after french class.
+entailment	Donald has french class then music class then history class.	History class is after music class.
+entailment	Ruth has french class then computer science class then physics class.	Physics class is after computer science class.
+entailment	Daniel has music class then political science class then physics class.	Physics class is after political science class.
+entailment	Anna has commerce class then literature class then chemistry class.	Chemistry class is after literature class.
+entailment	George has economics class then biology class then mathematics class.	Mathematics class is after biology class.
+entailment	Michael has history class then biology class then geography class.	Geography class is after biology class.
+entailment	Alexandra has latin class then commerce class then history class.	History class is after commerce class.
+entailment	Ashley has biology class then french class then geography class.	Geography class is after french class.
+entailment	Karen has chemistry class then geography class then french class.	French class is after geography class.
+entailment	Mary has chemistry class then geology class then mathematics class.	Mathematics class is after geology class.
+entailment	Harry has latin class then economics class then computer science class.	Computer science class is after economics class.
+entailment	Jason has chemistry class then french class then geology class.	Geology class is after french class.
+entailment	Pamela has computer science class then geology class then economics class.	Economics class is after geology class.
+entailment	Martha has french class then computer science class then history class.	History class is after computer science class.
+entailment	Samuel has computer science class then chemistry class then geography class.	Geography class is after chemistry class.
+entailment	Ben has physics class then history class then geology class.	Geology class is after history class.
+entailment	Walter has geology class then history class then biology class.	Biology class is after history class.
+entailment	Sally has political science class then history class then commerce class.	Commerce class is after history class.
+entailment	Ben has history class then literature class then physics class.	Physics class is after literature class.
+entailment	Anthony has art class then history class then mathematics class.	Mathematics class is after history class.
+entailment	Melissa has latin class then physics class then chemistry class.	Chemistry class is after physics class.
+entailment	Kathleen has physics class then latin class then commerce class.	Commerce class is after latin class.
+entailment	Edward has geology class then biology class then mathematics class.	Mathematics class is after biology class.
+entailment	Jimmy has political science class then music class then geology class.	Geology class is after music class.
+entailment	Julia has geography class then music class then commerce class.	Commerce class is after music class.
+entailment	Judith has geology class then literature class then art class.	Art class is after literature class.
+entailment	Steve has computer science class then geology class then physics class.	Physics class is after geology class.
+entailment	Sam has latin class then political science class then biology class.	Biology class is after political science class.
+entailment	Susan has geography class then literature class then political science class.	Political science class is after literature class.
+entailment	Annie has literature class then physics class then art class.	Art class is after physics class.
+entailment	William has geography class then french class then chemistry class.	Chemistry class is after french class.
+entailment	Billy has computer science class then commerce class then latin class.	Latin class is after commerce class.
+entailment	Philip has music class then computer science class then literature class.	Literature class is after computer science class.
+entailment	Victoria has history class then chemistry class then geology class.	Geology class is after chemistry class.
+entailment	Carl has chemistry class then geography class then music class.	Music class is after geography class.
+entailment	Billy has mathematics class then latin class then geology class.	Geology class is after latin class.
+entailment	Sara has french class then history class then geology class.	Geology class is after history class.
+entailment	Jason has geography class then commerce class then economics class.	Economics class is after commerce class.
+entailment	Roger has art class then political science class then literature class.	Literature class is after political science class.
+entailment	Nancy has geology class then political science class then chemistry class.	Chemistry class is after political science class.
+entailment	Heather has geography class then computer science class then biology class.	Biology class is after computer science class.
+entailment	Carol has physics class then chemistry class then geology class.	Geology class is after chemistry class.
+entailment	Charles has physics class then biology class then chemistry class.	Chemistry class is after biology class.
+entailment	Peter has mathematics class then geography class then music class.	Music class is after geography class.
+entailment	Jason has art class then biology class then commerce class.	Commerce class is after biology class.
+entailment	Jean has biology class then physics class then music class.	Music class is after physics class.
+entailment	Edward has geology class then biology class then mathematics class.	Mathematics class is after biology class.
+entailment	Andrea has literature class then mathematics class then chemistry class.	Chemistry class is after mathematics class.
+entailment	Pamela has geology class then computer science class then commerce class.	Commerce class is after computer science class.
+entailment	Carolyn has french class then commerce class then biology class.	Biology class is after commerce class.
+entailment	Harriet has political science class then history class then computer science class.	Computer science class is after history class.
+entailment	Edith has political science class then music class then commerce class.	Commerce class is after music class.
+entailment	Evelyn has commerce class then french class then history class.	History class is after french class.
+entailment	Don has music class then geography class then computer science class.	Computer science class is after geography class.
+entailment	Jason has geology class then literature class then chemistry class.	Chemistry class is after literature class.
+entailment	Elizabeth has biology class then chemistry class then political science class.	Political science class is after chemistry class.
+entailment	Jason has mathematics class then geology class then commerce class.	Commerce class is after geology class.
+entailment	Ken has physics class then computer science class then literature class.	Literature class is after computer science class.
+entailment	Sara has geography class then physics class then computer science class.	Computer science class is after physics class.
+entailment	Mary has chemistry class then music class then history class.	History class is after music class.
+entailment	Charles has literature class then computer science class then political science class.	Political science class is after computer science class.
+entailment	Ryan has commerce class then music class then political science class.	Political science class is after music class.
+entailment	Sue has french class then geology class then economics class.	Economics class is after geology class.
+entailment	Julia has biology class then geography class then geology class.	Geology class is after geography class.
+entailment	Janet has computer science class then latin class then french class.	French class is after latin class.
+entailment	Andrea has music class then computer science class then geology class.	Geology class is after computer science class.
+entailment	Kenneth has political science class then history class then music class.	Music class is after history class.
+entailment	Stephanie has art class then chemistry class then economics class.	Economics class is after chemistry class.
+entailment	Susan has art class then mathematics class then biology class.	Biology class is after mathematics class.
+entailment	Fiona has biology class then history class then commerce class.	Commerce class is after history class.
+entailment	Howard has history class then chemistry class then computer science class.	Computer science class is after chemistry class.
+entailment	Scott has french class then biology class then computer science class.	Computer science class is after biology class.
+entailment	Louise has french class then history class then biology class.	Biology class is after history class.
+entailment	Nancy has mathematics class then music class then physics class.	Physics class is after music class.
+entailment	Karen has art class then biology class then computer science class.	Computer science class is after biology class.
+entailment	Lisa has french class then biology class then latin class.	Latin class is after biology class.
+entailment	Mark has french class then economics class then art class.	Art class is after economics class.
+entailment	Charlotte has art class then economics class then chemistry class.	Chemistry class is after economics class.
+entailment	Stephanie has art class then chemistry class then geology class.	Geology class is after chemistry class.
+entailment	Robin has physics class then political science class then computer science class.	Computer science class is after political science class.
+entailment	Billy has latin class then biology class then commerce class.	Commerce class is after biology class.
+entailment	Paul has history class then political science class then computer science class.	Computer science class is after political science class.
+entailment	Katherine has latin class then commerce class then physics class.	Physics class is after commerce class.
+entailment	Diane has geology class then physics class then biology class.	Biology class is after physics class.
+entailment	Thomas has computer science class then literature class then geography class.	Geography class is after literature class.
+entailment	Suzanne has history class then french class then geology class.	Geology class is after french class.
+entailment	Robert has political science class then mathematics class then latin class.	Latin class is after mathematics class.
+entailment	Walter has commerce class then latin class then literature class.	Literature class is after latin class.
+entailment	Emma has chemistry class then mathematics class then physics class.	Physics class is after mathematics class.
+entailment	Diana has music class then commerce class then latin class.	Latin class is after commerce class.
+entailment	John has music class then geography class then mathematics class.	Mathematics class is after geography class.
+entailment	Harry has geology class then biology class then art class.	Art class is after biology class.
+entailment	Donna has economics class then chemistry class then literature class.	Literature class is after chemistry class.
+entailment	Jill has economics class then art class then geology class.	Geology class is after art class.
+entailment	Sally has art class then mathematics class then history class.	History class is after mathematics class.
+entailment	Henry has art class then chemistry class then literature class.	Literature class is after chemistry class.
+entailment	Donna has computer science class then chemistry class then art class.	Art class is after chemistry class.
+entailment	Daniel has art class then latin class then computer science class.	Computer science class is after latin class.
+entailment	Frederick has literature class then biology class then commerce class.	Commerce class is after biology class.
+entailment	Peter has mathematics class then commerce class then political science class.	Political science class is after commerce class.
+entailment	Katie has art class then geography class then french class.	French class is after geography class.
+entailment	Cynthia has political science class then latin class then biology class.	Biology class is after latin class.
+entailment	Dan has economics class then commerce class then art class.	Art class is after commerce class.
+entailment	Louis has music class then political science class then physics class.	Physics class is after political science class.
+entailment	Kathryn has history class then geology class then commerce class.	Commerce class is after geology class.
+entailment	Sophie has chemistry class then geology class then political science class.	Political science class is after geology class.
+entailment	Alexandra has economics class then political science class then mathematics class.	Mathematics class is after political science class.
+entailment	Ruth has geography class then biology class then physics class.	Physics class is after biology class.
+entailment	Ian has latin class then biology class then mathematics class.	Mathematics class is after biology class.
+entailment	Jonathan has economics class then geography class then literature class.	Literature class is after geography class.
+entailment	Mike has commerce class then biology class then literature class.	Literature class is after biology class.
+entailment	Amy has biology class then literature class then economics class.	Economics class is after literature class.
+entailment	Tim has history class then biology class then art class.	Art class is after biology class.
+entailment	Steven has chemistry class then music class then literature class.	Literature class is after music class.
+entailment	Matthew has physics class then literature class then latin class.	Latin class is after literature class.
+entailment	Matthew has physics class then geology class then french class.	French class is after geology class.
+entailment	Steven has biology class then music class then commerce class.	Commerce class is after music class.
+entailment	Keith has latin class then biology class then history class.	History class is after biology class.
+entailment	Brian has art class then political science class then commerce class.	Commerce class is after political science class.
+entailment	Martin has economics class then political science class then literature class.	Literature class is after political science class.
+entailment	Andrew has music class then chemistry class then art class.	Art class is after chemistry class.
+entailment	Jill has geography class then latin class then biology class.	Biology class is after latin class.
+entailment	Jessica has french class then latin class then economics class.	Economics class is after latin class.
+entailment	Louis has latin class then physics class then literature class.	Literature class is after physics class.
+entailment	Ron has literature class then political science class then physics class.	Physics class is after political science class.
+entailment	Jim has mathematics class then french class then geology class.	Geology class is after french class.
+entailment	Sophie has geology class then geography class then music class.	Music class is after geography class.
+entailment	Bruce has geology class then french class then latin class.	Latin class is after french class.
+entailment	Kim has art class then geography class then economics class.	Economics class is after geography class.
+entailment	Patricia has physics class then latin class then computer science class.	Computer science class is after latin class.
+entailment	Patrick has biology class then french class then economics class.	Economics class is after french class.
+entailment	Carol has mathematics class then geology class then economics class.	Economics class is after geology class.
+entailment	Melissa has music class then french class then political science class.	Political science class is after french class.
+entailment	Al has art class then political science class then literature class.	Literature class is after political science class.
+entailment	Robin has political science class then geology class then latin class.	Latin class is after geology class.
+entailment	Bob has history class then literature class then mathematics class.	Mathematics class is after literature class.
+entailment	Jack has french class then physics class then commerce class.	Commerce class is after physics class.
+entailment	Benjamin has political science class then biology class then geography class.	Geography class is after biology class.
+entailment	Eleanor has chemistry class then latin class then literature class.	Literature class is after latin class.
+entailment	Tony has art class then political science class then mathematics class.	Mathematics class is after political science class.
+entailment	Charlotte has mathematics class then literature class then economics class.	Economics class is after literature class.
+entailment	Dick has music class then latin class then biology class.	Biology class is after latin class.
+entailment	Paul has computer science class then literature class then latin class.	Latin class is after literature class.
+entailment	Anne has history class then political science class then chemistry class.	Chemistry class is after political science class.
+entailment	Louise has mathematics class then physics class then latin class.	Latin class is after physics class.
+entailment	Harriet has art class then economics class then biology class.	Biology class is after economics class.
+entailment	Thomas has french class then economics class then literature class.	Literature class is after economics class.
+entailment	Andrew has computer science class then biology class then physics class.	Physics class is after biology class.
+entailment	Eric has art class then biology class then literature class.	Literature class is after biology class.
+entailment	Eric has geography class then art class then latin class.	Latin class is after art class.
+entailment	David has history class then art class then french class.	French class is after art class.
+entailment	Lucy has literature class then music class then geology class.	Geology class is after music class.
+entailment	Keith has physics class then latin class then geography class.	Geography class is after latin class.
+entailment	Martha has chemistry class then latin class then biology class.	Biology class is after latin class.
+entailment	Katie has computer science class then physics class then literature class.	Literature class is after physics class.
+entailment	Joan has biology class then history class then music class.	Music class is after history class.
+entailment	Patrick has mathematics class then physics class then commerce class.	Commerce class is after physics class.
+entailment	Chris has french class then commerce class then history class.	History class is after commerce class.
+entailment	Florence has computer science class then art class then chemistry class.	Chemistry class is after art class.
+entailment	Mark has geography class then physics class then computer science class.	Computer science class is after physics class.
+entailment	Andrew has geography class then economics class then mathematics class.	Mathematics class is after economics class.
+entailment	Sharon has political science class then music class then french class.	French class is after music class.
+entailment	Frank has geography class then economics class then music class.	Music class is after economics class.
+entailment	Diana has geography class then latin class then physics class.	Physics class is after latin class.
+entailment	Katie has history class then mathematics class then computer science class.	Computer science class is after mathematics class.
+entailment	Bobby has political science class then geography class then economics class.	Economics class is after geography class.
+entailment	Karen has french class then art class then geology class.	Geology class is after art class.
+entailment	Helen has chemistry class then latin class then history class.	History class is after latin class.
+entailment	Frances has computer science class then literature class then music class.	Music class is after literature class.
+entailment	Cynthia has commerce class then mathematics class then chemistry class.	Chemistry class is after mathematics class.
+entailment	Helen has latin class then geography class then biology class.	Biology class is after geography class.
+entailment	Helen has literature class then latin class then music class.	Music class is after latin class.
+entailment	Sally has geology class then chemistry class then economics class.	Economics class is after chemistry class.
+entailment	Grace has latin class then literature class then geology class.	Geology class is after literature class.
+entailment	Jimmy has geology class then music class then latin class.	Latin class is after music class.
+entailment	Sally has physics class then latin class then music class.	Music class is after latin class.
+entailment	Peter has art class then economics class then latin class.	Latin class is after economics class.
+entailment	Nicole has art class then french class then mathematics class.	Mathematics class is after french class.
+entailment	Karen has french class then art class then political science class.	Political science class is after art class.
+entailment	Amy has political science class then geology class then literature class.	Literature class is after geology class.
+entailment	Hugh has biology class then physics class then geography class.	Geography class is after physics class.
+entailment	Nancy has french class then music class then mathematics class.	Mathematics class is after music class.
+entailment	Johnny has mathematics class then history class then geography class.	Geography class is after history class.
+entailment	Mary has biology class then geology class then mathematics class.	Mathematics class is after geology class.
+entailment	Pamela has french class then literature class then geology class.	Geology class is after literature class.
+entailment	Stephanie has art class then political science class then biology class.	Biology class is after political science class.
+entailment	Frances has music class then chemistry class then computer science class.	Computer science class is after chemistry class.
+entailment	Bill has physics class then art class then music class.	Music class is after art class.
+entailment	Tim has biology class then economics class then chemistry class.	Chemistry class is after economics class.
+entailment	Diane has physics class then economics class then art class.	Art class is after economics class.
+entailment	Walter has computer science class then literature class then economics class.	Economics class is after literature class.
+entailment	Jonathan has mathematics class then literature class then commerce class.	Commerce class is after literature class.
+entailment	Charlotte has physics class then literature class then chemistry class.	Chemistry class is after literature class.
+entailment	Christine has geology class then chemistry class then biology class.	Biology class is after chemistry class.
+entailment	Donna has latin class then mathematics class then physics class.	Physics class is after mathematics class.
+entailment	Joan has music class then geology class then latin class.	Latin class is after geology class.
+entailment	Hugh has political science class then geology class then french class.	French class is after geology class.
+entailment	Alice has latin class then computer science class then music class.	Music class is after computer science class.
+entailment	Andrew has computer science class then history class then economics class.	Economics class is after history class.
+entailment	Judy has mathematics class then music class then commerce class.	Commerce class is after music class.
+entailment	Mary has geology class then geography class then art class.	Art class is after geography class.
+entailment	Bruce has art class then latin class then computer science class.	Computer science class is after latin class.
+entailment	Alison has biology class then physics class then mathematics class.	Mathematics class is after physics class.
+entailment	Matthew has music class then physics class then latin class.	Latin class is after physics class.
+entailment	Joseph has history class then chemistry class then political science class.	Political science class is after chemistry class.
+entailment	Samuel has biology class then geology class then latin class.	Latin class is after geology class.
+entailment	Peter has art class then computer science class then physics class.	Physics class is after computer science class.
+entailment	Jane has geography class then computer science class then french class.	French class is after computer science class.
+entailment	Lauren has economics class then latin class then geography class.	Geography class is after latin class.
+entailment	Carl has art class then history class then literature class.	Literature class is after history class.
+entailment	Alice has geology class then chemistry class then commerce class.	Commerce class is after chemistry class.
+entailment	Ray has political science class then economics class then geography class.	Geography class is after economics class.
+entailment	Susan has chemistry class then physics class then history class.	History class is after physics class.
+entailment	Anthony has economics class then geology class then commerce class.	Commerce class is after geology class.
+entailment	Helen has art class then geography class then french class.	French class is after geography class.
+entailment	Joe has french class then latin class then economics class.	Economics class is after latin class.
+entailment	Jack has literature class then economics class then mathematics class.	Mathematics class is after economics class.
+entailment	Pamela has literature class then political science class then art class.	Art class is after political science class.
+entailment	Edwin has commerce class then mathematics class then history class.	History class is after mathematics class.
+entailment	Laura has geology class then chemistry class then latin class.	Latin class is after chemistry class.
+entailment	Edith has mathematics class then art class then geography class.	Geography class is after art class.
+entailment	Brian has computer science class then latin class then chemistry class.	Chemistry class is after latin class.
+entailment	Mike has latin class then commerce class then history class.	History class is after commerce class.
+entailment	Christine has literature class then geology class then commerce class.	Commerce class is after geology class.
+entailment	Anthony has computer science class then chemistry class then biology class.	Biology class is after chemistry class.
+entailment	Ryan has commerce class then geology class then literature class.	Literature class is after geology class.
+entailment	Charlie has biology class then political science class then geology class.	Geology class is after political science class.
+entailment	Edith has geology class then latin class then literature class.	Literature class is after latin class.
+entailment	Harriet has geography class then computer science class then latin class.	Latin class is after computer science class.
+entailment	Julie has art class then french class then economics class.	Economics class is after french class.
+entailment	John has art class then economics class then political science class.	Political science class is after economics class.
+entailment	Roy has geography class then literature class then commerce class.	Commerce class is after literature class.
+entailment	Greg has mathematics class then art class then biology class.	Biology class is after art class.
+entailment	Diana has literature class then art class then chemistry class.	Chemistry class is after art class.
+entailment	Elizabeth has chemistry class then physics class then economics class.	Economics class is after physics class.
+entailment	Jane has geology class then biology class then political science class.	Political science class is after biology class.
+entailment	Alexandra has mathematics class then geography class then computer science class.	Computer science class is after geography class.
+entailment	Kim has geography class then geology class then economics class.	Economics class is after geology class.
+entailment	Harriet has geology class then physics class then latin class.	Latin class is after physics class.
+entailment	Roger has music class then latin class then art class.	Art class is after latin class.
+entailment	Ryan has latin class then french class then computer science class.	Computer science class is after french class.
+entailment	Ben has latin class then art class then computer science class.	Computer science class is after art class.
+entailment	Matthew has physics class then chemistry class then political science class.	Political science class is after chemistry class.
+entailment	Louis has political science class then physics class then art class.	Art class is after physics class.
+entailment	Benjamin has music class then mathematics class then economics class.	Economics class is after mathematics class.
+entailment	Jonathan has french class then economics class then literature class.	Literature class is after economics class.
+entailment	Michael has art class then political science class then french class.	French class is after political science class.
+entailment	Roger has physics class then commerce class then latin class.	Latin class is after commerce class.
+entailment	Dan has commerce class then history class then biology class.	Biology class is after history class.
+entailment	Frederick has history class then latin class then biology class.	Biology class is after latin class.
+entailment	William has latin class then computer science class then geography class.	Geography class is after computer science class.
+entailment	Sharon has political science class then biology class then latin class.	Latin class is after biology class.
+entailment	Lauren has geology class then geography class then computer science class.	Computer science class is after geography class.
+entailment	Ellen has economics class then history class then literature class.	Literature class is after history class.
+entailment	Johnny has political science class then computer science class then art class.	Art class is after computer science class.
+entailment	Rebecca has geology class then physics class then biology class.	Biology class is after physics class.
+entailment	Louise has french class then economics class then history class.	History class is after economics class.
+entailment	Christopher has mathematics class then geology class then economics class.	Economics class is after geology class.
+entailment	Edith has history class then latin class then chemistry class.	Chemistry class is after latin class.
+entailment	Philip has computer science class then geology class then economics class.	Economics class is after geology class.
+entailment	Leslie has physics class then computer science class then political science class.	Political science class is after computer science class.
+entailment	Jennifer has economics class then computer science class then geography class.	Geography class is after computer science class.
+entailment	Carol has latin class then geology class then biology class.	Biology class is after geology class.
+entailment	John has geography class then french class then geology class.	Geology class is after french class.
+entailment	Lauren has commerce class then music class then political science class.	Political science class is after music class.
+entailment	James has geography class then commerce class then chemistry class.	Chemistry class is after commerce class.
+entailment	Marie has commerce class then art class then political science class.	Political science class is after art class.
+entailment	Greg has biology class then art class then geography class.	Geography class is after art class.
+entailment	Grace has literature class then french class then political science class.	Political science class is after french class.
+entailment	Mary has commerce class then biology class then literature class.	Literature class is after biology class.
+entailment	Chris has biology class then geography class then french class.	French class is after geography class.
+entailment	Linda has literature class then art class then geology class.	Geology class is after art class.
+entailment	Tom has biology class then latin class then computer science class.	Computer science class is after latin class.
+entailment	Howard has computer science class then music class then mathematics class.	Mathematics class is after music class.
+entailment	Nick has music class then mathematics class then economics class.	Economics class is after mathematics class.
+entailment	Colin has chemistry class then physics class then history class.	History class is after physics class.
+entailment	Tony has economics class then biology class then computer science class.	Computer science class is after biology class.
+entailment	Sam has art class then french class then biology class.	Biology class is after french class.
+entailment	Karen has biology class then music class then geography class.	Geography class is after music class.
+entailment	Leslie has chemistry class then geology class then commerce class.	Commerce class is after geology class.
+entailment	Alex has mathematics class then economics class then commerce class.	Commerce class is after economics class.
+entailment	James has chemistry class then biology class then economics class.	Economics class is after biology class.
+entailment	Keith has geology class then political science class then biology class.	Biology class is after political science class.
+entailment	Ralph has political science class then chemistry class then literature class.	Literature class is after chemistry class.
+entailment	Virginia has commerce class then music class then art class.	Art class is after music class.
+entailment	Judy has computer science class then art class then economics class.	Economics class is after art class.
+entailment	Louis has art class then geology class then chemistry class.	Chemistry class is after geology class.
+entailment	Jason has commerce class then biology class then chemistry class.	Chemistry class is after biology class.
+entailment	Jerry has chemistry class then geology class then art class.	Art class is after geology class.
+entailment	Samuel has literature class then computer science class then economics class.	Economics class is after computer science class.
+entailment	Leslie has commerce class then geography class then geology class.	Geology class is after geography class.
+entailment	Charles has geography class then physics class then economics class.	Economics class is after physics class.
+entailment	Samuel has art class then commerce class then biology class.	Biology class is after commerce class.
+entailment	Martha has biology class then latin class then art class.	Art class is after latin class.
+entailment	Nancy has computer science class then biology class then literature class.	Literature class is after biology class.
+entailment	Lawrence has economics class then history class then geography class.	Geography class is after history class.
+entailment	Matt has mathematics class then geology class then history class.	History class is after geology class.
+entailment	Daniel has economics class then political science class then literature class.	Literature class is after political science class.
+entailment	Leslie has french class then chemistry class then economics class.	Economics class is after chemistry class.
+entailment	Bill has mathematics class then economics class then literature class.	Literature class is after economics class.
+entailment	Amanda has chemistry class then latin class then geography class.	Geography class is after latin class.
+entailment	Thomas has history class then literature class then chemistry class.	Chemistry class is after literature class.
+entailment	Walter has history class then latin class then physics class.	Physics class is after latin class.
+entailment	Simon has biology class then geography class then physics class.	Physics class is after geography class.
+entailment	Deborah has physics class then french class then art class.	Art class is after french class.
+entailment	Walter has literature class then commerce class then music class.	Music class is after commerce class.
+entailment	Sue has history class then economics class then commerce class.	Commerce class is after economics class.
+entailment	Ellen has commerce class then chemistry class then history class.	History class is after chemistry class.
+entailment	Kate has literature class then physics class then geology class.	Geology class is after physics class.
+entailment	Tom has political science class then latin class then french class.	French class is after latin class.
+entailment	Deborah has literature class then political science class then physics class.	Physics class is after political science class.
+entailment	Kathryn has chemistry class then art class then computer science class.	Computer science class is after art class.
+entailment	Dave has french class then computer science class then physics class.	Physics class is after computer science class.
+entailment	Susan has music class then latin class then french class.	French class is after latin class.
+entailment	Robin has chemistry class then music class then geography class.	Geography class is after music class.
+entailment	Diana has music class then art class then political science class.	Political science class is after art class.
+entailment	Alex has history class then geography class then latin class.	Latin class is after geography class.
+entailment	Amy has geography class then art class then political science class.	Political science class is after art class.
+entailment	Suzanne has geography class then literature class then history class.	History class is after literature class.
+entailment	Kelly has physics class then computer science class then chemistry class.	Chemistry class is after computer science class.
+entailment	Michael has mathematics class then geography class then literature class.	Literature class is after geography class.
+entailment	Michelle has art class then economics class then chemistry class.	Chemistry class is after economics class.
+entailment	Larry has music class then mathematics class then geography class.	Geography class is after mathematics class.
+entailment	Sandra has french class then mathematics class then music class.	Music class is after mathematics class.
+entailment	Colin has mathematics class then art class then physics class.	Physics class is after art class.
+entailment	Ron has french class then geology class then art class.	Art class is after geology class.
+entailment	Albert has commerce class then economics class then geology class.	Geology class is after economics class.
+entailment	Sue has art class then literature class then music class.	Music class is after literature class.
+entailment	Steven has physics class then commerce class then history class.	History class is after commerce class.
+entailment	Thomas has biology class then literature class then latin class.	Latin class is after literature class.
+entailment	Harriet has geography class then economics class then history class.	History class is after economics class.
+entailment	Julie has history class then commerce class then mathematics class.	Mathematics class is after commerce class.
+entailment	Jerry has political science class then history class then economics class.	Economics class is after history class.
+entailment	Lynn has chemistry class then music class then geography class.	Geography class is after music class.
+entailment	Charlotte has history class then geography class then computer science class.	Computer science class is after geography class.
+entailment	Alice has physics class then music class then history class.	History class is after music class.
+entailment	Jane has geology class then commerce class then computer science class.	Computer science class is after commerce class.
+entailment	Linda has history class then geology class then geography class.	Geography class is after geology class.
+entailment	Bill has economics class then political science class then biology class.	Biology class is after political science class.
+entailment	Joe has music class then computer science class then latin class.	Latin class is after computer science class.
+entailment	Ed has chemistry class then history class then commerce class.	Commerce class is after history class.
+entailment	Lawrence has commerce class then computer science class then latin class.	Latin class is after computer science class.
+entailment	Katherine has geology class then political science class then history class.	History class is after political science class.
+entailment	Melissa has art class then physics class then mathematics class.	Mathematics class is after physics class.
+entailment	Barbara has geology class then chemistry class then history class.	History class is after chemistry class.
+entailment	Charles has commerce class then biology class then geography class.	Geography class is after biology class.
+entailment	Louis has history class then literature class then computer science class.	Computer science class is after literature class.
+entailment	Anthony has commerce class then literature class then political science class.	Political science class is after literature class.
+entailment	Francis has computer science class then french class then political science class.	Political science class is after french class.
+entailment	Ellen has mathematics class then physics class then french class.	French class is after physics class.
+entailment	Diane has mathematics class then geology class then literature class.	Literature class is after geology class.
+entailment	Mike has music class then history class then physics class.	Physics class is after history class.
+entailment	Judith has geography class then computer science class then physics class.	Physics class is after computer science class.
+entailment	Scott has history class then geography class then latin class.	Latin class is after geography class.
+entailment	Linda has geology class then mathematics class then music class.	Music class is after mathematics class.
+entailment	Bobby has art class then chemistry class then latin class.	Latin class is after chemistry class.
+entailment	Steven has music class then mathematics class then latin class.	Latin class is after mathematics class.
+entailment	Dick has music class then computer science class then political science class.	Political science class is after computer science class.
+entailment	Amy has geology class then french class then political science class.	Political science class is after french class.
+entailment	Philip has physics class then commerce class then chemistry class.	Chemistry class is after commerce class.
+entailment	Dick has history class then french class then mathematics class.	Mathematics class is after french class.
+entailment	Lisa has mathematics class then biology class then music class.	Music class is after biology class.
+entailment	Laura has geography class then physics class then economics class.	Economics class is after physics class.
+entailment	Steven has latin class then biology class then geography class.	Geography class is after biology class.
+entailment	Jonathan has geography class then latin class then music class.	Music class is after latin class.
+entailment	Charlie has political science class then biology class then french class.	French class is after biology class.
+entailment	Jill has commerce class then biology class then economics class.	Economics class is after biology class.
+entailment	Katie has economics class then music class then history class.	History class is after music class.
+entailment	Alexander has political science class then biology class then geology class.	Geology class is after biology class.
+entailment	Philip has biology class then geology class then mathematics class.	Mathematics class is after geology class.
+entailment	Christopher has physics class then literature class then latin class.	Latin class is after literature class.
+entailment	Edwin has french class then art class then biology class.	Biology class is after art class.
+entailment	Tom has economics class then physics class then literature class.	Literature class is after physics class.
+entailment	Charlie has french class then chemistry class then economics class.	Economics class is after chemistry class.
+entailment	Joe has music class then mathematics class then geography class.	Geography class is after mathematics class.
+entailment	Kathleen has economics class then latin class then chemistry class.	Chemistry class is after latin class.
+entailment	Don has geology class then music class then political science class.	Political science class is after music class.
+entailment	Linda has music class then art class then economics class.	Economics class is after art class.
+entailment	Sue has history class then physics class then biology class.	Biology class is after physics class.
+entailment	Evelyn has biology class then art class then computer science class.	Computer science class is after art class.
+entailment	Matthew has history class then latin class then music class.	Music class is after latin class.
+entailment	Judy has mathematics class then latin class then physics class.	Physics class is after latin class.
+entailment	Fred has economics class then political science class then history class.	History class is after political science class.
+entailment	Amy has physics class then literature class then computer science class.	Computer science class is after literature class.
+entailment	Mike has biology class then music class then geology class.	Geology class is after music class.
+entailment	Andrew has french class then history class then physics class.	Physics class is after history class.
+entailment	Amy has economics class then french class then music class.	Music class is after french class.
+entailment	Alexander has political science class then geography class then music class.	Music class is after geography class.
+entailment	Edward has biology class then commerce class then geography class.	Geography class is after commerce class.
+entailment	Judy has chemistry class then economics class then geography class.	Geography class is after economics class.
+entailment	Heather has political science class then literature class then music class.	Music class is after literature class.
+entailment	Scott has mathematics class then literature class then commerce class.	Commerce class is after literature class.
+entailment	Susan has music class then biology class then economics class.	Economics class is after biology class.
+entailment	Ryan has geography class then art class then mathematics class.	Mathematics class is after art class.
+entailment	Jack has french class then history class then computer science class.	Computer science class is after history class.
+entailment	Ray has political science class then chemistry class then commerce class.	Commerce class is after chemistry class.
+entailment	Mark has biology class then chemistry class then music class.	Music class is after chemistry class.
+entailment	Ruth has biology class then french class then computer science class.	Computer science class is after french class.
+entailment	Sharon has literature class then geography class then commerce class.	Commerce class is after geography class.
+entailment	Paul has physics class then latin class then geology class.	Geology class is after latin class.
+entailment	Don has music class then biology class then latin class.	Latin class is after biology class.
+entailment	Cynthia has art class then french class then geography class.	Geography class is after french class.
+entailment	Sandra has geology class then commerce class then latin class.	Latin class is after commerce class.
+entailment	Jane has history class then geography class then economics class.	Economics class is after geography class.
+entailment	Sam has geology class then music class then political science class.	Political science class is after music class.
+entailment	Caroline has chemistry class then mathematics class then economics class.	Economics class is after mathematics class.
+entailment	Fred has french class then physics class then mathematics class.	Mathematics class is after physics class.
+entailment	Mary has geology class then latin class then physics class.	Physics class is after latin class.
+entailment	Albert has music class then commerce class then literature class.	Literature class is after commerce class.
+entailment	Emma has biology class then french class then art class.	Art class is after french class.
+entailment	Philip has geology class then music class then chemistry class.	Chemistry class is after music class.
+entailment	Sam has music class then computer science class then economics class.	Economics class is after computer science class.
+entailment	Roy has physics class then latin class then economics class.	Economics class is after latin class.
+entailment	Evelyn has mathematics class then political science class then history class.	History class is after political science class.
+entailment	Suzanne has biology class then mathematics class then economics class.	Economics class is after mathematics class.
+entailment	Paul has physics class then geology class then latin class.	Latin class is after geology class.
+entailment	Laura has geography class then computer science class then biology class.	Biology class is after computer science class.
+entailment	Francis has history class then physics class then computer science class.	Computer science class is after physics class.
+entailment	Betty has chemistry class then political science class then music class.	Music class is after political science class.
+entailment	Tony has physics class then computer science class then art class.	Art class is after computer science class.
+entailment	Donald has history class then latin class then art class.	Art class is after latin class.
+entailment	Claire has computer science class then art class then history class.	History class is after art class.
+entailment	Fiona has french class then art class then music class.	Music class is after art class.
+entailment	Colin has computer science class then commerce class then latin class.	Latin class is after commerce class.
+entailment	Greg has geology class then computer science class then geography class.	Geography class is after computer science class.
+entailment	Susan has physics class then biology class then commerce class.	Commerce class is after biology class.
+entailment	Ron has french class then music class then art class.	Art class is after music class.
+entailment	Philip has french class then geography class then commerce class.	Commerce class is after geography class.
+entailment	Dorothy has economics class then chemistry class then latin class.	Latin class is after chemistry class.
+entailment	Jennifer has computer science class then literature class then biology class.	Biology class is after literature class.
+entailment	Kevin has economics class then mathematics class then geography class.	Geography class is after mathematics class.
+entailment	Ashley has history class then political science class then literature class.	Literature class is after political science class.
+entailment	Donald has history class then french class then economics class.	Economics class is after french class.
+entailment	Karen has literature class then mathematics class then french class.	French class is after mathematics class.
+entailment	Jonathan has geology class then french class then commerce class.	Commerce class is after french class.
+entailment	Steve has physics class then economics class then literature class.	Literature class is after economics class.
+entailment	Jeff has mathematics class then computer science class then chemistry class.	Chemistry class is after computer science class.
+entailment	Rose has mathematics class then geography class then commerce class.	Commerce class is after geography class.
+entailment	Lynn has music class then computer science class then geography class.	Geography class is after computer science class.
+entailment	Stephen has mathematics class then latin class then commerce class.	Commerce class is after latin class.
+entailment	Evelyn has literature class then art class then chemistry class.	Chemistry class is after art class.
+entailment	Robin has literature class then chemistry class then political science class.	Political science class is after chemistry class.
+entailment	Bob has geology class then biology class then literature class.	Literature class is after biology class.
+entailment	Albert has geography class then chemistry class then geology class.	Geology class is after chemistry class.
+entailment	Emily has literature class then geography class then mathematics class.	Mathematics class is after geography class.
+entailment	Evelyn has geology class then mathematics class then geography class.	Geography class is after mathematics class.
+entailment	Mark has physics class then political science class then history class.	History class is after political science class.
+entailment	Elaine has biology class then economics class then geography class.	Geography class is after economics class.
+entailment	Wendy has music class then geography class then physics class.	Physics class is after geography class.
+entailment	Bob has computer science class then history class then mathematics class.	Mathematics class is after history class.
+entailment	Dave has physics class then economics class then computer science class.	Computer science class is after economics class.
+entailment	Peter has chemistry class then computer science class then biology class.	Biology class is after computer science class.
+entailment	Catherine has art class then french class then economics class.	Economics class is after french class.
+entailment	Johnny has commerce class then economics class then chemistry class.	Chemistry class is after economics class.
+entailment	Mark has latin class then biology class then chemistry class.	Chemistry class is after biology class.
+entailment	Andrea has mathematics class then political science class then literature class.	Literature class is after political science class.
+entailment	Billy has geography class then latin class then political science class.	Political science class is after latin class.
+entailment	William has chemistry class then mathematics class then geography class.	Geography class is after mathematics class.
+entailment	Joe has french class then mathematics class then physics class.	Physics class is after mathematics class.
+entailment	Fred has french class then geology class then latin class.	Latin class is after geology class.
+entailment	Frederick has economics class then literature class then history class.	History class is after literature class.
+entailment	Marilyn has commerce class then biology class then music class.	Music class is after biology class.
+entailment	Christopher has literature class then economics class then history class.	History class is after economics class.
+entailment	Larry has physics class then music class then chemistry class.	Chemistry class is after music class.
+entailment	Frances has art class then physics class then latin class.	Latin class is after physics class.
+entailment	Howard has commerce class then computer science class then chemistry class.	Chemistry class is after computer science class.
+entailment	Martin has latin class then music class then french class.	French class is after music class.
+entailment	Ken has french class then history class then geography class.	Geography class is after history class.
+entailment	Alex has history class then art class then latin class.	Latin class is after art class.
+entailment	Nick has latin class then french class then economics class.	Economics class is after french class.
+entailment	Heather has commerce class then economics class then computer science class.	Computer science class is after economics class.
+entailment	Johnny has history class then mathematics class then latin class.	Latin class is after mathematics class.
+entailment	Ralph has geology class then music class then computer science class.	Computer science class is after music class.
+entailment	Christopher has computer science class then history class then art class.	Art class is after history class.
+entailment	Sharon has mathematics class then geography class then economics class.	Economics class is after geography class.
+entailment	Lucy has political science class then chemistry class then commerce class.	Commerce class is after chemistry class.
+entailment	Marilyn has literature class then mathematics class then political science class.	Political science class is after mathematics class.
+entailment	Andrea has chemistry class then economics class then physics class.	Physics class is after economics class.
+entailment	John has geology class then mathematics class then political science class.	Political science class is after mathematics class.
+entailment	Maria has literature class then geography class then chemistry class.	Chemistry class is after geography class.
+entailment	Katie has economics class then political science class then music class.	Music class is after political science class.
+entailment	Tony has computer science class then geography class then commerce class.	Commerce class is after geography class.
+entailment	Lisa has commerce class then computer science class then latin class.	Latin class is after computer science class.
+entailment	Ron has literature class then mathematics class then history class.	History class is after mathematics class.
+entailment	Kelly has french class then physics class then biology class.	Biology class is after physics class.
+entailment	Frank has economics class then art class then chemistry class.	Chemistry class is after art class.
+entailment	Jeff has music class then chemistry class then geology class.	Geology class is after chemistry class.
+entailment	Stephanie has computer science class then commerce class then art class.	Art class is after commerce class.
+entailment	Stephanie has geology class then geography class then physics class.	Physics class is after geography class.
+entailment	Matthew has mathematics class then biology class then french class.	French class is after biology class.
+entailment	Walter has history class then art class then mathematics class.	Mathematics class is after art class.
+entailment	Stephanie has economics class then latin class then biology class.	Biology class is after latin class.
+entailment	Heather has music class then french class then art class.	Art class is after french class.
+entailment	Evelyn has art class then history class then political science class.	Political science class is after history class.
+entailment	Joan has physics class then geography class then computer science class.	Computer science class is after geography class.
+entailment	Lisa has political science class then music class then economics class.	Economics class is after music class.
+entailment	Julia has geography class then mathematics class then french class.	French class is after mathematics class.
+entailment	Edith has geography class then music class then political science class.	Political science class is after music class.
+entailment	Sandra has economics class then political science class then computer science class.	Computer science class is after political science class.
+entailment	Lynn has political science class then economics class then computer science class.	Computer science class is after economics class.
+entailment	Bob has music class then economics class then geography class.	Geography class is after economics class.
+entailment	Carol has commerce class then economics class then mathematics class.	Mathematics class is after economics class.
+entailment	Victoria has biology class then political science class then commerce class.	Commerce class is after political science class.
+entailment	Rose has political science class then music class then physics class.	Physics class is after music class.
+entailment	Ken has economics class then political science class then mathematics class.	Mathematics class is after political science class.
+entailment	Claire has history class then biology class then commerce class.	Commerce class is after biology class.
+entailment	Judith has commerce class then biology class then physics class.	Physics class is after biology class.
+entailment	Sally has geology class then geography class then commerce class.	Commerce class is after geography class.
+entailment	Joseph has literature class then physics class then geology class.	Geology class is after physics class.
+entailment	Suzanne has french class then computer science class then history class.	History class is after computer science class.
+entailment	Margaret has political science class then latin class then music class.	Music class is after latin class.
+entailment	Melissa has chemistry class then commerce class then geology class.	Geology class is after commerce class.
+entailment	Anne has computer science class then latin class then history class.	History class is after latin class.
+entailment	Ellen has art class then computer science class then geography class.	Geography class is after computer science class.
+entailment	Carol has art class then biology class then french class.	French class is after biology class.
+entailment	Sally has latin class then art class then music class.	Music class is after art class.
+entailment	Tim has french class then political science class then literature class.	Literature class is after political science class.
+entailment	Emma has geology class then biology class then economics class.	Economics class is after biology class.
+entailment	Ian has art class then commerce class then latin class.	Latin class is after commerce class.
+entailment	Cynthia has geology class then literature class then chemistry class.	Chemistry class is after literature class.
+entailment	Marie has art class then biology class then literature class.	Literature class is after biology class.
+entailment	Jean has literature class then biology class then commerce class.	Commerce class is after biology class.
+entailment	Paul has political science class then latin class then art class.	Art class is after latin class.
+entailment	Simon has biology class then literature class then mathematics class.	Mathematics class is after literature class.
+entailment	David has art class then economics class then geography class.	Geography class is after economics class.
+entailment	Evelyn has geography class then french class then economics class.	Economics class is after french class.
+entailment	Joe has mathematics class then history class then biology class.	Biology class is after history class.
+entailment	Alexander has chemistry class then art class then biology class.	Biology class is after art class.
+entailment	Suzanne has political science class then art class then history class.	History class is after art class.
+entailment	Fiona has commerce class then geography class then art class.	Art class is after geography class.
+entailment	Ruth has physics class then literature class then chemistry class.	Chemistry class is after literature class.
+entailment	Wendy has history class then computer science class then mathematics class.	Mathematics class is after computer science class.
+entailment	Lawrence has economics class then political science class then geography class.	Geography class is after political science class.
+entailment	Marie has political science class then commerce class then history class.	History class is after commerce class.
+entailment	Cynthia has latin class then mathematics class then physics class.	Physics class is after mathematics class.
+entailment	Jean has biology class then computer science class then french class.	French class is after computer science class.
+entailment	Mark has french class then chemistry class then commerce class.	Commerce class is after chemistry class.
+entailment	Fred has art class then commerce class then history class.	History class is after commerce class.
+entailment	Samuel has mathematics class then geography class then music class.	Music class is after geography class.
+entailment	Margaret has music class then art class then mathematics class.	Mathematics class is after art class.
+entailment	Linda has mathematics class then art class then music class.	Music class is after art class.
+entailment	Alfred has biology class then computer science class then history class.	History class is after computer science class.
+entailment	Lauren has computer science class then economics class then latin class.	Latin class is after economics class.
+entailment	Alex has latin class then literature class then mathematics class.	Mathematics class is after literature class.
+entailment	Edith has geography class then economics class then biology class.	Biology class is after economics class.
+entailment	Charles has art class then computer science class then commerce class.	Commerce class is after computer science class.
+entailment	Al has chemistry class then art class then biology class.	Biology class is after art class.
+entailment	Brian has economics class then history class then french class.	French class is after history class.
+entailment	William has music class then french class then art class.	Art class is after french class.
+entailment	Dan has chemistry class then mathematics class then physics class.	Physics class is after mathematics class.
+entailment	Kenneth has biology class then economics class then literature class.	Literature class is after economics class.
+entailment	Jason has music class then french class then art class.	Art class is after french class.
+entailment	Billy has physics class then economics class then geography class.	Geography class is after economics class.
+entailment	Kelly has art class then history class then computer science class.	Computer science class is after history class.
+entailment	Frank has economics class then music class then commerce class.	Commerce class is after music class.
+entailment	Larry has geography class then music class then computer science class.	Computer science class is after music class.
+entailment	Louis has art class then literature class then history class.	History class is after literature class.
+entailment	Gary has french class then political science class then literature class.	Literature class is after political science class.
+entailment	Tom has mathematics class then latin class then french class.	French class is after latin class.
+entailment	David has economics class then commerce class then literature class.	Literature class is after commerce class.
+entailment	Kevin has mathematics class then literature class then physics class.	Physics class is after literature class.
+entailment	Anna has geology class then french class then art class.	Art class is after french class.
+entailment	Sandra has history class then french class then biology class.	Biology class is after french class.
+entailment	Jimmy has mathematics class then geography class then biology class.	Biology class is after geography class.
+entailment	Adam has computer science class then biology class then literature class.	Literature class is after biology class.
+entailment	Nick has biology class then art class then political science class.	Political science class is after art class.
+entailment	Marilyn has music class then biology class then computer science class.	Computer science class is after biology class.
+entailment	Alfred has geography class then latin class then biology class.	Biology class is after latin class.
+entailment	Alfred has literature class then biology class then art class.	Art class is after biology class.
+entailment	Martin has french class then biology class then computer science class.	Computer science class is after biology class.
+entailment	Jimmy has political science class then music class then mathematics class.	Mathematics class is after music class.
+entailment	Harold has art class then geography class then economics class.	Economics class is after geography class.
+entailment	Laura has french class then physics class then geology class.	Geology class is after physics class.
+entailment	Don has biology class then physics class then literature class.	Literature class is after physics class.
+entailment	Judith has art class then biology class then physics class.	Physics class is after biology class.
+entailment	Hugh has latin class then art class then physics class.	Physics class is after art class.
+entailment	Fred has history class then computer science class then geology class.	Geology class is after computer science class.
+entailment	Elaine has literature class then commerce class then chemistry class.	Chemistry class is after commerce class.
+entailment	John has latin class then biology class then chemistry class.	Chemistry class is after biology class.
+entailment	Larry has political science class then computer science class then physics class.	Physics class is after computer science class.
+entailment	Lisa has geography class then physics class then music class.	Music class is after physics class.
+entailment	Julia has computer science class then chemistry class then history class.	History class is after chemistry class.
+entailment	Martin has biology class then computer science class then economics class.	Economics class is after computer science class.
+entailment	Heather has latin class then biology class then chemistry class.	Chemistry class is after biology class.
+entailment	Laura has art class then commerce class then economics class.	Economics class is after commerce class.
+entailment	Scott has political science class then biology class then history class.	History class is after biology class.
+entailment	Julie has music class then political science class then art class.	Art class is after political science class.
+entailment	Sara has political science class then mathematics class then literature class.	Literature class is after mathematics class.
+entailment	Don has chemistry class then latin class then literature class.	Literature class is after latin class.
+entailment	Fred has latin class then physics class then history class.	History class is after physics class.
+entailment	Sarah has geology class then latin class then economics class.	Economics class is after latin class.
+entailment	Alan has political science class then music class then history class.	History class is after music class.
+entailment	Howard has latin class then geography class then mathematics class.	Mathematics class is after geography class.
+entailment	Daniel has biology class then physics class then chemistry class.	Chemistry class is after physics class.
+entailment	Tim has economics class then commerce class then computer science class.	Computer science class is after commerce class.
+entailment	Florence has economics class then mathematics class then physics class.	Physics class is after mathematics class.
+entailment	Ann has french class then mathematics class then computer science class.	Computer science class is after mathematics class.
+entailment	Ed has chemistry class then geology class then history class.	History class is after geology class.
+entailment	Albert has economics class then chemistry class then geology class.	Geology class is after chemistry class.
+entailment	Catherine has political science class then biology class then chemistry class.	Chemistry class is after biology class.
+entailment	Ruth has art class then history class then geology class.	Geology class is after history class.
+entailment	Alexander has literature class then latin class then biology class.	Biology class is after latin class.
+entailment	James has physics class then economics class then latin class.	Latin class is after economics class.
+entailment	Gary has music class then french class then biology class.	Biology class is after french class.
+entailment	Stephen has literature class then music class then chemistry class.	Chemistry class is after music class.
+entailment	Ellen has computer science class then history class then mathematics class.	Mathematics class is after history class.
+entailment	Louise has political science class then literature class then art class.	Art class is after literature class.
+entailment	Jane has latin class then chemistry class then history class.	History class is after chemistry class.
+entailment	Alan has french class then physics class then history class.	History class is after physics class.
+entailment	Kim has physics class then french class then geography class.	Geography class is after french class.
+entailment	Henry has biology class then economics class then political science class.	Political science class is after economics class.
+entailment	Jason has geology class then music class then french class.	French class is after music class.
+entailment	Jack has geology class then commerce class then political science class.	Political science class is after commerce class.
+entailment	Jay has geology class then history class then chemistry class.	Chemistry class is after history class.
+entailment	Sara has latin class then physics class then literature class.	Literature class is after physics class.
+entailment	Bruce has chemistry class then mathematics class then latin class.	Latin class is after mathematics class.
+entailment	Pamela has geology class then computer science class then chemistry class.	Chemistry class is after computer science class.
+entailment	Adam has mathematics class then geology class then economics class.	Economics class is after geology class.
+entailment	Kevin has biology class then literature class then latin class.	Latin class is after literature class.
+entailment	Tom has literature class then computer science class then french class.	French class is after computer science class.
+entailment	Jean has geography class then french class then music class.	Music class is after french class.
+entailment	Elaine has latin class then history class then economics class.	Economics class is after history class.
+entailment	Bob has music class then chemistry class then biology class.	Biology class is after chemistry class.
+entailment	Keith has commerce class then biology class then french class.	French class is after biology class.
+entailment	Jimmy has biology class then economics class then latin class.	Latin class is after economics class.
+entailment	Claire has geography class then physics class then commerce class.	Commerce class is after physics class.
+entailment	Melissa has history class then political science class then economics class.	Economics class is after political science class.
+entailment	Michelle has literature class then mathematics class then geography class.	Geography class is after mathematics class.
+entailment	Roy has commerce class then art class then chemistry class.	Chemistry class is after art class.
+entailment	Edith has chemistry class then art class then history class.	History class is after art class.
+entailment	Michael has commerce class then literature class then physics class.	Physics class is after literature class.
+entailment	Mike has french class then mathematics class then literature class.	Literature class is after mathematics class.
+entailment	Henry has french class then biology class then economics class.	Economics class is after biology class.
+entailment	Tim has chemistry class then art class then mathematics class.	Mathematics class is after art class.
+entailment	Lucy has economics class then chemistry class then literature class.	Literature class is after chemistry class.
+entailment	Emma has political science class then economics class then art class.	Art class is after economics class.
+entailment	Alice has chemistry class then geography class then biology class.	Biology class is after geography class.
+entailment	Ian has biology class then physics class then commerce class.	Commerce class is after physics class.
+entailment	Andrew has music class then history class then geology class.	Geology class is after history class.
+entailment	Ryan has literature class then geography class then geology class.	Geology class is after geography class.
+entailment	Linda has art class then biology class then history class.	History class is after biology class.
+entailment	Emily has chemistry class then biology class then latin class.	Latin class is after biology class.
+entailment	Linda has latin class then biology class then music class.	Music class is after biology class.
+entailment	Carl has french class then geography class then commerce class.	Commerce class is after geography class.
+entailment	Ralph has economics class then mathematics class then biology class.	Biology class is after mathematics class.
+entailment	Annie has commerce class then art class then history class.	History class is after art class.
+entailment	Louise has art class then political science class then economics class.	Economics class is after political science class.
+entailment	Rose has literature class then economics class then geography class.	Geography class is after economics class.
+entailment	Amy has french class then art class then literature class.	Literature class is after art class.
+entailment	Michelle has history class then chemistry class then physics class.	Physics class is after chemistry class.
+entailment	Elaine has art class then history class then political science class.	Political science class is after history class.
+entailment	Evelyn has commerce class then geology class then physics class.	Physics class is after geology class.
+entailment	Scott has computer science class then history class then geology class.	Geology class is after history class.
+entailment	Alexandra has economics class then mathematics class then geology class.	Geology class is after mathematics class.
+entailment	Stephen has geography class then latin class then french class.	French class is after latin class.
+entailment	Eric has geography class then computer science class then physics class.	Physics class is after computer science class.
+entailment	Julie has political science class then chemistry class then french class.	French class is after chemistry class.
+entailment	Melissa has history class then latin class then art class.	Art class is after latin class.
+entailment	Jean has computer science class then geography class then economics class.	Economics class is after geography class.
+entailment	Sally has geography class then history class then music class.	Music class is after history class.
+entailment	Walter has geology class then literature class then history class.	History class is after literature class.
+entailment	Sara has biology class then political science class then mathematics class.	Mathematics class is after political science class.
+entailment	Sara has biology class then physics class then mathematics class.	Mathematics class is after physics class.
+entailment	Daniel has commerce class then physics class then chemistry class.	Chemistry class is after physics class.
+entailment	Donna has chemistry class then political science class then computer science class.	Computer science class is after political science class.
+entailment	Richard has art class then mathematics class then commerce class.	Commerce class is after mathematics class.
+entailment	Anthony has biology class then commerce class then political science class.	Political science class is after commerce class.
+entailment	Louis has computer science class then latin class then music class.	Music class is after latin class.
+entailment	Annie has mathematics class then geography class then art class.	Art class is after geography class.
+entailment	Barbara has art class then history class then commerce class.	Commerce class is after history class.
+entailment	Charles has literature class then history class then chemistry class.	Chemistry class is after history class.
+entailment	Victoria has biology class then art class then latin class.	Latin class is after art class.
+entailment	Jonathan has chemistry class then mathematics class then history class.	History class is after mathematics class.
+entailment	Caroline has computer science class then art class then history class.	History class is after art class.
+entailment	Catherine has economics class then chemistry class then latin class.	Latin class is after chemistry class.
+entailment	Louise has economics class then chemistry class then political science class.	Political science class is after chemistry class.
+entailment	Nick has computer science class then chemistry class then literature class.	Literature class is after chemistry class.
+entailment	Helen has french class then latin class then geology class.	Geology class is after latin class.
+entailment	William has history class then physics class then art class.	Art class is after physics class.
+entailment	Lisa has history class then music class then literature class.	Literature class is after music class.
+entailment	Diane has art class then geography class then economics class.	Economics class is after geography class.
+entailment	Bob has geology class then mathematics class then french class.	French class is after mathematics class.
+entailment	Steve has commerce class then history class then economics class.	Economics class is after history class.
+entailment	Karen has chemistry class then economics class then latin class.	Latin class is after economics class.
+entailment	Jim has political science class then physics class then geology class.	Geology class is after physics class.
+entailment	Linda has geology class then geography class then biology class.	Biology class is after geography class.
+entailment	Jason has chemistry class then computer science class then history class.	History class is after computer science class.
+entailment	Dave has economics class then art class then chemistry class.	Chemistry class is after art class.
+entailment	Eleanor has art class then computer science class then chemistry class.	Chemistry class is after computer science class.
+entailment	Katie has history class then economics class then geology class.	Geology class is after economics class.
+entailment	Walter has geography class then physics class then biology class.	Biology class is after physics class.
+entailment	Tony has literature class then geography class then art class.	Art class is after geography class.
+entailment	Greg has art class then mathematics class then economics class.	Economics class is after mathematics class.
+entailment	Stephanie has literature class then physics class then political science class.	Political science class is after physics class.
+entailment	Frederick has history class then literature class then political science class.	Political science class is after literature class.
+entailment	Larry has chemistry class then computer science class then commerce class.	Commerce class is after computer science class.
+entailment	Frances has literature class then music class then geology class.	Geology class is after music class.
+entailment	Carl has geography class then history class then physics class.	Physics class is after history class.
+entailment	Donna has french class then political science class then biology class.	Biology class is after political science class.
+entailment	Dan has economics class then french class then literature class.	Literature class is after french class.
+entailment	Amanda has latin class then literature class then mathematics class.	Mathematics class is after literature class.
+entailment	Tony has literature class then french class then physics class.	Physics class is after french class.
+entailment	Keith has political science class then computer science class then chemistry class.	Chemistry class is after computer science class.
+entailment	Albert has computer science class then economics class then literature class.	Literature class is after economics class.
+entailment	Peter has mathematics class then geology class then art class.	Art class is after geology class.
+entailment	Alexandra has latin class then commerce class then physics class.	Physics class is after commerce class.
+entailment	Kim has biology class then economics class then physics class.	Physics class is after economics class.
+entailment	Jill has physics class then biology class then music class.	Music class is after biology class.
+entailment	Betty has biology class then political science class then physics class.	Physics class is after political science class.
+entailment	Adam has music class then chemistry class then geology class.	Geology class is after chemistry class.
+entailment	Ellen has chemistry class then mathematics class then commerce class.	Commerce class is after mathematics class.
+entailment	Ralph has french class then latin class then geology class.	Geology class is after latin class.
+entailment	Henry has chemistry class then economics class then geography class.	Geography class is after economics class.
+entailment	Bruce has economics class then geography class then computer science class.	Computer science class is after geography class.
+entailment	Anne has political science class then geology class then physics class.	Physics class is after geology class.
+entailment	Edwin has french class then geology class then geography class.	Geography class is after geology class.
+entailment	Emily has geology class then history class then computer science class.	Computer science class is after history class.
+entailment	Julie has biology class then music class then computer science class.	Computer science class is after music class.
+entailment	Roger has economics class then latin class then music class.	Music class is after latin class.
+entailment	Eric has history class then biology class then political science class.	Political science class is after biology class.
+entailment	Rebecca has chemistry class then music class then commerce class.	Commerce class is after music class.
+entailment	Wendy has art class then physics class then computer science class.	Computer science class is after physics class.
+entailment	Ann has french class then computer science class then geology class.	Geology class is after computer science class.
+entailment	Sophie has biology class then economics class then geography class.	Geography class is after economics class.
+entailment	Kelly has latin class then geography class then art class.	Art class is after geography class.
+entailment	Sam has geology class then history class then music class.	Music class is after history class.
+entailment	Kathy has mathematics class then economics class then geology class.	Geology class is after economics class.
+entailment	Harold has computer science class then art class then chemistry class.	Chemistry class is after art class.
+entailment	Christopher has biology class then political science class then geography class.	Geography class is after political science class.
+entailment	Melissa has chemistry class then geography class then latin class.	Latin class is after geography class.
+entailment	Eleanor has latin class then geography class then chemistry class.	Chemistry class is after geography class.
+entailment	Mike has chemistry class then economics class then latin class.	Latin class is after economics class.
+entailment	Annie has art class then french class then music class.	Music class is after french class.
+entailment	Jack has physics class then geography class then french class.	French class is after geography class.
+entailment	Alan has commerce class then mathematics class then economics class.	Economics class is after mathematics class.
+entailment	Daniel has commerce class then history class then mathematics class.	Mathematics class is after history class.
+entailment	Kelly has geography class then physics class then computer science class.	Computer science class is after physics class.
+entailment	Jimmy has geology class then political science class then latin class.	Latin class is after political science class.
+entailment	Mary has computer science class then literature class then commerce class.	Commerce class is after literature class.
+entailment	Virginia has economics class then commerce class then music class.	Music class is after commerce class.
+entailment	Amanda has mathematics class then biology class then music class.	Music class is after biology class.
+entailment	Patricia has music class then art class then computer science class.	Computer science class is after art class.
+entailment	Albert has music class then mathematics class then physics class.	Physics class is after mathematics class.
+entailment	Jane has literature class then political science class then geography class.	Geography class is after political science class.
+entailment	Christopher has music class then geography class then economics class.	Economics class is after geography class.
+entailment	Gary has mathematics class then french class then computer science class.	Computer science class is after french class.
+entailment	Katie has geography class then commerce class then political science class.	Political science class is after commerce class.
+entailment	Lauren has geography class then geology class then physics class.	Physics class is after geology class.
+entailment	Alfred has physics class then political science class then biology class.	Biology class is after political science class.
+entailment	Johnny has art class then geology class then literature class.	Literature class is after geology class.
+entailment	Diane has literature class then chemistry class then mathematics class.	Mathematics class is after chemistry class.
+entailment	Ken has art class then latin class then economics class.	Economics class is after latin class.
+entailment	Larry has mathematics class then biology class then commerce class.	Commerce class is after biology class.
+entailment	Jason has latin class then mathematics class then geography class.	Geography class is after mathematics class.
+entailment	Samuel has political science class then latin class then chemistry class.	Chemistry class is after latin class.
+entailment	Ken has biology class then latin class then art class.	Art class is after latin class.
+entailment	Kathryn has commerce class then computer science class then geography class.	Geography class is after computer science class.
+entailment	Roger has french class then geology class then literature class.	Literature class is after geology class.
+entailment	John has geography class then latin class then biology class.	Biology class is after latin class.
+entailment	Pamela has literature class then french class then political science class.	Political science class is after french class.
+entailment	Ruth has chemistry class then geology class then mathematics class.	Mathematics class is after geology class.
+entailment	Emma has commerce class then political science class then art class.	Art class is after political science class.
+entailment	Carolyn has history class then french class then literature class.	Literature class is after french class.
+entailment	Helen has biology class then chemistry class then mathematics class.	Mathematics class is after chemistry class.
+entailment	Kenneth has mathematics class then geography class then physics class.	Physics class is after geography class.
+entailment	Al has chemistry class then biology class then latin class.	Latin class is after biology class.
+entailment	Charlotte has commerce class then geography class then literature class.	Literature class is after geography class.
+entailment	Frederick has economics class then physics class then history class.	History class is after physics class.
+entailment	Dorothy has music class then literature class then biology class.	Biology class is after literature class.
+entailment	Grace has physics class then music class then computer science class.	Computer science class is after music class.
+entailment	Caroline has commerce class then geology class then history class.	History class is after geology class.
+entailment	Christopher has biology class then music class then geography class.	Geography class is after music class.
+entailment	Katherine has political science class then music class then biology class.	Biology class is after music class.
+entailment	Edith has economics class then political science class then geography class.	Geography class is after political science class.
+entailment	Mike has music class then literature class then art class.	Art class is after literature class.
+entailment	Ray has literature class then art class then biology class.	Biology class is after art class.
+entailment	Walter has music class then biology class then geology class.	Geology class is after biology class.
+entailment	Julie has physics class then economics class then latin class.	Latin class is after economics class.
+entailment	Wendy has mathematics class then history class then commerce class.	Commerce class is after history class.
+entailment	Sarah has french class then art class then history class.	History class is after art class.
+entailment	Grace has commerce class then mathematics class then geology class.	Geology class is after mathematics class.
+entailment	Bobby has chemistry class then history class then geography class.	Geography class is after history class.
+entailment	Heather has latin class then computer science class then geography class.	Geography class is after computer science class.
+entailment	Alison has french class then economics class then mathematics class.	Mathematics class is after economics class.
+entailment	Bill has literature class then chemistry class then music class.	Music class is after chemistry class.
+entailment	Wendy has physics class then music class then art class.	Art class is after music class.
+entailment	Grace has literature class then physics class then history class.	History class is after physics class.
+entailment	Steve has computer science class then history class then political science class.	Political science class is after history class.
+entailment	Samuel has literature class then physics class then political science class.	Political science class is after physics class.
+entailment	Frank has history class then political science class then music class.	Music class is after political science class.
+entailment	Lauren has biology class then geography class then economics class.	Economics class is after geography class.
+entailment	Paul has art class then latin class then literature class.	Literature class is after latin class.
+entailment	Emily has geology class then mathematics class then commerce class.	Commerce class is after mathematics class.
+entailment	Joan has french class then geography class then physics class.	Physics class is after geography class.
+entailment	Jeff has geography class then political science class then literature class.	Literature class is after political science class.
+entailment	Jeff has literature class then biology class then chemistry class.	Chemistry class is after biology class.
+entailment	Matt has music class then art class then history class.	History class is after art class.
+entailment	Frank has computer science class then history class then latin class.	Latin class is after history class.
+entailment	Carl has political science class then french class then music class.	Music class is after french class.
+entailment	Ron has biology class then art class then geography class.	Geography class is after art class.
+entailment	Eleanor has commerce class then literature class then music class.	Music class is after literature class.
+entailment	Kathleen has music class then political science class then history class.	History class is after political science class.
+entailment	Susan has political science class then economics class then mathematics class.	Mathematics class is after economics class.
+entailment	Bob has literature class then biology class then french class.	French class is after biology class.
+entailment	Victoria has literature class then french class then biology class.	Biology class is after french class.
+entailment	Laura has computer science class then french class then commerce class.	Commerce class is after french class.
+entailment	Marie has chemistry class then physics class then computer science class.	Computer science class is after physics class.
+entailment	Joseph has commerce class then geology class then political science class.	Political science class is after geology class.
+entailment	Catherine has biology class then music class then history class.	History class is after music class.
+entailment	Katherine has physics class then geology class then computer science class.	Computer science class is after geology class.
+entailment	Edwin has mathematics class then computer science class then literature class.	Literature class is after computer science class.
+entailment	David has french class then computer science class then art class.	Art class is after computer science class.
+entailment	Mike has geology class then music class then history class.	History class is after music class.
+entailment	Christopher has chemistry class then commerce class then geology class.	Geology class is after commerce class.
+entailment	Sally has french class then latin class then music class.	Music class is after latin class.
+entailment	Eric has latin class then mathematics class then commerce class.	Commerce class is after mathematics class.
+entailment	Jim has art class then literature class then history class.	History class is after literature class.
+entailment	Diane has biology class then latin class then commerce class.	Commerce class is after latin class.
+entailment	David has physics class then latin class then literature class.	Literature class is after latin class.
+entailment	Howard has biology class then literature class then computer science class.	Computer science class is after literature class.
+entailment	Don has economics class then physics class then commerce class.	Commerce class is after physics class.
+entailment	Anthony has music class then geology class then political science class.	Political science class is after geology class.
+entailment	Steven has chemistry class then political science class then physics class.	Physics class is after political science class.
+entailment	Sandra has latin class then political science class then mathematics class.	Mathematics class is after political science class.
+entailment	Johnny has literature class then french class then art class.	Art class is after french class.
+entailment	Fiona has french class then economics class then biology class.	Biology class is after economics class.
+entailment	Henry has biology class then computer science class then commerce class.	Commerce class is after computer science class.
+entailment	Julia has political science class then history class then geology class.	Geology class is after history class.
+entailment	Karen has geology class then chemistry class then french class.	French class is after chemistry class.
+entailment	Helen has political science class then commerce class then mathematics class.	Mathematics class is after commerce class.
+entailment	Colin has french class then art class then political science class.	Political science class is after art class.
+entailment	John has geology class then political science class then music class.	Music class is after political science class.
+entailment	Victoria has history class then computer science class then biology class.	Biology class is after computer science class.
+entailment	Caroline has literature class then geography class then geology class.	Geology class is after geography class.
+entailment	Robert has geography class then geology class then literature class.	Literature class is after geology class.
+entailment	Robin has mathematics class then art class then history class.	History class is after art class.
+entailment	Harriet has physics class then history class then economics class.	Economics class is after history class.
+entailment	Virginia has biology class then economics class then latin class.	Latin class is after economics class.
+entailment	Greg has history class then french class then geography class.	Geography class is after french class.
+entailment	Roy has geography class then economics class then latin class.	Latin class is after economics class.
+entailment	Edward has music class then chemistry class then computer science class.	Computer science class is after chemistry class.
+entailment	Charlie has art class then music class then history class.	History class is after music class.
+entailment	Larry has history class then music class then literature class.	Literature class is after music class.
+entailment	Bob has geology class then history class then french class.	French class is after history class.
+entailment	Jennifer has political science class then mathematics class then art class.	Art class is after mathematics class.
+entailment	Ellen has biology class then economics class then art class.	Art class is after economics class.
+entailment	Caroline has commerce class then music class then computer science class.	Computer science class is after music class.
+entailment	Gary has art class then history class then geology class.	Geology class is after history class.
+entailment	Victoria has biology class then physics class then geography class.	Geography class is after physics class.
+entailment	Deborah has music class then geography class then geology class.	Geology class is after geography class.
+entailment	Dave has biology class then political science class then physics class.	Physics class is after political science class.
+entailment	Heather has computer science class then history class then political science class.	Political science class is after history class.
+entailment	Cynthia has commerce class then music class then mathematics class.	Mathematics class is after music class.
+entailment	Johnny has history class then art class then latin class.	Latin class is after art class.
+entailment	Carolyn has computer science class then mathematics class then commerce class.	Commerce class is after mathematics class.
+entailment	Edward has geology class then history class then chemistry class.	Chemistry class is after history class.
+entailment	Wendy has mathematics class then geography class then physics class.	Physics class is after geography class.
+entailment	Greg has art class then economics class then political science class.	Political science class is after economics class.
+entailment	Edward has music class then geography class then physics class.	Physics class is after geography class.
+entailment	Ellen has political science class then economics class then commerce class.	Commerce class is after economics class.
+entailment	Jennifer has geology class then physics class then political science class.	Political science class is after physics class.
+entailment	James has economics class then physics class then music class.	Music class is after physics class.
+entailment	Laura has biology class then mathematics class then geology class.	Geology class is after mathematics class.
+entailment	Jack has latin class then french class then commerce class.	Commerce class is after french class.
+entailment	Annie has political science class then latin class then mathematics class.	Mathematics class is after latin class.
+entailment	Alfred has mathematics class then political science class then commerce class.	Commerce class is after political science class.
+entailment	Betty has geology class then political science class then physics class.	Physics class is after political science class.
+entailment	Michelle has political science class then music class then commerce class.	Commerce class is after music class.
+entailment	Jerry has economics class then computer science class then french class.	French class is after computer science class.
+entailment	Matthew has economics class then latin class then physics class.	Physics class is after latin class.
+entailment	William has geology class then mathematics class then geography class.	Geography class is after mathematics class.
+entailment	Mark has mathematics class then french class then economics class.	Economics class is after french class.
+entailment	Edith has history class then commerce class then geology class.	Geology class is after commerce class.
+entailment	Judy has geography class then chemistry class then political science class.	Political science class is after chemistry class.
+entailment	Ann has history class then chemistry class then economics class.	Economics class is after chemistry class.
+entailment	Bob has mathematics class then political science class then biology class.	Biology class is after political science class.
+entailment	Scott has computer science class then art class then history class.	History class is after art class.
+entailment	Frank has political science class then commerce class then history class.	History class is after commerce class.
+entailment	Jim has biology class then latin class then literature class.	Literature class is after latin class.
+entailment	Maria has political science class then economics class then geography class.	Geography class is after economics class.
+entailment	Ron has mathematics class then french class then art class.	Art class is after french class.
+entailment	Greg has mathematics class then political science class then economics class.	Economics class is after political science class.
+entailment	Thomas has latin class then history class then political science class.	Political science class is after history class.
+entailment	Diane has latin class then commerce class then music class.	Music class is after commerce class.
+entailment	Greg has computer science class then geography class then biology class.	Biology class is after geography class.
+entailment	Alice has physics class then latin class then music class.	Music class is after latin class.
+entailment	Martin has literature class then art class then physics class.	Physics class is after art class.
+entailment	Frederick has commerce class then geology class then art class.	Art class is after geology class.
+entailment	Claire has art class then commerce class then mathematics class.	Mathematics class is after commerce class.
+entailment	Stephanie has biology class then chemistry class then geology class.	Geology class is after chemistry class.
+entailment	Betty has computer science class then art class then geology class.	Geology class is after art class.
+entailment	Larry has latin class then chemistry class then geology class.	Geology class is after chemistry class.
+entailment	Alison has chemistry class then commerce class then political science class.	Political science class is after commerce class.
+entailment	Fred has commerce class then political science class then latin class.	Latin class is after political science class.
+entailment	Dan has music class then literature class then history class.	History class is after literature class.
+entailment	Greg has geology class then economics class then literature class.	Literature class is after economics class.
+entailment	Diana has mathematics class then chemistry class then art class.	Art class is after chemistry class.
+entailment	Alan has mathematics class then literature class then commerce class.	Commerce class is after literature class.
+entailment	Virginia has economics class then mathematics class then chemistry class.	Chemistry class is after mathematics class.
+entailment	Dan has literature class then commerce class then physics class.	Physics class is after commerce class.
+entailment	Louise has mathematics class then geography class then geology class.	Geology class is after geography class.
+entailment	Julia has commerce class then biology class then physics class.	Physics class is after biology class.
+entailment	Bobby has music class then french class then computer science class.	Computer science class is after french class.
+entailment	Kathleen has geology class then political science class then biology class.	Biology class is after political science class.
+entailment	Don has chemistry class then literature class then mathematics class.	Mathematics class is after literature class.
+entailment	Don has chemistry class then history class then french class.	French class is after history class.
+entailment	Amanda has french class then geology class then chemistry class.	Chemistry class is after geology class.
+entailment	Dave has physics class then economics class then commerce class.	Commerce class is after economics class.
+entailment	Alan has commerce class then history class then geology class.	Geology class is after history class.
+entailment	Angela has french class then computer science class then art class.	Art class is after computer science class.
+entailment	Elizabeth has economics class then music class then art class.	Art class is after music class.
+entailment	Frederick has french class then geology class then economics class.	Economics class is after geology class.
+entailment	Joseph has economics class then computer science class then commerce class.	Commerce class is after computer science class.
+entailment	Jennifer has mathematics class then chemistry class then political science class.	Political science class is after chemistry class.
+entailment	Johnny has mathematics class then french class then history class.	History class is after french class.
+entailment	Christopher has history class then art class then latin class.	Latin class is after art class.

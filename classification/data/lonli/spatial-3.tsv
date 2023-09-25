@@ -1,0 +1,1000 @@
+entailment	Irving is 350 miles from San Francisco and 570 miles from Miami.	Irving is nearer to San Francisco than Irving is to Miami.
+entailment	Manchester is 385 miles from Irving and 685 miles from San Diego.	Manchester is nearer to Irving than Manchester is to San Diego.
+entailment	Irvine is 280 miles from Minneapolis and 435 miles from Hampton.	Irvine is nearer to Minneapolis than Irvine is to Hampton.
+entailment	Minneapolis is 530 miles from Philadelphia and 755 miles from Madison.	Minneapolis is nearer to Philadelphia than Minneapolis is to Madison.
+entailment	Pittsburg is 340 miles from Olympia and 730 miles from Buffalo.	Pittsburg is nearer to Olympia than Pittsburg is to Buffalo.
+entailment	Columbia is 810 miles from Ontario and 935 miles from Hartford.	Columbia is nearer to Ontario than Columbia is to Hartford.
+entailment	Albany is 475 miles from Illinois and 865 miles from Kansas.	Albany is nearer to Illinois than Albany is to Kansas.
+entailment	Pittsburg is 200 miles from Boston and 270 miles from Albany.	Pittsburg is nearer to Boston than Pittsburg is to Albany.
+entailment	Boston is 210 miles from Columbia and 530 miles from Illinois.	Boston is nearer to Columbia than Boston is to Illinois.
+entailment	Richmond is 205 miles from Rochester and 665 miles from Buffalo.	Richmond is nearer to Rochester than Richmond is to Buffalo.
+entailment	Tulsa is 850 miles from Hampton and 930 miles from Sacramento.	Tulsa is nearer to Hampton than Tulsa is to Sacramento.
+entailment	Philadelphia is 370 miles from San Jose and 400 miles from Dallas.	Philadelphia is nearer to San Jose than Philadelphia is to Dallas.
+entailment	Hampton is 515 miles from Irvine and 810 miles from Illinois.	Hampton is nearer to Irvine than Hampton is to Illinois.
+entailment	Philadelphia is 300 miles from Sacramento and 410 miles from San Francisco.	Philadelphia is nearer to Sacramento than Philadelphia is to San Francisco.
+entailment	Rochester is 430 miles from Phoenix and 580 miles from Miami.	Rochester is nearer to Phoenix than Rochester is to Miami.
+entailment	San Diego is 220 miles from San Francisco and 635 miles from Irving.	San Diego is nearer to San Francisco than San Diego is to Irving.
+entailment	Dallas is 245 miles from Manchester and 305 miles from Illinois.	Dallas is nearer to Manchester than Dallas is to Illinois.
+entailment	Santa Barbara is 280 miles from Philadelphia and 710 miles from Kansas.	Santa Barbara is nearer to Philadelphia than Santa Barbara is to Kansas.
+entailment	Dallas is 590 miles from Manchester and 620 miles from Columbia.	Dallas is nearer to Manchester than Dallas is to Columbia.
+entailment	Irving is 265 miles from Tulsa and 425 miles from Pittsburg.	Irving is nearer to Tulsa than Irving is to Pittsburg.
+entailment	Minneapolis is 495 miles from Rochester and 825 miles from Tempe.	Minneapolis is nearer to Rochester than Minneapolis is to Tempe.
+entailment	Rochester is 370 miles from Tulsa and 765 miles from Philadelphia.	Rochester is nearer to Tulsa than Rochester is to Philadelphia.
+entailment	Dallas is 200 miles from Illinois and 210 miles from Washington.	Dallas is nearer to Illinois than Dallas is to Washington.
+entailment	Sacramento is 265 miles from Miami and 465 miles from Columbia.	Sacramento is nearer to Miami than Sacramento is to Columbia.
+entailment	Irvine is 630 miles from Detroit and 735 miles from Phoenix.	Irvine is nearer to Detroit than Irvine is to Phoenix.
+entailment	Las Vegas is 235 miles from Sacramento and 580 miles from Rochester.	Las Vegas is nearer to Sacramento than Las Vegas is to Rochester.
+entailment	Philadelphia is 215 miles from Springfield and 465 miles from Madison.	Philadelphia is nearer to Springfield than Philadelphia is to Madison.
+entailment	Los Angeles is 520 miles from Sacramento and 960 miles from Ontario.	Los Angeles is nearer to Sacramento than Los Angeles is to Ontario.
+entailment	Springfield is 290 miles from Rochester and 795 miles from Hampton.	Springfield is nearer to Rochester than Springfield is to Hampton.
+entailment	Minneapolis is 215 miles from Olympia and 225 miles from Hartford.	Minneapolis is nearer to Olympia than Minneapolis is to Hartford.
+entailment	Miami is 425 miles from Madison and 975 miles from Phoenix.	Miami is nearer to Madison than Miami is to Phoenix.
+entailment	Washington is 200 miles from Hampton and 565 miles from Springfield.	Washington is nearer to Hampton than Washington is to Springfield.
+entailment	Columbia is 235 miles from Rochester and 320 miles from Las Vegas.	Columbia is nearer to Rochester than Columbia is to Las Vegas.
+entailment	Tempe is 470 miles from Santa Barbara and 965 miles from Oklahoma.	Tempe is nearer to Santa Barbara than Tempe is to Oklahoma.
+entailment	Chicago is 475 miles from Rochester and 935 miles from Las Vegas.	Chicago is nearer to Rochester than Chicago is to Las Vegas.
+entailment	New York is 455 miles from Springfield and 625 miles from Las Vegas.	New York is nearer to Springfield than New York is to Las Vegas.
+entailment	Irvine is 230 miles from Sacramento and 690 miles from Pittsburg.	Irvine is nearer to Sacramento than Irvine is to Pittsburg.
+entailment	Albany is 240 miles from San Francisco and 390 miles from Phoenix.	Albany is nearer to San Francisco than Albany is to Phoenix.
+entailment	Irvine is 315 miles from San Jose and 335 miles from Philadelphia.	Irvine is nearer to San Jose than Irvine is to Philadelphia.
+entailment	Hampton is 235 miles from Ontario and 240 miles from Illinois.	Hampton is nearer to Ontario than Hampton is to Illinois.
+entailment	San Jose is 815 miles from Phoenix and 930 miles from Manchester.	San Jose is nearer to Phoenix than San Jose is to Manchester.
+entailment	Oklahoma is 220 miles from Tulsa and 535 miles from Irving.	Oklahoma is nearer to Tulsa than Oklahoma is to Irving.
+entailment	Hartford is 280 miles from Santa Barbara and 505 miles from Houston.	Hartford is nearer to Santa Barbara than Hartford is to Houston.
+entailment	Springfield is 305 miles from San Francisco and 335 miles from Sacramento.	Springfield is nearer to San Francisco than Springfield is to Sacramento.
+entailment	Buffalo is 230 miles from San Jose and 775 miles from Oklahoma.	Buffalo is nearer to San Jose than Buffalo is to Oklahoma.
+entailment	Madison is 210 miles from Albany and 380 miles from Las Vegas.	Madison is nearer to Albany than Madison is to Las Vegas.
+entailment	Pittsburg is 690 miles from Albany and 990 miles from San Francisco.	Pittsburg is nearer to Albany than Pittsburg is to San Francisco.
+entailment	Philadelphia is 230 miles from Illinois and 325 miles from San Francisco.	Philadelphia is nearer to Illinois than Philadelphia is to San Francisco.
+entailment	Santa Barbara is 290 miles from Houston and 620 miles from Irving.	Santa Barbara is nearer to Houston than Santa Barbara is to Irving.
+entailment	Phoenix is 265 miles from Los Angeles and 510 miles from Frankfurt.	Phoenix is nearer to Los Angeles than Phoenix is to Frankfurt.
+entailment	Oklahoma is 780 miles from Boston and 800 miles from Chicago.	Oklahoma is nearer to Boston than Oklahoma is to Chicago.
+entailment	Illinois is 430 miles from Buffalo and 595 miles from New York.	Illinois is nearer to Buffalo than Illinois is to New York.
+entailment	Houston is 335 miles from Columbia and 505 miles from Chicago.	Houston is nearer to Columbia than Houston is to Chicago.
+entailment	Los Angeles is 725 miles from Las Vegas and 840 miles from Frankfurt.	Los Angeles is nearer to Las Vegas than Los Angeles is to Frankfurt.
+entailment	Phoenix is 335 miles from San Diego and 525 miles from Irvine.	Phoenix is nearer to San Diego than Phoenix is to Irvine.
+entailment	Chicago is 235 miles from Olympia and 395 miles from Sacramento.	Chicago is nearer to Olympia than Chicago is to Sacramento.
+entailment	Sacramento is 560 miles from Tulsa and 770 miles from Boston.	Sacramento is nearer to Tulsa than Sacramento is to Boston.
+entailment	Washington is 320 miles from Minneapolis and 575 miles from Frankfurt.	Washington is nearer to Minneapolis than Washington is to Frankfurt.
+entailment	Tulsa is 420 miles from Hampton and 485 miles from Dallas.	Tulsa is nearer to Hampton than Tulsa is to Dallas.
+entailment	Ontario is 230 miles from Hampton and 275 miles from Richmond.	Ontario is nearer to Hampton than Ontario is to Richmond.
+entailment	Hampton is 285 miles from Chicago and 320 miles from San Diego.	Hampton is nearer to Chicago than Hampton is to San Diego.
+entailment	Tulsa is 260 miles from Washington and 290 miles from Albany.	Tulsa is nearer to Washington than Tulsa is to Albany.
+entailment	Richmond is 930 miles from Manchester and 995 miles from Oklahoma.	Richmond is nearer to Manchester than Richmond is to Oklahoma.
+entailment	Houston is 320 miles from Hampton and 710 miles from Oklahoma.	Houston is nearer to Hampton than Houston is to Oklahoma.
+entailment	Oklahoma is 240 miles from San Jose and 295 miles from Dallas.	Oklahoma is nearer to San Jose than Oklahoma is to Dallas.
+entailment	Hartford is 295 miles from Boston and 880 miles from Kansas.	Hartford is nearer to Boston than Hartford is to Kansas.
+entailment	Los Angeles is 830 miles from Phoenix and 925 miles from Albany.	Los Angeles is nearer to Phoenix than Los Angeles is to Albany.
+entailment	Manchester is 325 miles from Los Angeles and 365 miles from San Jose.	Manchester is nearer to Los Angeles than Manchester is to San Jose.
+entailment	Tulsa is 470 miles from Chicago and 555 miles from Rochester.	Tulsa is nearer to Chicago than Tulsa is to Rochester.
+entailment	Washington is 545 miles from Manchester and 635 miles from Madison.	Washington is nearer to Manchester than Washington is to Madison.
+entailment	Sacramento is 210 miles from Olympia and 255 miles from Springfield.	Sacramento is nearer to Olympia than Sacramento is to Springfield.
+entailment	Tulsa is 380 miles from Oklahoma and 510 miles from San Jose.	Tulsa is nearer to Oklahoma than Tulsa is to San Jose.
+entailment	Las Vegas is 715 miles from Boston and 950 miles from Washington.	Las Vegas is nearer to Boston than Las Vegas is to Washington.
+entailment	Washington is 200 miles from Springfield and 375 miles from Buffalo.	Washington is nearer to Springfield than Washington is to Buffalo.
+entailment	Irving is 225 miles from Richmond and 350 miles from Oklahoma.	Irving is nearer to Richmond than Irving is to Oklahoma.
+entailment	Phoenix is 590 miles from Frankfurt and 950 miles from New York.	Phoenix is nearer to Frankfurt than Phoenix is to New York.
+entailment	Philadelphia is 230 miles from Tulsa and 260 miles from Olympia.	Philadelphia is nearer to Tulsa than Philadelphia is to Olympia.
+entailment	Madison is 870 miles from New York and 960 miles from Columbia.	Madison is nearer to New York than Madison is to Columbia.
+entailment	New York is 830 miles from Springfield and 990 miles from Boston.	New York is nearer to Springfield than New York is to Boston.
+entailment	Dallas is 780 miles from Rochester and 890 miles from Tempe.	Dallas is nearer to Rochester than Dallas is to Tempe.
+entailment	Dallas is 275 miles from Philadelphia and 315 miles from Phoenix.	Dallas is nearer to Philadelphia than Dallas is to Phoenix.
+entailment	Manchester is 560 miles from New York and 690 miles from Los Angeles.	Manchester is nearer to New York than Manchester is to Los Angeles.
+entailment	Frankfurt is 390 miles from Olympia and 585 miles from Dallas.	Frankfurt is nearer to Olympia than Frankfurt is to Dallas.
+entailment	Los Angeles is 205 miles from Madison and 625 miles from Illinois.	Los Angeles is nearer to Madison than Los Angeles is to Illinois.
+entailment	Buffalo is 355 miles from Albany and 605 miles from Miami.	Buffalo is nearer to Albany than Buffalo is to Miami.
+entailment	Santa Barbara is 360 miles from Frankfurt and 530 miles from Illinois.	Santa Barbara is nearer to Frankfurt than Santa Barbara is to Illinois.
+entailment	Santa Barbara is 450 miles from Tulsa and 690 miles from Springfield.	Santa Barbara is nearer to Tulsa than Santa Barbara is to Springfield.
+entailment	Hampton is 315 miles from Springfield and 920 miles from Oklahoma.	Hampton is nearer to Springfield than Hampton is to Oklahoma.
+entailment	Manchester is 450 miles from Irvine and 885 miles from Chicago.	Manchester is nearer to Irvine than Manchester is to Chicago.
+entailment	Miami is 350 miles from Oklahoma and 435 miles from Phoenix.	Miami is nearer to Oklahoma than Miami is to Phoenix.
+entailment	Hampton is 765 miles from Frankfurt and 855 miles from Houston.	Hampton is nearer to Frankfurt than Hampton is to Houston.
+entailment	Ontario is 200 miles from Tulsa and 325 miles from Phoenix.	Ontario is nearer to Tulsa than Ontario is to Phoenix.
+entailment	Los Angeles is 250 miles from Philadelphia and 260 miles from Las Vegas.	Los Angeles is nearer to Philadelphia than Los Angeles is to Las Vegas.
+entailment	Olympia is 215 miles from San Francisco and 470 miles from Oklahoma.	Olympia is nearer to San Francisco than Olympia is to Oklahoma.
+entailment	New York is 315 miles from Albany and 635 miles from Hartford.	New York is nearer to Albany than New York is to Hartford.
+entailment	Kansas is 275 miles from Irving and 395 miles from Buffalo.	Kansas is nearer to Irving than Kansas is to Buffalo.
+entailment	Irvine is 305 miles from Madison and 515 miles from Hampton.	Irvine is nearer to Madison than Irvine is to Hampton.
+entailment	Albany is 390 miles from San Francisco and 940 miles from Las Vegas.	Albany is nearer to San Francisco than Albany is to Las Vegas.
+entailment	Springfield is 560 miles from Madison and 835 miles from Hartford.	Springfield is nearer to Madison than Springfield is to Hartford.
+entailment	Ontario is 940 miles from Illinois and 970 miles from Chicago.	Ontario is nearer to Illinois than Ontario is to Chicago.
+entailment	New York is 375 miles from Frankfurt and 425 miles from Richmond.	New York is nearer to Frankfurt than New York is to Richmond.
+entailment	Madison is 275 miles from Chicago and 330 miles from Illinois.	Madison is nearer to Chicago than Madison is to Illinois.
+entailment	Tulsa is 280 miles from Hampton and 290 miles from San Francisco.	Tulsa is nearer to Hampton than Tulsa is to San Francisco.
+entailment	Illinois is 215 miles from Miami and 925 miles from Washington.	Illinois is nearer to Miami than Illinois is to Washington.
+entailment	Buffalo is 330 miles from San Diego and 690 miles from Tempe.	Buffalo is nearer to San Diego than Buffalo is to Tempe.
+entailment	Washington is 680 miles from Detroit and 920 miles from Springfield.	Washington is nearer to Detroit than Washington is to Springfield.
+entailment	Irvine is 205 miles from Kansas and 470 miles from Illinois.	Irvine is nearer to Kansas than Irvine is to Illinois.
+entailment	Springfield is 380 miles from Philadelphia and 525 miles from Tempe.	Springfield is nearer to Philadelphia than Springfield is to Tempe.
+entailment	Chicago is 300 miles from Phoenix and 880 miles from Kansas.	Chicago is nearer to Phoenix than Chicago is to Kansas.
+entailment	Hampton is 285 miles from Hartford and 320 miles from Houston.	Hampton is nearer to Hartford than Hampton is to Houston.
+entailment	Santa Barbara is 210 miles from Columbia and 265 miles from Boston.	Santa Barbara is nearer to Columbia than Santa Barbara is to Boston.
+entailment	Hampton is 245 miles from Miami and 250 miles from Madison.	Hampton is nearer to Miami than Hampton is to Madison.
+entailment	Columbia is 285 miles from Santa Barbara and 740 miles from Miami.	Columbia is nearer to Santa Barbara than Columbia is to Miami.
+entailment	Kansas is 585 miles from Richmond and 950 miles from Sacramento.	Kansas is nearer to Richmond than Kansas is to Sacramento.
+entailment	Ontario is 320 miles from Richmond and 450 miles from Miami.	Ontario is nearer to Richmond than Ontario is to Miami.
+entailment	Washington is 445 miles from Irvine and 580 miles from Philadelphia.	Washington is nearer to Irvine than Washington is to Philadelphia.
+entailment	Chicago is 285 miles from Irvine and 890 miles from Madison.	Chicago is nearer to Irvine than Chicago is to Madison.
+entailment	Springfield is 270 miles from Manchester and 805 miles from Irvine.	Springfield is nearer to Manchester than Springfield is to Irvine.
+entailment	Irvine is 200 miles from Pittsburg and 255 miles from Philadelphia.	Irvine is nearer to Pittsburg than Irvine is to Philadelphia.
+entailment	Pittsburg is 320 miles from Washington and 450 miles from Richmond.	Pittsburg is nearer to Washington than Pittsburg is to Richmond.
+entailment	Columbia is 345 miles from Los Angeles and 440 miles from Chicago.	Columbia is nearer to Los Angeles than Columbia is to Chicago.
+entailment	Hampton is 305 miles from Chicago and 700 miles from Kansas.	Hampton is nearer to Chicago than Hampton is to Kansas.
+entailment	Las Vegas is 305 miles from Oklahoma and 335 miles from Madison.	Las Vegas is nearer to Oklahoma than Las Vegas is to Madison.
+entailment	Sacramento is 230 miles from San Diego and 290 miles from Phoenix.	Sacramento is nearer to San Diego than Sacramento is to Phoenix.
+entailment	Irving is 750 miles from Santa Barbara and 820 miles from San Jose.	Irving is nearer to Santa Barbara than Irving is to San Jose.
+entailment	Irvine is 260 miles from Philadelphia and 370 miles from Sacramento.	Irvine is nearer to Philadelphia than Irvine is to Sacramento.
+entailment	Ontario is 325 miles from Chicago and 485 miles from San Jose.	Ontario is nearer to Chicago than Ontario is to San Jose.
+entailment	Irving is 575 miles from San Diego and 940 miles from San Francisco.	Irving is nearer to San Diego than Irving is to San Francisco.
+entailment	San Jose is 365 miles from Columbia and 705 miles from Miami.	San Jose is nearer to Columbia than San Jose is to Miami.
+entailment	Detroit is 545 miles from Frankfurt and 840 miles from Minneapolis.	Detroit is nearer to Frankfurt than Detroit is to Minneapolis.
+entailment	Buffalo is 240 miles from Oklahoma and 880 miles from Kansas.	Buffalo is nearer to Oklahoma than Buffalo is to Kansas.
+entailment	Philadelphia is 225 miles from San Francisco and 230 miles from Minneapolis.	Philadelphia is nearer to San Francisco than Philadelphia is to Minneapolis.
+entailment	Richmond is 770 miles from Irvine and 825 miles from Rochester.	Richmond is nearer to Irvine than Richmond is to Rochester.
+entailment	Columbia is 345 miles from Ontario and 960 miles from Hampton.	Columbia is nearer to Ontario than Columbia is to Hampton.
+entailment	Frankfurt is 830 miles from San Diego and 990 miles from Phoenix.	Frankfurt is nearer to San Diego than Frankfurt is to Phoenix.
+entailment	Frankfurt is 205 miles from Hartford and 515 miles from Boston.	Frankfurt is nearer to Hartford than Frankfurt is to Boston.
+entailment	Springfield is 465 miles from Houston and 695 miles from Washington.	Springfield is nearer to Houston than Springfield is to Washington.
+entailment	Albany is 485 miles from San Diego and 895 miles from Santa Barbara.	Albany is nearer to San Diego than Albany is to Santa Barbara.
+entailment	Olympia is 345 miles from Washington and 505 miles from Columbia.	Olympia is nearer to Washington than Olympia is to Columbia.
+entailment	Phoenix is 430 miles from New York and 580 miles from San Jose.	Phoenix is nearer to New York than Phoenix is to San Jose.
+entailment	Miami is 730 miles from Minneapolis and 795 miles from Pittsburg.	Miami is nearer to Minneapolis than Miami is to Pittsburg.
+entailment	Chicago is 380 miles from San Jose and 880 miles from Boston.	Chicago is nearer to San Jose than Chicago is to Boston.
+entailment	Detroit is 345 miles from Irving and 770 miles from Springfield.	Detroit is nearer to Irving than Detroit is to Springfield.
+entailment	Oklahoma is 260 miles from Dallas and 585 miles from Tulsa.	Oklahoma is nearer to Dallas than Oklahoma is to Tulsa.
+entailment	Washington is 200 miles from Detroit and 205 miles from Los Angeles.	Washington is nearer to Detroit than Washington is to Los Angeles.
+entailment	Irvine is 295 miles from Miami and 310 miles from Chicago.	Irvine is nearer to Miami than Irvine is to Chicago.
+entailment	Madison is 515 miles from Tempe and 715 miles from Detroit.	Madison is nearer to Tempe than Madison is to Detroit.
+entailment	Washington is 445 miles from Detroit and 555 miles from Oklahoma.	Washington is nearer to Detroit than Washington is to Oklahoma.
+entailment	Irving is 345 miles from Irvine and 410 miles from Tulsa.	Irving is nearer to Irvine than Irving is to Tulsa.
+entailment	Hartford is 460 miles from Irvine and 975 miles from San Diego.	Hartford is nearer to Irvine than Hartford is to San Diego.
+entailment	New York is 445 miles from Ontario and 860 miles from Springfield.	New York is nearer to Ontario than New York is to Springfield.
+entailment	Oklahoma is 340 miles from San Diego and 630 miles from Chicago.	Oklahoma is nearer to San Diego than Oklahoma is to Chicago.
+entailment	Richmond is 325 miles from Minneapolis and 535 miles from Rochester.	Richmond is nearer to Minneapolis than Richmond is to Rochester.
+entailment	Minneapolis is 380 miles from Tempe and 490 miles from Phoenix.	Minneapolis is nearer to Tempe than Minneapolis is to Phoenix.
+entailment	Frankfurt is 550 miles from Minneapolis and 640 miles from Oklahoma.	Frankfurt is nearer to Minneapolis than Frankfurt is to Oklahoma.
+entailment	Rochester is 590 miles from Richmond and 990 miles from Minneapolis.	Rochester is nearer to Richmond than Rochester is to Minneapolis.
+entailment	Hampton is 455 miles from Phoenix and 705 miles from Rochester.	Hampton is nearer to Phoenix than Hampton is to Rochester.
+entailment	Irvine is 520 miles from Los Angeles and 635 miles from Minneapolis.	Irvine is nearer to Los Angeles than Irvine is to Minneapolis.
+entailment	Washington is 750 miles from Detroit and 845 miles from Boston.	Washington is nearer to Detroit than Washington is to Boston.
+entailment	Las Vegas is 205 miles from Dallas and 260 miles from Sacramento.	Las Vegas is nearer to Dallas than Las Vegas is to Sacramento.
+entailment	Houston is 615 miles from Santa Barbara and 705 miles from San Francisco.	Houston is nearer to Santa Barbara than Houston is to San Francisco.
+entailment	Los Angeles is 210 miles from Dallas and 660 miles from Sacramento.	Los Angeles is nearer to Dallas than Los Angeles is to Sacramento.
+entailment	Manchester is 215 miles from Buffalo and 235 miles from Boston.	Manchester is nearer to Buffalo than Manchester is to Boston.
+entailment	Illinois is 220 miles from Frankfurt and 825 miles from Tulsa.	Illinois is nearer to Frankfurt than Illinois is to Tulsa.
+entailment	Santa Barbara is 495 miles from Boston and 505 miles from San Diego.	Santa Barbara is nearer to Boston than Santa Barbara is to San Diego.
+entailment	Hartford is 295 miles from Washington and 415 miles from Madison.	Hartford is nearer to Washington than Hartford is to Madison.
+entailment	Richmond is 240 miles from Columbia and 275 miles from Pittsburg.	Richmond is nearer to Columbia than Richmond is to Pittsburg.
+entailment	San Francisco is 200 miles from Irving and 785 miles from Albany.	San Francisco is nearer to Irving than San Francisco is to Albany.
+entailment	Minneapolis is 590 miles from Philadelphia and 780 miles from Madison.	Minneapolis is nearer to Philadelphia than Minneapolis is to Madison.
+entailment	Irving is 600 miles from Boston and 920 miles from Tempe.	Irving is nearer to Boston than Irving is to Tempe.
+entailment	Ontario is 375 miles from Manchester and 445 miles from Madison.	Ontario is nearer to Manchester than Ontario is to Madison.
+entailment	Washington is 230 miles from Buffalo and 775 miles from Richmond.	Washington is nearer to Buffalo than Washington is to Richmond.
+entailment	Los Angeles is 265 miles from Kansas and 350 miles from Sacramento.	Los Angeles is nearer to Kansas than Los Angeles is to Sacramento.
+entailment	Buffalo is 215 miles from Chicago and 225 miles from Ontario.	Buffalo is nearer to Chicago than Buffalo is to Ontario.
+entailment	Santa Barbara is 205 miles from Tempe and 320 miles from Albany.	Santa Barbara is nearer to Tempe than Santa Barbara is to Albany.
+entailment	Columbia is 470 miles from Irvine and 710 miles from Dallas.	Columbia is nearer to Irvine than Columbia is to Dallas.
+entailment	Las Vegas is 780 miles from Santa Barbara and 825 miles from Richmond.	Las Vegas is nearer to Santa Barbara than Las Vegas is to Richmond.
+entailment	San Francisco is 270 miles from Irvine and 660 miles from Irving.	San Francisco is nearer to Irvine than San Francisco is to Irving.
+entailment	Los Angeles is 610 miles from Santa Barbara and 660 miles from Irving.	Los Angeles is nearer to Santa Barbara than Los Angeles is to Irving.
+entailment	Boston is 200 miles from New York and 355 miles from Dallas.	Boston is nearer to New York than Boston is to Dallas.
+entailment	Phoenix is 250 miles from Hampton and 585 miles from Frankfurt.	Phoenix is nearer to Hampton than Phoenix is to Frankfurt.
+entailment	Albany is 305 miles from Los Angeles and 645 miles from Madison.	Albany is nearer to Los Angeles than Albany is to Madison.
+entailment	Detroit is 200 miles from New York and 290 miles from Tempe.	Detroit is nearer to New York than Detroit is to Tempe.
+entailment	Sacramento is 420 miles from Philadelphia and 540 miles from Columbia.	Sacramento is nearer to Philadelphia than Sacramento is to Columbia.
+entailment	Ontario is 215 miles from Rochester and 345 miles from Hampton.	Ontario is nearer to Rochester than Ontario is to Hampton.
+entailment	San Diego is 385 miles from Detroit and 860 miles from Frankfurt.	San Diego is nearer to Detroit than San Diego is to Frankfurt.
+entailment	Dallas is 245 miles from Detroit and 300 miles from Ontario.	Dallas is nearer to Detroit than Dallas is to Ontario.
+entailment	Olympia is 235 miles from Tempe and 265 miles from Chicago.	Olympia is nearer to Tempe than Olympia is to Chicago.
+entailment	Olympia is 505 miles from Hartford and 845 miles from Tempe.	Olympia is nearer to Hartford than Olympia is to Tempe.
+entailment	Irving is 380 miles from Chicago and 615 miles from Olympia.	Irving is nearer to Chicago than Irving is to Olympia.
+entailment	Hampton is 550 miles from Albany and 695 miles from San Diego.	Hampton is nearer to Albany than Hampton is to San Diego.
+entailment	Manchester is 260 miles from Phoenix and 460 miles from Oklahoma.	Manchester is nearer to Phoenix than Manchester is to Oklahoma.
+entailment	Minneapolis is 530 miles from Madison and 780 miles from Detroit.	Minneapolis is nearer to Madison than Minneapolis is to Detroit.
+entailment	Washington is 235 miles from San Francisco and 825 miles from Buffalo.	Washington is nearer to San Francisco than Washington is to Buffalo.
+entailment	Boston is 755 miles from Tulsa and 770 miles from Illinois.	Boston is nearer to Tulsa than Boston is to Illinois.
+entailment	Boston is 300 miles from Frankfurt and 340 miles from Olympia.	Boston is nearer to Frankfurt than Boston is to Olympia.
+entailment	Dallas is 310 miles from Hartford and 745 miles from Irvine.	Dallas is nearer to Hartford than Dallas is to Irvine.
+entailment	San Diego is 455 miles from Phoenix and 580 miles from Minneapolis.	San Diego is nearer to Phoenix than San Diego is to Minneapolis.
+entailment	Tempe is 305 miles from Irvine and 365 miles from Frankfurt.	Tempe is nearer to Irvine than Tempe is to Frankfurt.
+entailment	Dallas is 595 miles from Columbia and 715 miles from Kansas.	Dallas is nearer to Columbia than Dallas is to Kansas.
+entailment	Hampton is 205 miles from Sacramento and 270 miles from Illinois.	Hampton is nearer to Sacramento than Hampton is to Illinois.
+entailment	Detroit is 330 miles from Ontario and 610 miles from Rochester.	Detroit is nearer to Ontario than Detroit is to Rochester.
+entailment	Hampton is 525 miles from Buffalo and 700 miles from Philadelphia.	Hampton is nearer to Buffalo than Hampton is to Philadelphia.
+entailment	Houston is 460 miles from Boston and 735 miles from New York.	Houston is nearer to Boston than Houston is to New York.
+entailment	Tempe is 415 miles from Rochester and 910 miles from Irvine.	Tempe is nearer to Rochester than Tempe is to Irvine.
+entailment	San Diego is 645 miles from Sacramento and 715 miles from San Jose.	San Diego is nearer to Sacramento than San Diego is to San Jose.
+entailment	Phoenix is 720 miles from Miami and 850 miles from Richmond.	Phoenix is nearer to Miami than Phoenix is to Richmond.
+entailment	San Francisco is 505 miles from Tulsa and 945 miles from San Jose.	San Francisco is nearer to Tulsa than San Francisco is to San Jose.
+entailment	Ontario is 230 miles from Las Vegas and 500 miles from Hampton.	Ontario is nearer to Las Vegas than Ontario is to Hampton.
+entailment	Albany is 260 miles from San Francisco and 445 miles from Sacramento.	Albany is nearer to San Francisco than Albany is to Sacramento.
+entailment	Olympia is 240 miles from Tempe and 435 miles from San Jose.	Olympia is nearer to Tempe than Olympia is to San Jose.
+entailment	Madison is 310 miles from Columbia and 340 miles from Detroit.	Madison is nearer to Columbia than Madison is to Detroit.
+entailment	Washington is 255 miles from Phoenix and 325 miles from Dallas.	Washington is nearer to Phoenix than Washington is to Dallas.
+entailment	Olympia is 875 miles from Pittsburg and 975 miles from Sacramento.	Olympia is nearer to Pittsburg than Olympia is to Sacramento.
+entailment	Oklahoma is 570 miles from Detroit and 910 miles from Albany.	Oklahoma is nearer to Detroit than Oklahoma is to Albany.
+entailment	Illinois is 200 miles from Irvine and 205 miles from San Jose.	Illinois is nearer to Irvine than Illinois is to San Jose.
+entailment	Minneapolis is 235 miles from Illinois and 415 miles from Philadelphia.	Minneapolis is nearer to Illinois than Minneapolis is to Philadelphia.
+entailment	Detroit is 275 miles from Kansas and 455 miles from Houston.	Detroit is nearer to Kansas than Detroit is to Houston.
+entailment	Illinois is 275 miles from Irvine and 905 miles from Tempe.	Illinois is nearer to Irvine than Illinois is to Tempe.
+entailment	Washington is 265 miles from Detroit and 275 miles from Springfield.	Washington is nearer to Detroit than Washington is to Springfield.
+entailment	Las Vegas is 340 miles from Miami and 410 miles from Richmond.	Las Vegas is nearer to Miami than Las Vegas is to Richmond.
+entailment	Miami is 460 miles from Ontario and 635 miles from Santa Barbara.	Miami is nearer to Ontario than Miami is to Santa Barbara.
+entailment	Buffalo is 655 miles from Tempe and 810 miles from Detroit.	Buffalo is nearer to Tempe than Buffalo is to Detroit.
+entailment	Philadelphia is 220 miles from Oklahoma and 265 miles from Hartford.	Philadelphia is nearer to Oklahoma than Philadelphia is to Hartford.
+entailment	Minneapolis is 215 miles from Phoenix and 395 miles from Frankfurt.	Minneapolis is nearer to Phoenix than Minneapolis is to Frankfurt.
+entailment	Albany is 270 miles from Kansas and 585 miles from Buffalo.	Albany is nearer to Kansas than Albany is to Buffalo.
+entailment	Minneapolis is 440 miles from Madison and 700 miles from Miami.	Minneapolis is nearer to Madison than Minneapolis is to Miami.
+entailment	Santa Barbara is 415 miles from Detroit and 530 miles from Ontario.	Santa Barbara is nearer to Detroit than Santa Barbara is to Ontario.
+entailment	Columbia is 535 miles from Minneapolis and 565 miles from Olympia.	Columbia is nearer to Minneapolis than Columbia is to Olympia.
+entailment	Sacramento is 865 miles from Phoenix and 975 miles from Rochester.	Sacramento is nearer to Phoenix than Sacramento is to Rochester.
+entailment	Irvine is 325 miles from Irving and 395 miles from Rochester.	Irvine is nearer to Irving than Irvine is to Rochester.
+entailment	Las Vegas is 215 miles from Phoenix and 395 miles from Hartford.	Las Vegas is nearer to Phoenix than Las Vegas is to Hartford.
+entailment	Boston is 205 miles from Hampton and 305 miles from Miami.	Boston is nearer to Hampton than Boston is to Miami.
+entailment	Hampton is 215 miles from Washington and 420 miles from Las Vegas.	Hampton is nearer to Washington than Hampton is to Las Vegas.
+entailment	Washington is 315 miles from Santa Barbara and 540 miles from San Francisco.	Washington is nearer to Santa Barbara than Washington is to San Francisco.
+entailment	Houston is 315 miles from Columbia and 365 miles from New York.	Houston is nearer to Columbia than Houston is to New York.
+entailment	Los Angeles is 860 miles from Frankfurt and 995 miles from Detroit.	Los Angeles is nearer to Frankfurt than Los Angeles is to Detroit.
+entailment	Irving is 200 miles from Houston and 210 miles from Chicago.	Irving is nearer to Houston than Irving is to Chicago.
+entailment	Olympia is 520 miles from Columbia and 965 miles from Las Vegas.	Olympia is nearer to Columbia than Olympia is to Las Vegas.
+entailment	Illinois is 240 miles from Ontario and 525 miles from Houston.	Illinois is nearer to Ontario than Illinois is to Houston.
+entailment	Chicago is 305 miles from Irving and 455 miles from San Francisco.	Chicago is nearer to Irving than Chicago is to San Francisco.
+entailment	San Francisco is 690 miles from Tulsa and 900 miles from Frankfurt.	San Francisco is nearer to Tulsa than San Francisco is to Frankfurt.
+entailment	Rochester is 250 miles from Boston and 505 miles from Sacramento.	Rochester is nearer to Boston than Rochester is to Sacramento.
+entailment	Ontario is 510 miles from Detroit and 790 miles from Phoenix.	Ontario is nearer to Detroit than Ontario is to Phoenix.
+entailment	Sacramento is 305 miles from Madison and 450 miles from Kansas.	Sacramento is nearer to Madison than Sacramento is to Kansas.
+entailment	Olympia is 550 miles from Ontario and 575 miles from Boston.	Olympia is nearer to Ontario than Olympia is to Boston.
+entailment	Irvine is 340 miles from Olympia and 450 miles from Pittsburg.	Irvine is nearer to Olympia than Irvine is to Pittsburg.
+entailment	Pittsburg is 250 miles from Philadelphia and 270 miles from Kansas.	Pittsburg is nearer to Philadelphia than Pittsburg is to Kansas.
+entailment	Madison is 215 miles from Albany and 430 miles from Irvine.	Madison is nearer to Albany than Madison is to Irvine.
+entailment	Kansas is 360 miles from Tempe and 495 miles from Dallas.	Kansas is nearer to Tempe than Kansas is to Dallas.
+entailment	Manchester is 280 miles from San Diego and 540 miles from Miami.	Manchester is nearer to San Diego than Manchester is to Miami.
+entailment	Irvine is 245 miles from Houston and 400 miles from Las Vegas.	Irvine is nearer to Houston than Irvine is to Las Vegas.
+entailment	Los Angeles is 525 miles from Houston and 795 miles from Detroit.	Los Angeles is nearer to Houston than Los Angeles is to Detroit.
+entailment	Illinois is 510 miles from Oklahoma and 940 miles from Olympia.	Illinois is nearer to Oklahoma than Illinois is to Olympia.
+entailment	Washington is 220 miles from Frankfurt and 415 miles from Tulsa.	Washington is nearer to Frankfurt than Washington is to Tulsa.
+entailment	Richmond is 875 miles from Phoenix and 900 miles from Los Angeles.	Richmond is nearer to Phoenix than Richmond is to Los Angeles.
+entailment	Hartford is 205 miles from Irvine and 300 miles from Los Angeles.	Hartford is nearer to Irvine than Hartford is to Los Angeles.
+entailment	Houston is 345 miles from Washington and 790 miles from Irvine.	Houston is nearer to Washington than Houston is to Irvine.
+entailment	Chicago is 510 miles from Hampton and 600 miles from Springfield.	Chicago is nearer to Hampton than Chicago is to Springfield.
+entailment	Tulsa is 210 miles from San Diego and 240 miles from Chicago.	Tulsa is nearer to San Diego than Tulsa is to Chicago.
+entailment	Albany is 365 miles from Irvine and 550 miles from Buffalo.	Albany is nearer to Irvine than Albany is to Buffalo.
+entailment	Manchester is 215 miles from Boston and 250 miles from Illinois.	Manchester is nearer to Boston than Manchester is to Illinois.
+entailment	Las Vegas is 650 miles from San Diego and 780 miles from Houston.	Las Vegas is nearer to San Diego than Las Vegas is to Houston.
+entailment	Minneapolis is 280 miles from Irving and 850 miles from Olympia.	Minneapolis is nearer to Irving than Minneapolis is to Olympia.
+entailment	Springfield is 240 miles from Rochester and 255 miles from Minneapolis.	Springfield is nearer to Rochester than Springfield is to Minneapolis.
+entailment	Irving is 580 miles from Sacramento and 700 miles from Illinois.	Irving is nearer to Sacramento than Irving is to Illinois.
+entailment	Houston is 785 miles from Springfield and 895 miles from Ontario.	Houston is nearer to Springfield than Houston is to Ontario.
+entailment	Oklahoma is 445 miles from San Francisco and 510 miles from Dallas.	Oklahoma is nearer to San Francisco than Oklahoma is to Dallas.
+entailment	Columbia is 485 miles from Boston and 745 miles from Albany.	Columbia is nearer to Boston than Columbia is to Albany.
+entailment	Manchester is 525 miles from Tulsa and 735 miles from Philadelphia.	Manchester is nearer to Tulsa than Manchester is to Philadelphia.
+entailment	Albany is 225 miles from Phoenix and 295 miles from Olympia.	Albany is nearer to Phoenix than Albany is to Olympia.
+entailment	New York is 610 miles from Phoenix and 830 miles from Las Vegas.	New York is nearer to Phoenix than New York is to Las Vegas.
+entailment	San Diego is 390 miles from Columbia and 495 miles from Phoenix.	San Diego is nearer to Columbia than San Diego is to Phoenix.
+entailment	Hampton is 200 miles from Springfield and 240 miles from Tulsa.	Hampton is nearer to Springfield than Hampton is to Tulsa.
+entailment	Philadelphia is 890 miles from Hartford and 965 miles from Washington.	Philadelphia is nearer to Hartford than Philadelphia is to Washington.
+entailment	Tempe is 545 miles from Miami and 560 miles from Hartford.	Tempe is nearer to Miami than Tempe is to Hartford.
+entailment	Phoenix is 330 miles from Chicago and 795 miles from Las Vegas.	Phoenix is nearer to Chicago than Phoenix is to Las Vegas.
+entailment	Oklahoma is 500 miles from Olympia and 630 miles from Washington.	Oklahoma is nearer to Olympia than Oklahoma is to Washington.
+entailment	Los Angeles is 310 miles from Kansas and 335 miles from Tempe.	Los Angeles is nearer to Kansas than Los Angeles is to Tempe.
+entailment	Hartford is 370 miles from Los Angeles and 765 miles from Tulsa.	Hartford is nearer to Los Angeles than Hartford is to Tulsa.
+entailment	Richmond is 200 miles from Ontario and 605 miles from San Diego.	Richmond is nearer to Ontario than Richmond is to San Diego.
+entailment	Frankfurt is 240 miles from Illinois and 580 miles from Kansas.	Frankfurt is nearer to Illinois than Frankfurt is to Kansas.
+entailment	Kansas is 360 miles from Ontario and 835 miles from Chicago.	Kansas is nearer to Ontario than Kansas is to Chicago.
+entailment	Tempe is 855 miles from Hampton and 955 miles from Irvine.	Tempe is nearer to Hampton than Tempe is to Irvine.
+entailment	Irvine is 685 miles from Rochester and 955 miles from Irving.	Irvine is nearer to Rochester than Irvine is to Irving.
+entailment	Oklahoma is 540 miles from Albany and 555 miles from Miami.	Oklahoma is nearer to Albany than Oklahoma is to Miami.
+entailment	Houston is 725 miles from Philadelphia and 730 miles from Hampton.	Houston is nearer to Philadelphia than Houston is to Hampton.
+entailment	Olympia is 280 miles from Los Angeles and 710 miles from Springfield.	Olympia is nearer to Los Angeles than Olympia is to Springfield.
+entailment	Minneapolis is 475 miles from Frankfurt and 540 miles from Columbia.	Minneapolis is nearer to Frankfurt than Minneapolis is to Columbia.
+entailment	Tulsa is 665 miles from Irvine and 900 miles from Santa Barbara.	Tulsa is nearer to Irvine than Tulsa is to Santa Barbara.
+entailment	Dallas is 600 miles from Columbia and 775 miles from Tulsa.	Dallas is nearer to Columbia than Dallas is to Tulsa.
+entailment	Philadelphia is 310 miles from Las Vegas and 525 miles from Detroit.	Philadelphia is nearer to Las Vegas than Philadelphia is to Detroit.
+entailment	Illinois is 220 miles from Albany and 400 miles from Hampton.	Illinois is nearer to Albany than Illinois is to Hampton.
+entailment	Olympia is 925 miles from Irvine and 955 miles from Tempe.	Olympia is nearer to Irvine than Olympia is to Tempe.
+entailment	Sacramento is 305 miles from Richmond and 495 miles from Albany.	Sacramento is nearer to Richmond than Sacramento is to Albany.
+entailment	Houston is 390 miles from Pittsburg and 415 miles from Springfield.	Houston is nearer to Pittsburg than Houston is to Springfield.
+entailment	Dallas is 350 miles from Philadelphia and 565 miles from Minneapolis.	Dallas is nearer to Philadelphia than Dallas is to Minneapolis.
+entailment	Albany is 745 miles from Sacramento and 760 miles from Oklahoma.	Albany is nearer to Sacramento than Albany is to Oklahoma.
+entailment	Frankfurt is 385 miles from Irvine and 455 miles from Minneapolis.	Frankfurt is nearer to Irvine than Frankfurt is to Minneapolis.
+entailment	Santa Barbara is 265 miles from Richmond and 420 miles from Albany.	Santa Barbara is nearer to Richmond than Santa Barbara is to Albany.
+entailment	Dallas is 240 miles from Sacramento and 350 miles from San Jose.	Dallas is nearer to Sacramento than Dallas is to San Jose.
+entailment	Tulsa is 525 miles from San Diego and 605 miles from Manchester.	Tulsa is nearer to San Diego than Tulsa is to Manchester.
+entailment	Minneapolis is 850 miles from San Diego and 870 miles from Houston.	Minneapolis is nearer to San Diego than Minneapolis is to Houston.
+entailment	Oklahoma is 950 miles from Chicago and 965 miles from Illinois.	Oklahoma is nearer to Chicago than Oklahoma is to Illinois.
+entailment	Ontario is 345 miles from Richmond and 730 miles from Irving.	Ontario is nearer to Richmond than Ontario is to Irving.
+entailment	Springfield is 645 miles from Oklahoma and 720 miles from Tempe.	Springfield is nearer to Oklahoma than Springfield is to Tempe.
+entailment	Kansas is 865 miles from San Jose and 985 miles from Hartford.	Kansas is nearer to San Jose than Kansas is to Hartford.
+entailment	Frankfurt is 550 miles from Buffalo and 655 miles from Pittsburg.	Frankfurt is nearer to Buffalo than Frankfurt is to Pittsburg.
+entailment	Detroit is 540 miles from Santa Barbara and 545 miles from Illinois.	Detroit is nearer to Santa Barbara than Detroit is to Illinois.
+entailment	Dallas is 405 miles from Las Vegas and 790 miles from Manchester.	Dallas is nearer to Las Vegas than Dallas is to Manchester.
+entailment	Sacramento is 345 miles from Boston and 425 miles from Rochester.	Sacramento is nearer to Boston than Sacramento is to Rochester.
+entailment	Sacramento is 250 miles from New York and 310 miles from Ontario.	Sacramento is nearer to New York than Sacramento is to Ontario.
+entailment	Phoenix is 225 miles from Hartford and 380 miles from Boston.	Phoenix is nearer to Hartford than Phoenix is to Boston.
+entailment	Olympia is 230 miles from Chicago and 670 miles from Houston.	Olympia is nearer to Chicago than Olympia is to Houston.
+entailment	Columbia is 350 miles from Frankfurt and 375 miles from Irvine.	Columbia is nearer to Frankfurt than Columbia is to Irvine.
+entailment	Sacramento is 200 miles from Olympia and 295 miles from Phoenix.	Sacramento is nearer to Olympia than Sacramento is to Phoenix.
+entailment	Detroit is 445 miles from Albany and 515 miles from Columbia.	Detroit is nearer to Albany than Detroit is to Columbia.
+entailment	Chicago is 310 miles from Boston and 320 miles from Oklahoma.	Chicago is nearer to Boston than Chicago is to Oklahoma.
+entailment	Santa Barbara is 375 miles from Pittsburg and 780 miles from Dallas.	Santa Barbara is nearer to Pittsburg than Santa Barbara is to Dallas.
+entailment	Hartford is 215 miles from Dallas and 265 miles from Pittsburg.	Hartford is nearer to Dallas than Hartford is to Pittsburg.
+entailment	Santa Barbara is 750 miles from Ontario and 895 miles from San Jose.	Santa Barbara is nearer to Ontario than Santa Barbara is to San Jose.
+entailment	Chicago is 220 miles from Kansas and 225 miles from Hartford.	Chicago is nearer to Kansas than Chicago is to Hartford.
+entailment	Buffalo is 315 miles from Minneapolis and 775 miles from Madison.	Buffalo is nearer to Minneapolis than Buffalo is to Madison.
+entailment	Columbia is 705 miles from Dallas and 750 miles from Houston.	Columbia is nearer to Dallas than Columbia is to Houston.
+entailment	Pittsburg is 375 miles from Olympia and 430 miles from New York.	Pittsburg is nearer to Olympia than Pittsburg is to New York.
+entailment	Illinois is 710 miles from Dallas and 960 miles from Hampton.	Illinois is nearer to Dallas than Illinois is to Hampton.
+entailment	Illinois is 465 miles from Santa Barbara and 485 miles from Frankfurt.	Illinois is nearer to Santa Barbara than Illinois is to Frankfurt.
+entailment	Buffalo is 210 miles from Dallas and 225 miles from Columbia.	Buffalo is nearer to Dallas than Buffalo is to Columbia.
+entailment	San Diego is 305 miles from Boston and 400 miles from Chicago.	San Diego is nearer to Boston than San Diego is to Chicago.
+entailment	Hampton is 200 miles from Irving and 215 miles from Rochester.	Hampton is nearer to Irving than Hampton is to Rochester.
+entailment	Sacramento is 220 miles from Irvine and 325 miles from Philadelphia.	Sacramento is nearer to Irvine than Sacramento is to Philadelphia.
+entailment	Richmond is 650 miles from Dallas and 835 miles from Rochester.	Richmond is nearer to Dallas than Richmond is to Rochester.
+entailment	Washington is 260 miles from Houston and 440 miles from Manchester.	Washington is nearer to Houston than Washington is to Manchester.
+entailment	Rochester is 275 miles from Olympia and 490 miles from Irvine.	Rochester is nearer to Olympia than Rochester is to Irvine.
+entailment	Santa Barbara is 200 miles from Tulsa and 205 miles from Sacramento.	Santa Barbara is nearer to Tulsa than Santa Barbara is to Sacramento.
+entailment	Oklahoma is 555 miles from Irving and 885 miles from Tulsa.	Oklahoma is nearer to Irving than Oklahoma is to Tulsa.
+entailment	Springfield is 550 miles from Pittsburg and 815 miles from San Francisco.	Springfield is nearer to Pittsburg than Springfield is to San Francisco.
+entailment	Houston is 820 miles from Illinois and 970 miles from Santa Barbara.	Houston is nearer to Illinois than Houston is to Santa Barbara.
+entailment	Manchester is 425 miles from Hampton and 625 miles from San Diego.	Manchester is nearer to Hampton than Manchester is to San Diego.
+entailment	Phoenix is 205 miles from Richmond and 875 miles from Washington.	Phoenix is nearer to Richmond than Phoenix is to Washington.
+entailment	Springfield is 340 miles from Illinois and 575 miles from Frankfurt.	Springfield is nearer to Illinois than Springfield is to Frankfurt.
+entailment	San Jose is 360 miles from Columbia and 365 miles from Santa Barbara.	San Jose is nearer to Columbia than San Jose is to Santa Barbara.
+entailment	Kansas is 480 miles from Illinois and 865 miles from Miami.	Kansas is nearer to Illinois than Kansas is to Miami.
+entailment	Illinois is 420 miles from San Francisco and 465 miles from Manchester.	Illinois is nearer to San Francisco than Illinois is to Manchester.
+entailment	San Francisco is 435 miles from Buffalo and 785 miles from Miami.	San Francisco is nearer to Buffalo than San Francisco is to Miami.
+entailment	Dallas is 265 miles from Las Vegas and 395 miles from Ontario.	Dallas is nearer to Las Vegas than Dallas is to Ontario.
+entailment	Hartford is 295 miles from Buffalo and 355 miles from Phoenix.	Hartford is nearer to Buffalo than Hartford is to Phoenix.
+entailment	Rochester is 300 miles from Oklahoma and 765 miles from Santa Barbara.	Rochester is nearer to Oklahoma than Rochester is to Santa Barbara.
+entailment	Olympia is 330 miles from Madison and 370 miles from Richmond.	Olympia is nearer to Madison than Olympia is to Richmond.
+entailment	Madison is 490 miles from Pittsburg and 855 miles from Los Angeles.	Madison is nearer to Pittsburg than Madison is to Los Angeles.
+entailment	New York is 650 miles from Boston and 690 miles from Rochester.	New York is nearer to Boston than New York is to Rochester.
+entailment	Tempe is 650 miles from Houston and 685 miles from Illinois.	Tempe is nearer to Houston than Tempe is to Illinois.
+entailment	Olympia is 200 miles from Pittsburg and 215 miles from San Francisco.	Olympia is nearer to Pittsburg than Olympia is to San Francisco.
+entailment	Springfield is 265 miles from Chicago and 495 miles from Columbia.	Springfield is nearer to Chicago than Springfield is to Columbia.
+entailment	Illinois is 510 miles from Minneapolis and 900 miles from Tempe.	Illinois is nearer to Minneapolis than Illinois is to Tempe.
+entailment	Houston is 310 miles from Minneapolis and 725 miles from Richmond.	Houston is nearer to Minneapolis than Houston is to Richmond.
+entailment	Sacramento is 420 miles from Albany and 930 miles from Minneapolis.	Sacramento is nearer to Albany than Sacramento is to Minneapolis.
+entailment	Olympia is 340 miles from Illinois and 615 miles from New York.	Olympia is nearer to Illinois than Olympia is to New York.
+entailment	Sacramento is 285 miles from Washington and 560 miles from Ontario.	Sacramento is nearer to Washington than Sacramento is to Ontario.
+entailment	Columbia is 300 miles from Oklahoma and 600 miles from Albany.	Columbia is nearer to Oklahoma than Columbia is to Albany.
+entailment	Tulsa is 200 miles from Boston and 215 miles from Washington.	Tulsa is nearer to Boston than Tulsa is to Washington.
+entailment	Olympia is 230 miles from Madison and 245 miles from Buffalo.	Olympia is nearer to Madison than Olympia is to Buffalo.
+entailment	Chicago is 420 miles from Frankfurt and 780 miles from Phoenix.	Chicago is nearer to Frankfurt than Chicago is to Phoenix.
+entailment	San Francisco is 260 miles from Ontario and 265 miles from Tempe.	San Francisco is nearer to Ontario than San Francisco is to Tempe.
+entailment	Boston is 310 miles from Oklahoma and 745 miles from San Jose.	Boston is nearer to Oklahoma than Boston is to San Jose.
+entailment	Las Vegas is 885 miles from Irving and 970 miles from Philadelphia.	Las Vegas is nearer to Irving than Las Vegas is to Philadelphia.
+entailment	New York is 395 miles from Santa Barbara and 530 miles from Oklahoma.	New York is nearer to Santa Barbara than New York is to Oklahoma.
+entailment	Albany is 540 miles from Richmond and 725 miles from Olympia.	Albany is nearer to Richmond than Albany is to Olympia.
+entailment	Chicago is 210 miles from Sacramento and 405 miles from Rochester.	Chicago is nearer to Sacramento than Chicago is to Rochester.
+entailment	Oklahoma is 395 miles from Ontario and 710 miles from Minneapolis.	Oklahoma is nearer to Ontario than Oklahoma is to Minneapolis.
+entailment	Boston is 355 miles from Philadelphia and 770 miles from Irvine.	Boston is nearer to Philadelphia than Boston is to Irvine.
+entailment	Albany is 515 miles from New York and 825 miles from San Diego.	Albany is nearer to New York than Albany is to San Diego.
+entailment	Rochester is 215 miles from Boston and 395 miles from Detroit.	Rochester is nearer to Boston than Rochester is to Detroit.
+entailment	Oklahoma is 620 miles from Santa Barbara and 795 miles from San Francisco.	Oklahoma is nearer to Santa Barbara than Oklahoma is to San Francisco.
+entailment	Boston is 300 miles from San Francisco and 920 miles from Olympia.	Boston is nearer to San Francisco than Boston is to Olympia.
+entailment	Santa Barbara is 230 miles from Madison and 470 miles from Washington.	Santa Barbara is nearer to Madison than Santa Barbara is to Washington.
+entailment	Ontario is 305 miles from Oklahoma and 420 miles from Tempe.	Ontario is nearer to Oklahoma than Ontario is to Tempe.
+entailment	Hampton is 470 miles from Irving and 615 miles from Frankfurt.	Hampton is nearer to Irving than Hampton is to Frankfurt.
+entailment	Los Angeles is 405 miles from Phoenix and 480 miles from Hampton.	Los Angeles is nearer to Phoenix than Los Angeles is to Hampton.
+entailment	Springfield is 875 miles from Olympia and 930 miles from Houston.	Springfield is nearer to Olympia than Springfield is to Houston.
+entailment	Manchester is 865 miles from Dallas and 960 miles from Oklahoma.	Manchester is nearer to Dallas than Manchester is to Oklahoma.
+entailment	Santa Barbara is 255 miles from Los Angeles and 625 miles from Rochester.	Santa Barbara is nearer to Los Angeles than Santa Barbara is to Rochester.
+entailment	Las Vegas is 510 miles from Springfield and 520 miles from Hartford.	Las Vegas is nearer to Springfield than Las Vegas is to Hartford.
+entailment	Miami is 220 miles from Santa Barbara and 420 miles from Dallas.	Miami is nearer to Santa Barbara than Miami is to Dallas.
+entailment	Olympia is 370 miles from Houston and 710 miles from Hartford.	Olympia is nearer to Houston than Olympia is to Hartford.
+entailment	Houston is 225 miles from Las Vegas and 300 miles from Tempe.	Houston is nearer to Las Vegas than Houston is to Tempe.
+entailment	Miami is 570 miles from New York and 675 miles from Olympia.	Miami is nearer to New York than Miami is to Olympia.
+entailment	San Diego is 360 miles from Phoenix and 375 miles from Las Vegas.	San Diego is nearer to Phoenix than San Diego is to Las Vegas.
+entailment	Olympia is 310 miles from Minneapolis and 800 miles from Philadelphia.	Olympia is nearer to Minneapolis than Olympia is to Philadelphia.
+entailment	Springfield is 470 miles from San Francisco and 650 miles from Washington.	Springfield is nearer to San Francisco than Springfield is to Washington.
+entailment	Chicago is 570 miles from Dallas and 905 miles from Ontario.	Chicago is nearer to Dallas than Chicago is to Ontario.
+entailment	Pittsburg is 685 miles from Springfield and 775 miles from Irvine.	Pittsburg is nearer to Springfield than Pittsburg is to Irvine.
+entailment	Springfield is 475 miles from Manchester and 745 miles from Frankfurt.	Springfield is nearer to Manchester than Springfield is to Frankfurt.
+entailment	Minneapolis is 520 miles from San Diego and 935 miles from Kansas.	Minneapolis is nearer to San Diego than Minneapolis is to Kansas.
+entailment	Manchester is 265 miles from Chicago and 350 miles from Rochester.	Manchester is nearer to Chicago than Manchester is to Rochester.
+entailment	Hampton is 200 miles from Tempe and 210 miles from Sacramento.	Hampton is nearer to Tempe than Hampton is to Sacramento.
+entailment	Phoenix is 310 miles from Santa Barbara and 420 miles from Philadelphia.	Phoenix is nearer to Santa Barbara than Phoenix is to Philadelphia.
+entailment	Tempe is 455 miles from Rochester and 640 miles from Phoenix.	Tempe is nearer to Rochester than Tempe is to Phoenix.
+entailment	Frankfurt is 235 miles from Illinois and 440 miles from Santa Barbara.	Frankfurt is nearer to Illinois than Frankfurt is to Santa Barbara.
+entailment	Houston is 300 miles from Olympia and 360 miles from Phoenix.	Houston is nearer to Olympia than Houston is to Phoenix.
+entailment	Houston is 315 miles from Irving and 595 miles from Columbia.	Houston is nearer to Irving than Houston is to Columbia.
+entailment	Pittsburg is 245 miles from Minneapolis and 780 miles from Washington.	Pittsburg is nearer to Minneapolis than Pittsburg is to Washington.
+entailment	Las Vegas is 425 miles from Columbia and 775 miles from Albany.	Las Vegas is nearer to Columbia than Las Vegas is to Albany.
+entailment	Irving is 350 miles from Oklahoma and 735 miles from Phoenix.	Irving is nearer to Oklahoma than Irving is to Phoenix.
+entailment	Illinois is 340 miles from Rochester and 420 miles from Detroit.	Illinois is nearer to Rochester than Illinois is to Detroit.
+entailment	Albany is 320 miles from Pittsburg and 445 miles from Santa Barbara.	Albany is nearer to Pittsburg than Albany is to Santa Barbara.
+entailment	New York is 535 miles from Detroit and 690 miles from Houston.	New York is nearer to Detroit than New York is to Houston.
+entailment	Chicago is 750 miles from Hampton and 880 miles from San Diego.	Chicago is nearer to Hampton than Chicago is to San Diego.
+entailment	Columbia is 200 miles from Santa Barbara and 400 miles from Kansas.	Columbia is nearer to Santa Barbara than Columbia is to Kansas.
+entailment	Miami is 785 miles from San Jose and 885 miles from Sacramento.	Miami is nearer to San Jose than Miami is to Sacramento.
+entailment	Irvine is 250 miles from Irving and 355 miles from Illinois.	Irvine is nearer to Irving than Irvine is to Illinois.
+entailment	Santa Barbara is 275 miles from Irvine and 395 miles from Phoenix.	Santa Barbara is nearer to Irvine than Santa Barbara is to Phoenix.
+entailment	Madison is 715 miles from Santa Barbara and 985 miles from Columbia.	Madison is nearer to Santa Barbara than Madison is to Columbia.
+entailment	New York is 280 miles from Phoenix and 820 miles from Albany.	New York is nearer to Phoenix than New York is to Albany.
+entailment	Irving is 205 miles from Dallas and 235 miles from Hampton.	Irving is nearer to Dallas than Irving is to Hampton.
+entailment	Hampton is 725 miles from Buffalo and 965 miles from San Francisco.	Hampton is nearer to Buffalo than Hampton is to San Francisco.
+entailment	Washington is 435 miles from Sacramento and 535 miles from Rochester.	Washington is nearer to Sacramento than Washington is to Rochester.
+entailment	San Jose is 660 miles from Houston and 890 miles from Las Vegas.	San Jose is nearer to Houston than San Jose is to Las Vegas.
+entailment	San Francisco is 330 miles from Illinois and 410 miles from Philadelphia.	San Francisco is nearer to Illinois than San Francisco is to Philadelphia.
+entailment	New York is 610 miles from Las Vegas and 720 miles from Frankfurt.	New York is nearer to Las Vegas than New York is to Frankfurt.
+entailment	Chicago is 815 miles from Irving and 965 miles from Irvine.	Chicago is nearer to Irving than Chicago is to Irvine.
+entailment	Oklahoma is 220 miles from Las Vegas and 235 miles from San Jose.	Oklahoma is nearer to Las Vegas than Oklahoma is to San Jose.
+entailment	Santa Barbara is 350 miles from New York and 675 miles from San Jose.	Santa Barbara is nearer to New York than Santa Barbara is to San Jose.
+entailment	Miami is 560 miles from Madison and 700 miles from Ontario.	Miami is nearer to Madison than Miami is to Ontario.
+entailment	Chicago is 705 miles from Los Angeles and 720 miles from Manchester.	Chicago is nearer to Los Angeles than Chicago is to Manchester.
+entailment	San Jose is 395 miles from Oklahoma and 405 miles from Miami.	San Jose is nearer to Oklahoma than San Jose is to Miami.
+entailment	Pittsburg is 345 miles from Tulsa and 415 miles from Richmond.	Pittsburg is nearer to Tulsa than Pittsburg is to Richmond.
+entailment	Olympia is 205 miles from Detroit and 230 miles from Sacramento.	Olympia is nearer to Detroit than Olympia is to Sacramento.
+entailment	Houston is 535 miles from Pittsburg and 760 miles from Richmond.	Houston is nearer to Pittsburg than Houston is to Richmond.
+entailment	Las Vegas is 250 miles from Albany and 405 miles from Irvine.	Las Vegas is nearer to Albany than Las Vegas is to Irvine.
+entailment	Columbia is 650 miles from Hartford and 985 miles from Miami.	Columbia is nearer to Hartford than Columbia is to Miami.
+entailment	Detroit is 285 miles from Hampton and 310 miles from Kansas.	Detroit is nearer to Hampton than Detroit is to Kansas.
+entailment	Frankfurt is 445 miles from San Jose and 805 miles from Rochester.	Frankfurt is nearer to San Jose than Frankfurt is to Rochester.
+entailment	Miami is 680 miles from Las Vegas and 965 miles from Manchester.	Miami is nearer to Las Vegas than Miami is to Manchester.
+entailment	Santa Barbara is 665 miles from Rochester and 750 miles from Frankfurt.	Santa Barbara is nearer to Rochester than Santa Barbara is to Frankfurt.
+entailment	San Francisco is 220 miles from Dallas and 290 miles from Tulsa.	San Francisco is nearer to Dallas than San Francisco is to Tulsa.
+entailment	Dallas is 375 miles from Columbia and 555 miles from Los Angeles.	Dallas is nearer to Columbia than Dallas is to Los Angeles.
+entailment	Sacramento is 265 miles from Los Angeles and 680 miles from Kansas.	Sacramento is nearer to Los Angeles than Sacramento is to Kansas.
+entailment	Las Vegas is 210 miles from Phoenix and 235 miles from Houston.	Las Vegas is nearer to Phoenix than Las Vegas is to Houston.
+entailment	Phoenix is 555 miles from Irvine and 635 miles from Washington.	Phoenix is nearer to Irvine than Phoenix is to Washington.
+entailment	Columbia is 305 miles from Hampton and 415 miles from Manchester.	Columbia is nearer to Hampton than Columbia is to Manchester.
+entailment	Rochester is 405 miles from Phoenix and 845 miles from Ontario.	Rochester is nearer to Phoenix than Rochester is to Ontario.
+entailment	Oklahoma is 660 miles from Houston and 945 miles from Miami.	Oklahoma is nearer to Houston than Oklahoma is to Miami.
+entailment	Las Vegas is 395 miles from Springfield and 745 miles from San Francisco.	Las Vegas is nearer to Springfield than Las Vegas is to San Francisco.
+entailment	Phoenix is 720 miles from Rochester and 900 miles from Irving.	Phoenix is nearer to Rochester than Phoenix is to Irving.
+entailment	Columbia is 360 miles from Albany and 845 miles from Madison.	Columbia is nearer to Albany than Columbia is to Madison.
+entailment	Ontario is 305 miles from New York and 575 miles from Illinois.	Ontario is nearer to New York than Ontario is to Illinois.
+entailment	Tempe is 225 miles from Minneapolis and 270 miles from Santa Barbara.	Tempe is nearer to Minneapolis than Tempe is to Santa Barbara.
+entailment	San Francisco is 225 miles from Phoenix and 255 miles from Los Angeles.	San Francisco is nearer to Phoenix than San Francisco is to Los Angeles.
+entailment	Sacramento is 320 miles from Hampton and 420 miles from Kansas.	Sacramento is nearer to Hampton than Sacramento is to Kansas.
+entailment	San Jose is 215 miles from Chicago and 325 miles from Miami.	San Jose is nearer to Chicago than San Jose is to Miami.
+entailment	San Jose is 210 miles from Houston and 230 miles from Irvine.	San Jose is nearer to Houston than San Jose is to Irvine.
+entailment	Irvine is 405 miles from Hartford and 415 miles from Oklahoma.	Irvine is nearer to Hartford than Irvine is to Oklahoma.
+entailment	Boston is 205 miles from Rochester and 750 miles from Illinois.	Boston is nearer to Rochester than Boston is to Illinois.
+entailment	Hartford is 200 miles from Tulsa and 210 miles from Madison.	Hartford is nearer to Tulsa than Hartford is to Madison.
+entailment	Sacramento is 435 miles from Pittsburg and 900 miles from Boston.	Sacramento is nearer to Pittsburg than Sacramento is to Boston.
+entailment	Hampton is 435 miles from Houston and 675 miles from Olympia.	Hampton is nearer to Houston than Hampton is to Olympia.
+entailment	Los Angeles is 420 miles from Ontario and 785 miles from Hartford.	Los Angeles is nearer to Ontario than Los Angeles is to Hartford.
+entailment	Houston is 210 miles from Los Angeles and 225 miles from Irvine.	Houston is nearer to Los Angeles than Houston is to Irvine.
+entailment	Detroit is 365 miles from San Diego and 475 miles from San Francisco.	Detroit is nearer to San Diego than Detroit is to San Francisco.
+entailment	Hartford is 390 miles from Dallas and 510 miles from Pittsburg.	Hartford is nearer to Dallas than Hartford is to Pittsburg.
+entailment	San Jose is 300 miles from Albany and 785 miles from Miami.	San Jose is nearer to Albany than San Jose is to Miami.
+entailment	New York is 225 miles from Dallas and 890 miles from Hartford.	New York is nearer to Dallas than New York is to Hartford.
+entailment	Chicago is 610 miles from Minneapolis and 765 miles from Hampton.	Chicago is nearer to Minneapolis than Chicago is to Hampton.
+entailment	Las Vegas is 240 miles from Hartford and 785 miles from Washington.	Las Vegas is nearer to Hartford than Las Vegas is to Washington.
+entailment	Phoenix is 205 miles from Oklahoma and 355 miles from Detroit.	Phoenix is nearer to Oklahoma than Phoenix is to Detroit.
+entailment	Sacramento is 680 miles from Pittsburg and 845 miles from San Diego.	Sacramento is nearer to Pittsburg than Sacramento is to San Diego.
+entailment	San Jose is 630 miles from Hampton and 645 miles from Boston.	San Jose is nearer to Hampton than San Jose is to Boston.
+entailment	Ontario is 300 miles from Minneapolis and 350 miles from Olympia.	Ontario is nearer to Minneapolis than Ontario is to Olympia.
+entailment	Oklahoma is 455 miles from Los Angeles and 605 miles from Ontario.	Oklahoma is nearer to Los Angeles than Oklahoma is to Ontario.
+entailment	Los Angeles is 270 miles from Phoenix and 275 miles from Springfield.	Los Angeles is nearer to Phoenix than Los Angeles is to Springfield.
+entailment	Frankfurt is 340 miles from Chicago and 420 miles from Minneapolis.	Frankfurt is nearer to Chicago than Frankfurt is to Minneapolis.
+entailment	Los Angeles is 300 miles from Tempe and 630 miles from Oklahoma.	Los Angeles is nearer to Tempe than Los Angeles is to Oklahoma.
+entailment	Washington is 320 miles from Oklahoma and 855 miles from Frankfurt.	Washington is nearer to Oklahoma than Washington is to Frankfurt.
+entailment	Illinois is 270 miles from Washington and 685 miles from Albany.	Illinois is nearer to Washington than Illinois is to Albany.
+entailment	Tempe is 410 miles from Albany and 825 miles from San Jose.	Tempe is nearer to Albany than Tempe is to San Jose.
+entailment	Albany is 355 miles from Miami and 895 miles from Columbia.	Albany is nearer to Miami than Albany is to Columbia.
+entailment	Tempe is 640 miles from Ontario and 860 miles from Las Vegas.	Tempe is nearer to Ontario than Tempe is to Las Vegas.
+entailment	Los Angeles is 640 miles from Phoenix and 830 miles from Oklahoma.	Los Angeles is nearer to Phoenix than Los Angeles is to Oklahoma.
+entailment	San Jose is 455 miles from Santa Barbara and 595 miles from Tempe.	San Jose is nearer to Santa Barbara than San Jose is to Tempe.
+entailment	Olympia is 775 miles from Philadelphia and 870 miles from Rochester.	Olympia is nearer to Philadelphia than Olympia is to Rochester.
+entailment	Rochester is 415 miles from Washington and 615 miles from Los Angeles.	Rochester is nearer to Washington than Rochester is to Los Angeles.
+entailment	Miami is 200 miles from Buffalo and 280 miles from Kansas.	Miami is nearer to Buffalo than Miami is to Kansas.
+entailment	Frankfurt is 610 miles from Tulsa and 655 miles from Buffalo.	Frankfurt is nearer to Tulsa than Frankfurt is to Buffalo.
+entailment	Sacramento is 225 miles from Ontario and 255 miles from Hartford.	Sacramento is nearer to Ontario than Sacramento is to Hartford.
+entailment	Madison is 790 miles from Hampton and 880 miles from Sacramento.	Madison is nearer to Hampton than Madison is to Sacramento.
+entailment	New York is 245 miles from Albany and 945 miles from Columbia.	New York is nearer to Albany than New York is to Columbia.
+entailment	Washington is 230 miles from Albany and 235 miles from San Diego.	Washington is nearer to Albany than Washington is to San Diego.
+entailment	Hampton is 385 miles from Frankfurt and 690 miles from Chicago.	Hampton is nearer to Frankfurt than Hampton is to Chicago.
+entailment	Dallas is 265 miles from San Jose and 590 miles from Illinois.	Dallas is nearer to San Jose than Dallas is to Illinois.
+entailment	Las Vegas is 340 miles from Kansas and 715 miles from Olympia.	Las Vegas is nearer to Kansas than Las Vegas is to Olympia.
+entailment	Ontario is 665 miles from Tempe and 720 miles from Las Vegas.	Ontario is nearer to Tempe than Ontario is to Las Vegas.
+entailment	Houston is 465 miles from Phoenix and 480 miles from Rochester.	Houston is nearer to Phoenix than Houston is to Rochester.
+entailment	Houston is 325 miles from Richmond and 935 miles from Pittsburg.	Houston is nearer to Richmond than Houston is to Pittsburg.
+entailment	Tulsa is 505 miles from Washington and 715 miles from Richmond.	Tulsa is nearer to Washington than Tulsa is to Richmond.
+entailment	Sacramento is 295 miles from San Diego and 655 miles from Minneapolis.	Sacramento is nearer to San Diego than Sacramento is to Minneapolis.
+entailment	Columbia is 340 miles from Los Angeles and 560 miles from Boston.	Columbia is nearer to Los Angeles than Columbia is to Boston.
+entailment	Hampton is 605 miles from San Francisco and 675 miles from Tempe.	Hampton is nearer to San Francisco than Hampton is to Tempe.
+entailment	Oklahoma is 405 miles from Santa Barbara and 535 miles from Hampton.	Oklahoma is nearer to Santa Barbara than Oklahoma is to Hampton.
+entailment	Tempe is 250 miles from Irvine and 320 miles from Miami.	Tempe is nearer to Irvine than Tempe is to Miami.
+entailment	Ontario is 615 miles from Columbia and 840 miles from Detroit.	Ontario is nearer to Columbia than Ontario is to Detroit.
+entailment	New York is 290 miles from Rochester and 395 miles from Albany.	New York is nearer to Rochester than New York is to Albany.
+entailment	San Jose is 680 miles from Frankfurt and 740 miles from Olympia.	San Jose is nearer to Frankfurt than San Jose is to Olympia.
+entailment	Richmond is 400 miles from Pittsburg and 960 miles from Hampton.	Richmond is nearer to Pittsburg than Richmond is to Hampton.
+entailment	Chicago is 600 miles from Albany and 685 miles from San Jose.	Chicago is nearer to Albany than Chicago is to San Jose.
+entailment	Houston is 370 miles from Tulsa and 400 miles from Las Vegas.	Houston is nearer to Tulsa than Houston is to Las Vegas.
+entailment	Houston is 570 miles from Albany and 760 miles from Manchester.	Houston is nearer to Albany than Houston is to Manchester.
+entailment	Minneapolis is 330 miles from Houston and 625 miles from Rochester.	Minneapolis is nearer to Houston than Minneapolis is to Rochester.
+entailment	Irving is 215 miles from San Jose and 395 miles from Illinois.	Irving is nearer to San Jose than Irving is to Illinois.
+entailment	Houston is 270 miles from Ontario and 665 miles from Irvine.	Houston is nearer to Ontario than Houston is to Irvine.
+entailment	Miami is 320 miles from Illinois and 500 miles from Washington.	Miami is nearer to Illinois than Miami is to Washington.
+entailment	Manchester is 705 miles from Detroit and 770 miles from San Francisco.	Manchester is nearer to Detroit than Manchester is to San Francisco.
+entailment	Tulsa is 460 miles from San Diego and 600 miles from Las Vegas.	Tulsa is nearer to San Diego than Tulsa is to Las Vegas.
+entailment	Irvine is 200 miles from Oklahoma and 300 miles from Frankfurt.	Irvine is nearer to Oklahoma than Irvine is to Frankfurt.
+entailment	Chicago is 565 miles from Dallas and 730 miles from New York.	Chicago is nearer to Dallas than Chicago is to New York.
+entailment	Pittsburg is 570 miles from Illinois and 885 miles from Madison.	Pittsburg is nearer to Illinois than Pittsburg is to Madison.
+entailment	Columbia is 365 miles from Detroit and 850 miles from Santa Barbara.	Columbia is nearer to Detroit than Columbia is to Santa Barbara.
+entailment	New York is 485 miles from Dallas and 775 miles from Sacramento.	New York is nearer to Dallas than New York is to Sacramento.
+entailment	Hampton is 425 miles from Miami and 580 miles from Rochester.	Hampton is nearer to Miami than Hampton is to Rochester.
+entailment	Los Angeles is 230 miles from Buffalo and 390 miles from Detroit.	Los Angeles is nearer to Buffalo than Los Angeles is to Detroit.
+entailment	Springfield is 210 miles from Tulsa and 260 miles from Illinois.	Springfield is nearer to Tulsa than Springfield is to Illinois.
+entailment	Irving is 370 miles from Tempe and 375 miles from Ontario.	Irving is nearer to Tempe than Irving is to Ontario.
+entailment	Oklahoma is 250 miles from Washington and 375 miles from San Jose.	Oklahoma is nearer to Washington than Oklahoma is to San Jose.
+entailment	Olympia is 490 miles from Miami and 770 miles from Chicago.	Olympia is nearer to Miami than Olympia is to Chicago.
+entailment	Columbia is 295 miles from Philadelphia and 440 miles from Springfield.	Columbia is nearer to Philadelphia than Columbia is to Springfield.
+entailment	Rochester is 515 miles from Sacramento and 615 miles from Irvine.	Rochester is nearer to Sacramento than Rochester is to Irvine.
+entailment	Irvine is 305 miles from Chicago and 405 miles from Hampton.	Irvine is nearer to Chicago than Irvine is to Hampton.
+entailment	Ontario is 265 miles from Hartford and 350 miles from Oklahoma.	Ontario is nearer to Hartford than Ontario is to Oklahoma.
+entailment	Illinois is 255 miles from Detroit and 340 miles from Philadelphia.	Illinois is nearer to Detroit than Illinois is to Philadelphia.
+entailment	Kansas is 265 miles from Irvine and 890 miles from Phoenix.	Kansas is nearer to Irvine than Kansas is to Phoenix.
+entailment	Irving is 610 miles from Santa Barbara and 735 miles from Olympia.	Irving is nearer to Santa Barbara than Irving is to Olympia.
+entailment	Philadelphia is 210 miles from Houston and 215 miles from Las Vegas.	Philadelphia is nearer to Houston than Philadelphia is to Las Vegas.
+entailment	Dallas is 660 miles from Rochester and 720 miles from Irving.	Dallas is nearer to Rochester than Dallas is to Irving.
+entailment	Richmond is 730 miles from Los Angeles and 965 miles from Washington.	Richmond is nearer to Los Angeles than Richmond is to Washington.
+entailment	Irving is 215 miles from Dallas and 910 miles from Los Angeles.	Irving is nearer to Dallas than Irving is to Los Angeles.
+entailment	New York is 420 miles from Olympia and 515 miles from Irvine.	New York is nearer to Olympia than New York is to Irvine.
+entailment	Sacramento is 335 miles from Las Vegas and 370 miles from Manchester.	Sacramento is nearer to Las Vegas than Sacramento is to Manchester.
+entailment	Houston is 220 miles from Sacramento and 705 miles from Tulsa.	Houston is nearer to Sacramento than Houston is to Tulsa.
+entailment	San Francisco is 280 miles from Springfield and 455 miles from Richmond.	San Francisco is nearer to Springfield than San Francisco is to Richmond.
+entailment	Olympia is 565 miles from Miami and 920 miles from Las Vegas.	Olympia is nearer to Miami than Olympia is to Las Vegas.
+entailment	San Jose is 600 miles from Hampton and 665 miles from Hartford.	San Jose is nearer to Hampton than San Jose is to Hartford.
+entailment	Detroit is 350 miles from New York and 755 miles from Illinois.	Detroit is nearer to New York than Detroit is to Illinois.
+entailment	Columbia is 255 miles from Las Vegas and 470 miles from Tulsa.	Columbia is nearer to Las Vegas than Columbia is to Tulsa.
+entailment	New York is 225 miles from Hampton and 230 miles from Kansas.	New York is nearer to Hampton than New York is to Kansas.
+entailment	Detroit is 635 miles from Kansas and 680 miles from Los Angeles.	Detroit is nearer to Kansas than Detroit is to Los Angeles.
+entailment	Springfield is 220 miles from Santa Barbara and 390 miles from Washington.	Springfield is nearer to Santa Barbara than Springfield is to Washington.
+entailment	Sacramento is 260 miles from Irvine and 500 miles from Los Angeles.	Sacramento is nearer to Irvine than Sacramento is to Los Angeles.
+entailment	Tulsa is 570 miles from Phoenix and 580 miles from Columbia.	Tulsa is nearer to Phoenix than Tulsa is to Columbia.
+entailment	Ontario is 205 miles from San Jose and 280 miles from Boston.	Ontario is nearer to San Jose than Ontario is to Boston.
+entailment	Houston is 235 miles from Dallas and 365 miles from Kansas.	Houston is nearer to Dallas than Houston is to Kansas.
+entailment	Kansas is 265 miles from Madison and 580 miles from San Francisco.	Kansas is nearer to Madison than Kansas is to San Francisco.
+entailment	Irvine is 670 miles from Miami and 805 miles from Hartford.	Irvine is nearer to Miami than Irvine is to Hartford.
+entailment	Buffalo is 200 miles from San Jose and 595 miles from Albany.	Buffalo is nearer to San Jose than Buffalo is to Albany.
+entailment	Boston is 555 miles from Dallas and 750 miles from Albany.	Boston is nearer to Dallas than Boston is to Albany.
+entailment	Chicago is 205 miles from Manchester and 530 miles from Frankfurt.	Chicago is nearer to Manchester than Chicago is to Frankfurt.
+entailment	Houston is 245 miles from Kansas and 360 miles from Irvine.	Houston is nearer to Kansas than Houston is to Irvine.
+entailment	Ontario is 330 miles from Irving and 405 miles from Richmond.	Ontario is nearer to Irving than Ontario is to Richmond.
+entailment	Sacramento is 235 miles from Minneapolis and 335 miles from Springfield.	Sacramento is nearer to Minneapolis than Sacramento is to Springfield.
+entailment	Frankfurt is 575 miles from Rochester and 625 miles from Los Angeles.	Frankfurt is nearer to Rochester than Frankfurt is to Los Angeles.
+entailment	Sacramento is 860 miles from Washington and 900 miles from Los Angeles.	Sacramento is nearer to Washington than Sacramento is to Los Angeles.
+entailment	Columbia is 230 miles from Houston and 775 miles from Rochester.	Columbia is nearer to Houston than Columbia is to Rochester.
+entailment	Minneapolis is 450 miles from Oklahoma and 675 miles from Los Angeles.	Minneapolis is nearer to Oklahoma than Minneapolis is to Los Angeles.
+entailment	Houston is 240 miles from Chicago and 385 miles from Rochester.	Houston is nearer to Chicago than Houston is to Rochester.
+entailment	Madison is 260 miles from Washington and 335 miles from Irving.	Madison is nearer to Washington than Madison is to Irving.
+entailment	Buffalo is 560 miles from Olympia and 650 miles from New York.	Buffalo is nearer to Olympia than Buffalo is to New York.
+entailment	Dallas is 275 miles from Pittsburg and 525 miles from Chicago.	Dallas is nearer to Pittsburg than Dallas is to Chicago.
+entailment	Irving is 415 miles from Houston and 870 miles from Dallas.	Irving is nearer to Houston than Irving is to Dallas.
+entailment	San Jose is 485 miles from Washington and 740 miles from Springfield.	San Jose is nearer to Washington than San Jose is to Springfield.
+entailment	Detroit is 245 miles from San Francisco and 390 miles from Hartford.	Detroit is nearer to San Francisco than Detroit is to Hartford.
+entailment	San Francisco is 305 miles from Irving and 525 miles from Albany.	San Francisco is nearer to Irving than San Francisco is to Albany.
+entailment	Richmond is 430 miles from Los Angeles and 655 miles from San Jose.	Richmond is nearer to Los Angeles than Richmond is to San Jose.
+entailment	Hampton is 900 miles from Columbia and 990 miles from Kansas.	Hampton is nearer to Columbia than Hampton is to Kansas.
+entailment	Pittsburg is 755 miles from Irvine and 805 miles from Hampton.	Pittsburg is nearer to Irvine than Pittsburg is to Hampton.
+entailment	Washington is 430 miles from San Diego and 940 miles from Los Angeles.	Washington is nearer to San Diego than Washington is to Los Angeles.
+entailment	New York is 220 miles from Richmond and 290 miles from Frankfurt.	New York is nearer to Richmond than New York is to Frankfurt.
+entailment	Dallas is 205 miles from Ontario and 270 miles from Springfield.	Dallas is nearer to Ontario than Dallas is to Springfield.
+entailment	Irvine is 235 miles from Rochester and 260 miles from Las Vegas.	Irvine is nearer to Rochester than Irvine is to Las Vegas.
+entailment	Frankfurt is 285 miles from Detroit and 375 miles from Hampton.	Frankfurt is nearer to Detroit than Frankfurt is to Hampton.
+entailment	Albany is 830 miles from San Francisco and 985 miles from Madison.	Albany is nearer to San Francisco than Albany is to Madison.
+entailment	Illinois is 460 miles from Ontario and 555 miles from Santa Barbara.	Illinois is nearer to Ontario than Illinois is to Santa Barbara.
+entailment	San Jose is 250 miles from Los Angeles and 365 miles from Olympia.	San Jose is nearer to Los Angeles than San Jose is to Olympia.
+entailment	Richmond is 320 miles from Miami and 795 miles from Kansas.	Richmond is nearer to Miami than Richmond is to Kansas.
+entailment	Pittsburg is 330 miles from San Francisco and 390 miles from Detroit.	Pittsburg is nearer to San Francisco than Pittsburg is to Detroit.
+entailment	Minneapolis is 210 miles from Washington and 910 miles from Houston.	Minneapolis is nearer to Washington than Minneapolis is to Houston.
+entailment	New York is 405 miles from Springfield and 930 miles from Irving.	New York is nearer to Springfield than New York is to Irving.
+entailment	Tempe is 215 miles from Springfield and 940 miles from San Francisco.	Tempe is nearer to Springfield than Tempe is to San Francisco.
+entailment	Irvine is 285 miles from Chicago and 340 miles from Hartford.	Irvine is nearer to Chicago than Irvine is to Hartford.
+entailment	Oklahoma is 310 miles from Pittsburg and 405 miles from Richmond.	Oklahoma is nearer to Pittsburg than Oklahoma is to Richmond.
+entailment	Irvine is 200 miles from Kansas and 205 miles from Los Angeles.	Irvine is nearer to Kansas than Irvine is to Los Angeles.
+entailment	San Francisco is 430 miles from Philadelphia and 895 miles from San Diego.	San Francisco is nearer to Philadelphia than San Francisco is to San Diego.
+entailment	Tempe is 350 miles from Chicago and 540 miles from Ontario.	Tempe is nearer to Chicago than Tempe is to Ontario.
+entailment	Springfield is 455 miles from New York and 620 miles from Los Angeles.	Springfield is nearer to New York than Springfield is to Los Angeles.
+entailment	Ontario is 240 miles from Hartford and 250 miles from Detroit.	Ontario is nearer to Hartford than Ontario is to Detroit.
+entailment	Madison is 920 miles from Los Angeles and 955 miles from Manchester.	Madison is nearer to Los Angeles than Madison is to Manchester.
+entailment	Phoenix is 555 miles from Rochester and 610 miles from Detroit.	Phoenix is nearer to Rochester than Phoenix is to Detroit.
+entailment	Rochester is 405 miles from Las Vegas and 465 miles from Albany.	Rochester is nearer to Las Vegas than Rochester is to Albany.
+entailment	San Jose is 415 miles from Rochester and 535 miles from Sacramento.	San Jose is nearer to Rochester than San Jose is to Sacramento.
+entailment	Columbia is 475 miles from Manchester and 840 miles from Detroit.	Columbia is nearer to Manchester than Columbia is to Detroit.
+entailment	Phoenix is 380 miles from Kansas and 435 miles from San Diego.	Phoenix is nearer to Kansas than Phoenix is to San Diego.
+entailment	Santa Barbara is 660 miles from Chicago and 720 miles from New York.	Santa Barbara is nearer to Chicago than Santa Barbara is to New York.
+entailment	Los Angeles is 625 miles from Detroit and 920 miles from Frankfurt.	Los Angeles is nearer to Detroit than Los Angeles is to Frankfurt.
+entailment	San Jose is 200 miles from Los Angeles and 210 miles from Minneapolis.	San Jose is nearer to Los Angeles than San Jose is to Minneapolis.
+entailment	New York is 335 miles from Tulsa and 500 miles from Ontario.	New York is nearer to Tulsa than New York is to Ontario.
+entailment	Richmond is 290 miles from Boston and 755 miles from Minneapolis.	Richmond is nearer to Boston than Richmond is to Minneapolis.
+entailment	Columbia is 230 miles from Chicago and 735 miles from Philadelphia.	Columbia is nearer to Chicago than Columbia is to Philadelphia.
+entailment	Irvine is 240 miles from Detroit and 375 miles from Oklahoma.	Irvine is nearer to Detroit than Irvine is to Oklahoma.
+entailment	Phoenix is 345 miles from Dallas and 890 miles from Tulsa.	Phoenix is nearer to Dallas than Phoenix is to Tulsa.
+entailment	Buffalo is 380 miles from Richmond and 530 miles from Springfield.	Buffalo is nearer to Richmond than Buffalo is to Springfield.
+entailment	Albany is 615 miles from Columbia and 950 miles from Las Vegas.	Albany is nearer to Columbia than Albany is to Las Vegas.
+entailment	Rochester is 760 miles from Tulsa and 775 miles from Springfield.	Rochester is nearer to Tulsa than Rochester is to Springfield.
+entailment	Tulsa is 685 miles from Detroit and 700 miles from Tempe.	Tulsa is nearer to Detroit than Tulsa is to Tempe.
+entailment	New York is 680 miles from Rochester and 780 miles from Irvine.	New York is nearer to Rochester than New York is to Irvine.
+entailment	Miami is 515 miles from Tempe and 520 miles from Madison.	Miami is nearer to Tempe than Miami is to Madison.
+entailment	Phoenix is 210 miles from Philadelphia and 295 miles from Albany.	Phoenix is nearer to Philadelphia than Phoenix is to Albany.
+entailment	Manchester is 215 miles from Springfield and 665 miles from Chicago.	Manchester is nearer to Springfield than Manchester is to Chicago.
+entailment	Ontario is 345 miles from Buffalo and 540 miles from Santa Barbara.	Ontario is nearer to Buffalo than Ontario is to Santa Barbara.
+entailment	Olympia is 205 miles from Hampton and 575 miles from Frankfurt.	Olympia is nearer to Hampton than Olympia is to Frankfurt.
+entailment	Dallas is 850 miles from San Jose and 925 miles from Springfield.	Dallas is nearer to San Jose than Dallas is to Springfield.
+entailment	Kansas is 360 miles from Albany and 370 miles from Minneapolis.	Kansas is nearer to Albany than Kansas is to Minneapolis.
+entailment	Sacramento is 200 miles from Tempe and 205 miles from Frankfurt.	Sacramento is nearer to Tempe than Sacramento is to Frankfurt.
+entailment	Olympia is 280 miles from Sacramento and 560 miles from Los Angeles.	Olympia is nearer to Sacramento than Olympia is to Los Angeles.
+entailment	Frankfurt is 205 miles from Houston and 245 miles from San Jose.	Frankfurt is nearer to Houston than Frankfurt is to San Jose.
+entailment	Minneapolis is 285 miles from San Jose and 485 miles from Santa Barbara.	Minneapolis is nearer to San Jose than Minneapolis is to Santa Barbara.
+entailment	Richmond is 235 miles from Buffalo and 395 miles from Dallas.	Richmond is nearer to Buffalo than Richmond is to Dallas.
+entailment	Irvine is 220 miles from Irving and 230 miles from Tempe.	Irvine is nearer to Irving than Irvine is to Tempe.
+entailment	Hampton is 210 miles from Olympia and 215 miles from Dallas.	Hampton is nearer to Olympia than Hampton is to Dallas.
+entailment	Irving is 215 miles from Frankfurt and 245 miles from Richmond.	Irving is nearer to Frankfurt than Irving is to Richmond.
+entailment	Boston is 245 miles from San Francisco and 285 miles from Hampton.	Boston is nearer to San Francisco than Boston is to Hampton.
+entailment	Madison is 700 miles from San Jose and 875 miles from Rochester.	Madison is nearer to San Jose than Madison is to Rochester.
+entailment	Houston is 205 miles from Hartford and 240 miles from Olympia.	Houston is nearer to Hartford than Houston is to Olympia.
+entailment	Madison is 210 miles from Detroit and 215 miles from Frankfurt.	Madison is nearer to Detroit than Madison is to Frankfurt.
+entailment	Madison is 225 miles from Sacramento and 420 miles from Kansas.	Madison is nearer to Sacramento than Madison is to Kansas.
+entailment	Boston is 200 miles from San Francisco and 455 miles from San Jose.	Boston is nearer to San Francisco than Boston is to San Jose.
+entailment	Chicago is 490 miles from Tulsa and 965 miles from Oklahoma.	Chicago is nearer to Tulsa than Chicago is to Oklahoma.
+entailment	Irvine is 260 miles from Buffalo and 600 miles from Richmond.	Irvine is nearer to Buffalo than Irvine is to Richmond.
+entailment	Tulsa is 400 miles from Kansas and 465 miles from Ontario.	Tulsa is nearer to Kansas than Tulsa is to Ontario.
+entailment	Irving is 465 miles from Las Vegas and 495 miles from Irvine.	Irving is nearer to Las Vegas than Irving is to Irvine.
+entailment	New York is 880 miles from Philadelphia and 895 miles from Columbia.	New York is nearer to Philadelphia than New York is to Columbia.
+entailment	Detroit is 720 miles from Buffalo and 840 miles from Hampton.	Detroit is nearer to Buffalo than Detroit is to Hampton.
+entailment	Rochester is 210 miles from New York and 300 miles from San Diego.	Rochester is nearer to New York than Rochester is to San Diego.
+entailment	Tulsa is 455 miles from Manchester and 745 miles from Santa Barbara.	Tulsa is nearer to Manchester than Tulsa is to Santa Barbara.
+entailment	Tempe is 305 miles from Frankfurt and 425 miles from Irving.	Tempe is nearer to Frankfurt than Tempe is to Irving.
+entailment	Detroit is 235 miles from Irvine and 240 miles from Madison.	Detroit is nearer to Irvine than Detroit is to Madison.
+entailment	Buffalo is 210 miles from Washington and 240 miles from Sacramento.	Buffalo is nearer to Washington than Buffalo is to Sacramento.
+entailment	Pittsburg is 340 miles from Olympia and 570 miles from Santa Barbara.	Pittsburg is nearer to Olympia than Pittsburg is to Santa Barbara.
+entailment	Dallas is 400 miles from Richmond and 995 miles from Ontario.	Dallas is nearer to Richmond than Dallas is to Ontario.
+entailment	Buffalo is 460 miles from Irvine and 615 miles from Phoenix.	Buffalo is nearer to Irvine than Buffalo is to Phoenix.
+entailment	New York is 470 miles from Columbia and 675 miles from San Diego.	New York is nearer to Columbia than New York is to San Diego.
+entailment	Manchester is 250 miles from Los Angeles and 430 miles from Ontario.	Manchester is nearer to Los Angeles than Manchester is to Ontario.
+entailment	Miami is 325 miles from New York and 565 miles from Rochester.	Miami is nearer to New York than Miami is to Rochester.
+entailment	Frankfurt is 200 miles from Dallas and 825 miles from Madison.	Frankfurt is nearer to Dallas than Frankfurt is to Madison.
+entailment	Tempe is 275 miles from Dallas and 590 miles from Kansas.	Tempe is nearer to Dallas than Tempe is to Kansas.
+entailment	Richmond is 585 miles from New York and 740 miles from Dallas.	Richmond is nearer to New York than Richmond is to Dallas.
+entailment	Houston is 885 miles from San Jose and 975 miles from Illinois.	Houston is nearer to San Jose than Houston is to Illinois.
+entailment	Hampton is 395 miles from Illinois and 760 miles from Albany.	Hampton is nearer to Illinois than Hampton is to Albany.
+entailment	Houston is 420 miles from Dallas and 655 miles from New York.	Houston is nearer to Dallas than Houston is to New York.
+entailment	Olympia is 270 miles from Chicago and 475 miles from Phoenix.	Olympia is nearer to Chicago than Olympia is to Phoenix.
+entailment	Albany is 265 miles from Miami and 330 miles from New York.	Albany is nearer to Miami than Albany is to New York.
+entailment	San Diego is 250 miles from Richmond and 410 miles from Houston.	San Diego is nearer to Richmond than San Diego is to Houston.
+entailment	Detroit is 215 miles from New York and 675 miles from Pittsburg.	Detroit is nearer to New York than Detroit is to Pittsburg.
+entailment	San Francisco is 225 miles from Irvine and 810 miles from Detroit.	San Francisco is nearer to Irvine than San Francisco is to Detroit.
+entailment	Los Angeles is 435 miles from San Francisco and 670 miles from Chicago.	Los Angeles is nearer to San Francisco than Los Angeles is to Chicago.
+entailment	Tempe is 425 miles from Madison and 615 miles from Illinois.	Tempe is nearer to Madison than Tempe is to Illinois.
+entailment	Los Angeles is 220 miles from Dallas and 465 miles from Buffalo.	Los Angeles is nearer to Dallas than Los Angeles is to Buffalo.
+entailment	Ontario is 215 miles from Manchester and 290 miles from Albany.	Ontario is nearer to Manchester than Ontario is to Albany.
+entailment	Hampton is 370 miles from Frankfurt and 535 miles from Houston.	Hampton is nearer to Frankfurt than Hampton is to Houston.
+entailment	Chicago is 230 miles from Illinois and 265 miles from Columbia.	Chicago is nearer to Illinois than Chicago is to Columbia.
+entailment	New York is 335 miles from Los Angeles and 370 miles from Olympia.	New York is nearer to Los Angeles than New York is to Olympia.
+entailment	Hartford is 235 miles from Buffalo and 290 miles from Pittsburg.	Hartford is nearer to Buffalo than Hartford is to Pittsburg.
+entailment	Minneapolis is 885 miles from Detroit and 980 miles from Santa Barbara.	Minneapolis is nearer to Detroit than Minneapolis is to Santa Barbara.
+entailment	Sacramento is 400 miles from Los Angeles and 450 miles from Richmond.	Sacramento is nearer to Los Angeles than Sacramento is to Richmond.
+entailment	Madison is 640 miles from Kansas and 695 miles from Richmond.	Madison is nearer to Kansas than Madison is to Richmond.
+entailment	Madison is 495 miles from Irving and 855 miles from Miami.	Madison is nearer to Irving than Madison is to Miami.
+entailment	Las Vegas is 205 miles from Illinois and 265 miles from Houston.	Las Vegas is nearer to Illinois than Las Vegas is to Houston.
+entailment	Albany is 200 miles from Detroit and 435 miles from Hartford.	Albany is nearer to Detroit than Albany is to Hartford.
+entailment	Rochester is 275 miles from Madison and 635 miles from San Jose.	Rochester is nearer to Madison than Rochester is to San Jose.
+entailment	San Diego is 370 miles from Los Angeles and 440 miles from Oklahoma.	San Diego is nearer to Los Angeles than San Diego is to Oklahoma.
+entailment	Boston is 385 miles from Madison and 865 miles from Frankfurt.	Boston is nearer to Madison than Boston is to Frankfurt.
+entailment	Manchester is 435 miles from Rochester and 855 miles from San Francisco.	Manchester is nearer to Rochester than Manchester is to San Francisco.
+entailment	Rochester is 405 miles from Tulsa and 620 miles from Oklahoma.	Rochester is nearer to Tulsa than Rochester is to Oklahoma.
+entailment	Los Angeles is 280 miles from Washington and 335 miles from Miami.	Los Angeles is nearer to Washington than Los Angeles is to Miami.
+entailment	Las Vegas is 240 miles from Pittsburg and 565 miles from Houston.	Las Vegas is nearer to Pittsburg than Las Vegas is to Houston.
+entailment	Santa Barbara is 455 miles from Hartford and 490 miles from Richmond.	Santa Barbara is nearer to Hartford than Santa Barbara is to Richmond.
+entailment	Springfield is 605 miles from San Diego and 640 miles from Houston.	Springfield is nearer to San Diego than Springfield is to Houston.
+entailment	San Diego is 275 miles from Pittsburg and 415 miles from Ontario.	San Diego is nearer to Pittsburg than San Diego is to Ontario.
+entailment	Philadelphia is 215 miles from Manchester and 230 miles from Richmond.	Philadelphia is nearer to Manchester than Philadelphia is to Richmond.
+entailment	New York is 260 miles from Olympia and 700 miles from Santa Barbara.	New York is nearer to Olympia than New York is to Santa Barbara.
+entailment	Manchester is 275 miles from Los Angeles and 565 miles from Irving.	Manchester is nearer to Los Angeles than Manchester is to Irving.
+entailment	Hartford is 665 miles from Albany and 875 miles from Hampton.	Hartford is nearer to Albany than Hartford is to Hampton.
+entailment	Hampton is 435 miles from San Francisco and 750 miles from Tempe.	Hampton is nearer to San Francisco than Hampton is to Tempe.
+entailment	Illinois is 245 miles from Pittsburg and 330 miles from Madison.	Illinois is nearer to Pittsburg than Illinois is to Madison.
+entailment	Miami is 475 miles from Buffalo and 620 miles from Hartford.	Miami is nearer to Buffalo than Miami is to Hartford.
+entailment	Pittsburg is 275 miles from New York and 280 miles from Buffalo.	Pittsburg is nearer to New York than Pittsburg is to Buffalo.
+entailment	Illinois is 265 miles from Detroit and 545 miles from Irvine.	Illinois is nearer to Detroit than Illinois is to Irvine.
+entailment	Hampton is 545 miles from Boston and 625 miles from Las Vegas.	Hampton is nearer to Boston than Hampton is to Las Vegas.
+entailment	Tulsa is 395 miles from Las Vegas and 430 miles from Columbia.	Tulsa is nearer to Las Vegas than Tulsa is to Columbia.
+entailment	Las Vegas is 200 miles from Phoenix and 475 miles from Sacramento.	Las Vegas is nearer to Phoenix than Las Vegas is to Sacramento.
+entailment	Albany is 420 miles from Las Vegas and 920 miles from Detroit.	Albany is nearer to Las Vegas than Albany is to Detroit.
+entailment	Kansas is 490 miles from Miami and 630 miles from San Francisco.	Kansas is nearer to Miami than Kansas is to San Francisco.
+entailment	Minneapolis is 445 miles from Miami and 545 miles from Irving.	Minneapolis is nearer to Miami than Minneapolis is to Irving.
+entailment	Springfield is 595 miles from Albany and 630 miles from New York.	Springfield is nearer to Albany than Springfield is to New York.
+entailment	Frankfurt is 770 miles from Tempe and 950 miles from Sacramento.	Frankfurt is nearer to Tempe than Frankfurt is to Sacramento.
+entailment	Pittsburg is 545 miles from Philadelphia and 740 miles from Boston.	Pittsburg is nearer to Philadelphia than Pittsburg is to Boston.
+entailment	Los Angeles is 280 miles from Springfield and 475 miles from San Diego.	Los Angeles is nearer to Springfield than Los Angeles is to San Diego.
+entailment	San Jose is 475 miles from Columbia and 865 miles from Tulsa.	San Jose is nearer to Columbia than San Jose is to Tulsa.
+entailment	Pittsburg is 245 miles from Detroit and 530 miles from Irving.	Pittsburg is nearer to Detroit than Pittsburg is to Irving.
+entailment	San Francisco is 235 miles from Illinois and 380 miles from Chicago.	San Francisco is nearer to Illinois than San Francisco is to Chicago.
+entailment	Kansas is 770 miles from San Jose and 810 miles from Hampton.	Kansas is nearer to San Jose than Kansas is to Hampton.
+entailment	Houston is 950 miles from Columbia and 960 miles from Madison.	Houston is nearer to Columbia than Houston is to Madison.
+entailment	Madison is 675 miles from Tulsa and 735 miles from Chicago.	Madison is nearer to Tulsa than Madison is to Chicago.
+entailment	Boston is 210 miles from San Jose and 460 miles from San Francisco.	Boston is nearer to San Jose than Boston is to San Francisco.
+entailment	Olympia is 490 miles from Hampton and 870 miles from Rochester.	Olympia is nearer to Hampton than Olympia is to Rochester.
+entailment	Tempe is 350 miles from Boston and 435 miles from Richmond.	Tempe is nearer to Boston than Tempe is to Richmond.
+entailment	Albany is 695 miles from Houston and 920 miles from Illinois.	Albany is nearer to Houston than Albany is to Illinois.
+entailment	Miami is 240 miles from Springfield and 620 miles from Irvine.	Miami is nearer to Springfield than Miami is to Irvine.
+entailment	Irving is 540 miles from Pittsburg and 565 miles from New York.	Irving is nearer to Pittsburg than Irving is to New York.
+entailment	Santa Barbara is 565 miles from Hampton and 570 miles from Los Angeles.	Santa Barbara is nearer to Hampton than Santa Barbara is to Los Angeles.
+entailment	Columbia is 215 miles from San Francisco and 230 miles from Irving.	Columbia is nearer to San Francisco than Columbia is to Irving.
+entailment	Las Vegas is 355 miles from Richmond and 700 miles from Miami.	Las Vegas is nearer to Richmond than Las Vegas is to Miami.
+entailment	Madison is 205 miles from Oklahoma and 950 miles from Los Angeles.	Madison is nearer to Oklahoma than Madison is to Los Angeles.
+entailment	Tulsa is 245 miles from Richmond and 265 miles from Hampton.	Tulsa is nearer to Richmond than Tulsa is to Hampton.
+entailment	Illinois is 300 miles from San Francisco and 770 miles from Sacramento.	Illinois is nearer to San Francisco than Illinois is to Sacramento.
+entailment	Richmond is 350 miles from Detroit and 390 miles from Frankfurt.	Richmond is nearer to Detroit than Richmond is to Frankfurt.
+entailment	Pittsburg is 425 miles from Ontario and 900 miles from San Francisco.	Pittsburg is nearer to Ontario than Pittsburg is to San Francisco.
+entailment	San Jose is 315 miles from Springfield and 615 miles from San Diego.	San Jose is nearer to Springfield than San Jose is to San Diego.
+entailment	Santa Barbara is 285 miles from Minneapolis and 310 miles from Madison.	Santa Barbara is nearer to Minneapolis than Santa Barbara is to Madison.
+entailment	Minneapolis is 425 miles from Olympia and 840 miles from San Francisco.	Minneapolis is nearer to Olympia than Minneapolis is to San Francisco.
+entailment	Buffalo is 690 miles from Santa Barbara and 945 miles from Los Angeles.	Buffalo is nearer to Santa Barbara than Buffalo is to Los Angeles.
+entailment	Las Vegas is 325 miles from Phoenix and 930 miles from Washington.	Las Vegas is nearer to Phoenix than Las Vegas is to Washington.
+entailment	Miami is 205 miles from Ontario and 235 miles from Kansas.	Miami is nearer to Ontario than Miami is to Kansas.
+entailment	Frankfurt is 795 miles from Santa Barbara and 875 miles from Kansas.	Frankfurt is nearer to Santa Barbara than Frankfurt is to Kansas.
+entailment	Buffalo is 450 miles from Minneapolis and 525 miles from San Diego.	Buffalo is nearer to Minneapolis than Buffalo is to San Diego.
+entailment	Phoenix is 715 miles from Kansas and 825 miles from Oklahoma.	Phoenix is nearer to Kansas than Phoenix is to Oklahoma.
+entailment	Oklahoma is 285 miles from Irvine and 700 miles from Ontario.	Oklahoma is nearer to Irvine than Oklahoma is to Ontario.
+entailment	New York is 405 miles from Irving and 540 miles from Irvine.	New York is nearer to Irving than New York is to Irvine.
+entailment	Pittsburg is 435 miles from Hampton and 470 miles from Illinois.	Pittsburg is nearer to Hampton than Pittsburg is to Illinois.
+entailment	Sacramento is 275 miles from Irving and 310 miles from Frankfurt.	Sacramento is nearer to Irving than Sacramento is to Frankfurt.
+entailment	Columbia is 280 miles from San Francisco and 475 miles from Las Vegas.	Columbia is nearer to San Francisco than Columbia is to Las Vegas.
+entailment	Santa Barbara is 250 miles from Irving and 440 miles from Washington.	Santa Barbara is nearer to Irving than Santa Barbara is to Washington.
+entailment	Madison is 385 miles from Boston and 990 miles from Chicago.	Madison is nearer to Boston than Madison is to Chicago.
+entailment	Olympia is 205 miles from Washington and 240 miles from Columbia.	Olympia is nearer to Washington than Olympia is to Columbia.
+entailment	Philadelphia is 260 miles from Santa Barbara and 420 miles from Richmond.	Philadelphia is nearer to Santa Barbara than Philadelphia is to Richmond.
+entailment	Santa Barbara is 340 miles from Las Vegas and 455 miles from San Diego.	Santa Barbara is nearer to Las Vegas than Santa Barbara is to San Diego.
+entailment	Frankfurt is 515 miles from Ontario and 670 miles from New York.	Frankfurt is nearer to Ontario than Frankfurt is to New York.
+entailment	San Diego is 245 miles from Minneapolis and 550 miles from Richmond.	San Diego is nearer to Minneapolis than San Diego is to Richmond.
+entailment	Sacramento is 770 miles from Miami and 955 miles from Hampton.	Sacramento is nearer to Miami than Sacramento is to Hampton.
+entailment	Irving is 655 miles from San Diego and 710 miles from Miami.	Irving is nearer to San Diego than Irving is to Miami.
+entailment	Olympia is 305 miles from Irvine and 540 miles from Chicago.	Olympia is nearer to Irvine than Olympia is to Chicago.
+entailment	Frankfurt is 345 miles from New York and 845 miles from Tempe.	Frankfurt is nearer to New York than Frankfurt is to Tempe.
+entailment	San Diego is 210 miles from San Jose and 940 miles from Phoenix.	San Diego is nearer to San Jose than San Diego is to Phoenix.
+entailment	Rochester is 355 miles from Washington and 375 miles from Hartford.	Rochester is nearer to Washington than Rochester is to Hartford.
+entailment	Madison is 390 miles from San Francisco and 395 miles from Boston.	Madison is nearer to San Francisco than Madison is to Boston.
+entailment	Los Angeles is 640 miles from Santa Barbara and 790 miles from Philadelphia.	Los Angeles is nearer to Santa Barbara than Los Angeles is to Philadelphia.
+entailment	Sacramento is 285 miles from Columbia and 430 miles from Philadelphia.	Sacramento is nearer to Columbia than Sacramento is to Philadelphia.
+entailment	Chicago is 345 miles from Oklahoma and 860 miles from Boston.	Chicago is nearer to Oklahoma than Chicago is to Boston.
+entailment	Oklahoma is 340 miles from Chicago and 395 miles from Manchester.	Oklahoma is nearer to Chicago than Oklahoma is to Manchester.
+entailment	Rochester is 405 miles from Madison and 820 miles from Las Vegas.	Rochester is nearer to Madison than Rochester is to Las Vegas.
+entailment	Frankfurt is 870 miles from Detroit and 885 miles from Buffalo.	Frankfurt is nearer to Detroit than Frankfurt is to Buffalo.
+entailment	Hartford is 420 miles from Chicago and 505 miles from Washington.	Hartford is nearer to Chicago than Hartford is to Washington.
+entailment	Tulsa is 520 miles from New York and 560 miles from Miami.	Tulsa is nearer to New York than Tulsa is to Miami.
+entailment	Tempe is 290 miles from Hartford and 320 miles from Frankfurt.	Tempe is nearer to Hartford than Tempe is to Frankfurt.
+entailment	New York is 875 miles from Washington and 980 miles from Columbia.	New York is nearer to Washington than New York is to Columbia.
+entailment	Rochester is 265 miles from Hartford and 795 miles from Kansas.	Rochester is nearer to Hartford than Rochester is to Kansas.
+entailment	Kansas is 480 miles from Irving and 610 miles from Dallas.	Kansas is nearer to Irving than Kansas is to Dallas.
+entailment	Irvine is 330 miles from Illinois and 560 miles from San Diego.	Irvine is nearer to Illinois than Irvine is to San Diego.
+entailment	Columbia is 390 miles from Manchester and 455 miles from Pittsburg.	Columbia is nearer to Manchester than Columbia is to Pittsburg.
+entailment	Buffalo is 225 miles from Madison and 540 miles from Oklahoma.	Buffalo is nearer to Madison than Buffalo is to Oklahoma.
+entailment	Buffalo is 490 miles from Irving and 755 miles from Tulsa.	Buffalo is nearer to Irving than Buffalo is to Tulsa.
+entailment	Ontario is 545 miles from Olympia and 600 miles from Las Vegas.	Ontario is nearer to Olympia than Ontario is to Las Vegas.
+entailment	Boston is 270 miles from Phoenix and 965 miles from Illinois.	Boston is nearer to Phoenix than Boston is to Illinois.
+entailment	Santa Barbara is 475 miles from Olympia and 755 miles from Madison.	Santa Barbara is nearer to Olympia than Santa Barbara is to Madison.
+entailment	Las Vegas is 350 miles from Miami and 900 miles from Irving.	Las Vegas is nearer to Miami than Las Vegas is to Irving.
+entailment	Santa Barbara is 420 miles from Buffalo and 460 miles from Hampton.	Santa Barbara is nearer to Buffalo than Santa Barbara is to Hampton.
+entailment	Santa Barbara is 485 miles from Albany and 600 miles from San Francisco.	Santa Barbara is nearer to Albany than Santa Barbara is to San Francisco.
+entailment	Albany is 605 miles from Minneapolis and 805 miles from Illinois.	Albany is nearer to Minneapolis than Albany is to Illinois.
+entailment	Irvine is 360 miles from Las Vegas and 600 miles from Buffalo.	Irvine is nearer to Las Vegas than Irvine is to Buffalo.
+entailment	Tulsa is 420 miles from Hartford and 570 miles from Richmond.	Tulsa is nearer to Hartford than Tulsa is to Richmond.
+entailment	Dallas is 250 miles from Hartford and 650 miles from Las Vegas.	Dallas is nearer to Hartford than Dallas is to Las Vegas.
+entailment	Philadelphia is 315 miles from Oklahoma and 595 miles from Tulsa.	Philadelphia is nearer to Oklahoma than Philadelphia is to Tulsa.
+entailment	Kansas is 220 miles from Miami and 400 miles from Irving.	Kansas is nearer to Miami than Kansas is to Irving.
+entailment	Washington is 375 miles from Buffalo and 515 miles from Dallas.	Washington is nearer to Buffalo than Washington is to Dallas.
+entailment	Ontario is 235 miles from Tempe and 410 miles from Tulsa.	Ontario is nearer to Tempe than Ontario is to Tulsa.
+entailment	Irving is 330 miles from Albany and 660 miles from Oklahoma.	Irving is nearer to Albany than Irving is to Oklahoma.
+entailment	Madison is 590 miles from Manchester and 830 miles from Houston.	Madison is nearer to Manchester than Madison is to Houston.
+entailment	Philadelphia is 215 miles from Richmond and 610 miles from Tempe.	Philadelphia is nearer to Richmond than Philadelphia is to Tempe.
+entailment	San Francisco is 250 miles from Chicago and 280 miles from Philadelphia.	San Francisco is nearer to Chicago than San Francisco is to Philadelphia.
+entailment	Phoenix is 305 miles from Madison and 350 miles from San Francisco.	Phoenix is nearer to Madison than Phoenix is to San Francisco.
+entailment	Dallas is 200 miles from Los Angeles and 350 miles from Pittsburg.	Dallas is nearer to Los Angeles than Dallas is to Pittsburg.
+entailment	Richmond is 610 miles from Albany and 955 miles from Frankfurt.	Richmond is nearer to Albany than Richmond is to Frankfurt.
+entailment	San Jose is 320 miles from Las Vegas and 420 miles from Springfield.	San Jose is nearer to Las Vegas than San Jose is to Springfield.
+entailment	San Diego is 430 miles from Las Vegas and 570 miles from Detroit.	San Diego is nearer to Las Vegas than San Diego is to Detroit.
+entailment	Illinois is 670 miles from Madison and 825 miles from Philadelphia.	Illinois is nearer to Madison than Illinois is to Philadelphia.
+entailment	Miami is 255 miles from San Diego and 485 miles from Columbia.	Miami is nearer to San Diego than Miami is to Columbia.
+entailment	Oklahoma is 360 miles from Dallas and 380 miles from Pittsburg.	Oklahoma is nearer to Dallas than Oklahoma is to Pittsburg.
+entailment	Boston is 855 miles from Dallas and 880 miles from Miami.	Boston is nearer to Dallas than Boston is to Miami.
+entailment	Ontario is 380 miles from Philadelphia and 465 miles from Miami.	Ontario is nearer to Philadelphia than Ontario is to Miami.
+entailment	Washington is 210 miles from Manchester and 220 miles from Frankfurt.	Washington is nearer to Manchester than Washington is to Frankfurt.
+entailment	Manchester is 645 miles from Rochester and 750 miles from Buffalo.	Manchester is nearer to Rochester than Manchester is to Buffalo.
+entailment	Boston is 210 miles from Los Angeles and 250 miles from Frankfurt.	Boston is nearer to Los Angeles than Boston is to Frankfurt.
+entailment	Tempe is 220 miles from Hartford and 410 miles from Chicago.	Tempe is nearer to Hartford than Tempe is to Chicago.
+entailment	Hampton is 240 miles from Phoenix and 275 miles from Buffalo.	Hampton is nearer to Phoenix than Hampton is to Buffalo.
+entailment	Richmond is 225 miles from Boston and 255 miles from San Diego.	Richmond is nearer to Boston than Richmond is to San Diego.
+entailment	San Francisco is 860 miles from Rochester and 955 miles from Manchester.	San Francisco is nearer to Rochester than San Francisco is to Manchester.
+entailment	Miami is 215 miles from Washington and 365 miles from Detroit.	Miami is nearer to Washington than Miami is to Detroit.
+entailment	Springfield is 300 miles from Miami and 820 miles from Hartford.	Springfield is nearer to Miami than Springfield is to Hartford.
+entailment	Hartford is 260 miles from Oklahoma and 380 miles from Madison.	Hartford is nearer to Oklahoma than Hartford is to Madison.
+entailment	Phoenix is 395 miles from Houston and 490 miles from Richmond.	Phoenix is nearer to Houston than Phoenix is to Richmond.
+entailment	Las Vegas is 375 miles from San Francisco and 615 miles from Oklahoma.	Las Vegas is nearer to San Francisco than Las Vegas is to Oklahoma.
+entailment	Detroit is 300 miles from Rochester and 560 miles from Madison.	Detroit is nearer to Rochester than Detroit is to Madison.
+entailment	Illinois is 445 miles from Los Angeles and 885 miles from New York.	Illinois is nearer to Los Angeles than Illinois is to New York.
+entailment	Ontario is 555 miles from Albany and 990 miles from San Francisco.	Ontario is nearer to Albany than Ontario is to San Francisco.
+entailment	Las Vegas is 235 miles from Tulsa and 480 miles from Pittsburg.	Las Vegas is nearer to Tulsa than Las Vegas is to Pittsburg.
+entailment	Hartford is 925 miles from Richmond and 965 miles from Irving.	Hartford is nearer to Richmond than Hartford is to Irving.
+entailment	Hampton is 615 miles from San Francisco and 765 miles from Houston.	Hampton is nearer to San Francisco than Hampton is to Houston.
+entailment	Hartford is 220 miles from Tulsa and 240 miles from Manchester.	Hartford is nearer to Tulsa than Hartford is to Manchester.
+entailment	Irving is 615 miles from Dallas and 720 miles from Minneapolis.	Irving is nearer to Dallas than Irving is to Minneapolis.
+entailment	Sacramento is 330 miles from Buffalo and 395 miles from San Francisco.	Sacramento is nearer to Buffalo than Sacramento is to San Francisco.
+entailment	San Francisco is 730 miles from Richmond and 985 miles from Illinois.	San Francisco is nearer to Richmond than San Francisco is to Illinois.
+entailment	Frankfurt is 300 miles from Irvine and 370 miles from Minneapolis.	Frankfurt is nearer to Irvine than Frankfurt is to Minneapolis.
+entailment	Houston is 380 miles from Ontario and 905 miles from Dallas.	Houston is nearer to Ontario than Houston is to Dallas.
+entailment	Detroit is 320 miles from Houston and 535 miles from Richmond.	Detroit is nearer to Houston than Detroit is to Richmond.
+entailment	Olympia is 425 miles from Kansas and 625 miles from San Jose.	Olympia is nearer to Kansas than Olympia is to San Jose.
+entailment	Sacramento is 205 miles from Pittsburg and 250 miles from Kansas.	Sacramento is nearer to Pittsburg than Sacramento is to Kansas.
+entailment	Frankfurt is 240 miles from Tulsa and 980 miles from Los Angeles.	Frankfurt is nearer to Tulsa than Frankfurt is to Los Angeles.
+entailment	Tempe is 405 miles from Sacramento and 830 miles from Hampton.	Tempe is nearer to Sacramento than Tempe is to Hampton.
+entailment	Olympia is 425 miles from Columbia and 840 miles from Irving.	Olympia is nearer to Columbia than Olympia is to Irving.
+entailment	Olympia is 510 miles from Tempe and 705 miles from Pittsburg.	Olympia is nearer to Tempe than Olympia is to Pittsburg.
+entailment	Illinois is 300 miles from Tulsa and 795 miles from Washington.	Illinois is nearer to Tulsa than Illinois is to Washington.
+entailment	Irvine is 820 miles from Hampton and 850 miles from Miami.	Irvine is nearer to Hampton than Irvine is to Miami.
+entailment	Houston is 755 miles from Washington and 925 miles from Miami.	Houston is nearer to Washington than Houston is to Miami.
+entailment	Hampton is 210 miles from San Jose and 245 miles from Miami.	Hampton is nearer to San Jose than Hampton is to Miami.
+entailment	Hampton is 215 miles from Tempe and 700 miles from Tulsa.	Hampton is nearer to Tempe than Hampton is to Tulsa.
+entailment	Detroit is 335 miles from New York and 500 miles from Ontario.	Detroit is nearer to New York than Detroit is to Ontario.
+entailment	Philadelphia is 255 miles from Phoenix and 905 miles from Washington.	Philadelphia is nearer to Phoenix than Philadelphia is to Washington.
+entailment	Albany is 320 miles from Boston and 955 miles from Philadelphia.	Albany is nearer to Boston than Albany is to Philadelphia.
+entailment	Rochester is 430 miles from Columbia and 455 miles from Miami.	Rochester is nearer to Columbia than Rochester is to Miami.
+entailment	Columbia is 420 miles from Frankfurt and 950 miles from Springfield.	Columbia is nearer to Frankfurt than Columbia is to Springfield.
+entailment	Hampton is 410 miles from San Francisco and 635 miles from Albany.	Hampton is nearer to San Francisco than Hampton is to Albany.
+entailment	Tempe is 285 miles from Illinois and 745 miles from San Jose.	Tempe is nearer to Illinois than Tempe is to San Jose.
+entailment	Irvine is 230 miles from Frankfurt and 690 miles from Olympia.	Irvine is nearer to Frankfurt than Irvine is to Olympia.
+entailment	Houston is 210 miles from Hartford and 480 miles from Tulsa.	Houston is nearer to Hartford than Houston is to Tulsa.
+entailment	Los Angeles is 755 miles from Frankfurt and 950 miles from Pittsburg.	Los Angeles is nearer to Frankfurt than Los Angeles is to Pittsburg.
+entailment	Irving is 295 miles from Miami and 790 miles from Phoenix.	Irving is nearer to Miami than Irving is to Phoenix.
+entailment	Manchester is 325 miles from Irvine and 470 miles from Hampton.	Manchester is nearer to Irvine than Manchester is to Hampton.
+entailment	San Jose is 225 miles from Oklahoma and 240 miles from Hartford.	San Jose is nearer to Oklahoma than San Jose is to Hartford.
+entailment	San Jose is 255 miles from Houston and 665 miles from Illinois.	San Jose is nearer to Houston than San Jose is to Illinois.
+entailment	San Diego is 540 miles from Ontario and 590 miles from Houston.	San Diego is nearer to Ontario than San Diego is to Houston.
+entailment	Dallas is 265 miles from Houston and 815 miles from Las Vegas.	Dallas is nearer to Houston than Dallas is to Las Vegas.
+entailment	Richmond is 270 miles from Phoenix and 440 miles from Madison.	Richmond is nearer to Phoenix than Richmond is to Madison.
+entailment	Los Angeles is 870 miles from Richmond and 965 miles from Frankfurt.	Los Angeles is nearer to Richmond than Los Angeles is to Frankfurt.
+entailment	Houston is 270 miles from Illinois and 280 miles from Manchester.	Houston is nearer to Illinois than Houston is to Manchester.
+entailment	Philadelphia is 620 miles from Chicago and 715 miles from Rochester.	Philadelphia is nearer to Chicago than Philadelphia is to Rochester.
+entailment	Houston is 290 miles from Frankfurt and 305 miles from San Francisco.	Houston is nearer to Frankfurt than Houston is to San Francisco.
+entailment	Miami is 315 miles from Las Vegas and 375 miles from Albany.	Miami is nearer to Las Vegas than Miami is to Albany.
+entailment	Irvine is 300 miles from Tempe and 400 miles from Springfield.	Irvine is nearer to Tempe than Irvine is to Springfield.
+entailment	Irving is 430 miles from Rochester and 485 miles from Dallas.	Irving is nearer to Rochester than Irving is to Dallas.
+entailment	Columbia is 300 miles from Pittsburg and 380 miles from Las Vegas.	Columbia is nearer to Pittsburg than Columbia is to Las Vegas.
+entailment	Minneapolis is 365 miles from Boston and 590 miles from Washington.	Minneapolis is nearer to Boston than Minneapolis is to Washington.
+entailment	Hampton is 370 miles from Ontario and 440 miles from Irvine.	Hampton is nearer to Ontario than Hampton is to Irvine.
+entailment	Sacramento is 595 miles from Buffalo and 600 miles from Boston.	Sacramento is nearer to Buffalo than Sacramento is to Boston.
+entailment	Tulsa is 365 miles from Richmond and 385 miles from Miami.	Tulsa is nearer to Richmond than Tulsa is to Miami.
+entailment	Irvine is 290 miles from Boston and 415 miles from Madison.	Irvine is nearer to Boston than Irvine is to Madison.
+entailment	Detroit is 395 miles from Rochester and 470 miles from Las Vegas.	Detroit is nearer to Rochester than Detroit is to Las Vegas.
+entailment	Olympia is 300 miles from San Diego and 360 miles from Irving.	Olympia is nearer to San Diego than Olympia is to Irving.
+entailment	Los Angeles is 580 miles from Miami and 800 miles from San Diego.	Los Angeles is nearer to Miami than Los Angeles is to San Diego.
+entailment	Ontario is 255 miles from Philadelphia and 350 miles from New York.	Ontario is nearer to Philadelphia than Ontario is to New York.
+entailment	Chicago is 225 miles from Washington and 270 miles from Frankfurt.	Chicago is nearer to Washington than Chicago is to Frankfurt.
+entailment	Phoenix is 305 miles from Oklahoma and 325 miles from Madison.	Phoenix is nearer to Oklahoma than Phoenix is to Madison.
+entailment	Columbia is 435 miles from Minneapolis and 945 miles from Tempe.	Columbia is nearer to Minneapolis than Columbia is to Tempe.
+entailment	Chicago is 255 miles from Olympia and 540 miles from Hartford.	Chicago is nearer to Olympia than Chicago is to Hartford.
+entailment	Miami is 450 miles from Washington and 925 miles from New York.	Miami is nearer to Washington than Miami is to New York.
+entailment	Albany is 405 miles from Chicago and 410 miles from Santa Barbara.	Albany is nearer to Chicago than Albany is to Santa Barbara.
+entailment	Oklahoma is 785 miles from Washington and 845 miles from San Jose.	Oklahoma is nearer to Washington than Oklahoma is to San Jose.
+entailment	Frankfurt is 860 miles from Los Angeles and 945 miles from Ontario.	Frankfurt is nearer to Los Angeles than Frankfurt is to Ontario.
+entailment	Albany is 375 miles from Manchester and 940 miles from Washington.	Albany is nearer to Manchester than Albany is to Washington.
+entailment	Houston is 500 miles from Dallas and 710 miles from Chicago.	Houston is nearer to Dallas than Houston is to Chicago.
+entailment	Oklahoma is 260 miles from Chicago and 405 miles from Hampton.	Oklahoma is nearer to Chicago than Oklahoma is to Hampton.
+entailment	Columbia is 200 miles from Sacramento and 525 miles from Santa Barbara.	Columbia is nearer to Sacramento than Columbia is to Santa Barbara.
+entailment	Detroit is 290 miles from Richmond and 895 miles from Hampton.	Detroit is nearer to Richmond than Detroit is to Hampton.
+entailment	Minneapolis is 335 miles from Pittsburg and 620 miles from San Jose.	Minneapolis is nearer to Pittsburg than Minneapolis is to San Jose.
+entailment	Ontario is 755 miles from Madison and 870 miles from Miami.	Ontario is nearer to Madison than Ontario is to Miami.
+entailment	Madison is 330 miles from Washington and 610 miles from San Diego.	Madison is nearer to Washington than Madison is to San Diego.
+entailment	Columbia is 390 miles from Kansas and 495 miles from Phoenix.	Columbia is nearer to Kansas than Columbia is to Phoenix.
+entailment	Houston is 265 miles from Manchester and 395 miles from Chicago.	Houston is nearer to Manchester than Houston is to Chicago.
+entailment	Olympia is 430 miles from Manchester and 525 miles from Buffalo.	Olympia is nearer to Manchester than Olympia is to Buffalo.
+entailment	Los Angeles is 205 miles from Rochester and 945 miles from Frankfurt.	Los Angeles is nearer to Rochester than Los Angeles is to Frankfurt.
+entailment	Irvine is 200 miles from Olympia and 405 miles from Tulsa.	Irvine is nearer to Olympia than Irvine is to Tulsa.
+entailment	Hampton is 510 miles from Frankfurt and 885 miles from Washington.	Hampton is nearer to Frankfurt than Hampton is to Washington.
+entailment	Manchester is 265 miles from Houston and 450 miles from Detroit.	Manchester is nearer to Houston than Manchester is to Detroit.
+entailment	Pittsburg is 760 miles from Frankfurt and 830 miles from Hampton.	Pittsburg is nearer to Frankfurt than Pittsburg is to Hampton.
+entailment	Hartford is 360 miles from Columbia and 605 miles from Chicago.	Hartford is nearer to Columbia than Hartford is to Chicago.
+entailment	Pittsburg is 230 miles from Illinois and 465 miles from Columbia.	Pittsburg is nearer to Illinois than Pittsburg is to Columbia.
+entailment	Olympia is 965 miles from Irvine and 970 miles from Hartford.	Olympia is nearer to Irvine than Olympia is to Hartford.
+entailment	Boston is 350 miles from Chicago and 520 miles from Buffalo.	Boston is nearer to Chicago than Boston is to Buffalo.
+entailment	Tempe is 370 miles from Kansas and 520 miles from Detroit.	Tempe is nearer to Kansas than Tempe is to Detroit.
+entailment	Manchester is 655 miles from Chicago and 685 miles from Santa Barbara.	Manchester is nearer to Chicago than Manchester is to Santa Barbara.
+entailment	Las Vegas is 225 miles from Detroit and 385 miles from Albany.	Las Vegas is nearer to Detroit than Las Vegas is to Albany.
+entailment	Hartford is 675 miles from Richmond and 910 miles from Manchester.	Hartford is nearer to Richmond than Hartford is to Manchester.
+entailment	Irvine is 380 miles from Albany and 575 miles from Washington.	Irvine is nearer to Albany than Irvine is to Washington.
+entailment	Richmond is 440 miles from Irving and 795 miles from Oklahoma.	Richmond is nearer to Irving than Richmond is to Oklahoma.
+entailment	Hampton is 235 miles from Los Angeles and 270 miles from Philadelphia.	Hampton is nearer to Los Angeles than Hampton is to Philadelphia.
+entailment	Tulsa is 490 miles from Frankfurt and 525 miles from Las Vegas.	Tulsa is nearer to Frankfurt than Tulsa is to Las Vegas.
+entailment	Phoenix is 670 miles from Los Angeles and 840 miles from Springfield.	Phoenix is nearer to Los Angeles than Phoenix is to Springfield.
+entailment	San Jose is 300 miles from Irvine and 485 miles from Irving.	San Jose is nearer to Irvine than San Jose is to Irving.
+entailment	Tulsa is 605 miles from Detroit and 870 miles from Rochester.	Tulsa is nearer to Detroit than Tulsa is to Rochester.
+entailment	Ontario is 215 miles from Kansas and 390 miles from Springfield.	Ontario is nearer to Kansas than Ontario is to Springfield.
+entailment	Tempe is 505 miles from Richmond and 775 miles from Hampton.	Tempe is nearer to Richmond than Tempe is to Hampton.
+entailment	Minneapolis is 420 miles from Boston and 860 miles from Buffalo.	Minneapolis is nearer to Boston than Minneapolis is to Buffalo.
+entailment	Pittsburg is 475 miles from Frankfurt and 980 miles from Santa Barbara.	Pittsburg is nearer to Frankfurt than Pittsburg is to Santa Barbara.
+entailment	Dallas is 265 miles from Illinois and 285 miles from Springfield.	Dallas is nearer to Illinois than Dallas is to Springfield.
+entailment	Buffalo is 300 miles from San Francisco and 675 miles from Boston.	Buffalo is nearer to San Francisco than Buffalo is to Boston.
+entailment	Manchester is 265 miles from Olympia and 630 miles from Frankfurt.	Manchester is nearer to Olympia than Manchester is to Frankfurt.
+entailment	Los Angeles is 215 miles from Oklahoma and 420 miles from Washington.	Los Angeles is nearer to Oklahoma than Los Angeles is to Washington.
+entailment	New York is 230 miles from Tempe and 405 miles from Tulsa.	New York is nearer to Tempe than New York is to Tulsa.
+entailment	Miami is 465 miles from Houston and 965 miles from Hampton.	Miami is nearer to Houston than Miami is to Hampton.
+entailment	Santa Barbara is 285 miles from Olympia and 295 miles from New York.	Santa Barbara is nearer to Olympia than Santa Barbara is to New York.
+entailment	Richmond is 235 miles from Washington and 290 miles from Illinois.	Richmond is nearer to Washington than Richmond is to Illinois.
+entailment	Detroit is 210 miles from San Diego and 270 miles from Houston.	Detroit is nearer to San Diego than Detroit is to Houston.
+entailment	Tulsa is 475 miles from Phoenix and 695 miles from Houston.	Tulsa is nearer to Phoenix than Tulsa is to Houston.
+entailment	San Jose is 240 miles from Oklahoma and 250 miles from Albany.	San Jose is nearer to Oklahoma than San Jose is to Albany.
+entailment	Miami is 270 miles from Santa Barbara and 290 miles from Washington.	Miami is nearer to Santa Barbara than Miami is to Washington.
+entailment	Irvine is 540 miles from San Francisco and 580 miles from Houston.	Irvine is nearer to San Francisco than Irvine is to Houston.
+entailment	Philadelphia is 490 miles from Olympia and 530 miles from San Francisco.	Philadelphia is nearer to Olympia than Philadelphia is to San Francisco.
+entailment	Buffalo is 350 miles from Los Angeles and 815 miles from Philadelphia.	Buffalo is nearer to Los Angeles than Buffalo is to Philadelphia.
+entailment	Santa Barbara is 720 miles from Philadelphia and 835 miles from Phoenix.	Santa Barbara is nearer to Philadelphia than Santa Barbara is to Phoenix.
+entailment	Ontario is 630 miles from Irvine and 770 miles from Hartford.	Ontario is nearer to Irvine than Ontario is to Hartford.
+entailment	Houston is 260 miles from Minneapolis and 390 miles from Kansas.	Houston is nearer to Minneapolis than Houston is to Kansas.
+entailment	Los Angeles is 350 miles from Washington and 910 miles from Columbia.	Los Angeles is nearer to Washington than Los Angeles is to Columbia.
+entailment	Manchester is 205 miles from New York and 215 miles from Las Vegas.	Manchester is nearer to New York than Manchester is to Las Vegas.
+entailment	Chicago is 310 miles from New York and 495 miles from Albany.	Chicago is nearer to New York than Chicago is to Albany.
+entailment	Detroit is 515 miles from Sacramento and 750 miles from Washington.	Detroit is nearer to Sacramento than Detroit is to Washington.
+entailment	Illinois is 220 miles from Columbia and 240 miles from Albany.	Illinois is nearer to Columbia than Illinois is to Albany.
+entailment	Albany is 340 miles from Philadelphia and 845 miles from San Jose.	Albany is nearer to Philadelphia than Albany is to San Jose.
+entailment	Buffalo is 625 miles from Kansas and 965 miles from Frankfurt.	Buffalo is nearer to Kansas than Buffalo is to Frankfurt.
+entailment	San Diego is 270 miles from Sacramento and 955 miles from Irving.	San Diego is nearer to Sacramento than San Diego is to Irving.
+entailment	Santa Barbara is 300 miles from Rochester and 430 miles from Albany.	Santa Barbara is nearer to Rochester than Santa Barbara is to Albany.
+entailment	Chicago is 210 miles from Buffalo and 655 miles from Kansas.	Chicago is nearer to Buffalo than Chicago is to Kansas.
+entailment	Manchester is 485 miles from Ontario and 695 miles from Boston.	Manchester is nearer to Ontario than Manchester is to Boston.
+entailment	Washington is 450 miles from Detroit and 640 miles from Hartford.	Washington is nearer to Detroit than Washington is to Hartford.
+entailment	San Francisco is 615 miles from San Diego and 850 miles from Houston.	San Francisco is nearer to San Diego than San Francisco is to Houston.
+entailment	Richmond is 265 miles from Olympia and 345 miles from Detroit.	Richmond is nearer to Olympia than Richmond is to Detroit.
+entailment	San Diego is 235 miles from Olympia and 280 miles from Santa Barbara.	San Diego is nearer to Olympia than San Diego is to Santa Barbara.
+entailment	Boston is 270 miles from Illinois and 305 miles from Las Vegas.	Boston is nearer to Illinois than Boston is to Las Vegas.
+entailment	Irving is 240 miles from Santa Barbara and 355 miles from Illinois.	Irving is nearer to Santa Barbara than Irving is to Illinois.
+entailment	Olympia is 635 miles from Boston and 675 miles from Chicago.	Olympia is nearer to Boston than Olympia is to Chicago.
+entailment	Boston is 290 miles from Houston and 420 miles from Kansas.	Boston is nearer to Houston than Boston is to Kansas.
+entailment	Oklahoma is 775 miles from San Francisco and 895 miles from Philadelphia.	Oklahoma is nearer to San Francisco than Oklahoma is to Philadelphia.
+entailment	Richmond is 460 miles from Pittsburg and 470 miles from Chicago.	Richmond is nearer to Pittsburg than Richmond is to Chicago.
+entailment	Chicago is 365 miles from New York and 430 miles from Pittsburg.	Chicago is nearer to New York than Chicago is to Pittsburg.
+entailment	San Francisco is 285 miles from Philadelphia and 830 miles from Richmond.	San Francisco is nearer to Philadelphia than San Francisco is to Richmond.
+entailment	Philadelphia is 690 miles from Pittsburg and 875 miles from Springfield.	Philadelphia is nearer to Pittsburg than Philadelphia is to Springfield.
+entailment	Sacramento is 415 miles from Pittsburg and 425 miles from Detroit.	Sacramento is nearer to Pittsburg than Sacramento is to Detroit.
+entailment	Las Vegas is 690 miles from Detroit and 785 miles from Houston.	Las Vegas is nearer to Detroit than Las Vegas is to Houston.
+entailment	Tulsa is 735 miles from New York and 805 miles from Hartford.	Tulsa is nearer to New York than Tulsa is to Hartford.
+entailment	Boston is 305 miles from Tulsa and 705 miles from Illinois.	Boston is nearer to Tulsa than Boston is to Illinois.
+entailment	Hartford is 215 miles from Boston and 445 miles from Miami.	Hartford is nearer to Boston than Hartford is to Miami.
+entailment	Hampton is 345 miles from Sacramento and 605 miles from Buffalo.	Hampton is nearer to Sacramento than Hampton is to Buffalo.
+entailment	Chicago is 310 miles from Manchester and 785 miles from Boston.	Chicago is nearer to Manchester than Chicago is to Boston.
+entailment	Irving is 370 miles from Washington and 900 miles from Phoenix.	Irving is nearer to Washington than Irving is to Phoenix.
+entailment	Illinois is 295 miles from New York and 400 miles from Columbia.	Illinois is nearer to New York than Illinois is to Columbia.
+entailment	San Francisco is 640 miles from Oklahoma and 875 miles from Las Vegas.	San Francisco is nearer to Oklahoma than San Francisco is to Las Vegas.
+entailment	Springfield is 235 miles from Sacramento and 295 miles from Pittsburg.	Springfield is nearer to Sacramento than Springfield is to Pittsburg.
+entailment	Philadelphia is 365 miles from Houston and 485 miles from Albany.	Philadelphia is nearer to Houston than Philadelphia is to Albany.
+entailment	Tempe is 525 miles from Detroit and 550 miles from Hampton.	Tempe is nearer to Detroit than Tempe is to Hampton.
+entailment	Phoenix is 665 miles from Chicago and 860 miles from Oklahoma.	Phoenix is nearer to Chicago than Phoenix is to Oklahoma.
+entailment	Hampton is 385 miles from Chicago and 630 miles from Rochester.	Hampton is nearer to Chicago than Hampton is to Rochester.
+entailment	Irving is 325 miles from Ontario and 785 miles from Richmond.	Irving is nearer to Ontario than Irving is to Richmond.
+entailment	Frankfurt is 455 miles from Richmond and 925 miles from Albany.	Frankfurt is nearer to Richmond than Frankfurt is to Albany.
+entailment	Pittsburg is 415 miles from Kansas and 460 miles from Frankfurt.	Pittsburg is nearer to Kansas than Pittsburg is to Frankfurt.
+entailment	Springfield is 275 miles from Columbia and 540 miles from Irvine.	Springfield is nearer to Columbia than Springfield is to Irvine.
+entailment	Washington is 275 miles from Boston and 720 miles from Miami.	Washington is nearer to Boston than Washington is to Miami.
+entailment	Detroit is 330 miles from Ontario and 735 miles from Tempe.	Detroit is nearer to Ontario than Detroit is to Tempe.
+entailment	Buffalo is 285 miles from Springfield and 485 miles from Detroit.	Buffalo is nearer to Springfield than Buffalo is to Detroit.
+entailment	Irving is 375 miles from Manchester and 820 miles from Olympia.	Irving is nearer to Manchester than Irving is to Olympia.
+entailment	Ontario is 345 miles from Springfield and 540 miles from Minneapolis.	Ontario is nearer to Springfield than Ontario is to Minneapolis.
+entailment	San Jose is 225 miles from San Francisco and 385 miles from Pittsburg.	San Jose is nearer to San Francisco than San Jose is to Pittsburg.
+entailment	Chicago is 790 miles from Kansas and 830 miles from Irving.	Chicago is nearer to Kansas than Chicago is to Irving.
+entailment	Irvine is 295 miles from Rochester and 975 miles from San Francisco.	Irvine is nearer to Rochester than Irvine is to San Francisco.
+entailment	Richmond is 265 miles from Hartford and 665 miles from Dallas.	Richmond is nearer to Hartford than Richmond is to Dallas.
+entailment	Kansas is 460 miles from New York and 855 miles from Dallas.	Kansas is nearer to New York than Kansas is to Dallas.
+entailment	Kansas is 670 miles from Houston and 860 miles from Minneapolis.	Kansas is nearer to Houston than Kansas is to Minneapolis.
+entailment	Santa Barbara is 660 miles from Los Angeles and 800 miles from Boston.	Santa Barbara is nearer to Los Angeles than Santa Barbara is to Boston.
+entailment	Springfield is 200 miles from Irving and 225 miles from Philadelphia.	Springfield is nearer to Irving than Springfield is to Philadelphia.
+entailment	San Diego is 345 miles from Frankfurt and 730 miles from Columbia.	San Diego is nearer to Frankfurt than San Diego is to Columbia.
+entailment	Miami is 355 miles from Las Vegas and 410 miles from San Francisco.	Miami is nearer to Las Vegas than Miami is to San Francisco.
+entailment	Tempe is 520 miles from San Diego and 570 miles from Albany.	Tempe is nearer to San Diego than Tempe is to Albany.
+entailment	Sacramento is 575 miles from San Francisco and 775 miles from Madison.	Sacramento is nearer to San Francisco than Sacramento is to Madison.
+entailment	Washington is 230 miles from Dallas and 935 miles from Santa Barbara.	Washington is nearer to Dallas than Washington is to Santa Barbara.
+entailment	Chicago is 205 miles from Columbia and 225 miles from Hartford.	Chicago is nearer to Columbia than Chicago is to Hartford.
+entailment	Irving is 435 miles from Tempe and 625 miles from San Francisco.	Irving is nearer to Tempe than Irving is to San Francisco.
+entailment	Dallas is 310 miles from Tempe and 815 miles from Columbia.	Dallas is nearer to Tempe than Dallas is to Columbia.
+entailment	Richmond is 275 miles from San Jose and 360 miles from Hartford.	Richmond is nearer to San Jose than Richmond is to Hartford.
+entailment	Olympia is 265 miles from Irvine and 495 miles from Manchester.	Olympia is nearer to Irvine than Olympia is to Manchester.
+entailment	Albany is 320 miles from Irving and 475 miles from San Jose.	Albany is nearer to Irving than Albany is to San Jose.
+entailment	Santa Barbara is 200 miles from Philadelphia and 230 miles from Albany.	Santa Barbara is nearer to Philadelphia than Santa Barbara is to Albany.
+entailment	Pittsburg is 200 miles from New York and 215 miles from Manchester.	Pittsburg is nearer to New York than Pittsburg is to Manchester.
+entailment	Hartford is 320 miles from Detroit and 365 miles from Illinois.	Hartford is nearer to Detroit than Hartford is to Illinois.
+entailment	Frankfurt is 295 miles from Tulsa and 610 miles from Dallas.	Frankfurt is nearer to Tulsa than Frankfurt is to Dallas.
+entailment	Phoenix is 285 miles from Frankfurt and 375 miles from Irvine.	Phoenix is nearer to Frankfurt than Phoenix is to Irvine.
+entailment	Phoenix is 580 miles from Boston and 730 miles from Ontario.	Phoenix is nearer to Boston than Phoenix is to Ontario.
